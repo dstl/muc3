@@ -1,0 +1,49 @@
+
+.text {
+	
+	width: 90%;
+	margin: auto;
+	font-family: courier;
+	
+}
+span[property=name] {	
+
+	font-weight: bold;
+}
+
+.withspans span[property=description], .withtypes span[typeof] {	
+
+	text-decoration: underline;
+}
+
+.withspans span[property=name] {
+	
+	color:blue;
+}
+
+.withtypes span[typeof=Person] {
+	
+	color:blue;
+}
+
+.withtypes span[typeof=Action] {
+	
+	color:red;
+}
+
+.withtypes span[typeof=Organization],.withtypes span[typeof=Thing] {
+	
+	color:purple;
+}
+
+.withlinks span[typeof=Action] {
+
+	color:red;
+	font-weight: bold;	
+}
+
+
+.withlinks span[typeof=Person], .withlinks span[typeof=Organization], .withlinks span[property=startTime] {
+
+	text-decoration: underline;
+}
