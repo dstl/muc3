@@ -47,3 +47,10 @@ span[property=name] {
 
 	text-decoration: underline;
 }
+
+.step {
+	
+	padding-right: 5px;
+	font-weight: bold;
+	color: steelblue;
+}

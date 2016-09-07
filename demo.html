@@ -5,10 +5,12 @@
 </head>
 <body>
 
-<p>An example from <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-0666.xhtml">DEV-MUC3-0666</a>.</p>
+<h1>Semantic markup</h1>
+
+<p>Here is an example from <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-0666.xhtml">DEV-MUC3-0666</a> showing how to use RDFa to embed OWL/RDF triples in a document. Use <i>Inspect Element</i> in your browser to see the underlying markup, and copy html into the <a href="https://rdfa.info/play/">RDFa Play</a> tool to see the triples as a graph.</p>
 
 <div>
-<p>Assume we have an NLP process that recognizes proper names and noun phrases that describe entities. We can capture the results using HTML <i>span</i> elements to markup the parsed text. Note that one <i>span</i> can be nested inside another. This is useful as descriptions ofen relate entities (How many people are mentioned? How many were arrested?)</p>
+<p><span class="step">1.</span> Assume we have an NLP process that recognizes proper names and noun phrases that describe entities. We can capture the results using HTML <i>span</i> elements to markup the parsed text. Note that one <i>span</i> can be nested inside another. This is useful as descriptions ofen relate entities (How many people are mentioned? How many were arrested?)</p>
 <p>In this example, span elements have <i>property</i> attributes that are specified by RDFa. This doesn't make them usable as RDF (yet), but does add some level of "semantics", and can be used to support CSS styling:</p>
 <div class="text withspans">
 <p>ON 19 OCTOBER, <span property="description">THE POLICE</span> ARRESTED COLOMBIANS <span property="name">RODRIGO DIZUNZA OCHOA</span>, <span property="description">NEPHEW OF <span property="description">DRUG TRAFFICKER</span> <span property="name">FABIO OCHOA</span></span>, AND <span property="name">ALFREDO AGUILAR CASTRO</span>, <span property="description">NEPHEW OF <span property="description">COLOMBIAN DRUG TRAFFICKER</span> <span property="name">RODRIGUEZ GACHA</span></span>, WHO HAD <span property="description">10 KG OF PURE COCAINE</span> IN THEIR POSSESSION.</p>
@@ -16,7 +18,7 @@
 </div>
 
 <div>
-<p>Next, we can markup the actual entities, collecting together names and descriptions using yet more <i>span</i> elements. These have the RDFa <i>typeof</i> attribute denoting the entity type, and the surrounding <i>div</i> element has a <i>vocab</i> attribute to set the RDF schema to <strong>schema.org</strong>. Since this schema has an <i>Action</i> type, we can use that to markup the verb "arrest" as well.</p>
+<p><span class="step">2.</span> Next, we can markup the actual entities, collecting together names and descriptions using yet more <i>span</i> elements. These have the RDFa <i>typeof</i> attribute denoting the entity type, and the surrounding <i>div</i> element has a <i>vocab</i> attribute to set the RDF schema to <strong>schema.org</strong>. Since this schema has an <i>Action</i> type, we can use that to markup the verb "arrest" as well.</p>
 <p>The resulting markup is now RDFa (visualize the results in <a href="https://rdfa.info/play/">RDFa Play</a>).</p>
 <div class="text withtypes" vocab="http://schema.org/">
 <p>ON 19 OCTOBER, <span typeof="Organization"><span property="description">THE POLICE</span></span> <span typeof="Action"><span property="description">ARRESTED</span></span> COLOMBIANS <span typeof="Person"><span property="name">RODRIGO DIZUNZA OCHOA</span>, <span property="description">NEPHEW OF <span typeof="Person"><span property="description">DRUG TRAFFICKER</span> <span property="name">FABIO OCHOA</span></span></span></span>, AND <span typeof="Person"><span property="name">ALFREDO AGUILAR CASTRO</span>, <span property="description">NEPHEW OF <span typeof="Person"><span property="description">COLOMBIAN DRUG TRAFFICKER</span> <span property="name">RODRIGUEZ GACHA</span></span></span></span>, WHO HAD <span typeof="Thing"><span property="description">10 KG OF PURE COCAINE</span></span> IN THEIR POSSESSION.</p>
@@ -24,14 +26,14 @@
 </div>
 
 <div>
-<p>The RDFa entity nodes so far are unlabelled "blank" nodes. If we want to refer to them, we need to assign them URI's. The URI can be anything that is unique [TO DO: some best practice needed here]. However, if the entity can be properly identified, then there may be a well known, globally unique URI that can be used (such as a DBpedia resource URI).</p>
+<p><span class="step">3.</span> The RDFa entity nodes so far are unlabelled "blank" nodes. If we want to refer to them, we need to assign them URI's. The URI can be anything that is unique [TO DO: some best practice needed here]. However, if the entity can be properly identified, then there may be a well known, globally unique URI that can be used (such as a DBpedia resource URI).</p>
 <div class="text withtypes" vocab="http://schema.org/" xmlns:dbp="http://dbpedia.org/resource/">
 <p>ON 19 OCTOBER, <span about="#o1" typeof="Organization" property="description">THE POLICE</span> <span about="#a1" typeof="Action" property="description">ARRESTED</span> COLOMBIANS <span about="#p1" typeof="Person"><span property="name">RODRIGO DIZUNZA OCHOA</span>, <span property="description">NEPHEW OF <span about="#p2" typeof="Person"><span property="description">DRUG TRAFFICKER</span> <span property="name">FABIO OCHOA</span></span></span></span>, AND <span about="#p3" typeof="Person"><span property="name">ALFREDO AGUILAR CASTRO</span>, <span property="description">NEPHEW OF <span about="dbp:José_Gonzalo_Rodríguez_Gacha" typeof="Person"><span property="description">COLOMBIAN DRUG TRAFFICKER</span> <span property="name">RODRIGUEZ GACHA</span></span></span></span>, WHO HAD <span about="#t1" typeof="Thing" property="description">10 KG OF PURE COCAINE</span> IN THEIR POSSESSION.</p>
 </div>
 </div>
 
 <div>
-<p>URI's can be used to disambiguate entities, both within documents and between documents (using a global URI). For example, GONZALO RODRIGUEZ GACHA is mentioned earlier in DEV-MUC3-0666 - giving alternative names and descriptions that can be collected under the same URI:</p>
+<p><span class="step">4.</span> URI's can be used to disambiguate entities, both within documents and between documents (using a global URI). For example, GONZALO RODRIGUEZ GACHA is mentioned earlier in DEV-MUC3-0666 - giving alternative names and descriptions that can be collected under the same URI:</p>
 <div class="text withtypes" vocab="http://schema.org/" xmlns:dbp="http://dbpedia.org/resource/">
 <p xmlns="http://www.w3.org/1999/xhtml">MEXICO CITY (MEXICO), 10 NOV 89 (AFP) -- [TEXT] MEXICAN NARCOTICS POLICE HAVE ARRESTED COLOMBIAN CITIZEN JORGE HUMBERTO CHALARIA, KNOWN AS "EL NEGRO," THE REPRESENTATIVE IN MEXICO OF <span about="dbp:José_Gonzalo_Rodríguez_Gacha" typeof="Person"><span property="description">COLOMBIAN DRUG TRAFFICKER</span> <span property="name">GONZALO RODRIGUEZ GACHA</span>, OTHERWISE KNOWN AS "<span property="alternateName">EL MEXICANO</span>," <span property="description">THE TOP CHIEF OF <span about="dbp:Medellín_Cartel" typeof="Organization" property="name">THE MEDELLIN CARTEL</span></span></span> THE ATTORNEY GENERAL'S OFFICE (PGR) MADE KNOWN TODAY.</p>
 <p>...</p>
@@ -40,14 +42,16 @@
 </div>
 
 <div>
-<p>The RDFa <i>rel</i> and <i>rev</i> attributes can be used to record relationships between the entities we've picked out so far. By way of an example, we can link relevant entities to the schema.org <i>Action</i>.</p>
+<p><span class="step">5.</span> The RDFa <i>rel</i> and <i>rev</i> attributes can be used to record relationships between the entities we've picked out so far. For example, we can link relevant entities to the schema.org <i>Action</i>.</p>
 <div class="text withlinks" vocab="http://schema.org/" xmlns:dbp="http://dbpedia.org/resource/">
 <p>ON <span about="#a1" property="startTime" content="1989-10-19">19 OCTOBER</span>, <span about="#o1" typeof="Organization" property="description">THE POLICE<meta rev="agent" resource="#a1"/></span> <span about="#a1" typeof="Action" property="description">ARRESTED</span> COLOMBIANS <span about="#p1" typeof="Person"><span property="name">RODRIGO DIZUNZA OCHOA</span>, <span property="description">NEPHEW OF <span about="#p2" typeof="Person"><span property="description">DRUG TRAFFICKER</span> <span property="name">FABIO OCHOA</span></span></span><meta rev="object" resource="#a1"/></span>, AND <span about="#p3" typeof="Person"><span property="name">ALFREDO AGUILAR CASTRO</span>, <span property="description">NEPHEW OF <span about="dbp:José_Gonzalo_Rodríguez_Gacha" typeof="Person"><span property="description">COLOMBIAN DRUG TRAFFICKER</span> <span property="name">RODRIGUEZ GACHA</span></span></span><meta rev="object" resource="#a1"/></span>, WHO HAD <span about="#t1" typeof="Thing" property="description">10 KG OF PURE COCAINE</span> IN THEIR POSSESSION.</p>
 </div>
 </div>
 
 <div>
-<p>There are modelling decisions to be made about the schema to use, and how far to go with markup. The base schema.org <strong>Thing</strong> type has <i>name</i>, <i>description</i> and <i>alternateName</i> properties. These is enough to label and disambiguate named entities in text - leaving resolving to type and identifying relationships to further processing ("deeper" NLP processes that can capitalize on this markup perhaps). Note that the ability to assign global URI's to marked up entities (or not) indicates entities in the text that are known (or known unknowns if not).</p>
+<p>There are modelling decisions to be made about the schema to use, and how far to go with markup. The base schema.org <strong>Thing</strong> type has <i>name</i>, <i>description</i> and <i>alternateName</i> properties. These may be enough to label and disambiguate named entities in text - leaving resolving to type and identifying relationships to further processing ("deeper" NLP that can capitalize on this markup perhaps). One example of such a choice is the mention "THE TOP CHIEF OF THE MEDELLIN CARTEL" at (4) above. As given, this is marked up as a <i>Person</i> "description" that happens to contain an <i>Organization</i> (which implies a relationship between the two entities anyway). It could easily be changed (editing a single attribute) to replace the Person "description" with a "member" relationship to the Organization. This simple change would lose the description, but the underlying span is still there, and gives a "link reason" for the relation. If desired, it would be possible to introduce the "member" relationship and still preserve the "description" - but this requires extra markup, and there comes a point where it all gets too complex...</p>
+</p>Note that the ability to assign global URI's to marked up entities (or not) indicates entities in the text that are known (or "known unknowns" if not). This allows the "deeper NLP" to be focussed where it is needed, and guided by "knowledge" derived from linked data.</p>
+<p></p>
 </div>
 
 </body>
