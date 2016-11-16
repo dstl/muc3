@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <geo:SpatialThing rdf:about="http://dbpedia.org/resource/La_Catedral">
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/La_Catedral"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-75.585</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >6.11778</geo:lat>
+    <rdfs:comment xml:lang="en">La Catedral was a prison overlooking the city of Medellín, in Colombia. The prison was built to specifications ordered by Medellín Cartel leader Pablo Escobar, under a 1991 agreement with the Colombian government in which Escobar would surrender to authorities and serve a maximum term of five years, and the Colombian government would not extradite him to the United States. In addition to the facility's being built to Escobar's specifications, Escobar was also given the right to choose who would guard him, and it was believed he chose guards loyal only to him. Moreover, the prison was believed to have been designed more to keep out Escobar's enemies and protect him from assassination attempts, than to keep Escobar in.The finished prison was often called \"Hotel Escobar\" or \"Club Medellín\", because of its amenities. La Catedral featured a soccer field, giant doll house, bar, jacuzzi, and waterfall. Escobar also had a telescope installed that allowed him to look down onto the city of Medellín to his daughter's residence while talking on the phone with her.PBS reports that although the government was willing to turn a blind eye to Escobar's continuing his drug smuggling, the arrangement fell apart when it was reported Escobar had four of his lieutenants tortured and murdered within La Catedral. The Colombian government decided it had to move Escobar to a standard prison, an order Escobar refused. In July 1992, after serving one year and one month, Escobar again went on the run. With the Colombian National Army surrounding La Catedral's facility, it is said Escobar simply walked out the back gate. The ensuing manhunt employed a 600-man unit force, specially trained by the United States Delta Force, named Search Bloc and led by Colonel Hugo Martinez.Escobar was killed a year later, on December 2, 1993, in a shootout with members of Search Bloc when he was found hiding in a middle-class barrio in Medellín.As of 2007, La Catedral has been converted into a Benedictine monastery.</rdfs:comment>
+    <rdfs:label xml:lang="en">La Catedral</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1619360"/>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://dbpedia.org/resource/Administrative_Department_of_Security">
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Administrative_Department_of_Security"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-74.0872</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >4.615</geo:lat>
+    <rdfs:comment xml:lang="en">The Administrative Department of Security (Spanish: Departamento Administrativo de Seguridad, DAS) was the Security Service agency of Colombia, also responsible for the immigration services. It was dissolved on 31 October 2011 as part of a wider Executive Reform, and was replaced by the national intelligence agency (ANIC, in Spanish).</rdfs:comment>
+    <rdfs:label xml:lang="en">Administrative Department of Security</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1190182"/>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://dbpedia.org/resource/Avianca_Flight_203">
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Avianca_Flight_203"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-74.2167</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >4.58333</geo:lat>
+    <rdfs:comment xml:lang="en">Avianca Airlines Flight 203 was a Colombian domestic passenger flight from El Dorado International Airport in Bogotá to Alfonso Bonilla Aragón International Airport in Cali. It was destroyed by a bomb over the municipality of Soacha on November 27, 1989.The aircraft took off from the Colombian capital Bogotá  en route to Cali. It was in the air for five minutes and flying at a speed of 794 kilometres per hour (493 mph) when an explosive charge detonated on board, igniting fuel vapors in an empty fuel tank.</rdfs:comment>
+    <rdfs:label xml:lang="en">Avianca Flight 203</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2697152"/>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://dbpedia.org/resource/Central_American_University">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Central_American_University"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-89.2349</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >13.6809</geo:lat>
+    <rdfs:comment xml:lang="en">Central American University \"José Simeón Cañas\" (Spanish: Universidad Centroamericana \"José Simeón Cañas\"), also known as UCA El Salvador, is a private university with nonprofit purposes in San Salvador, El Salvador, run by the Society of Jesus. It was founded on September 15, 1965, at the request of a group of Roman Catholic families who appealed to the Salvadoran government and the Society of Jesus in order to create another university as an alternative to the University of El Salvador, becoming the first private institution of higher education in the country.</rdfs:comment>
+    <rdfs:label xml:lang="en">Central American University</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1814702"/>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://dbpedia.org/resource/Hacienda_Nápoles">
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hacienda_Nápoles"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-74.7218</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >5.926</geo:lat>
+    <rdfs:comment xml:lang="en">Hacienda Nápoles (Spanish for Naples city in Italy) is the luxurious estate built and owned by Colombian drug lord Pablo Escobar in Puerto Triunfo, Antioquia (320 km (200 mi) NW of Bogotá), and 180 km (111 miles) east of Medellin. The estate covers about 20 km2 (7.7 sq mi) of land.</rdfs:comment>
+    <rdfs:label xml:lang="en">Hacienda Nápoles</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2788637"/>
+  </geo:SpatialThing>
+</rdf:RDF>

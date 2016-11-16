@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:schema="http://schema.org/" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Seal">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q326239" />
+    <rdfs:label xml:lang="en">Barry Seal</rdfs:label>
+    <rdfs:comment xml:lang="en">Adler Berriman Seal (July 16, 1939 – February 19, 1986), better known as Barry Seal, was a United States drug smuggler and aircraft pilot and dealer who flew flights for the Medellín Cartel.</rdfs:comment>
+    <schema:name xml:lang="en">Barry Seal</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Barry_Seal" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Jung">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q354047" />
+    <rdfs:label xml:lang="en">George Jung</rdfs:label>
+    <rdfs:comment xml:lang="en">George Jacob Jung (born August 6, 1942), nicknamed \"Boston George\" and \"El Americano\", was a major player in the cocaine trade in the United States in the 1970s and early 1980s. Jung was a part of the Medellín Cartel, which was responsible for up to 89 percent of the cocaine smuggled into the United States. He specialized in the smuggling of cocaine from Colombia on a large scale. His life story was portrayed in the biopic Blow (2001), starring Johnny Depp. Jung was released from prison on June 2, 2014, after serving nearly 20 years for drug-smuggling.</rdfs:comment>
+    <schema:name xml:lang="en">George Jung</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_Jung" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Griselda_Blanco">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q509644" />
+    <rdfs:label xml:lang="en">Griselda Blanco</rdfs:label>
+    <rdfs:comment xml:lang="en">Griselda Blanco (February 15, 1943 – September 3, 2012), known as La Madrina, the Black Widow, the Cocaine Godmother and the Queen of Narco-Trafficking, was a colombian drug lord of the Medellín Cartel and a pioneer in the Miami-based cocaine drug trade and underworld during the 1970s and early 1980s. It has been estimated that she is responsible for up to 200 murders while transporting cocaine from Colombia to New York, Miami and Southern California.\".</rdfs:comment>
+    <schema:name xml:lang="en">Griselda Blanco</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Griselda_Blanco" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Mermelstein">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q374014" />
+    <rdfs:label xml:lang="en">Max Mermelstein</rdfs:label>
+    <rdfs:comment xml:lang="en">Max Mermelstein (November 1, 1942 – September 12, 2008) was a drug smuggler for the Medellín Cartel in the late 70s and early 80s, who later became a key informant against the organization. In the words of James P. Walsh, Los Angeles Federal Prosecutor, \"Max Mermelstein was probably the single most valuable government witness in drug matters that this country has ever known.\" He became a \"weapon for the government.\"Reputed to have smuggled 56 tons of cocaine worth $12.5 billion into the US, Max was described by his attorney Tom Johnston as \"just a nice Jewish guy who got into the wrong industry.\" Trained as a mechanical engineer at the New York Institute of Technology and married to a Puerto Rican, he moved to San Juan, Puerto Rico with his wife, and worked as chief engineer for the Sheraton Hotel. They separated soon after she left him to return to her ailing mother, but not before Max learned perfect \"street Spanish\". While working for the Sheraton he met a Colombian woman, Cristina Jaramillo, and they were soon married. After accepting another job at the Princess Hotel in Freeport in the Bahamas, Max began his first limited criminal activity by creating an \"underground pipeline\" to help smuggle his wife's Colombian relatives and childhood friends into the United States.</rdfs:comment>
+    <schema:name xml:lang="en">Max Mermelstein</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Max_Mermelstein" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Patiño-Fomeque">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7926231" />
+    <rdfs:label xml:lang="en">Victor Patiño-Fomeque</rdfs:label>
+    <rdfs:comment xml:lang="en">Victor Julio Patiño-Fomeque aka El Quimico (the Chemist) is a Colombian narcotrafficker member of the Cali Cartel and Norte del Valle Cartel, currently serving time in a prison in the United States. Patino-Fomeque was responsible for ensuring the security and effectiveness of the Cali Cartel's maritime operations of drug shipments. He surrendered to Colombian authorities on June 24, 1995, and was sentenced to 12 years in prison.Patiño was once a Colombian policeman and was recruited later by Gilberto and Miguel Rodriguez Orejuela, leaders of the Cali Cartel, to be their bodyguard.On October 7, 2005, Patino and his mother testified in the United States and accused a prominent Colombian politician named Vicente Blel of being one of his major nominees. According to Patino, Blel met him under a fake name, Julio Gómez, to disguise his relation to the Cali Cartel and also said that he was a businessman from Cali willing to collaborate in the presidential campaign of Ernesto Samper. Patino was also personally introduced to Horacio Serpa, Samper's chief of debate back then. Blel responded that he indeed had met with Patino, thinking it was in fact Gomez, the businessman, and had collaborated with him several times, even helping him to put properties under his name and with numerous other favors. Patino and other members of the Cali Cartel used corruption as a way to protect their drug business.However, since he decided to testify in the U.S., he saw at least 35 family members and friends slaughtered in retaliation for his betrayal.Patiño-Fomeque was to be released on June 28, 2010, after serving six years in the United States prison system. The DEA decided it was best for Patiño-Fomeque to return to Colombia, since it wouldn't be fair for the US government to protect a criminal of his stature.Upon his return to Colombia, Patiño-Fomeque faces several homicide and extortion cases against him.</rdfs:comment>
+    <schema:name xml:lang="en">Victor Patiño-Fomeque</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Victor_Patiño-Fomeque" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Roberts">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1702837" />
+    <rdfs:label xml:lang="en">Jon Roberts</rdfs:label>
+    <rdfs:comment xml:lang="en">Jon Pernell Roberts (June 21, 1948 – December 28, 2011), born John Riccobono, was a noted drug trafficker and government informant, operated in the Miami area and was an associate of Colombia's Medellín Cartel during the growth phase in cocaine trafficking, 1975–1985. After his arrest, he was able to avoid a lengthy prison sentence by becoming a cooperating witness and proactive informant for the federal government. He was the author with Evan Wright of American Desperado.</rdfs:comment>
+    <schema:name xml:lang="en">Jon Roberts</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jon_Roberts" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_David_Ochoa_Vásquez">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6299593" />
+    <rdfs:label xml:lang="en">Juan David Ochoa Vásquez</rdfs:label>
+    <rdfs:comment xml:lang="en">Juan David Ochoa Vásquez (c. 1949 – 25 July 2013) was a Colombian drug trafficker and one of the founders of the Medellín Cartel, a major drug trafficking cartel based in the city of Medellín.Juan David was the elder brother of Jorge Luis and Fabio Ochoa Vásquez, powerful figures inside the Medellín Cartel.In 1991, Juan David Ochoa Vásquez, together with his brother Jorge Luis, turned themselves in to the Colombian government in order to receive the benefits of collaborating with the judicial system. Juan David Ochoa negotiated a surrender and was imprisoned in a medium security prison outside Medellín. In January 1996, as the result of a sentence plea bargain with the state, Juan David Ochoa Vásquez was released from prison after serving five years.</rdfs:comment>
+    <schema:name xml:lang="en">Juan David Ochoa Vásquez</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Juan_David_Ochoa_Vásquez" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hélmer_Herrera">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3788151" />
+    <rdfs:label xml:lang="en">Hélmer Herrera</rdfs:label>
+    <rdfs:comment xml:lang="en">Francisco Hélmer Herrera Buitrago also known as \"Pacho\" and \"H7\", (August 24, 1951 in Palmira, Valle del Cauca – November 4, 1998 in Palmira, Valle del Cauca) was a Colombian drug trafficker, fourth in command in the Cali Cartel. Believed to be the son of Benjamin Herrera Zuleta.</rdfs:comment>
+    <schema:name xml:lang="en">Hélmer Herrera</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hélmer_Herrera" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mickey_Munday">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q16107057" />
+    <rdfs:label xml:lang="en">Mickey Munday</rdfs:label>
+    <rdfs:comment xml:lang="en">Mickey Munday (born June 29, 1945) is an American former drug trafficker and former associate of Colombia's Medellin Cartel during the growth phase in cocaine trafficking, 1975–1985. Munday was featured in the 2006 Rakontur documentary, Cocaine Cowboys.Internationally renowned for his abilities to circumvent law enforcement's efforts to capture and arrest him by boat or airplane during Miami's cocaine epidemic, Munday was often referred to as the \"MacGyver\" of cocaine smugglers.Now known as \"The last surviving \"Cocaine Cowboy,\" Munday makes his living as an actor, writer, speaker and storyteller. His latest CD, Tall Tales, is a collection of adventurous anecdotes re-told by Munday about his days as a smuggler.</rdfs:comment>
+    <schema:name xml:lang="en">Mickey Munday</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mickey_Munday" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Luis_Ochoa_Vásquez">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q9012832" />
+    <rdfs:label xml:lang="en">Jorge Luis Ochoa Vásquez</rdfs:label>
+    <rdfs:comment xml:lang="en">Jorge Luis Ochoa Vásquez (born September 30, 1950) is a former Colombian drug trafficker who helped found the notorious Medellín Cartel in the late 1970s. The cartel's key members were Pablo Escobar, Carlos Lehder, José Gonzalo Rodríguez Gacha, Jorge Ochoa and his brothers Juan David and Fabio.</rdfs:comment>
+    <schema:name xml:lang="en">Jorge Luis Ochoa Vásquez</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jorge_Luis_Ochoa_Vásquez" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Rodríguez_Orejuela">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2254048" />
+    <rdfs:label xml:lang="en">Miguel Rodríguez Orejuela</rdfs:label>
+    <rdfs:comment xml:lang="en">Miguel Angel Rodríguez Orejuela( born on August 15, 1943, in Mariquita, Tolima) is a Colombian  druglord, formerly one of the leaders of the Cali Cartel, based in the city of Cali.  He is the younger brother of Gilberto Rodríguez Orejuela. He married Miss Colombia 1974,  Marta Lucía Echeverry.</rdfs:comment>
+    <schema:name xml:lang="en">Miguel Rodríguez Orejuela</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Miguel_Rodríguez_Orejuela" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabio_Ochoa_Vásquez">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q329722" />
+    <rdfs:label xml:lang="en">Fabio Ochoa Vásquez</rdfs:label>
+    <rdfs:comment xml:lang="en">Fabio Ochoa Vásquez (born  May 2, 1957) was a ranking member of the notorious Medellín Cartel, which was one of the top Colombian cocaine trafficking groups. The youngest of the three Ochoa brothers, he lived in Miami, Florida during the 1970s. He was allegedly involved in the February 19, 1986 murder of Barry Seal, who was a former pilot for the Medellin cartel before he agreed to become an informant for the U.S. Drug Enforcement Administration. Ochoa Vásquez was accused of leading a smuggling operation of approximately 30 tons of powder cocaine per month into the United States between 1997 and 1999. According to Mexican authorities, as recently as 2000 Fabio Ochoa was known to fraternize with some traffickers in the Milenio Cartel, which reportedly operates throughout Mexico, sending out regular shipments of cocaine. He was extradited to the United States in September 2001 and convicted in 2003 of trafficking, conspiracy and distribution of cocaine in the U.S. He was sentenced to 30 years in a U.S. federal prison.He is now in federal prison in Jesup, GA.</rdfs:comment>
+    <schema:name xml:lang="en">Fabio Ochoa Vásquez</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fabio_Ochoa_Vásquez" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Santacruz_Londoño">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3810575" />
+    <rdfs:label xml:lang="en">José Santacruz Londoño</rdfs:label>
+    <rdfs:comment xml:lang="en">José Santacruz-Londoño (1 October 1943 – 5 March 1996) was a Colombian drug lord. Along with Gilberto Rodríguez Orejuela and Miguel Rodríguez Orejuela, Santacruz-Londoño was a leader of the Cali Cartel. The trio was profiled in a TIME cover story in July 1991.Santacruz-Londoño and Rodríguez Orejuela brothers formed the Cali cartel in the 1970s. They were primarily involved in marijuana trafficking. In the 1980s they branched out into cocaine trafficking. For a time the Cali Cartel supplied 70% of the United States and 90% of the European cocaine market.The Cali Cartel was less violent than its rival, the Medellín Cartel. While the Medellín Cartel was involved in a brutal campaign of violence against the Colombian government the Cali Cartel grew. The cartel was much more inclined toward bribery rather than violence. However, after the demise of the Medellín Cartel the Colombian authorities turned their attention to the Cali cartel. The campaign began in the summer of 1995.Several Cali Cartel leaders were also arrested during the summer of 1995. Gilberto Rodríguez Orejuela was arrested on June 9. Miguel Rodriguez Orejuela was arrested on August 6.Santacruz Londoño was arrested on July 4, 1995.  However, he escaped on January 11, 1996 La Picota Prison in Bogotá. The police tracked him down to Medellín on March 5, 1996. He was killed while attempting to flee.</rdfs:comment>
+    <schema:name xml:lang="en">José Santacruz Londoño</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/José_Santacruz_Londoño" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Abello_Silva">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2340143" />
+    <rdfs:label xml:lang="en">José Abello Silva</rdfs:label>
+    <rdfs:comment xml:lang="en">José Rafael Abello Silva (alias: \"Mono Abello\") was a top-ranking member of Colombia's notorious Medellín Cartel. He was considered among the major drug traffickers in the Santa Marta region and the reputed chief of Caribbean coast operations on the cartel's behalf. During January 1987, Abello was included in a group of 128 major narcotics figures whose capture was ordered by President Virgilio Barco. Although he was captured in Barranquilla during that same month, he was released shortly thereafter, apparently with the help of Miguel Pinedo Barros, a senator in La Guajira and reputed protector of cocaine traffickers.He was indicted by a United States federal grand jury in Tulsa, Oklahoma, during 1987 on charges of conspiring to import and distribute cocaine into the United States. The Drug Enforcement Administration said that Abello \"was considered a major transporter for the Medellín cartel,\" responsible for \"major shipments of cocaine and marijuana into the states.\" Abello was the cartel's chief of operations for Colombia's northern coast.  Specifically, the DEA estimated that Abello's trafficking ring was responsible for the importation of more than 1,700 pounds of cocaine into the United States.</rdfs:comment>
+    <schema:name xml:lang="en">José Abello Silva</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/José_Abello_Silva" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phanor_Arizabaleta-Arzayus">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7180491" />
+    <rdfs:label xml:lang="en">Phanor Arizabaleta-Arzayus</rdfs:label>
+    <rdfs:comment xml:lang="en">Phanor Arizabaleta-Arzayus is Colombian drugtrafficker former member of the Cali Cartel fifth most important in the chain of command.</rdfs:comment>
+    <schema:name xml:lang="en">Phanor Arizabaleta-Arzayus</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Phanor_Arizabaleta-Arzayus" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Escobar">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q187447" />
+    <rdfs:label xml:lang="en">Pablo Escobar</rdfs:label>
+    <rdfs:comment xml:lang="en">Pablo Emilio Escobar Gaviria (December 1, 1949 – December 2, 1993) was a notorious Colombian drug lord whose cartel, at the height of his career, supplied an estimated 80% of the cocaine smuggled into the United States. Often called \"The King of Cocaine\", he was the wealthiest criminal in history, with an estimated known net worth of US $30 billion by the early 1990s. He was also one of the 10 richest men in the world at his prime. Escobar was shot and killed by Colombian National Police.</rdfs:comment>
+    <schema:name xml:lang="en">Pablo Escobar</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pablo_Escobar" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilberto_Rodríguez_Orejuela">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1351501" />
+    <rdfs:label xml:lang="en">Gilberto Rodríguez Orejuela</rdfs:label>
+    <rdfs:comment xml:lang="en">Gilberto José Rodríguez Orejuela (born on January 30, 1939, in Mariquita, Tolima) is a Colombian druglord, formerly one of the leaders of the Cali Cartel, based in the city of Cali.</rdfs:comment>
+    <schema:name xml:lang="en">Gilberto Rodríguez Orejuela</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gilberto_Rodríguez_Orejuela" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Gonzalo_Rodríguez_Gacha">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1353690" />
+    <rdfs:label xml:lang="en">José Gonzalo Rodríguez Gacha</rdfs:label>
+    <rdfs:comment xml:lang="en">José Gonzalo Rodríguez Gacha (May 14, 1947 – December 15, 1989), also known by the nickname El Mexicano, was a Colombian drug lord who was one of the leaders of the notorious Medellín Cartel along with the  Ochoa Brothers and Pablo Escobar. At the height of his criminal career Rodríguez was acknowledged as one of the world's most successful drug dealers. In 1988, Forbes magazine included him in their annual list of the world's billionaires.</rdfs:comment>
+    <schema:name xml:lang="en">José Gonzalo Rodríguez Gacha</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/José_Gonzalo_Rodríguez_Gacha" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Carlos_Ramírez_Abadía">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q373855" />
+    <rdfs:label xml:lang="en">Juan Carlos Ramírez Abadía</rdfs:label>
+    <rdfs:comment xml:lang="en">Juan Carlos Ramírez Abadía (Alias \"Chupeta\") (born February 16, 1963 in Palmira, Colombia) is a drug trafficker who, until his capture, was one of the leaders of the North Valley Cartel (Norte del Valle Cartel), who was wanted on drug smuggling, murder and RICO charges in the United States of America. In addition to the trafficking of cocaine, it is believed Abadia also participated in money laundering and trafficking of heroin. Through Abadias' illegal enterprise, he has amassed a fortune estimated at $1.8 billion by the US Department of State. He has been cited as \"... one of the most powerful and most elusive drug traffickers in Colombia\" by Adam J. Szubin, Director of  the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC).On August 7, 2007 Ramírez Abadía was arrested in São Paulo, Brazil, in an exclusive area called Aldeia da Serra. On March 13, 2008, the Supreme Federal Court of Brazil granted his extradition to the United States.  \"Chupeta\" was extradited to the United States on Friday, August 22, 2008.</rdfs:comment>
+    <schema:name xml:lang="en">Juan Carlos Ramírez Abadía</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Juan_Carlos_Ramírez_Abadía" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roberto_Suárez_Goméz">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3436982" />
+    <rdfs:label xml:lang="en">Roberto Suárez Goméz</rdfs:label>
+    <rdfs:comment xml:lang="en">Roberto Suárez Goméz (January 8, 1932 – July 20, 2000), sometimes spelled Roberto Suárez Gómez, also known as the \"King of Cocaine\", was a Bolivian drug trafficker who played a major role in the expansion of cocaine trafficking in Bolivia. At his prime, Goméz was one of the major suppliers of the Medellin Cartel, the leader of the largest Bolivian drug empire and considered to be the biggest cocaine producer in the world.</rdfs:comment>
+    <schema:name xml:lang="en">Roberto Suárez Goméz</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roberto_Suárez_Goméz" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Lehder">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q302061" />
+    <rdfs:label xml:lang="en">Carlos Lehder</rdfs:label>
+    <rdfs:comment xml:lang="en">Carlos Enrique Lehder Rivas or simply Carlos Lehder (born September 7, 1949) is a Colombian drug lord and co-founder of the Medellín Cartel. He is currently imprisoned in the United States. Born in Armenia, Colombia, Lehder eventually ran a cocaine transport empire on Norman's Cay island, 210 miles (340 km) off the Florida coast in the central Bahamas.Lehder was one of the founding members of Muerte a Secuestradores, a paramilitary group whose focus was to retaliate against the kidnappings of cartel members and their families by the Guerrillas.His motivation to join the MAS was to retaliate against the M-19 guerrilla movement, which, on November 19, 1981 attempted to kidnap him for a ransom, but he escaped from the kidnappers, and they only managed to shoot him in the leg.He was one of the most important MAS and Medellin Cartel operators, and is considered to be one of the most important Colombian drug kingpins to have been successfully prosecuted in the United States. Additionally, Lehder, who is half Colombian, half German and idolizes John Lennon and Adolf Hitler, founded \"a neo-Nazi political party, the National Latin Movement, whose main function, police said, appeared to be to force Colombia to abrogate its extradition treaty with the United States.\" Lehder is of mixed German-Colombian descent, his father a German engineer and mother a Colombian schoolteacher. The family owned a semi-legitimate used car business in the Medellín area in which Carlos got his start as a criminal, by supplying it with stolen American cars.</rdfs:comment>
+    <schema:name xml:lang="en">Carlos Lehder</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carlos_Lehder" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Alberto_Rodríguez">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6277621" />
+    <rdfs:label xml:lang="en">Jorge Alberto Rodríguez</rdfs:label>
+    <rdfs:comment xml:lang="en">Jorge Alberto Rodriguez Herrera (born on 19 November 1971), also known as Don Cholito, is a notorious and extremely dangerous mixed-race Colombian/Puerto Rican drug lord from Bronx, NY who headed The 400, a dismantled secret cell of the Cali Cartel. His birthdate is often reported as 19 April 1966 or 8 December 1962); Cedula No. 79290554 (Colombia); Passport 79290554 (Colombia), based on government issued passports found in his home after his arrest.</rdfs:comment>
+    <schema:name xml:lang="en">Jorge Alberto Rodríguez</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jorge_Alberto_Rodríguez" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Loaiza-Ceballos">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5725004" />
+    <rdfs:label xml:lang="en">Henry Loaiza-Ceballos</rdfs:label>
+    <rdfs:comment xml:lang="en">Henry Loaiza-Ceballos aka El Alacran (The Scorpion) was a Colombian drug dealer part of the Cali Cartel. Loaiza was in charge mainly of the military apparatus of the organization, but was also involved in the shipment of drugs. He surrendered to Colombian authorities on June 19, 1995.On August 4, 2006 a higher tribunal of Ibagué attempted to free Loaiza after serving 11 of the 18 years sentence to prison for the conformation of illegal paramilitary groups in Valle del Cauca and Tolima Departments. The National Penitentiary and Prison Institute, (INPEC) asked the Attorney General's office and the DAS Security Service if Loaiza had any other judicial processes against him.A local attorney pertaining to the Life and Personal Integrity Unit in Ibagué ordered a warrant once again against Loaiza for homicide, production, traffic and possession of illegal weapons and munition. He was accused of participating in the murder of former Colombian Army captain Ignasio Luis Arteaga on April 28, 2004 in Ibagué. Captain Arteaga was Security Chief of a local company called Cooperative SERVIARROZ. Loaiza is currently serving his sentence in a prison in central Colombia located in the town of Cómbita, Boyacá.On December 19, 2006 Loaiza was again accused by Colombian authorities of being responsible for the homicide of more than 100 persons, after pressumably co-authoring the Massacre of Trujillo in the southern town of Trujillo, Valle del Cauca Department in order to benefit the Cali cartel and his shipments of drugs. Most of the bodies were thrown into the waters of the Cauca River.</rdfs:comment>
+    <schema:name xml:lang="en">Henry Loaiza-Ceballos</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Henry_Loaiza-Ceballos" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dandeny_Muñoz_Mosquera">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3566033" />
+    <rdfs:label xml:lang="en">Dandeny Muñoz Mosquera</rdfs:label>
+    <rdfs:comment xml:lang="en">Dandeny Muñoz Mosquera, also known as \"La Quica\", was purported to be the chief assassin for the Medellín Cartel of Colombia.  He was responsible for the deaths of an unknown number of people (estimates range in the hundreds), supposedly murdering members of both the Medellín Cartel and the rival Cali Cartel, as well as police officers and government officials. Among his crimes is the 1989 bombing of Avianca Flight 203, which killed 110 civilians.In 1991, Muñoz Mosquera was arrested in Queens, New York for traveling with a fake passport. He was convicted and sentenced to six years in jail. While he was in jail, federal prosecutors claimed that he was a major player in the Medellín Cartel and the bombing of Avianca Flight 203. Muñoz Mosquera was charged with “conspiracy to import and distribute cocaine, substantive importation of cocaine, participating and conspiring to participate in a racketeering enterprise, engaging in a continuing criminal enterprise, various offenses relating to the bombing of a civilian airliner and the extraterritorial murder of two citizens of the United States.\" His first trial was declared a mistrial. In his second trial, he was convicted on all counts and sentenced to 10 life sentences plus 45 years, all to be served consecutively.  He is currently incarcerated at United States Penitentiary, Lee.While Mosquera was convicted of the Avianca bombing, his involvement in the bombing was questioned by Colombian Attorney General Gustavo de Greiff, who sent a letter to Judge Sterling Johnson before the final trial, stating: \"I felt necessary to inform you...with the intention to avoid the miscarriage of justice in the case you have in your hands.  We have no evidence linking Mr. Muñoz Mosquera to that attack.\"  De Greiff was accused by United States officials of being involved financially in the cocaine trade.The Colombian government initially suspected Gonzalo Rodríguez Gacha a.k.a. 'The Mexican'.  Carlos Maria Alzate has also been blamed for the bombing and had confessed to the crime before Mosquera was put on trial. Many witnesses testified in court about Mosquera's brutal acts as a high-ranking member of the Medellin cartel.  Many of those witnesses were convicted felons with links to the Medellín and Cali Cartels.  Mosquera claims that he did not recognize the prosecution's witnesses, and his defense hinged on the insistence that he was a small-time thief and not even a \"sicario\" (contract killer), let alone Escobar's chief assassin.  He did not deny that his brother Brance, known as 'Tyson', later shot dead by Colombian forces, was involved in the Cartel (some have claimed him to have been the Medellín 'Chief of Security').Munoz Mosquera is represented as \"Kiko\" in the television series Escobar, el Patrón del Mal.</rdfs:comment>
+    <schema:name xml:lang="en">Dandeny Muñoz Mosquera</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dandeny_Muñoz_Mosquera" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilberto_Molina">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5561378" />
+    <rdfs:label xml:lang="en">Gilberto Molina</rdfs:label>
+    <rdfs:comment xml:lang="en">Colombian Emerald Producer. Gilberto Molina (February 27, 1937 – February 27, 1989) was a major Colombian emerald magnate who was intimately connected to the notorious Medellín cartel and widely suspected of involvement in drug trafficking during the 1980s. During January 1988, Molina was charged with allegations that he operated an airplane maintenance facility at Subachoque, near Bogotá, where helicopters (including Panamanian registered helicopters) were serviced secretly. He also owned a private ranch called La Fortuna, which allegedly contained sophisticated warning devices and was used as a drug distribution center. Molina was at one time a close friend and working associate of José Gonzalo Rodríguez Gacha. Before Rodríguez Gacha attained his position as one of the top leaders of the Medellin cartel, he was employed in the service of Molina as his head of security. In January 1988, Molina was arrested on a murder charge and was later implicated as the owner of a 200-hectare coca plantation in Boyacá. However, the narcotics charges were later dropped. During 1989, he was involved in an intense power struggle over control of Colombia’s emerald mines, which are considered some of the richest in the world. Specifically, Molina was battling a rival operation, the Coscuez mines, in the violence-ridden emerald-mining district centered about 120 km northwest of Bogotá. Molina was initially assumed to be victorious in this violent struggle, along with his business partners Morita and Victor Carranza. However, any proclamation of victory soon proved to be premature. On Monday, February 27, 1989, a group consisting of around 25 uniformed men stormed into Molina’s luxurious ranch, located 72 km west of Bogotá, while Molina was hosting a housewarming party. The attackers took over the ranch without a fight and killed 18 men, including another emerald dealer, a retired police colonel in charge of Mr. Molina’s security, several bodyguards, friends and musicians. Colombian police officials speculated that the slaughter could have been on the orders of Rodríguez Gacha, who had made a failed attempt to elbow Molina out of the emerald profession.  Despite the widespread suspicion of involvement in cocaine trafficking, Molina was also regarded as a public benefactor, spending nearly $500,000 on building a town hall, airport, a road and schools.</rdfs:comment>
+    <schema:name xml:lang="en">Gilberto Molina</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gilberto_Molina" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Medellín_Cartel_traffickers" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Carlos_Ortiz_Escobar">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6299352" />
+    <rdfs:label xml:lang="en">Juan Carlos Ortiz Escobar</rdfs:label>
+    <rdfs:comment xml:lang="en">Juan Carlos Ortiz Escobar aka Cuchilla was a Colombian drug dealer and prominent member of the Cali Cartel. Ortiz-Escobar was a nephew of former Medellin Cartel boss Pablo Escobar.Ortiz-Escobar surrendered to Colombian authorities on March 1996 to take advantage of a reduction of sentence in exchange for turning himself in and admitting his guilt.After the capture of Norte del Valle Cartel kingpin Juan Carlos Ramirez Abadia on August 7, 2007, Brazilian authorities discovered he had close ties to Ortiz-Escobar. Ramirez-Abadia had been helped by Ortiz-Escobar to establish himself in Brazil.Ortiz-Escobar was killed in 2002, after getting out of jail, by orders of Wilber Varela aka Jabón.</rdfs:comment>
+    <schema:name xml:lang="en">Juan Carlos Ortiz Escobar</schema:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Juan_Carlos_Ortiz_Escobar" />
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Category:Cali_Cartel_traffickers" />
+  </rdf:Description>
+</rdf:RDF>
