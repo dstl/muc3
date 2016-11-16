@@ -1,0 +1,2950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-63.05</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3573511/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3573511/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3576396/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Antigua_and_Barbuda"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.05</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61.8</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3576396/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3576396/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3374084/">
+	<gn:alternateName xml:lang="en">Barbados</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<gn:alternateName xml:lang="en">Saint Vincent and the Grenadines</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BL</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/">
+	<gn:alternateName xml:lang="en">Trinidad and Tobago</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/">
+	<gn:alternateName xml:lang="en">Republic of Panama</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6295630/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6295630/contains.rdf"/>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.AREA"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6295630/earth.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earth</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3578476/saint-barthelemy.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255149/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">443000</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guadeloupe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3895114/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3579143/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guadeloupe"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.25</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61.58333</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3579143/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-26</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3579143/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255149/north-america.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">North America</gn:name>
+	<gn:officialName xml:lang="en">North America</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3996063/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6052064</gn:population>
+	<gn:shortName xml:lang="en">El Salvador</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Salvador"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3585968/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Salvador"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.83333</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-88.91667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3585968/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3723988/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HT</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580239/">
+	<gn:alternateName xml:lang="en">Grenada</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3723988/republic-of-haiti.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haiti</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3508796/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3723988/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3489940/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3489940/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3489940/jamaica.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jamaica</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3489940/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MX</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3996063/mexico.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5995928</gn:population>
+	<gn:shortName xml:lang="en">Nicaragua</gn:shortName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nicaragua"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3617476/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nicaragua"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-85</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3617476/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3617476/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mexico</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3582678/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3595528/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/">
+	<gn:alternateName xml:lang="en">Saint Lucia</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/6252001/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3996063/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9341</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Montserrat"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3374084/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3374084/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BB</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3374084/barbados.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbados</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3374084/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/">
+	<gn:alternateName xml:lang="en">Republic of Costa Rica</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">310232863</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8450</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:shortName xml:lang="en">United States</gn:shortName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3578476/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Saint_Barth%C3%A9lemy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47790000</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3489940/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2847232</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Jamaica"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3489940/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.16667</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-77.25</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3489940/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3489940/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3489940/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3585968/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<gn:shortName xml:lang="en">Colombia</gn:shortName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/United_States"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3895114/republic-of-chile.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chile</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3865483/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3923057/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6252001/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/United_States"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39.76</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-98.5</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3374084/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">285653</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Barbados"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3932488/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3374084/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3374084/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Barbados"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.16667</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-59.53333</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3374084/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3374084/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3374084/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<gn:alternateName xml:lang="en">Republic of Guatemala</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/about.rdf">
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6252001/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-03-14</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3573591/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TT</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9648924</gn:population>
+	<gn:shortName xml:lang="en">Haiti</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Haiti"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/">
+	<gn:alternateName xml:lang="en">Guyana</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3895114/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3723988/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Haiti"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.41667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3723988/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3723988/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3573591/republic-of-trinidad-and-tobago.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trinidad and Tobago</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3573591/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">104217</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/7626844/bonaire-saint-eustatius-and-saba.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16746491</gn:population>
+	<gn:shortName xml:lang="en">Chile</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Chile"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonaire, Sint Eustatius, and Saba</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<gn:alternateName xml:lang="en">Spanish Haiti</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3895114/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Chile"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-30</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<gn:alternateName xml:lang="en">Argentine Republic</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/about.rdf">
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3895114/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-05</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3895114/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3916632</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Puerto_Rico"/>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Puerto_rico"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4566966/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Puerto_Rico"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Puerto_rico"/>
+	<wgs84_pos:alt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">454</wgs84_pos:alt>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.24829</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-66.49989</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/4566966/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-13</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580239/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3580239/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GD</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3580239/grenada.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grenada</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3580239/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3577815/about.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6251999/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33679000</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Canada"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6251999/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Canada"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60.10867</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-113.64258</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3378535/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3378535/co-operative-republic-of-guyana.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guyana</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3382998/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3625428/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3378535/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6251999/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6251999/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-03-13</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-10-07</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6251999/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:officialName xml:lang="en">Mexico</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<gn:alternateName xml:lang="en">Bolivia, Plurinational State Of</gn:alternateName>
+	<gn:alternateName xml:lang="en">Plurinational State of Bolivia</gn:alternateName>
+	<gn:alternateName xml:lang="en">Republic of Bolivia</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.08333</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255150/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">385742554</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255150/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/South_America"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255150/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/South_America"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-14.60485</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-57.65625</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:alternateName xml:lang="en">America</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255150/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255150/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255150/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/">
+	<gn:officialName xml:lang="en">Sint Maarten</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61.2</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3577815/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3577815/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3595528/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GT</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">748486</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.21667</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guyana"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/7626844/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3378535/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guyana"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-59</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3378535/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-17</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3378535/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3381670/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3381670/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GF</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3381670/guyane.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French Guiana</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3382998/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3381670/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3595528/republic-of-guatemala.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guatemala</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3582678/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3585968/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3608932/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3996063/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3595528/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.9</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3658394/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14790608</gn:population>
+	<gn:shortName xml:lang="en">Ecuador</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ecuador"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3658394/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ecuador"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-1.25</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-78.25</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3381670/">
+	<gn:officialName xml:lang="en">French Guiana</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3658394/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3658394/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3658394/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71566</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Aruba"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3577279/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Aruba"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255147/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3812366000</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Asia"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255147/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Asia"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.84064</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1228691</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Trinidad_and_Tobago"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:alternateName xml:lang="en">Saint-Barthélemy</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3573591/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Trinidad_and_Tobago"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3573591/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13550440</gn:population>
+	<gn:shortName xml:lang="en">Guatemala</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guatemala"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-62.8257</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3595528/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guatemala"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.5</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-90.25</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3595528/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-02</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3595528/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37429</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<gn:officialName xml:lang="en">Aruba</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sint_Maarten"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7609695/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sint_Maarten"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.04167</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-63.06667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/7609695/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-04</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-09-08</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/">
+	<gn:alternateName xml:lang="en">Republic of Honduras</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3508796/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3508796/dominican-republic.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dominican Republic</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3723988/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3508796/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3381670/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">195506</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3686110/about.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3381670/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/French_Guiana"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3381670/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/French_Guiana"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-53</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3381670/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3381670/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-15</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3381670/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/about.rdf">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3573591/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-20</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6252001/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255147/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">89.29688</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255147/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255147/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<gn:officialName xml:lang="en">Dominican Republic</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<gn:alternateName xml:lang="en">Republic of Colombia</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3382998/">
+	<gn:alternateName xml:lang="en">Republic of Suriname</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255151/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Oceania"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255151/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Oceania"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-18.31281</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138.51562</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/">
+	<gn:alternateName xml:lang="en">Saint Kitts and Nevis</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255151/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255151/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3624060/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3624060/republic-of-costa-rica.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580239/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107818</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Grenada"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:officialName xml:lang="en">Bonaire, Saint Eustatius, and Saba</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3578476/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580239/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3580239/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Grenada"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.11667</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61.66667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580239/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3580239/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-04</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3580239/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/4566966/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/">
+	<gn:alternateName xml:lang="en">Virgin Islands (US)</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/North_America"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/4796775/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VI</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/4796775/virgin-islands-of-the-united-states.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U.S. Virgin Islands</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/4796775/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costa Rica</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3617476/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3703430/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3624060/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255147/about.rdf">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255147/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.5</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.96667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3577279/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9823821</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/">
+	<gn:officialName xml:lang="en">U.S. Virgin Islands</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.25</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Dominican_Republic"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3508796/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Dominican_Republic"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.66667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3508796/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-09-12</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3508796/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3382998/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3382998/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3382998/republic-of-suriname.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suriname</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3378535/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3381670/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3382998/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/7609695/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:alternateName xml:lang="en">Country of Curaçao</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Caribbean_Netherlands"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7626844/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Caribbean_Netherlands"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.21286</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255151/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255151/contains.rdf"/>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255151/oceania.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oceania</gn:name>
+	<gn:officialName xml:lang="en">Oceania</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6252001/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">US</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/">
+	<gn:alternateName xml:lang="en">Republic of Cuba</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6252001/united-states.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3562981/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3996063/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/6251999/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/6252001/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/about.rdf">
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3577279/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255148/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255148/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-08</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255152/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/7626836/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:alternateName xml:lang="en">BES Islands</gn:alternateName>
+	<gn:alternateName xml:lang="en">Bonaire, Saint Eustatius and Saba</gn:alternateName>
+	<gn:alternateName xml:lang="en">Bonaire, Sint Eustatius and Saba</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:officialName xml:lang="en">United States of America</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6295630/">
+	<gn:alternateName xml:lang="en">Globe</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3923057/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3923057/plurinational-state-of-bolivia.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3382998/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">492829</gn:population>
+	<gn:shortName xml:lang="en">Suriname</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Suriname"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">86754</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3382998/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3382998/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Suriname"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-56</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3382998/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3382998/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-08-18</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3382998/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bolivia</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3437598/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3865483/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3895114/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3932488/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3923057/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:alternateName xml:lang="en">Virgin Islands (British)</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3424932/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3424932/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3424932/saint-pierre-et-miquelon.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Pierre and Miquelon</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3424932/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Antarctica"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255152/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Antarctica"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3576468/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3576468/saint-lucia.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Lucia</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3576468/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6295630/">
+	<gn:alternateName xml:lang="en">World</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/about.rdf">
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/7626844/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4516220</gn:population>
+	<gn:shortName xml:lang="en">Costa Rica</gn:shortName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3424932/">
+	<gn:officialName xml:lang="en">Saint Pierre and Miquelon</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3608932/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HN</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3608932/republic-of-honduras.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Honduras</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3585968/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3595528/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3617476/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3608932/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Costa_rica"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3624060/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Costa_rica"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-84</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3624060/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3562981/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CU</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3562981/republic-of-cuba.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuba</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/6252001/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3562981/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-05</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3624060/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255151/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255151/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-68.29445</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7626836/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CW</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3575174/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KN</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3575174/federation-of-saint-kitts-and-nevis.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Kitts and Nevis</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3575174/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-18</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-09-08</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/7626844/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686110/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3686110/republic-of-colombia.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colombia</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3625428/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3658394/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3703430/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3932488/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3686110/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3578097/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Montserrat"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11423000</gn:population>
+	<gn:shortName xml:lang="en">Cuba</gn:shortName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3686110/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cuba"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Antigua_and_Barbuda"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3424932/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7012</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3424932/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3424932/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Saint_Pierre_and_Miquelon"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.83333</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-56.33333</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3424932/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3424932/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-08</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3424932/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3562981/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cuba"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-79.5</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3562981/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3425505/">
+	<gn:alternateName xml:lang="en">Greenland</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3562981/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.75</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3570311/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3570311/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MQ</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3865483/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3865483/argentine-republic.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580718/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3580718/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3580718/cayman-islands.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cayman Islands</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3580718/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3570311/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3570311/martinique.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martinique</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3570311/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-62.2</wgs84_pos:long>
+	<gn:alternateName xml:lang="en">Montserrat</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3578097/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3410676</gn:population>
+	<gn:shortName xml:lang="en">Panama</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Panama"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3703430/about.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3425505/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3425505/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GL</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3425505/greenland.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greenland</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3425505/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/">
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Panama"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-80</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3703430/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3570311/">
+	<gn:officialName xml:lang="en">Martinique</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">112468855</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Mexico"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3585968/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3996063/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Mexico"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3703430/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3703430/republic-of-panama.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panama</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3624060/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3703430/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3577718/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VG</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3577718/british-virgin-islands.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">British Virgin Islands</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3577718/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3703430/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51134</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SV</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3575174/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Saint_Kitts_and_Nevis"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.33333</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-62.75</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3575174/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-18</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3575174/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3932488/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PE</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3425505/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56375</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Greenland"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3425505/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Greenland"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-40</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3425505/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3425505/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3425505/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3932488/republic-of-peru.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peru</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3658394/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580718/">
+	<gn:officialName xml:lang="en">Cayman Islands</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3895114/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3923057/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<gn:alternateName xml:lang="en">Bolivarian Republic of Venezuela</gn:alternateName>
+	<gn:alternateName xml:lang="en">Republic of Venezuela</gn:alternateName>
+	<gn:alternateName xml:lang="en">United States of Venezuela</gn:alternateName>
+	<gn:alternateName xml:lang="en">Venezuela, Bolivarian Republic Of</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3932488/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160922</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-09-23</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3437598/">
+	<gn:alternateName xml:lang="en">Republic of Paraguay</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Saint_Lucia"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3576468/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Saint_Lucia"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.88333</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-60.96667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3576468/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3570311/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">432900</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Martinique"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3570311/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Martinique"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.66667</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3570311/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3570311/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-08</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3570311/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-27</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<gn:alternateName xml:lang="en">Commonwealth of Dominica</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/about.rdf">
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3576468/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-78.15856</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.40626</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255152/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3576916/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3572887/">
+	<gn:alternateName xml:lang="en">The Bahamas</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3576916/turks-and-caicos-islands.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turks and Caicos Islands</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3576916/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-102</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3996063/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-17</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3996063/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:alternateName xml:lang="en">Commonwealth of Puerto Rico</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29907003</gn:population>
+	<gn:shortName xml:lang="en">Peru</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Peru"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3932488/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Peru"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7989415</gn:population>
+	<gn:shortName xml:lang="en">Honduras</gn:shortName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580718/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44270</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cayman_Islands"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3580718/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cayman_Islands"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.5</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-80.66667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580718/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3580718/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-27</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3580718/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Argentina</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3437598/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3437598/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3437598/republic-of-paraguay.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paraguay</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3865483/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3923057/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3437598/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Honduras"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3608932/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Honduras"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-86.5</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3608932/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-02</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3608932/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-10</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-75.25</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3932488/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-11-10</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3932488/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/7626836/country-of-curacao.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curaçao</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/">
+	<gn:alternateName xml:lang="en">Republic of Nicaragua</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/7626836/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-13</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:officialName xml:lang="en">Curaçao</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:officialName xml:lang="en">British Virgin Islands</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3578097/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MS</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9947418</gn:population>
+	<gn:shortName xml:lang="en">Bolivia</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bolivia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3585968/republic-of-el-salvador.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3437598/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6375830</gn:population>
+	<gn:shortName xml:lang="en">Paraguay</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Paraguay"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Salvador</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3437598/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3437598/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Paraguay"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-23.33333</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-58</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3437598/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3437598/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-11-10</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3437598/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3437598/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3439705/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3895114/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3923057/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3865483/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3923057/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bolivia"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-17</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-65</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3923057/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3439705/">
+	<gn:alternateName xml:lang="en">Oriental Republic of Uruguay</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3923057/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/">
+	<gn:officialName xml:lang="en">Turks and Caicos Islands</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255146/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255146/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3572887/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3572887/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BS</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3572887/commonwealth-of-the-bahamas.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bahamas</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3572887/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255146/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255146/africa.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/">
+	<gn:alternateName xml:lang="en">Belize</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255146/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Africa</gn:name>
+	<gn:officialName xml:lang="en">Africa</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3578097/montserrat.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montserrat</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3578097/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255146/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1031833000</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Africa"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255146/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Africa"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.1881</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.09375</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3625428/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VE</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3625428/bolivarian-republic-of-venezuela.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venezuela</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41343201</gn:population>
+	<gn:shortName xml:lang="en">Argentina</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Argentina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3595528/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3865483/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Argentina"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-34</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-64</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3865483/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3865483/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3378535/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3625428/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/about.rdf">
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3578097/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/4566966/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/">
+	<gn:alternateName xml:lang="en">Republic of Haiti</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:alternateName xml:lang="en">Saint Martin (French Part)</gn:alternateName>
+	<gn:alternateName xml:lang="en">Saint-Martin Collectivity</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<gn:officialName xml:lang="en">Venezuela</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:alternateName xml:lang="en">St Martin</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3577815/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3577815/saint-vincent-and-the-grenadines.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Vincent and the Grenadines</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3577815/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/4566966/puerto-rico.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3439705/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3439705/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3439705/oriental-republic-of-uruguay.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uruguay</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3469034/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3865483/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3439705/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puerto Rico</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/4566966/neighbours.rdf"/>
+	<gn:officialName xml:lang="en">Puerto Rico</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Barthélemy</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3578476/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3572887/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">301790</gn:population>
+	<gn:shortName xml:lang="en">Bahamas</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/The_Bahamas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3608932/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3572887/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3572887/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Bahamas"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.04082</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-77.37122</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3572887/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3572887/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-06</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3572887/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3578421/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MF</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3578421/saint-martin.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Martin</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/7609695/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3578421/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/about.rdf">
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3578476/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3575830/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3575830/dominica.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dominica</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573345/">
+	<gn:alternateName xml:lang="en">Bermuda</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3575830/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/about.rdf">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:alternateName xml:lang="en">Republic of Peru</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3439705/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3477000</gn:population>
+	<gn:shortName xml:lang="en">Uruguay</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Uruguay"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3585968/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3439705/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3439705/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Uruguay"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-33</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-56</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3439705/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3439705/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3439705/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/about.rdf">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-08</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3578476/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<gn:officialName xml:lang="en">Guadeloupe</gn:officialName>
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3579143/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GP</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:alternateName xml:lang="en">Republic of Chile</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108708</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/United_States_Virgin_Islands"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4796775/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/United_States_Virgin_Islands"/>
+	<wgs84_pos:alt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82</wgs84_pos:alt>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.34829</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-64.98348</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/4796775/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/">
+	<gn:alternateName xml:lang="en">Federative Republic of Brazil</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-13</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/4796775/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255149/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/North_America"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.07323</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-100.54688</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255149/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6251999/">
+	<gn:alternateName xml:lang="en">Canada</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255149/about.rdf">
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/3579143/guadeloupe.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<gn:officialName xml:lang="en">Dominica</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guadeloupe</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:officialName xml:lang="en">Saint Barthélemy</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:officialName xml:lang="en">Saint Martin</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3579143/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6295630/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6814400000</gn:population>
+	<gn:shortName xml:lang="en">Earth</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Earth"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6295630/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Earth"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6295630/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6295630/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-10-17</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-05-23</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6295630/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/">
+	<gn:alternateName xml:lang="en">Country of Sint Maarten</gn:alternateName>
+	<gn:alternateName xml:lang="en">Sint Maarten (Dutch Part)</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35925</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18012</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3582678/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BZ</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3582678/belize.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belize</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3595528/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3996063/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3582678/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Saint_Martin_(France)"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3578421/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Saint_Martin_%28France%29"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.06667</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-63.06667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3617476/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NI</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3617476/republic-of-nicaragua.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nicaragua</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3608932/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3624060/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3617476/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/about.rdf">
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3578421/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-30</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3578421/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20556</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573345/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3573345/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3573345/bermuda.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bermuda</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3573345/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Turks_and_Caicos_Islands"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3576916/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Turks_and_Caicos_Islands"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.73333</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.58333</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3576916/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-23</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">314522</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Belize"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13254</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3469034/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3469034/federative-republic-of-brazil.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brazil</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3378535/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3381670/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3382998/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3437598/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3439705/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3625428/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3865483/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3923057/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3932488/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3469034/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72813</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Dominica"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Anguilla"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3575830/about.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/">
+	<gn:officialName xml:lang="en">Brazil</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Dominica"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.5</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-61.33333</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3575830/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-31</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3575830/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3576916/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/about.rdf">
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27223228</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Venezuela"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3625428/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Venezuela"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-66</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3625428/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-01</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:alternateName xml:lang="en">Antigua and Barbuda</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/about.rdf">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3625428/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255146/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255146/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">201103330</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Brazil"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3573511/about.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3469034/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Brazil"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-10</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-55</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3469034/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-10-07</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3469034/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3474414/">
+	<gn:alternateName xml:lang="en">Colony of the Falkland Islands</gn:alternateName>
+	<gn:alternateName xml:lang="en">Falkland Islands (Malvinas)</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/">
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3582678/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Belize"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.25</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-88.75</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3582678/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3474414/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3474414/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FK</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3474414/falkland-islands-islas-malvinas.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Falkland Islands</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3474414/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255146/about.rdf">
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/6255146/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:alternateName xml:lang="en">Mexican Republic</gn:alternateName>
+	<gn:alternateName xml:lang="en">United Mexican States</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3658394/">
+	<gn:alternateName xml:lang="en">Republic of Ecuador</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">141766</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/about.rdf">
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3686110/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cura%C3%A7ao"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7626836/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cura%C3%A7ao"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.16667</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-68.96667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/7626836/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-18</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-09-08</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255152/contains.rdf"/>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255152/antarctica.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antarctica</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/about.rdf">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-06-15</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255148/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255148/contains.rdf"/>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255148/europe.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Europe</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21730</gn:population>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255148/">
+	<gn:officialName xml:lang="en">Europe</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573345/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65365</gn:population>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bermuda"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3573345/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bermuda"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32.33022</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-64.74003</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573345/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3573345/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-21</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3573345/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7626844/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255152/">
+	<gn:officialName xml:lang="en">Antarctica</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BQ</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3573511/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AI</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3573511/anguilla.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anguilla</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3573511/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/British_Virgin_Islands"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3577718/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/British_Virgin_Islands"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.5</wgs84_pos:lat>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255148/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6295630/"/>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Europe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255147/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255147/contains.rdf"/>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255147/asia.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asia</gn:name>
+	<gn:officialName xml:lang="en">Asia</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3658394/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3658394/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3658394/republic-of-ecuador.html"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<gn:officialName xml:lang="en">Anguilla</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3658394/">
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ecuador</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3932488/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3658394/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255148/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6255148/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Europe"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.69096</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.14062</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3576396/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AG</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3576396/antigua-and-barbuda.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antigua and Barbuda</gn:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3474414/">
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:population rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2638</gn:population>
+	<gn:shortName xml:lang="en">Falkland Islands</gn:shortName>
+	<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Falkland_Islands"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Anguilla"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3474414/">
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+	<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3474414/about.rdf"/>
+	<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Falkland_Islands"/>
+	<wgs84_pos:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-51.75</wgs84_pos:lat>
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-59.16667</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3474414/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3474414/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-02</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3474414/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/about.rdf">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-08</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3582678/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:shortName xml:lang="en">Bonaire, Sint Eustatius, and Saba</gn:shortName>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7609695/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SX</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/7609695/sint-maarten.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sint Maarten</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/3578421/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/7609695/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3576396/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255148/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/6255148/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255150/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6255150/contains.rdf"/>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:alternateName xml:lang="en">Republic of El Salvador</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6255150/">
+	<gn:locationMap rdf:resource="http://www.geonames.org/6255150/south-america.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">South America</gn:name>
+	<gn:officialName xml:lang="en">South America</gn:officialName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/3577279/contains.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6251999/">
+	<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6251999/contains.rdf"/>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CA</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/6251999/canada.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canada</gn:name>
+	<gn:neighbour rdf:resource="http://sws.geonames.org/6252001/"/>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/6251999/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AW</gn:countryCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3489940/">
+	<gn:alternateName xml:lang="en">Jamaica</gn:alternateName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:locationMap rdf:resource="http://www.geonames.org/3577279/aruba.html"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aruba</gn:name>
+	<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/3577279/neighbours.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<wgs84_pos:long rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-64.5</wgs84_pos:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/about.rdf">
+	<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+	<cc:attributionURL rdf:resource="http://sws.geonames.org/3577718/"/>
+	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-12</dcterms:modified>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<foaf:primaryTopic rdf:resource="http://sws.geonames.org/3577718/"/>
+</rdf:Description>
+
+</rdf:RDF>
