@@ -1,1938 +1,1938 @@
 <?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:parse="http://example.org/nlp/parse">
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0001.xhtml#33">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0001.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SAN SALVADOR, 3 JAN 90 -- [REPORT] [ARMED FORCES PRESS COMMITTEE, COPREFA] [TEXT] THE ARCE BATTALION COMMAND HAS REPORTED THAT ABOUT 50 PEASANTS OF VARIOUS AGES HAVE BEEN KIDNAPPED BY TERRORISTS OF THE FARABUNDO MARTI NATIONAL LIBERATION FRONT [FMLN] IN SAN MIGUEL DEPARTMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0001.xhtml#310">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0001.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO THAT GARRISON, THE MASS KIDNAPPING TOOK PLACE ON 30 DECEMBER IN SAN LUIS DE LA REINA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml#33">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 9 JAN 90 (EFE) -- [TEXT] RICARDO ALFONSO CASTELLAR, MAYOR OF ACHI, IN THE NORTHERN DEPARTMENT OF BOLIVAR, WHO WAS KIDNAPPED ON 5 JANUARY, APPARENTLY BY ARMY OF NATIONAL LIBERATION (ELN) GUERRILLAS, WAS FOUND DEAD TODAY, ACCORDING TO AUTHORITIES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml#286">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CASTELLAR WAS KIDNAPPED ON 5 JANUARY ON THE OUTSKIRTS OF ACHI, ABOUT 850 KM NORTH OF BOGOTA, BY A GROUP OF ARMED MEN, WHO FORCED HIM TO ACCOMPANY THEM TO AN UNDISCLOSED LOCATION.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml#573">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CASTELLAR WAS KIDNAPPED BY ELN GUERRILLAS WHILE HE WAS TRAVELING IN A BOAT DOWN THE CAUCA RIVER TO THE TENCHE AREA, A REGION WITHIN HIS JURISDICTION.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0021.xhtml#662">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0021.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE AUTHORITIES BELIEVE THAT THE RETURN TO THE STRATEGY OF USING KIDNAPPINGS AS A MEANS TO FINANCE ITSELF IS ALSO PART OF THIS NEW OFFENSIVE THAT SEEMS TO BE ENJOYING THE SUPPORT OF OTHER GUERRILLA GROUPS SUCH AS THE EPL [POPULAR LIBERATION ARMY].</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0025.xhtml#33">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0025.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CLANDESTINE, 12 JAN 90 (RADIO VENCEREMOS) -- [COMMUNIQUE] [NATIONAL REVOLUTIONARY MOVEMENT, MNR] [TEXT] THE MNR REPORTS THE DISAPPEARANCE AND KIDNAPPING OF MNR ASSISTANT SECRETARY GENERAL HECTOR OQUELI COLINDRES IN GUATEMALA CITY TODAY, 12 JANUARY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0025.xhtml#606">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0025.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO REPORTS, OQUELI AND HIS COMPANION GILDA FLORES, A MEMBER OF THE SOCIAL DEMOCRATIC PARTY OF GUATEMALA, WERE ABDUCTED BY HEAVILY ARMED MEN BETWEEN 0630 AND 0700 AS THEY WERE HEADING TO LA AURORA AIRPORT TO BOARD THEIR FLIGHT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0026.xhtml#705">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0026.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AN MNR SPOLESMAN REPORTED THAT OQUELI COLINDRES WAS "KIDNAPPED" AS HE WAS HEADING TO THE AIRPORT IN GUATEMALA CITY TO TAKE A FLIGHT TO NICARAGUA, WHERE HE WOULD JOIN A SOCIALIST INTERNATIONAL DELEGATION THAT IS CURRENTLY IN THAT COUNTRY TO OBSERVE THE ELECTORAL CAMPAIGN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0031.xhtml#33">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0031.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 13 JAN 90 (NOTIMEX) -- [TEXT] MARIO SOLORZANO MARTINEZ, LEADER OF GUATEMALA'S DEMOCRATIC SOCIALIST PARTY, REPORTED TODAY THAT THE SALVADORAN POLITICAL LEADER HECTOR OQUELI, WHO WAS KIDNAPPED IN GUATEMALA, WAS FOUND DEAD.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0033.xhtml#705">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0033.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OQUELI, 45, AND GILDA FLORES, A MEMBER OF THE DEMOCRATIC SOCIALIST PARTY (PSD) OF GUATEMALA, WERE KIDNAPPED WHILE THEY WERE ON THEIR WAY TO LA AURORA AIRPORT IN GUATEMALA CITY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml#229">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOTH BODIES WERE FOUND TODAY IN AN AREA NEAR GUATEMALA AND EL SALVADOR BORDER AFTER THE VICTIMS WERE KIDNAPPED IN GUATEMALA CITY YESTERDAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml#753">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE DOCUMENT IS THE FIRST OFFICIAL REACTION TO THE KIDNAPPING AND ASSASSINATION OF BOTH LEADERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml#1065">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO SOLORZANO, THE INCIDENT "SHOWS THERE IS COOPERATION BETWEEN PARAMILITARY GROUPS OF BOTH COUNTRIES," BECAUSE THE PERPETRATORS KNEW OF OQUELI'S ARRIVAL "AND THEY STAGED AN ENTIRE OPERATION TO KIDNAP HIM."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml#1534">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0036.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ON FRIDAY MORNING, WHILE ON HIS WAY TO LA AURORA AIRPORT TO CATCH A PLANE TO NICARAGUA, HE WAS KIDNAPPED BY "HEAVILY ARMED MEN," ACCORDING TO THE MNR.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0037.xhtml#1442">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0037.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO THE INITIAL REPORTS RECEIVED BY THE POLICE, THE KIDNAPPING TOOK PLACE YESTERDAY WHEN OQUELI AND FLORES WERE HEADING TO LA AURORA AIRPORT IN THIS CAPITAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml#33">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 15 JAN 90 (DPA) -- [TEXT] IN AN ACTION THAT IS UNPRECEDENTED IN COLOMBIA'S HISTORY OF VIOLENCE, UNIDENTIFIED PERSONS KIDNAPPED 31 PEOPLE IN THE STRIFE-TORN BANANA-GROWING REGION OF URABA, THE ANTIOUQIA GOVERNOR'S OFFICE REPORTED TODAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml#276">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE INCIDENT TOOK PLACE IN PUERTO BELLO, A VILLAGE IN TURBO MUNICIPALITY, 460 KM NORTHWEST OF BOGOTA, WHERE A GROUP OF HEAVILY ARMED MEN FORCED THE KIDNAPPED VILLAGERS TO CLIMB INTO TRUCKS AND THEN TOOK OFF FOR AN UNKNOWN DESTINATION.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml#511">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">NOTHING IS KNOWN THUS FAR ABOUT THE MOTIVE BEHIND THE KIDNAPPING OR THE WHEREABOUTS OF THE VICTIMS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml#610">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">REGIONAL AUTHORITIES WHO ESCAPED BEING KIDNAPPED TOOK A CENSUS OF THE POPULATION AND DETERMINED THAT A TOTAL OF 31 PEOPLE WERE KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml#1135">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BEFORE THE NEWS OF THE MASS KIDNAPPING BECAME KNOWN, THE TOTAL PERSONS KIDNAPPED IN COLOMBIA OVER THE LAST 6 WEEKS WAS 85, ACCORDING TO STATISTICS OF THE COLOMBIAN SECRET POLICE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0077.xhtml#33">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0077.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 7 FEB 89 -- [TEXT] COLOMBIAN INDUSTRIALIST NORMAL ECHEVARRIA AND U.S. BUSINESSMAN MICHAEL REYFF, KIDNAPPED 11 DAYS AGO IN MEDELLIN, WERE RESCUED TODAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0111.xhtml#577">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0111.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BATTALION 3-16 WAS CREATED IN 1982 AS AN INTELLIGENCE UNIT AND HAS BEEN ACCUSED OF ENCOURAGING THE MURDER AND KIDNAPPING OF OPPOSITION POLITICIANS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0114.xhtml#766">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0114.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO A HIGH-RANKING INFANTRY SCHOOL OFFICER, THIS IS THE SAME HOUSE WHERE [BOGOTA MAYOR] ANDRES PASTRANA WAS HELD WHEN HE WAS KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0155.xhtml#37">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0155.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MANAGUA (NICARAGUA), 26 MAR 89 (ACAN-EFE) -- [TEXT] A NICARAGUAN DELGATION WILL LEAVE FOR HONDURAS ON TUESDAY TO NEGOTIATE THE RELEASE OF APPROXIMATELY 1,000 CIVILIANS WHO WERE KIDNAPPED BY THE "CONTRAS" MORE THAN 5 YEARS AGO, A PARLIAMENTARY SOURCE HAS ANNOUNCED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0155.xhtml#931">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0155.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">COLONEL EFRAIN GONZALEZ, HONDURAN AMBASSADOR TO NICARAGUA, TOLD ACAN-EFE THAT HIS GOVERNMENT DOES NOT MIND THE DELEGATION'S VISIT TO HONDURAS TO FIND OUT WHAT HAPPENED TO THE KIDNAPPED PERSONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0183.xhtml#182">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0183.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">] HAVE BEEN KIDNAPPED BY A GROUP OF GUERRILLAS FROM THE MEDIO MAGDALENA PETROLEUM BASIN, IN COLOMBIA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0183.xhtml#571">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0183.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BRASPETRO PRESIDENT WAGNER FREIRE TODAY RELEASED AN OFFICIAL NOTE CONFIRMING THE KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0185.xhtml#2236">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0185.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE DO NOT AGREE WITH KIDNAPPING CIVILIANS IN EXCHANGE FOR RANSOM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0232.xhtml#1551">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0232.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE REBELS REQUEST "THE IMMEDIATE RELEASE" OF LABOR LEADERS, MASS MOVEMENT ACTIVISTS, AND DETAINED POLITICAL PRISONERS, AND THEY DEMAND THAT MURDERS, KIDNAPPINGS, AND ALL OTHER FORMS OF REPRESSION AGAINST THE OPPOSITION PARTIES CEASE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0233.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0233.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BRASILIA (BRAZIL), 2 JUN 89 (DOMESTIC SERVICE) -- [TEXT] COLOMBIAN GUERRILLAS TODAY RELEASED THREE BRAZILIAN ENGINEERS WHO WERE KIDNAPPED MORE THAN A MONTH AGO IN BOGOTA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0233.xhtml#865">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0233.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PETROBRAS HAS RELEASED AN OFFICIAL NOTE SAYING THAT TWO OF THREE ENGINEERS WHO WERE KIDNAPPED IN COLOMBIA AND RELEASED TODAY WILL ARRIVE IN RIO DE JANEIRO EARLY TOMORROW MORNING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0247.xhtml#1145">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0247.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WHILE VICE PRESIDENT QUAYLE WAS MEETING WITH THE MERCENARIES, PASTORAL REPRESENTATIVES IN WASLALA AND LAS MINAS INFORMED THE INTERNATIONAL COMMUNITY OF THE HUNDREDS OF PEASANTS WHO HAVE BEEN MURDERED, KIDNAPPED, AND TORTURED BY THE MERCENARY GROUPS THAT INFILTRATE NICARAGUA FROM HONDURAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0249.xhtml#2083">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0249.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE ALSO REMEMBER HOW IMPORTANT MEN CLOSE TO MAJOR ROBERTO D'AUBUISSION PARTICIPATED IN THE KIDNAPPING OF BUSINESSMEN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0272.xhtml#386">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0272.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE LEFTIST M-19 [19 APRIL MOVEMENT], WHICH APPEARED IN THE MID-1970'S, KIDNAPPED 20 AMBASSADORS IN AN ATTACK ON THE DOMINICAN EMBASSY IN BOGOTA, AND OCCUPIED THE JUSTICE PALACE IN NOVEMBER 1985 -- AN ACTION THAT RESULTED IN THE DEATHS OF 100 PEOPLE -- HAS BEEN HOLDING PEACE TALKS WITH THE BARCO GOVERNMENT SINCE DECEMBER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0281.xhtml#980">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0281.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE RECALL THE DEPLORABLE KIDNAPPING OF 100 PERSONS AT THE CHAMBER OF COMMERCE AND INDUSTRIES IN CORTES IN 1982; THE ILLEGAL HIJACKING OF TAN-SAHSA AIRCRAFT BY TERRORIST COMMANDOS WHO ALWAYS ENDED UP SEEKING REFUGE IN MANAGUA OR HAVANA; THE PLANTING OF TWO BOMBS THAT DESTROYED POWER PLANTS IN TEGUCIGALPA, AS WELL AS OTHER TERRORIST ACTS AGAINST HONDURAS BOTH INSIDE AND OUTSIDE THE COUNTRY; CLANDESTINE ARMS TRAFFICKING, ETC.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0283.xhtml#232">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0283.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN HAD KIDNAPPED AND SENTENCED OLSON TO DEATH.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0283.xhtml#783">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0283.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN KIDNAPPED OLSON, DECLARED HIM A PRISONER OF WAR, AND SENTENCED HIM TO DEATH.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml#235">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THEY WERE KIDNAPPED LAST SATURDAY BY THE ARMY OF NATIONAL LIBERATION [ELN].</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml#515">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THEY HAD BEEN KIDNAPPED THIS PAST WEEKEND BY THE ELN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml#569">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE PURPOSE OF THE KIDNAPPING WAS TO PUBLICIZE, THROUGH THE MAYORS, A COMMUNIQUE IN WHICH THE REBEL GROUP ANNOUNCES ITS CAMPAIGN WAR FOR LIFE, COMES OUT AGAINST THE DIRTY WAR, AND MAKES A NEW CALL FOR A NATIONAL OIL FORUM FOR VARIOUS POLITICAL AND LABOR ORGANIZATIONS TO DISCUSS THE STATUS OF THIS VITAL PRODUCT OF OUR ECONOMY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml#1155">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THEY KIDNAPPED ME AND TOOK ME TO THEIR CAMP.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml#44">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CARACAS (VENEZUELA), 17 JUL 89 (VENEZOLANA DE TELEVISION CANAL 8) -- [INTERVIEW WITH VENEZUELAN DEFENSE MINISTER GENERAL FILMO LOPEZ UZCATEGUI BY UNIDENTIFIED REPORTERS] [TEXT] [LOPEZ] WE HAVE REPORTS THAT NORBERTO RODRIGUEZ [PRESIDENT PEREZ' BROTHER-IN-LAW] COULD STILL BE IN THE BORDER REGION, NEAR THE SPOT WHERE HE WAS KIDNAPPED BY THOSE PEOPLE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml#1414">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">[REPORTER] THE COLOMBIAN GOVERNMENT HAS MUCH EXPERIENCE WITH KIDNAPPINGS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml#1628">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THIS KIDNAPPING COULD HAVE BEEN CARRIED OUT BY THE REBELS, AND WE ALREADY KNOW HOW THE REBELS OPERATE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml#1731">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0296.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HE ALSO COULD HAVE BEEN KIDNAPPED BY COMMON CRIMINALS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0300.xhtml#458">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0300.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE BUSINESSMAN, WHO OWNS A TANNERY AND SPENDS MOST OF HIS TIME IN MIAMI, WAS KIDNAPPED ON 9 JULY BY SEVERAL UNKNOWN PERSONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0326.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0326.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 4 AUG 89 (ACAN - EFE) -- [TEXT] POLICE REPORTED TODAY THAT RENE LOPEZ, AN IMMIGRATION OFFICIAL AND LEADER OF THE RULING CHRISTIAN DEMOCRATIC PARTY [PDC], WAS SHOT TO DEATH AFTER HE WAS KIDNAPPED BY UNIDENTIFIED MEN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0326.xhtml#263">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0326.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE AUTHORITIES DISCLOSED TODAY THAT LOPEZ, WHO WORKED AT THE INTERNATIONAL AIRPORT'S IMMIGRATION DEPARTMENT, WAS KIDNAPPED ON 2 AUGUST AND HIS BODY WAS FOUND IN SOUTHERN GUATEMALA CITY TODAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0373.xhtml#291">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0373.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO THE POLICE, APPROXIMATELY SIX UNIDENTIFIED PERSONS BEARING ARMS WENT TO HIS RESIDENCE THIS MORNING WITH THE INTENTION OF ROBBING OR KIDNAPPING CASTILLO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0373.xhtml#727">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0373.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IT WAS ALSO REPORTED TODAY THAT UNIDENTIFIED PERSONS KIDNAPPED A YOUNG COUPLE, SILVIA AZURDIA AND VICTOR RODRIGUEZ, AS THEY WERE LEAVING THEIR HOME IN GUATEMALA CITY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0381.xhtml#755">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0381.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THERE HAVE ALSO BEEN RAIDS IN ARCATAO, WHERE HONDURAN TROOPS HAVE RANSACKED SCHOOLS, THREATENED TEACHERS, REPRESSED AREA RESIDENTS, SET FIRES, STOLE VILLAGERS' PROPERTY, AND KIDNAPPED SOME CITIZENS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0386.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0386.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 25 AUG 89 (AFP) -- [TEXT] THE KIDNAPPING OF FIVE UNIVERSITY STUDENTS AND THE MURDER OF A PROMINENT BUSINESSMAN IN GUATEMALA CITY THIS WEEK SHOOK THE COUNTRY AND UNLEASHED A WAVE OF CRITICISM AGAINST THE VINICIO CEREZO ADMINISTRATION BECAUSE OF WHAT CRITICS CALLED "ITS INABILITY TO PROVIDE SECURITY TO CITIZENS."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0386.xhtml#1037">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0386.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE COMMITTEE ASKED THAT THE LIVES OF THE KIDNAP VICTIMS BE RESPECTED AND IT ADDED THAT SOME OF THEM WERE "ARRESTED BY THE SECURITY FORCES IN THE CAPITAL AND THE COUNTRY'S INTERIOR."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml#383">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">FOUR POLICE AGENTS FROM THE [WORDS INDISTINCT] BOYACA COMMAND KIDNAPPED BY THE SO-CALLED ARMY OF NATIONAL LIBERATION [ELN] WERE RELEASED ON 27 AUGUST AT 1800 IN GRENADA, EASTERN ANTIOQUIA DEPARTMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml#583">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE POLICE AGENTS WERE KIDNAPPED ON 14 AUGUST.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml#630">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">POLICE AGENTS JESUS BERNARDO BUSTOS, MIGUEL ANGEL GARCIA, JAIRO VARGAS, AND ESTEBAN GALVIZ WERE RETURNING TO TAMA AFTER PARTICIPATING IN THE NATIONAL POLICE ANNIVERSARY CELEBRATIONS WHEN THEY WERE KIDNAPPED ON THE MEDELLIN-BOGOTA HIGHWAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml#1166">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SHORTLY BEFORE THE RELEASE OF THESE POLICEMEN, THE ELN KIDNAPPED ELIECER DE JESUS ACEVEDO OLARTE, THE MAYOR OF ZARAGOZA MUNICIPALITY, IN ANTOQUIA DEPARTMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml#41">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 30 AUG 89 (DPA) -- [TEXT] THE LOCAL PRESS REPORTED TODAY THAT A FORMER LAW STUDENT WHO HAD BEEN KIDNAPPED HAS BEEN FOUND MURDERED IN A DISTRICT IN NORTHERN GUATEMALA CITY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml#352">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE BODY OF VICTOR ALFONSO POMAS, 30, WHO WAS KIDNAPPED ON 28 AUGUST, HAD KNIFE WOUNDS AND HIS EARS WERE STUFFED WITH COTTON.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml#477">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN ANOTHER DEVELOPMENT, THE RUJUNEL JUNAM COUNCIL OF ETHNIC COMMUNITIES HAS ISSUED A COMMUNIQUE DEMANDING THE RETURN OF SEVEN KIDNAPPED UNIVERSITY STUDENTS AND CONDEMNING THE DEATH OF NINE PEASANTS WHO WERE MEMBERS OF THE CIVIL SELF-DEFENSE PATROLS IN SAN CRISTOBAL VERAPAZ, IN NORTHERN GUATEMALA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml#300">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE SOURCE SAID THAT LIBERTO GUTIERREZ HAD RECENTLY DISAPPEARED AND APPARENTLY HAD BEEN KIDNAPPED BY MAOIST PEOPLE'S LIBERATION ARMY (EPL) GUERRILLAS, BUT THIS WAS NOT CONFIRMED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0404.xhtml#497">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0404.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN THIS WAY, THEY WERE ABLE TO KIDNAP AN EXILE FROM WHERE HE HAD TAKEN REFUGE AND MAKE HIM RETURN TO THE COUNTRY OF ORIGIN, WHERE MANY WERE TORTURED AND MURDERED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0412.xhtml#504">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0412.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AT FIRST IT WAS THOUGHT THEY MIGHT BE TWO OF THE SEVEN KIDNAPPED UNIVERSITY STUDENTS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0412.xhtml#679">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0412.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THIS AFTERNOON, THE ASSOCIATION OF UNIVERSITY STUDENTS (AEU), TRADE UNIONS, AND MEMBERS OF THE HUMAN RIGHTS GROUP "MUTUAL SUPPORT GROUP" (GAM), MARCHED TO DEMAND FROM THE GOVERNMENT THE REAPPEARENCE OF THE KIDNAPPED [WORDS INDISTINCT].</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0412.xhtml#981">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0412.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HE IS HECTOR SALVATIERRA, A NATIONAL UNIVERSITY STUDENT OF JOURNALISM, BRINGING TO EIGHT THE NUMBER OF STUDENTS KIDNAPPED DURING THE PAST FEW WEEKS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0430.xhtml#512">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0430.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ON SEVERAL OCASSIONS VENEZUELA HAD TO FACE RAIDS INTO ITS TERRITORY, AS WELL AS THE KIDNAPPING OF STOCKBREEDERS, SMUGGLING OF GOODS, AND DRUG TRAFFICKING BY COLOMBIAN GUERRILLAS AND CRIMINALS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0457.xhtml#969">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0457.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN LESS THAN 1 MONTH, 11 LEADERS OF THE ASSOCIATION OF UNIVERSITY STUDENTS HAVE BEEN KIDNAPPED BY UNIDENTIFIED MEN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0458.xhtml#41">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0458.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 10 SEP 89 (AFP) -- [TEXT] OFFICIAL GUATEMALAN SOURCES HAVE REPORTED THAT THE BODIES OF FOUR OF THE NINE GUATEMALAN UNIVERSITY STUDENTS WHO HAVE BEEN KIDNAPPED OVER THE PAST 2 WEEKS BY DEATH SQUADS WERE FOUND TODAY NEAR THE UNIVERSITY CAMPUS IN THE SOUTHERN PART OF GUATEMALA CITY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0458.xhtml#675">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0458.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN ADDITION, THE AUTHORITIES IDENTIFIED THE BODY OF LEONEL CHUTA CAMEY, OF THE LEGAL AND SOCIAL SCIENCE SCHOOL, WHO WAS ABDUCTED ON FRIDAY, 8 SEPTEMBER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0467.xhtml#41">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0467.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 12 SEP 89 (RADIO CADENA NACIONAL) -- [TEXT] CALI -- THE JUDGES AND COURT EMPLOYEES OF THE CALI JUDICIAL DISTRICT HAVE BEEN ON STRIKE SINCE YESTERDAY TO PROTEST THE KIDNAPPING OF ORLANDO CUELLER OSORIO, A COURT PROCESS SERVER OF THE 12TH MUNICIPAL PENAL COURT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0467.xhtml#309">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0467.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">FOUR HEAVILY ARMED INDIVIDUALS, WHO POSED AS SECRET AGENTS, KIDNAPPED MR CUELLAR OSORIO FROM HIS HOME IN THE FLORALIA NEIGHBORHOOD, IN EASTERN CALI.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0468.xhtml#381">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0468.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE FINDING COMES IN THE MIDDLE OF A WAVE OF KIDNAPPINGS, KILLINGS, AND DYNAMITE ATTACKS WHICH WERE UNLEASHED STARTING IN MID-JULY AND WHICH HAS SHOCKED THE GUATEMALANS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0468.xhtml#551">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0468.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE WHEREABOUTS OF SEVEN OTHER STUDENTS, KIDNAPPED BY ALLEGED DEATH SQUADS, REMAIN UNKNOWN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0468.xhtml#949">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0468.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">TWO OF THE MURDERED VICTIMS -- SILVIA AZURDIA AND HER HUSBAND VICTOR HUGO RODRIGUEZ -- WERE ABDUCTED BY EIGHT MEN IN CIVILIAN CLOTHES BEFORE WITNESSES WHO EVEN PROVIDED THE AUTHORITIES WITH THE LICENSE PLATE NUMBERS OF THE TWO VEHICLES USED BY THE KIDNAPPERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0485.xhtml#34">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0485.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, NO DATE (TELEONCE TELEVISION) -- [TEXT] [CONTINUED] THE SETTING OF EXPLOSIVE DEVICES AND THE KIDNAPPINGS ARE AN ATTEMPT BY SOME TO GIVE THE GOVERNMENT JUSTIFICATION FOR USING A STRONG HAND, PRESIDENT CEREZO SAID.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0502.xhtml#548">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0502.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE INCREASING DRUG TRAFFICKING ACTIVITY COINCIDES WITH A NEW WAVE OF KIDNAPPINGS, BOMBINGS, AND MURDERS IN GUATEMALA, AWAKENING FEARS THAT THE COUNTRY WILL RETURN TO THE VIOLENCE PREVALENT AT THE BEGINNING OF THE DECADE, WHEN THOUSANDS WERE KILLED BY DEATH SQUADS DURING MILITARY REGIMES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0506.xhtml#519">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0506.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE SUDDEN DISMISSAL OF THE MAIN CHIEFS OF THE DIC TOOK PLACE 3 DAYS AFTER PRESIDENT VINICIO CEREZO ADMITTED THAT THE SECURITY FORCES ARE INVOLVED IN A WAVE OF KIDNAPPING AND MURDER OF STUDENTS, WHICH HAS SHAKEN THE COUNTRY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0513.xhtml#34">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0513.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 22 SEP 89 (AFP) -- [TEXT] A HIGH-RANKING MILITARY SOURCE CLOSE TO VINICIO CEREZO'S GOVERNMENT SUGGESTED TODAY THAT "THE OFFICERS OF THE MOUNTAIN" [ODEM], A SECRET MILITARY ORGANIZATION THAT CONDUCTED TWO FAILED COUPS IN THE LAST YEAR AND A HALF, MAY BE INVOLVED IN THE WAVE OF TERRORIST EXPLOSIONS, ABDUCTIONS, AND POLITICAL MURDERS THAT HAS BEEN SCOURGING GUATEMALA OVER THE LAST 2 MONTHS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0518.xhtml#687">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0518.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE DEPARTURE OF TWO STUDENT LEADERS WHO SAID THEY HAD BEEN SUBJECTED TO PERSECUTION AND THREATS CAME LESS THAN 2 WEEKS AFTER THE DEATH OF FOUR UNIVERSITY STUDENTS WHO HAD BEEN KIDNAPPED, AND COINCIDED WITH THE PRESENCE IN GUATEMALA OF UN OBSERVER PETER KOOIJMANS, A SPECIALIST IN TORTURE ANALYSIS, WHO MAY REMAIN IN THE COUNTRY FOR 6 DAYS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0526.xhtml#312">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0526.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">COMMANDER NUNEZ DEMANDED THAT THE CONTRAS RELEASE MORE THAN 1,000 NICARAGUANS THEY HAVE KIDNAPPED AND STOP MURDERING CIVILIANS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml#34">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 26 SEP 89 (AFP) -- [TEXT] IN A FIRST RULING, CRIMINAL JUDGE 62 OF RIONEGRO MUNICIPALITY, NORTHWESTERN ANTIOQUIA DEPARTMENT, HAS ACQUITTED DRUG TRAFFICKERS PABLO ESCOBAR GAVIRIA AND GONZALO RODRIGUEZ GACHA OF CHARGES OF MASTERMINDING THE MURDER OF ATTORNEY GENERAL CARLOS MAURO HOYOS AND THE KIDNAPPING OF BOGOTA CITY MAYOR ANDRES PASTRANA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml#461">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HOYOS WAS KIDNAPPED ON 25 JANUARY 1988 AND WAS FOUND DEAD 8 HOURS LATER NEAR THE MEDELLIN AIRPORT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml#560">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PASTRANA WAS KIDNAPPED ON 22 JANUARY 1988 BUT WAS RESCUED BY THE ARMY 3 DAYS LATER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml#34">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 27 SEP 89 (ACAN-EFE) -- [TEXT] IT WAS REPORTED IN THIS CAPITAL TODAY THAT HEAVILY ARMED MEN KIDNAPPED THREE EUROPEANS IN TECUN UMAN LAST NIGHT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml#193">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THOSE WHO WERE KIDNAPPED ARE JOSE MARIA MARTINEZ, 55, FROM SPAIN; ROBERTO LIZARDI, 52, FROM FRANCE; AND LUIS ROSSI, 35, FROM ITALY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml#324">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE REPORT ON THE KIDNAPPINGS WAS MADE BY EDGAR AND LESBIA LEAL, OWNERS OF THE DON JOSE HOTEL LOCATED ON THE BORDER WITH MEXICO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml#628">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0528.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE HOTEL OWNERS SAID THEY KNOW NOTHING OF THE REASON FOR THE TRIPLE KIDNAPPING OR THE IDENTITIES OF THE PERPETRATORS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml#34">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GUATEMALA CITY, 29 SEP 89 (ACAN-EFE) -- [TEXT] POLICE SOURCES REPORTED TODAY THAT A SPANIARD, A FRENCHMAN, AND AN ITALIAN, KIDNAPPED IN TECUN UMAN ON 27 SEPTEMBER, HAVE BEEN RELEASED WITHIN THE PAST FEW HOURS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml#243">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SPANIARD JOSE MARIA MARTINEZ, FRENCHMAN ROBERTO LISANDY, AND ITALIAN DINO ROSSY, WHO WERE STAYING AT A TECUN UMAN HOTEL, WERE KIDNAPPED BY ARMED MEN WHO TOOK THEM TO AN UNKNOWN PLACE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml#905">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ROSSY WAS ENJOYING HIS VACATION HERE, WHEN HE WAS KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml#965">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0537.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO THE POLICE, THE PERSONS WHO KIDNAPPED THE THREE MEN GOT THEM DRUNK BEFORE RELEASING THEM SO THAT THEY WOULD LOSE TRACK OF TIME AND BE UNABLE TO IDENTIFY WHERE THEY HAD BEEN HELD CAPTIVE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml#34">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 1 OCT 89 (EFE) -- [TEXT] THE COLOMBIAN NATIONAL LIBERATION ARMY [ELN] GUERRILLA MOVEMENT, WHICH KIDNAPPED SPANISH BUSINESSMAN PABLO MARTIN BERROCAL ALMOST 2 MONTHS AGO IN QUITO, IS DEMANDING 1 BILLION PESETAS RANSOM FOR HIS RELEASE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml#481">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">COLOMBIAN GUERRILLAS, DISGUISED AS POLICEMEN, KIDNAPPED THE 55-YEAR-OLD BUSINESSMAN LAST 9 AUGUST AT THE HOTEL WHERE BERROCAL WAS STAYING IN THE DOWNTOWN SECTION OF THE ECUADORAN CAPITAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml#902">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN HAS NOT ANNOUNCED THE MOTIVE FOR THE KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml#1645">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN, A MARXIST-LENINIST ORIENTED GROUP THAT HAS BEEN INVOLVED IN ARMED STRUGGLE FOR 25 YEARS, HAS BEEN CHARACTERIZED BY ITS ATTACKS ON THE COLOMBIAN OIL ENTERPRISE AND FREQUENT KIDNAPPINGS OF NEWSMEN AND POLITICIANS OF THE COUNTRY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml#355">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">YESTERDAY SEVERAL ARMED MEN KIDNAPPED JARAMILLO, THE BISHOP OF ARAUCA, AND HIS ASSISTANT, ELMER MUNOZ, BUT LATER RELEASED THE LATTER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0557.xhtml#1743">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0557.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ROUNDUPS ARE ALSO BEING CARRIED OUT TO FIND LOCAL TELEVISION MAGNATE HECTOR DELGADO PARKER, WHO WAS APPARENTLY KIDNAPPED BY THE MRTA DURING AN INCIDENT IN WHICH DELGADO'S DRIVER WAS KILLED AND HIS BODYGUARD WOUNDED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0557.xhtml#1962">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0557.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE KIDNAPPING WAS CARRIED OUT BY A GROUP OF PEOPLE, TWO OF WHOM WERE DRESSED IN POLICE UNIFORMS, IN THE STREETS OF LIMA ON 4 OCTOBER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0566.xhtml#3646">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0566.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CASE NO. 959/85 ENTITLED: "METZ, HEINRICH FRANZ, ON KIDNAPPING AND EXTORTION": MAGARIO, RAUL JOSE MELCHOR; DALEO, GRACIELA BEATRIZ; CLASIREGUI, MARCELINO EDUARDO; QUINTEROS, JOSE DANIEL; LARRALDE, AMALIA MARIA; CUBAS, LISANDRO RAUL; MENDEZ, JORGE; WEISSEN, ANA DORA; ALBERTI DE MURPHY, GRACIELA ESTELA; MURPHY, SANTIAGO ULISES; LUJAN, JESUS MARIA; SORIA, RICARDO; AHUMADA, ROBERTO JOSE; PORTOMENE, ALICIA; ESPINOSA, EDUARDO; GOMEZ, NORBERTO; MORCILLO, MARIA ALICIA; CREUS, CARLOS; SCHMELIN, GERMAN; ISLAS, JOSE LUIS; KHUN, GUILLERMO ADRIAN; MARCUS, ADRIANA RUTH; GRIGENA, GUSTAVO ALBERTO; BERGER, MARIA ANTONIA; PASTORIZA, LILIA VICTORIA; LARRALDE, LUZ MARIA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0566.xhtml#4495">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0566.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CASE NO. 41811: ON THE INVESTIGATION OF THE KIDNAPPING AND EXTORTION OF JUAN AND JORGE BORN [NO QUOTATION MARKS AS PUBLISHED] : MAGARIO, RAUL JOSE MELCHOR.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml#46">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CUCUTA, 13 OCT 89 (AFP) -- [TEXT] THE FAMILY OF NORBERTO RODRIGUEZ RODRIGUEZ, THE BROTHER-IN-LAW OF VENEZUELAN PRESIDENT CARLOS ANDRES PEREZ, SAID TODAY THAT THE PEOPLE WHO KIDNAPPED 72-YEAR-OLD RODRIGUEZ RODRIGUEZ ARE ASKING FOR $10 MILLION, APPROXIMATELY 4.1 BILLION PESOS, FOR HIS RELEASE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml#339">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">INES RODRIGUEZ COLMENARES, DAUGHTER OF THE KIDNAPPED MAN, TODAY READ A STATEMENT ON THE PRIVATELY OWNED RCN [RADIO CADENA NACIONAL], THE MAIN RADIO STATION ALONG THE COLOMBIAN - VENEZUELAN BORDER, IN WHICH THE FAMILY STATES THAT THE SUM REQUESTED IS "UNIMAGINABLE."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml#604">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">RODRIGUEZ, FORMER VENEZUELAN CONSUL IN CUCUTA, WAS KIDNAPPED ON 14 JULY BY FOUR PERSONS WHO HAD REMAINED SILENT UNTIL A FEW HOURS AGO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml#616">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LAST THURDAY [12 OCTOBER], THE WEEKLY "CAMBIO," WHICH IS DESCRIBED BY POLICE SOURCES AS THE MRTA'S UNOFFICIAL MOUTHPIECE, REPORTED THAT THE MRTA -- WHICH UPHOLDS THE BELIEFS OF GUERRILLA ERNESTO "CHE" GUEVARA -- KIDNAPPED IMPRESARIO DELGADO PARKER ON 4 OCTOBER 1989 IN LIMA, SAYING THAT HE WILL BE TRIED "BY A REVOLUTIONARY COURT."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml#1056">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">POLAY TOLD "LA REPUBLICA" THAT THE KIDNAPPING OF THE IMPORTANT PERUVIAN TELEVISION IMPRESARIO IS OF A"POLITICAL" NATURE AND IS DIFFERENT FROM OTHER KIDNAPPINGS OF OTHER PROMINENT TYCOONS CARRIED OUT BY THE MRTA PEOPLE TO OBTAIN RANSOM MONEY, AND THAT, THEREFORE, THE PETITION THAT WILL BE MADE "MUST BE POLITICAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml#1370">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">POLAY TOLD "LA REPUBLICA" THAT HE IS NOT RESPONSIBLE FOR DELGADO PARKER'S KIDNAPPING, A BLOODY ACTION IN WHICH THE IMPRESARIO'S DRIVER WAS KILLED AND THE IMPRESARIO'S BODYGUARD WAS INJURED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml#1720">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0577.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">POLAY, HOWEVER, ADMITTED THE POSSIBILITY OF AN EXCHANGE DEAL BECAUSE "THE KIDNAPPING IS POLITICAL AND THE PETITION THAT WILL BE MADE MUST BE POLITICAL."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0599.xhtml#1913">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0599.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ASKED ABOUT THE MONEY COLLECTED IN THE KIDNAPPING OF IMPRESARIO JORGE BORN, ROBERTO PERDIA SAID THAT "THIS MATTER WAS NOT DISCUSSED" WITH PRESIDENT MENEM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0599.xhtml#2367">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0599.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ASKED IF THE MONEY OBTAINED FROM THE KIDNAPPING OF BORN WOULD BE RETURNED, PERDIA RESPONDED THAT "IT WILL BE RETURNED TO PEOPLE WHO CAN BEST USE IT; WE BELIEVE THAT NO ONE CAN REFUSE OR BLOCK THIS MONEY FROM BEING RETURNED TO ITS LEGITIMATE OWNERS, THE PEOPLE, WHO BUILT THE COUNTRY'S WEALTH WITH THEIR LABOR."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0603.xhtml#3185">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0603.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OVER A YEAR AGO, GOMEZ MARTINEZ WAS THE TARGET OF AN ATTACK BY THE THE EXTRADITABLES, WHO TRIED TO KIDNAP HIM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0614.xhtml#197">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0614.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">REYNOSO WAS EXTRADITED FROM COLOMBIA TO BE TRIED HERE ON CHARGES OF MURDER, KIDNAPPING, DRUG TRAFFICKING, ROBBERY, AND OTHER CRIMES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0646.xhtml#1607">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0646.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE BRUTAL MURDER OF JECAR NEGHME, UNSOLVED LIKE SO MANY OTHERS, HAS BEEN FOLLOWED BY OTHER SERIOUS EVENTS INCLUDING THE KIDNAPPING OF THE DRIVER OF VOLODIA TEITELBOIM, THE SECRETARY GENERAL OF THE COMMUNIST PARTY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0653.xhtml#1425">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0653.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN ANOTHER TURN OF EVENTS, THE ARMY HAS ACCUSED THE GUERRILLAS OF KIDNAPPING APPROXIMATELY 30 PEASANTS IN CUSCATLAN AND SANTA ANA DEPARTMENTS, LOCATED TO THE NORTH AND WEST OF SAN SALVADOR, RESPECTIVELY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml#31">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 9 NOV 89 (NOTIMEX) -- [TEXT] THE POLICE HAS REPORTED THAT ALLEGED MEMBERS OF THE ARMY OF NATIONAL LIBERATION (ELN) KIDNAPPED TODAY TWO MEXICANS IN THE ARAUCA OIL ZONE, NEAR THE COLOMBIAN-VENEZUELAN BORDER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml#244">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ENGINEERS ARMANDO CAYCEDO CAMARGO AND CARLOS MORES, WHO WORK FOR THE MEXICAN CONSORTIUM ICA, WERE KIDNAPPED WHEN THEY WERE TRAVELING TOWARD THE SARABENA TOWNSHIP, IN THE NORTHEASTERN PART OF THE COUNTRY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml#31">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MEXICO CITY (MEXICO), 10 NOV 89 (NOTIMEX) -- [TEXT] THE MEXICAN GOVERNMENT HAS ASKED COLOMBIA TO INTERVENE IN PROTECTING AND FACILITATING THE RELEASE OF THE MEXICAN CITIZEN JUAN CARLOS MIR, KIDNAPPED LAST TUESDAY BY A COLOMBIAN GUERRILLA GROUP.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml#397">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IT ADDED THAT IT RECEIVED CONFIRMATION YESTERDAY OF MIR'S KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml#655">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE GUERRILLA GROUP CALLED ARMY OF NATIONAL LIBERATION (ELN) CLAIMED RESPONSIBILITY FOR THE KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0700.xhtml#674">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0700.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO JOYA, THESE CLANDESTINE STRUCTURES ARE DIRECTED BY HIGH-RANKING OFFICERS WHO KIDNAP, MURDER AND CAUSE THE DISAPPERANCE OF LABOR UNION MEMBERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0726.xhtml#232">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0726.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THAT IS WHY WE ASK THOSE PERSONS WHO HAVE BEEN KIDNAPPED OR ARE BEING HELD HOSTAGE BY TERRORISTS TO BE PATIENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0735.xhtml#1167">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0735.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">FEELING HOUNDED AND HEMMED IN BY THE ARMED FORCES TROOPS, THE FMLN TERRORISTS CONTINUE TO RESORT TO [3-SECOND BREAK IN RECEPTION] TO KIDNAP YOUTHS, ON THIS OCCASION FROM THE AMATEPEC NEIGHBORHOOD ON THE OUTSKIRTS OF SAN SALVADOR.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml#39">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SAN SALVADOR, 14 NOV 89 (ACAN - EFE) -- [TEXT] POLITICAL AND DIPLOMATIC SOURCES TODAY REVEALED THAT THE GUERRILLAS TRIED TO KIDNAP SALVADORAN PRESIDENT ALFREDO CRISTIANI AND OTHER OFFICIALS OF THE RIGHT-WING GOVERNMENT ON 11 NOVEMBER WHEN THEY LAUNCHED THE LARGEST MILITARY OFFENSIVE OF THE PAST 10 YEARS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml#344">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">A NEIGHBOR OF THE PRESIDENT IN THE LUXURIOUS RESIDENTIAL AREA OF "MAQUILISHUAT," IN NORTHERN SAN SALVADOR, SAID THAT "THE GUERRILLAS MANAGED TO ENTER PRESIDENT CRISTIANI'S HOME, BUT COULD NOT KIDNAP HIM BECAUSE HE WAS NOT THERE."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml#573">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LEADERS OF THE RULING NATIONALIST REPUBLICAN ALLIANCE (ARENA) HAVE CONFIRMED THAT GUERRILLAS OF THE FARABUNDO MARTI NATIONAL LIBERATION FRONT (FMLN) HAD PLANNED TO KIDNAP PRESIDENT CRISTIANI "BUT WE DO NOT KNOW FOR WHAT PURPOSE."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml#802">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">A RANKING OFFICIAL TOLD ACAN - EFE THAT "WE HAVE AGREED THAT IN THE EVENT OF A KIDNAPPING THERE WOULD BE NO RESCUE."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml#1060">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0742.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">DIPLOMATIC CIRCLES ARE ALSO COMMENTING ON REPORTS REGARDING THE KIDNAPPING OF CRISTIANI AND TOP GOVERNMENT LEADERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0770.xhtml#734">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0770.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OFISEM ALSO REPORTS THAT 17 KIDNAP CASES WERE REPORTED IN SEPTEMBER, AGAINST 19 CASES IN AUGUST.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SAN SALVADOR, 21 NOV 89 (DOMESTIC SERVICE) -- [COMMUNIQUE] [NATIONAL INFORMATION CENTER] [TEXT] THE ARMED FORCES HAS FOILED THE TERRORIST ATTEMPT TO KIDNAP THE OAS SECRETARY GENERAL IN THIS CAPITAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml#231">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SPECIALIZED ARMY TROOPS THIS MORNING FOILED AN ATTEMPT BY THE FMLN TERRORIST GROUPS TO KIDNAP OAS SECRETARY GENERAL JOAO CLEMENTE BAENA SOARES, WHO WAS STAYING AT THE EL SALVADOR SHERATON HOTEL, IN THE ESCALON NEIGHBORHOOD IN THE NORTHWESTERN PART OF THE CAPITAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml#666">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE FIRST GROUP PROVIDED MAXIMUM PROTECTION TO THE ILLUSTRIOUS OAS SECRETARY GENERAL, WHILE THE SECOND GROUP OVERPOWERED THE GROUP OF EXTREMISTS WHO HAD ENTERED THE HOTEL LOBBY WITH THE INTENTION OF KIDNAPPING BAENA SOARES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml#1149">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0835.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AT THE PRESENT TIME, IN A DESPERATE ATTEMPT TO SAVE THEIR LIVES DUE TO THE SPEEDY REACTION OF THE ARMED FORCES, THE TERRORIST GROUP THAT HAD INTENDED TO KIDNAP THE OAS SECRETARY GENERAL TOOK A GROUP OF HOTEL GUESTS AS HOSTAGES AND ARE HOLDING THEM CAPTIVE ON ONE OF THE FLOORS OF THE HOTEL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0836.xhtml#407">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0836.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE HOSTAGES WERE U.S. CITIZENS WHO WERE TAKEN HOSTAGE WHEN THE COWARDLY FMLN KILLERS ATTACKED THE HOTEL IN AN ATTEMPT TO KIDNAP OAS SECRETARY GENERAL JOAO BAENA SOARES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0840.xhtml#503">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0840.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">DURING THE OPERATION THE FMLN TERRORISTS ATTEMPTED TO KIDNAP OAS SECRETARY GENERAL CLEMENTE BAENA SOARES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0920.xhtml#3944">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0920.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN OTHER WORDS, AFTER THIS, WHILE EXTRADITION WAS INAPPLICABLE, ATTORNEY GENERAL CARLOS MAURO HOYOS WAS SLAIN, BOGOTA MAYOR ANDRES PASTRANA WAS KIDNAPPED, AND NEWSMAN GUILLERMO CANO, POLITICAL LEADER JAIME PARDO LEAL, AND HUNDREDS OF COLOMBIANS WERE SACRIFICED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0963.xhtml#577">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0963.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE AEU LEADER HAD CONSTANTLY BEEN RECEIVING ANONYMOUS DEATH THREATS FOLLOWING THE KIDNAPPING AND KILLING OF SEVERAL OF HIS COMRADES OVER 3 MONTHS AGO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0976.xhtml#873">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0976.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">VELEZ, 38, WHO WAS HANDLING SEVERAL KIDNAPPING AND DRUG TRAFFICKING CASES, HAD BEING THREATENED, BUT HE HAD NO BODYGUARDS, RELATIVES OF THE VICTIM SAID.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 12 DEC 89 (EFE) -- [TEXT] BRITISH ENGINEER JOHN MARCK JONES [NAME AS RECEIVED], KIDNAPPED BY THE MARXIST-LENINIST NATIONAL LIBERATION ARMY [ELN], RESIDES IN COLOMBIA AND BOTH HIS WIFE AND TWO CHILDREN ARE COLOMBIANS, IT WAS OFICIALLY REPORTED TODAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml#1045">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">JONES' POWER COMPANY BUILDS POWER SUBSTATIONS IN OIL CAMPS IN THE AREA WHERE HE WAS KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml#1139">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">A POLICE SOURCE TOLD EFE THAT A SPECIALIZED AGENCY, WHICH IS INVESTIGATING THE KIDNAPPING, IS TRYING TO DETERMINE THE ENGINEER'S WHEREABOUTS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml#1280">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN HAS A LONG HISTORY OF KIDNAPPINGS AND EXTORTION AGAINST OIL GROUPS, BOARD OF DIRECTORS MEMBERS, AND ENGINEERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0982.xhtml#1114">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0982.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OTHERWISE, THE PRESIDENT ADDED, IT WOULD BE TANTAMOUNT TO GIVING THE OTHER, RIGHT-WING, TERRORISTS, WHO ATTACK STUDENTS, ENGAGE IN KIDNAPPING, AND PLACE BOMBS, THE RIGHT TO PARTICIPATE IN AN INTERNAL DIALOGUE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1003.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1003.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SANTIAGO, 16 DEC 89 (DOMESTIC SERVICE) -- [TEXT] CHILEAN TERRORISTS MIGHT BE INVOLVED IN THE KIDNAPPING OF IMPORTANT BRAZILIAN BUSINESSMAN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1003.xhtml#799">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1003.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE WEALTHY BUSINESSMAN WAS KIDNAPPED LAST MONDAY IN SAO PAULO BY A GROUP THAT DROVE UP IN AMBULANCE AS DINIZ WAS JOGGING IN A CITY PARK.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1003.xhtml#1040">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1003.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">POLICE SOURCES EXPRESSED THE SUSPICION THAT THE KIDNAPPERS OF ABILIO DINIZ ARE FROM THE SAME GROUP THAT KIDNAPPED THE PUBLISHER LUIZ SALLES AND RELEASED HIM AFTER A RANSOM OF $2.5 MILLION WAS PAID.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1010.xhtml#3337">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1010.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">EVEN THOUGH THERE WERE SOME BLOODY EVENTS, SUCH AS THE MURDER OF THE JESUIT PRIESTS, ALONG WITH A GREAT AMOUNT OF KIDNAPPINGS AND MISSING PEOPLE AND ARRESTS OF MEMBERS OR LEADERS OF GRASSROOT PEOPLE'S MOVEMENTS, WE FEEL THAT THE ARMY AND REPRESSIVE CORPS ARE INCAPABLE OF ATTENDING TO THE FMLN OFFENSIVE AND THE BESIEGEMENT AT THE SAME TIME THAT THEY ARE TRYING TO CARRY OUT THEIR ANNIHILATION OF THE PEOPLE'S MOVEMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1012.xhtml#212">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1012.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE BUSINESSMAN WAS KIDNAPPED ON 11 DECEMBER AND RELEASED ON 17 DECEMBER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1012.xhtml#286">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1012.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO THE POLICE, THE INVESTIGATIONS ARE ALSO HELPING TO CLARIFY THE KIDNAPPING OF ANOTHER BUSINESSMAN, LUIS SALES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1045.xhtml#1287">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1045.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MINISTER LEMOS ALSO TALKED ABOUT THE WAVE OF KIDNAPPINGS THAT IS ROCKING THE COUNTRY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1045.xhtml#1480">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1045.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HE SAID THAT WE CANNOT CONTINUE TO JUSTIFY THE USE OF KIDNAPPING AS A POLITICAL WEAPON AND ADDED THAT THE GOVERNMENT WILL DEAL WITH ALL THOSE INVOLVED IN KIDNAPPINGS AS COMMON CRIMINALS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1049.xhtml#1610">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1049.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN THEIR COMMUNIQUE, WHICH WAS DELIVERED THROUGH TWO WOMEN WHO WERE KIDNAPPED AND RELEASED IN MEDELLIN, SEAT OF THE CARTEL BY THE SAME NAME, THE DRUG TRAFFICKERS RECOGNIZED THE STATE'S VICTORY OVER THE CRIMINAL ORGANIZATION AND AT THE SAME TIME OFFERED TO ABIDE BY THE LAWS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml#32">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 17 JAN 90 (INRAVISION TELEVISION CADENA 1) -- [TEXT] ON LEARNING OF THE EXTRADITABLES' STATEMENT CONCERNING THE RELEASE OF KIDNAPPED PERSONS AND THE SUSPENSION OF DRUG- TRAFFICKING ACTIVITIES, GOVERNMENT MINISTER CARLOS LEMOS SIMMONDS, EXPRESSING HIS SATISFACTION, SAID TODAY THAT THE GOVERNMENT HAS WON THE WAR AGAINST DRUG-TRAFFICKING WITHOUT ENGAGING IN ANY NEGOTIATIONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml#1185">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HE ADDED THAT NEW MEASURES AIMED AT STOPPING KIDNAPPINGS IN THE COUNTRY ARE BEING STUDIED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml#1275">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">[BEGIN RECORDING] [LEMOS SIMMONDS] OF COURSE NOT ALL THE KIDNAPPED PEOPLE HAVE BEEN RELEASED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml#1369">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LET US HOPE THAT THE DRUG-TRAFFICKERS AND EXTRADITABLES' PROMISE -- THAT NO ONE WILL BE KIDNAPPED AGAIN -- IS KEPT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml#1485">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1052.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE TRUTH IS I CANNOT SAY THAT THERE WILL BE NO MORE KIDNAPPINGS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1057.xhtml#1982">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1057.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE COUNTRY LONGS FOR THE RELEASE OF ALL THOSE WHO HAVE BEEN ABDUCTED AND THE DEFINITIVE SUSPENSION OF DRUG TRAFFICKING ACTIVITIES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1062.xhtml#344">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1062.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AS YOU WILL RECALL, MONTOYA WAS KIDNAPPED ON 20 DECEMBER BY THE EXTRADITABLES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml#298">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WHAT DO YOU THINK ABOUT KIDNAPPINGS?</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml#545">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OF COURSE, THIS ALSO MEANS THAT WE HAVE TO ABANDON PRACTICES LIKE KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1077.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1077.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">NO CITY, NO DATE -- [TEXT] IN THEIR INITIAL PEACE PROPOSAL, THE EXTRADITABLES PROMISED THE SUSPENSION OF SHIPMENTS OF COCAINE TO THE UNITED STATES, THE SURRENDER OF WEAPONS, AND THE RELEASE OF PEOPLE THEY HAVE KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1077.xhtml#603">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1077.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE COMMUNIQUE STATES THAT THE EXTRADITABLES HAVE BEEN THE VICTIMS OF UNSCRUPULOUS PEOPLE WHO CALLED THE MEDELLIN MEDIA TO SAY THAT THE EXTRADITABLES ARE RESPONSIBLE FOR THE KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1080.xhtml#1914">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1080.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PRESIDENT CEREZO SAID: "THE COMMISSION'S TASK IS TO CLEAR ALL DOUBTS AND PROVE THAT THE GOVERNMENT HAS HAD ABSOLUTELY NOTHING TO DO WITH THE KIDNAPPING AND SUBSEQUENT ASSASSINATION OF THESE TWO PERSONS."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1081.xhtml#530">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1081.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN ADDITION, THE ARMY'S INTENSIVE ACTIONS ARE ALSO DUE TO THE DESIRE TO PUT A STOP TO FARC ATTACKS AND KIDNAPPINGS OF POLITICAL AND ECONOMIC LEADERS IN THE AREA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1087.xhtml#317">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1087.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HOWEVER, ONCE THEY HAVE OUTLIVED THEIR USEFULNESS, NOT ONLY ARE THEY ABANDONED, BUT NOW THEY ARE EVEN KIDNAPPED, JAILED, AND SENTENCED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1092.xhtml#399">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1092.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THEIR KIDNAPPING AND SUBSEQUENT MURDER TOOK PLACE IN OUR COUNTRY AND THUS, GUATEMALAN AUTHORITIES, WITHOUT ANY KIND OF MEDDLING, SHOULD SOLVE THIS CASE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1096.xhtml#1384">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1096.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PONCE ADDED THAT 1,980 PEOPLE, MOST OF THEM YOUTHS, HAVE BEEN KIDNAPPED BY THE REBELS SINCE 11 NOVEMBER AND ARE RECEIVING GUERRILLA TRAINING IN CHALATENANGO, MORAZAN, AND USULUTAN DEPARTMENTS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1097.xhtml#2421">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1097.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THIS WEEK LONDONO AND FIGUEREDO TOURED THE EXTENSIVE FRONTIER BETWEEN THE TWO COUNTRIES AND DIRECTLY LEARNED ABOUT THE SITUATION AT THE COLOMBIAN-VENEZUELAN BORDER, WHERE SMUGGLING OF GOODS, DRUG TRAFFICKING, AND KIDNAPPINGS PROLIFERATE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml#987">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE REPORT ALSO REVEALED THAT THE INSURGENT ORGANIZATION WAS PLANNING TO CARRY OUT A SO-CALLED KEY OPERATION IN NORTHERN AND EASTERN COLOMBIA THAT WOULD HAVE INCLUDED THE KIDNAPPING OF PERSONALITIES, THE OCCUPATION OF TOWNS, AND THE ASSASSINATION OF TOP ARMED FORCES OFFICERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1104.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1104.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 13 FEB 90 (RADIO CADENA NACIONAL) -- [REPORT] [CARLOS PERDOMO] [TEXT] ONE OF THE U.S. CITIZENS WHO WAS KIDNAPPED IN MEDELLIN TODAY, PRESUMABLY BY GUERRILLAS OF THE ARMY OF NATIONAL LIBERATION [ELN], WAS RELEASED A FEW HOURS AFTER BEING TAKEN HOSTAGE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1104.xhtml#294">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1104.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO A POLICE REPORT, THE GUERRILLAS TOLD THE VICTIM THAT HIS KIDNAPPING WAS A WAY FOR HIS CAPTORS TO PROTEST PRESIDENT GEORGE BUSH'S VISIT TO COLOMBIA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MEDELLIN, 13 FEB 90 (RADIO CADENA NACIONAL) -- [TEXT] ONE OF THE TWO U.S. CITIZENS WHO WAS KIDNAPPED IN THE PAST FEW HOURS IN THE CAPITAL OF ANTIOQUIA HAS BEEN RELEASED BY THE ELN [ARMY OF NATIONAL LIBERATION] GUERRILLAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml#401">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">DONNELLY WAS TOLD BY THE REBELS THAT HE HAD BEEN KIDNAPPED TO PROTEST THE UPCOMING VISIT TO CARTAGENA BY PRESIDENT BUSH.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml#918">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AS OF TODAY, THE ONLY INFORMATION AVAILABLE IS ON KIDNAPPING VICTIM U.S. PROFESSOR DAVID LESLIE KENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml#1020">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">KENT WAS KIDNAPPED ON 13 FEBRUARY IN MEDELLIN, 250 KM NORTHWEST OF BOGOTA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml#1094">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ANOTHER U.S. CITIZEN, JAMES ARTHUR DONELLEY, WAS KIDNAPPED ON 12 FEBRUARY APPROXIMATELY 25 KM FROM MEDELLIN AND RELEASED ON 13 FEBRUARY WITH A MESSAGE WHICH REJECTED BUSH'S VISIT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 15 FEB 90 (EFE) -- [TEXT] U.S. PRIEST FRANCISCO AMICO WAS KIDNAPPED TODAY IN THE CITY OF CALI BY AN UNIDENTIFIED GROUP.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml#293">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ALTHOUGH NO ONE HAS YET CLAIMED RESPONSIBILITY FOR THE KIDNAPPING, IT COULD BE PART OF THE "OPERATION COLOMBIA," ANNOUNCED BY THE PRO-CASTRIST ARMY OF NATIONAL LILBERATION, CAMILIST UNION GUERRRILLA GROUP (UC-ELN) IN PROTEST FOR PRESIDENT GEORGE BUSH'S VISIT TO COLOMBIA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml#564">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">TWO OTHER U.S. CITIZENS WERE KIDNAPPED ON 12 AND 13 FEBRUARY BY A UC-ELN "NELSON MANDELA" COMMAND GROUP IN MEDELLIN, 250 KM NORTHEAST OF BOGOTA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml#916">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PRIEST RAFAEL LOPERA SAID THAT THE KIDNAPPED PRIEST IS A PARISH PRIEST AT THE "ANDRES SANIN" NEIGHBORHOOD ON THE EASTERN SIDE OF CALI, A CITY LOCATED 400 KM SOUTHWEST OF BOGOTA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1120.xhtml#188">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1120.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CARD NO. 43033612, ISSUED IN MEDELLIN, IN WHICH SHE SAYS THAT THE NATIONAL LIBERATION ARMY [ELN] HAS REQUESTED THE FORMATION OF A COMMISSION TO RECEIVE U.S. CITIZEN DAVID LESLIE KENT, WHO HAS BEEN KIDNAPPED BY THE ELN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1124.xhtml#3378">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1124.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE PRO-CASTRO GROUP IS THE ONLY ONE DETERMINED TO CONTINUE A SABOTAGE CAMPAIGN AGAINST THE ELECTIONS, CHARACTERIZED BY KIDNAPPINGS, ATTACKS ON RURAL VILLAGES, THREATS TO OFFICIALS, AND POLICE AND ARMY AMBUSHES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1127.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1127.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CALI, 20 FEB 90 (RADIO CADENA NACIONAL) -- [TEXT] THE CALI POLICE HAVE CONFIRMED THAT U.S. PRIEST FRANCISCO ANTONIO AMICO FERRARI, WHO HAD BEEN KIDNAPPED BY AN ELN [ARMY OF NATIONAL LIBERATION] CELL, WAS RELEASED IN NORTHERN CALI ON 19 FEBRUARY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1127.xhtml#567">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1127.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE PRIEST SAID THAT HE WAS TREATED WELL AND THAT HE HAD BEEN KIDNAPPED BY AN ELN CELL IN PROTEST OF U.S. PRESIDENT GEORGE BUSH'S RECENT VISIT TO CARTAGENA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1130.xhtml#388">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1130.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IT HAS BEEN CHARACTERIZED BY KIDNAPPINGS, ATTACKS ON TOWNS, MOBILE ROADBLOCKS ON THE MAIN HIGHWAYS, AND AMBUSHES SET FOR MILITARY AND POLICE PERSONNEL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1130.xhtml#1144">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1130.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THIS PRO-CASTRO GUERRILLA GROUP IS HOLDING U.S. CITIZENS DAVID LESLIE KENT AND JAMES ARTHUR DONELLY, WHO WERE KIDNAPPED IN MEDELLIN ON 12 AND 13 FEBRUARY, TO PROTEST U.S. PRESIDENT GEORGE BUSH'S VISIT TO THIS COUNTRY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1131.xhtml#271">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1131.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">U.S. PRIEST FRANCISCO AMICO FERRARI, KIDNAPPED ON 15 FEBRUARY IN CALI, WAS RELEASED ON 19 FEBRUARY BY THE ELN WITH A MESSAGE ABOUT "OPERATION COLOMBIA," WHICH DENOUNCES U.S. INTERVENTION IN THE "DIRTY WAR" WITH WHICH COLOMBIA IS AFFLICTED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1131.xhtml#810">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1131.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN IS ALSO STILL HOLDING SOCIAL CONSERVATIVE SENATOR JORGE SEDANO GONZALEZ, KIDNAPPED ON 9 FEBRUARY NEAR BUCARAMANGA, IN THE NORTHEASTERN PART OF THE COUNTRY, ALONG WITH HIS SECRETARY JORGE MESA, WHO WAS RELEASED ON MONDAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1138.xhtml#540">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1138.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE FARC -- THE COUNTRY'S OLDEST AND LARGEST GUERRILLA GROUP -- HAS EXPRESSED OVER THE LAST FEW WEEKS THEIR INTENTION OF DECREEING A CEASE-FIRE, ALTHOUGH YESTERDAY, ACCORDING TO ARMY SPOKESMEN, A FARC COLUMN KILLED SEVEN SOLDIERS AND KIDNAPPED 15 DURING AN ATTACK ON AN ARMY GARRISON.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MEDELLIN, 24 FEB 90 (AFP) -- [TEXT] TWO U.S. CITIZENS, WHO HAD BEEN KIDNAPPED BY GUERRILLAS ON 12 FEBRUARY IN ANTIOQUIA DEPARTMENT IN NORTHWESTERN COLOMBIA, WERE RELEASED TODAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml#838">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO THE TWO U.S. CITIZENS, THE ELN KIDNAPPED THEM AS PART OF THE SO-CALLED "OPERATION COLOMBIA" TO PROTEST THE RECENT PRESENCE OF U.S. PRESIDENT GEORGE BUSH IN COLOMBIA, WHICH HOSTED THE RECENT 15 FEBRUARY ARTIDRUG SUMMIT IN CARTAGENA, AND WHAT THEY CALLED "INCREASING U.S. INTERVENTION IN COLOMBIA."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1143.xhtml#992">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1143.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">POLICE SOURCES TODAY REPORTED IN AYACUCHO, 575 KM SOUTHEAST OF LIMA, THAT ACCORDING TO REPORTS BY RELATIVES, OVER THE PAST WEEK 30 YOUNG MEN WERE ABDUCTED BY SHINING PATH COLUMNS THAT INTERCEPT PASSENGER BUSES AND PRIVATE VEHICLES ON THE HIGHWAYS IN THE DEPARTMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1147.xhtml#1476">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1147.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">"THE MURDER AND KIDNAPPING OF STUDENTS, POLITICAL LEADERS, PEASANTS, AND WORKERS HAVE US DEEPLY WORRIED," HE ADDED, NOTING THAT "THE CONTINOUS REPORTS ABOUT UNKNOWN PERSONS WHO HAVE BEEN MURDERED OR KIDNAPPED IN THE COUNTRY'S RURAL AREAS HAVE NOT ONLY GREATLY DISTURBED PEOPLE IN GUATEMALA, BUT ALSO THE WORLD OVER."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 4 MAR 90 (RADIO CADENA NACIONAL) -- [TEXT] THE AUTHORITIES AND SECURITY ORGANIZATIONS HAVE BEEN SURPRISED BY THE SHOCKING WAVE OF KIDNAPPINGS CARRIED OUT THROUGHOUT THE NATIONAL TERRITORY BY THE SELF-STYLED ARMY OF NATIONAL LIBERATION, ELN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#284">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OVER THE PAST FEW HOURS, THE GROUP HAS KIDNAPPED 20 PEOPLE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#495">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO OFFICIAL REPORTS, 12 KIDNAPPINGS TOOK PLACE OVER THE PAST 18 HOURS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#576">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN CESAR DEPARTMENT, MEMBERS OF THE CAMILIST UNION KIDNAPPED LIBERAL DEPUTY DARIO QUINTERO PATINO, 42, IN THE DOWNTOWN SECTION OF AGUACHICA MUNICIPALITY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#730">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">NEWSMAN EMILIANO J. PACHECO, WHO WORKS FOR THE "ADVANCES OF CESAR" NEWSCAST OF THE ONDAS DEL CESAR RADIO STATION, WAS KIDNAPPED ALONG WITH THE POLITICAL LEADER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#890">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">EARLY ON SATURDAY MORNING, A GANG OF KIDNAPPERS, APPARENTLY ELN MEMBERS, KIDNAPPED CATTLEMAN MANUEL NARCISO MARTINEZ JAROCA, NEPHEW OF ANIBAL MARTINEZ ZURETA, CANDIDATE FOR MAYOR OF VALLEDUPAR AND FORMER COMPTROLLER GENERAL OF THE REPUBLIC.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1131">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN ADDITION, CELINA OSSA DE GOMEZ, CONSERVATIVE PARTY LEADER AND DEPUTY, WAS KIDNAPPED IN DOWNTOWN GRANADA, ANTIOQUIA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1250">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN TIBU, NORTE DE SANTANDER, MAYOR EDUARDO ROLON DIAZ AND MAYORAL CANDIDATE ALVARO SARMIENTO HERRERA WERE ALSO KIDNAPPED BY THE SO-CALLED ELN CAMILIST UNION.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1494">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AT NOON YESTERDAY, NEAR SAVANA DE TORRES, SANTANDER, ALVARO TORRES, AN EMPLOYEE OF THE AGRARIAN FUND; OSCAR CELIO TORRES GUTIERREZ, A SPOKESMAN FOR INCORA [COLOMBIAN INSTITUTE OF AGRARIAN REFORM]; MIGUEL CACEL, AN IMAT [EXPANSION UNKNOWN] OFFICIAL; AND A WORKER FROM PEDIAROZ WERE KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1786">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ELN IS ALSO HOLDING NOEL FRANCISCO ACEVEDO AND JAVIER IGNACIO PENA, THE MAYORS OF EL CARMEN AND CALIFORNIA, SANTANDER, RESPECTIVELY; AND LIBERAL PARTY DEPUTY JUAN CARLOS DUARTE, WHO WAS ABDUCTED BY THE ELN ON TENERIFE ROAD, IN THE MUNICIPAL JURISDICTION OF CONCEPCION.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2129">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ALONG THE ROAD FROM SAN VICENTE TO EL CARMEN, ALSO IN SANTANDER, GONZALO VASQUEZ ARDILA, MANAGER OF THE LOCAL AGRARIAN FUND, AND OLINDO MANTILLA ARDILA, A DIRECTOR OF THE (COTRAS MAGDALENA) COMPANY, WERE ALSO KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2349">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE TWO MEN WERE IN AN AUTOMOBILE WITH LICENSE PLATE UF-2171 WHEN THEY WERE ABDUCTED BY THE GUERRILLAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2453">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE DRIVER, MARCO TULIO GOMEZ, WAS ALSO KIDNAPPED, BUT RELEASED SEVERAL HOURS LATER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2631">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN CORDOBA, CATTLEMAN GERMAN SIERRA MEDINA WAS KIDNAPPED ALONG THE EL TORO ROAD OF PIEDRA ALTA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2727">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN CANALETE, ALSO IN CORDOBA, CATTLEMAN PEDRO PABLO MEJIA WAS KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2800">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HE WAS AT THE LA CANA ESTATE WHEN THE GUERRILLAS KIDNAPPED HIM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2863">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN PEDREGALES, ON THE ROAD FROM ZULIA TO SARDINATA, THE ELN KIDNAPPED BUSINESSMAN SERGIO ALARCON.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2961">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN EL CENTENARIO, EL CARMEN, SANTANDER, MEMBERS OF THE CAMILIST UNION KIDNAPPED LANDOWNER SAMUEL PLAZAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#3065">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE AUTHORITIES ALSO ANNOUNCED THAT POLICEMAN EDISON AGUDELO AGUDELO WAS KIDNAPPED BY MEMBERS OF THE CAMILIST UNION AS HE WAS ON HIS WAY TO FRAGUAS CORREGIMIENTO IN REMEDIOS, ANTIOQUIA, TO CASH A CHECK.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#3558">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WITH THIS SHOCKING WAVE OF KIDNAPPINGS, THE NUMBER OF SUCH ACTIONS IN COLOMBIA SO FAR IN 1990 HAS INCREASED TO 120.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1154.xhtml#1702">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1154.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ON 27 FEBRUARY U.S. AMBASSADOR THOMAS STROOK CRITICIZED THE GUATEMALAN AUTHORITIES' FAILURE TO PURSUE THE AUTHORS OF MURDERS AND OF KIDNAPPINGS OF POLITICAL, STUDENT, AND LABOR LEADERS, AND THUS WORSENED AN ATMOSPHERE OF CONFRONTATION THAT HAD RESURFACED ABOUT SIX MONTHS AGO WHEN AMBASSADOR STROOK, WHO HAD JUST ARRIVED IN GUATEMALA, OBJECTED TO THE APPOINTMENT OF COLONEL HUGO MORAN CARRANZA, FORMER DIRECTOR OF ADMINISTRATIVE CONTROL, TO THE POST OF MANAGER OF THE SANTO TOMAS DE CASTILLA PORT ENTERPRISE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml#307">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE MILITARY OPERATIVE LED TO THE CAPTURE OF 12 ELN MEMBERS WHO HAD KIDNAPPED SEVERAL CATTLE BREEDERS AND PROPERTY-OWNERS IN THE BORDER AREA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml#843">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OVER THE PAST FEW DAYS, ELN FRONTS HAVE KIDNAPPED SEVERAL MAYORS, GOVERNMENT OFFICIALS, AND CATTLE BREEDERS, AND THEY HAVE STOLEN PEASANTS' IDENTITY CARDS, WITHOUT WHICH THEY CANNOT VOTE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml#1230">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">A NATIONAL POLICE INTELLIGENCE REPORT SAYS THAT OCHOA AND ESCOBAR FIND THEMSELVES IN A PRECARIOUS SITUATION BECAUSE OTHER TRAFFICKER GROUPS HAVE WITHDRAWN THEIR SUPPORT AS THEY DO NOT WANT TO BE HELD ACCOUNTABLE FOR KIDNAPPINGS AND OTHER TERRORIST ACTS THEY HAVE NOT PERPETRATED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml#1510">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE REPORT FURTHER INDICATES THAT ESCOBAR, PRESSURED BY MILITARY OPERATIONS IN ANTIOQUIA, "WAS FORCED TO ORDER THE KIDNAPPINGS OF ALVARO DIEGO MONTOYA, (SON OF THE SECRETARY GENERAL OF THE PRESIDENCY) AND PATRICIA ECHEVARRIA (SISTER OF PRESIDENT BARCO'S SON-IN-LAW) AND HER DAUGHTER."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml#2257">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO MEDELLIN OFFICIALS, THE KIDNAPPINGS OF MONTOYA AND ECHEVARRIA ALSO HAD AN IMPACT ON THE RATE OF ATTRITION AMONG THE "EXTRADITABLES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1164.xhtml#42">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1164.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CLANDESTINE, 10 MAR 90 (RADIO VENCEREMOS) -- [TEXT] AS WE HAVE REPORTED IN THE PAST FEW DAYS, HONDURAN ARMY TROOPS HAVE ENTERED SALVADORAN TERRITORY THROUGH SAN MIGUEL AND MORAZAN DEPARTMENTS TO CARRY OUT KIDNAPPINGS AND ROBBERIES AND COMMIT ABUSES AGAINST SALVADORAN CIVILIANS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1183.xhtml#742">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1183.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LINARES ADDED THAT THE DECISION TO GRANT A SAFE-CONDUCT TO FORMER DEMOCRATIC REVOLUTIONARY PARTY LEGISLATOR LUIS "LUCHO" GOMEZ -- PRESENTLY AT THE CUBAN EMBASSY -- HAS BEEN REVOKED BECAUSE HE FACES CHARGES OF "KIDNAPPING AND PHYSICAL AND PSYCHOLOGICAL TORTURE AGAINST THE PANAMANIAN CITIZEN HERNAN ARIAS."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1188.xhtml#42">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1188.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LIMA, 16 MAR 90 (EFE) -- [TEXT] IT WAS REPORTED TODAY THAT MEMBERS OF THE PEASANT DEFENSE PATROL KILLED, WITH CLUBS AND MACHETES, THREE PEASANTS ALLEGEDLY INVOLVED WITH TERRORISTS AND KIDNAPPED 17 OTHERS IN A TOWN OF THE ANDEAN PROVINCE OF AYACUCHO, 576 KM SOUTHEAST OF LIMA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1188.xhtml#540">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1188.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WITNESSES SAID THAT THE MILITIA MEMBERS KILLED BROTHERS EFRAIN, ISAAC, AND MAXIMO PRADO, ON CHARGES OF BEING LINKED WITH SHINING PATH TERRORISTS, AND KIDNAPPED 17 ALLEGED SHINING PATH TERRORISTS WHO WERE TAKEN TO AN UNKNOWN PLACE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1189.xhtml#300">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1189.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO MARVIN FLORES, POLITICAL SECRETARY OF THE SANDINIST FRONT [SANDINIST NATIONAL LIBERATION FRONT], PEASANTS HAVE REPORTED THAT CONTRAS ARE INFILTRATING THROUGH JICARO AND MURRA AND THAT THEY STEAL, KIDNAP, AND MURDER ANYONE WHO DOES NOT COOPERATE WITH THEIR VANDALISM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1199.xhtml#852">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1199.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HE THEN TOUCHES ON THE CONTROVERSY REGARDING THE KIDNAPPING OF THE SON OF THE SECRETARY GENERAL OF THE PRESIDENCY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1199.xhtml#967">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1199.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BARCO SAYS: "THE GOVERNMENT, IN THE CASE OF THE KIDNAPPING OF DR. MONTOYA'S SON, AS ON OTHER UNFORTUNATE OCCASIONS, INCLUDING THE CASES OF DR. ANDRES PASTRANA AND DR. ALVARO GOMEZ, AND EVEN CASES IN WHICH MEMBERS OF THE ARMED FORCES HAVE BEEN KDNAPPED BY SUBVERSIVES, HAS CONSIDERED AS APPROPRIATE AND VALUABLE THE EFFORTS MADE BY THOSE WHO PERFORMED HUMANITARIAN DUTIES AND SHOWED GOOD WILL FOR THEIR RELEASE."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#42">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 31 MAR 90 (EFE) -- [REPORT] [JUAN JORGE FAUNDES] [TEXT] KIDNAPPING IS ONE OF COLOMBIA'S MOST PROFITABLE INDUSTRIES TO THE EXTENT THAT, ACCORDING TO POLICE STATISTICS, FOUR PEOPLE HAVE BEEN KIDNAPPED EVERY DAY SO FAR IN 1990, A FIGURE DOUBLE THAT OF THE SAME PERIOD IN 1989.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#324">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE JUDICIAL POLICE AND INVESTIGATIONS DIRECTORATE [DIJIN] THIS WEEK REPORTED THAT 326 PEOPLE HAVE BEEN KIDNAPPED FOR EXTORTION PURPOSES SO FAR THIS YEAR.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#478">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">DIJIN SAID THAT THE NUMBER OF KIDNAPPINGS IN THIS PERIOD DOUBLED THE NUMBER OF KIDNAPPINGS DURING THE SAME PERIOD IN 1989.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#945">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SOURCES CONSULTED BY EFE, BOTH POLICE SOURCES AND THOSE WHO STUDY THE COLOMBIAN REALITY, HAVE POINTED OUT THAT GUERRILLAS PARTICIPATE IN 20 TO 30 PERCENT OF THE KIDNAPPING BUSINESS AND COMMON CRIMINALS IN 70 TO 80 PERCENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#1167">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THESE PERCENTAGES OF PARTICIPATION IN THE INDUSTRY OF KIDNAPPING ARE ONLY ESTIMATES NEARLY IMPOSSIBLE TO CHECK BECAUSE IN MANY CASES GUERRILLAS KIDNAP PEOPLE TO FINANCE THEIR ACTIVITIES AND DO NOT CLAIM RESPONSIBILITY FOR IT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#1392">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IN ADDITION, MANY PEOPLE ARE KIDNAPPED BY COMMON CRIMINALS, BUT THE CRIME IS REPORTED AS BEING PERPETRATED BY GUERRILLAS IN AN ATTEMPT TO COVER UP THE MALEFACTOR'S ACTIONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#2743">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE MOST BELLIGERENT AND THE ONE THAT HAS USED KIDNAPPING TO THE FULLEST EXTENT IS THE PRO-CASTRO NATIONAL LIBERATION ARMY [ELN].</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml#299">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SENATOR ESTRADA VELEZ WAS KIDNAPPED ON 27 MARCH NEAR HIS HOME BY THE EXTRADITABLES, THE MEDELLIN CARTEL'S ARMED WING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#42">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 3 APR 90 (EFE) -- [TEXT] THE POLICE IN MEDELLIN, ANTIOQUIA DEPARTMENT, IN THE NORTHWESTERN PART OF COLOMBIA, HAVE OFFICIALLY ANNOUNCED THAT SENATOR FEDERICO ESTRADA VELEZ, ONE OF THE MOST IMPORTANT LEADERS OF COLOMBIA'S LIBERAL PARTY, WAS KIDNAPPED BY UNIDENTIFIED INDIVIDUALS IN MEDELLIN TODAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#554">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE POLITICIAN, LAWYER, AND FORMER COLOMBIAN AMBASSADOR TO ITALY WAS KIDNAPPED IN THE SAME PLACE WHERE COLONEL WALDEMAR FRANKLIN QUINTERO, CHIEF OF POLICE IN ANTIOQUIA, WAS ASSASSINATED LAST YEAR.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1236.xhtml#1820">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1236.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE EXTRADITABLES ANNOUNCED AT THE TIME THAT THEY WERE RELEGATING THEIR STRUGGLE TO PREVENT THE EXTRADITION OF COLOMBIANS TO THE UNITED STATES TO SECOND PLACE AND THAT THEIR TOP PRIORITY WOULD BE TO FIGHT THE STATE, THE OLIGARCHY AND THE MEMBERS OF THE POLICE WHO KIDNAP, TORTURE AND MURDER THE MEMBERS OF THEIR ORGANIZATION AND THEIR FAMILIES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1251.xhtml#35">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1251.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">QUITO, 30 APR 90 (AFP) -- [TEXT] ECUADORAN SOCIAL COMMUNICATIONS SECRETARY PEDRO SAAD ANNOUNCED TODAY THAT A GROUP OF COLOMBIANS DRESSED AS MILITARY MEN ON 28 APRIL KIDNAPPED U.S. CITIZEN SCOTT HEYNDAL, KILLED A COLOMBIAN, AND WOUNDED AN ECUADOREAN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1270.xhtml#686">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1270.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">GAM PRESIDENT NINETH DE GARCIA ADDED: "ALL THE CRIMES WERE COMMITTED BY MEN WHO HIDE IN ANONYMITY AND ARE RESPONSIBLE FOR THE KIDNAPPING AND DISAPPEARANCES IN OUR COUNTRY."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1270.xhtml#1089">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1270.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">"OUR ACTIVISTS IN THE GUATEMALAN HIGH PLATEAU AREA HAVE REPORTED SEVERAL TIMES TO OUR HEADQUARTERS THAT CHUPOL'CIVIL PATROL GUARDS HAVE KIDNAPPED THEIR RELATIVES, THAT TWO CEMETERIES EXIST IN THAT COMMUNITY, AND THAT OTHER CEMETERIES ARE LOCATED IN USPANTAN, EL QUICHE, ZACUALPA, AND THE REST OF THE MUNICIPALITIES IN THIS AREA," SHE SAID.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1290.xhtml#261">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1290.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IT ALSO CALLED SEVERAL MEDIA CLAIMING THAT IT HAD KIDNAPPED A HIGH SCHOOL STUDENT AND PLACED BOMBS IN SEVERAL GOVERNMENT OFFICES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1300.xhtml#1761">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1300.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE AVC LEADERS PLAN TO DISCUSS THE POSSIBILITY OF DELIVERING WEAPONS IN THE HANDS OF AVC MEMBERS TO A SOCIALIST INTERNATIONAL DELEGATION IN A CEREMONY SIMILAR TO ONE RECENTLY HELD BY THE 19-APRIL MOVEMENT IN COLOMBIA, WHICH IN THE PAST HAS STAGED SEVERAL WELL-KNOWN MILITARY ACTIONS, INCLUDING THE KIDNAPPING OF BUSINESSMAN NAIM ISAIAS WITH THE HELP OF THE AVC.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0003.xhtml#715">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0003.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MOREOVER, MEJIA OVERTURNED THE RULING ORDERING THE RELEASE OF ORLANDO LLOVERA BALLET, LIEUTENANT ISIDRO LOPEZ, MAJOR ALFREDO JIMENEZ, AND OTHER MEMBERS OF THE KIDNAPPING RING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0003.xhtml#890">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0003.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LARIOS DECIDED ON FRIDAY TO RELEASE THE MEMBERS OF THE KIDNAPPING RING, WHICH INCLUDED SOME ARMY OFFICERS AND SYMPATHIZERS OF THE RIGHTIST NATIONALIST REPUBLICAN ALLIANCE (ARENA), WHICH WON THE 19 MARCH PRESIDENTIAL ELECTIONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0003.xhtml#1505">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0003.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE KIDNAPPERS, SOME OF WHOM HAVE BEEN UNDER ARREST SINCE APRIL 1986, WERE ACCUSED OF KIDNAPPING SEVERAL BUSINESSMEN FOR HIGH SUMS OF MONEY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0015.xhtml#2803">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0015.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE GUATEMALAN REBELS BELIEVE THAT "THE CURRENT GOVERNMENT IS RESPONSIBLE FOR THE NEW WAVE OF REPRESSION AND TERROR THAT ONLY ADDS TO THE MORE THAN 100,000 PERSONS WHO HAVE BEEN MURDERED, 40,000 WHO HAVE BEEN KIDNAPPED OR ARE MISSING, 1 MILLION LOCALLY DISPLACED AND 46,000 WHO HAVE SOUGHT REFUGE IN MEXICO SINCE 1954."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0018.xhtml#331">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0018.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">OQUELI, LEADER OF THE NATIONAL REVOLUTIONARY MOVEMENT (MNR) AND HILDA FLORES, A GUATEMALAN SOCIAL DEMOCRATIC LEADER WERE ABDUCTED AND KILLED IN JANUARY BY UNIDENTIFIED INDIVIDUALS IN GUATEMALA CITY AS THEY WERE HEADING TO THE LA AURORA AIRPORT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0021.xhtml#2096">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0021.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE ASK ALL SALVADORANS TO DEMAND OF CRISTIANI THAT, WITHOUT FURTHER STRATAGEMS, HE CARRY OUT A SERIOUS NEGOTIATION; FULFILL HIS PLEDGE TO DEMOCRATIZE THE COUNTRY; STOP THE REPRESSION, KIDNAPPING, AND TORTURE; RELEASE ALL POLITICAL PRISONERS; GUARANTEE FREEDOM OF EXPRESSION; RESPECT REFORM; AND ABOLISH THE ECONOMIC MEASURES THAT ARE DEEPENING THE WAR.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0038.xhtml#2046">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0038.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SEVERAL REPATRIATED PERSONS RETURNING ON 23 AUGUST THROUGH LAS MANOS CONFIRMED THE PROBLEMS OF THE REFUGEES AT THE CAMPS: "THERE IS NO FREEDOM TO WORK, THE FOOD IS RATIONED, THE PEOPLE ARE ALWAYS HUNGRY, AND WE LIVED LIKE ANIMALS IN A CORRAL," IT WAS STATED BY ERNESTINA UMANZOR, WHO WAS KIDNAPPED AT THE CIFUENTES BORDER REGION AND LATER WAS REPATRIATED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0040.xhtml#350">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">"THE EXTRADITABLES" SENT A 7-POINT COMMUNIQUE TO SEVERAL MEDIA SOURCES IN MEDELLIN, CALLING ON THEIR MEN TO DEMAND LARGE SUMS OF MONEY FROM THE RELATIVES OF THE PERSONS THEY KIDNAP.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0040.xhtml#531">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THEY ALSO RECOMMEND THAT THE PERSONS WHO ARE GOING TO CARRY OUT THE ABDUCTIONS SHOULD SELECT THE VICTIMS FROM AMONG POLITICIANS AND MEMBERS OF THE COLOMBIAN BOURGEOISIE "WHO HAVE NEVER DISTINGUISHED THEMSELVES BY MAKING SOCIAL CONTRIBUTIONS TO THE COMMUNITY."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0042.xhtml#1719">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0042.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">NORIEGA BELIEVED THAT THE UNITED STATES WOULD CONTINUE TO SUPPORT SUBVERSION IN HIS COUNTRY, AND THAT THE U.S. DECISION TO SUPPORT THE OPPOSITION CURRENTLY IN EXILE WOULD PRODUCE MOVEMENTS AGAINST HIS REGIME, OR THAT A COMMANDO MIGHT ATTEMPT TO KIDNAP HIM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml#2842">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">[REPORTER] SOME OF THE COUNTRY'S POLITICAL LEADERS -- NOT ONLY IN NORTHERN SANTANDER, BUT IN SEVERAL AREAS OF THE COUNTRY -- ARE VERY CONCERNED ABOUT THE CONSTANT RAIDS BY SUBVERSIVE GROUPS, AND THEIR MURDERED MAYORS, OFFICIALS, AND POLITICAL LEADERS AND THE KIDNAPPING OF NATIONAL CIVIL REGISTRY OFFICE PERSONNEL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0062.xhtml#343">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0062.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO INITIAL REPORTS, THE ARMED MOVEMENT--THE MOST RADICAL OF THE GUERRILLA GROUPS IN THE COUNTRY--SENT THE MESSAGE THROUGH LUIS MESA PUERTA, A POLICE INSPECTOR OF EL TIGRE, WHO WAS KIDNAPED LAST FRIDAY FOR THIS PURPOSE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0065.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0065.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ROME (ITALY), 28 APR 89 (ANSA) -- [TEXT] THE ROME FOREIGN MINISTRY ON FRIDAY CONFIRMED THAT TWO ITALIAN ENGINEERS AND A SPANISH TECHNICIAN WERE KIDNAPPED THURSDAY IN COLOMBIA FROM A CONSTRUCTION SITE SOME THIRTY KILOMETERS FROM THE CITY OF MEDELLIN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0065.xhtml#552">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0065.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE FOREIGN MINISTRY ADDED THAT IT WAS IN CONSTANT CONTACT WITH ROME'S AMBASSADOR TO BOGOTA', FILIPPO ANFUSO, AND THAT THE EMBASSY'S STAFF WAS WORKING WITH LOCAL AUTHORITIES TO ASCERTAIN THE DYNAMICS OF THE KIDNAPPING AND WHO MAY HAVE BEEN RESPONSIBLE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0079.xhtml#2299">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0079.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE ENEMY FEELS HIS DAYS ARE NUMBERED AND HE EXPRESSES HIMSELF THOUGH VIOLENT ACTIONS WITH KIDNAPPINGS, EXTORTION, AND INDISCRIMINATE TERRORISM; BY DESTROYING OIL PIPELINES AND CONTAMINATING RIVERS, WATER BASINS, AND LAGOONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 3 APR 90 (INRAVISION TELEVISION CADENA 1) -- [REPORT] [JORGE ALONSO SIERRA VALENCIA] [TEXT] LIBERAL SENATOR FEDERICO ESTRADA VELEZ WAS KIDNAPPED ON 3 APRIL AT THE CORNER OF 60TH AND 48TH STREETS IN WESTERN MEDELLIN, ONLY 100 METERS FROM A METROPOLITAN POLICE CAI [IMMEDIATE ATTENTION CENTER].</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#570">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HOURS LATER, THROUGH ANONYMOUS TELEPHONE CALLS TO THE METROPOLITAN POLICE AND TO THE MEDIA, THE EXTRADITABLES CLAIMED RESPONSIBILITY FOR THE KIDNAPPING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0081.xhtml#340">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0081.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE EXTRADITABLES ALSO ANNOUNCED THAT THEY WILL RELEASE ALL THE PEOPLE THEY HAVE ABDUCTED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0083.xhtml#1079">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0083.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE LIST ALSO INCLUDES THE NAMES OF CIVILIANS INVOLVED IN THE KIDNAPPING OF SEVERAL SALVADORAN BUSINESSMEN EARLY IN THE DECADE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0096.xhtml#1046">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0096.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE GOVERNMENT STATES THAT ACCORDING TO ITS INVESTIGATION, THE LEADERS OF THE RIOT WERE JULIO ENRIQUE REYES GRANADOS, MARCO ANTONIO SANTIZO LINARES, AND VICTOR MANUEL VELIZ DUARTE, WHO ARE DOING TIME FOR KIDNAPPING CHILDREN, EXTORTION, MURDER, ROBBERY, ASSAULT AND BATTERY, AND OTHER CRIMINAL ACTIVITIES.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0027.xhtml#2431">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0027.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE HAVE ALSO LEARNED THAT THE FMLN HAS KIDNAPPED A LARGE NUMBER OF YOUTHS HERE IN THE SAN SALVADOR AREA AND MAINLY IN USULUTAN, AS WELL AS IN CHALATENANGO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0032.xhtml#1825">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0032.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE CALLERS SAID THAT THE EXTRADITABLES RELEASED KIDNAPPED PEOPLE, DELIVERED LABORATORIES, AND LARGE QUANTITIES OF DYNAMITE AS PROOF OF THEIR INTENTION TO TALK, BUT THEY NEVER RECEIVED A REPLY FROM THE GOVERNMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml#332">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO MEMBERS OF THE UNIVERSITY STUDENT ASSOCIATION [AEU] OF SAN CARLOS DE GUATEMALA UNIVERSITY, THE STUDENTS LEADERS DECIDED TO LEAVE THE COUNTRY BECAUSE OF THE CONTINUOUS THREATS OF DEATH AND PERSECUTION AND DUE TO THE KIDNAPPING AND ASSASSINATION OF FIVE UNIVERSITY STUDENTS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml#994">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SIX OTHER UNIVERSITY STUDENT LEADERS REMAIN KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml#1569">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">DURING HIS MEETING WITH GOVERNMENT MINISTER ROBERTO VALLE, KOOIJMANS REQUESTED REPORTS ON THE INVESTIGATIONS THE GOVERNMENT HAS CONDUCTED ON THE CASE OF THE KIDNAPPED STUDENTS, THE GUATEMALAN GOVERNMENT OFFICIAL SAID.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml#1786">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE KIDNAPPING AND ASSASSINATION OF THE FIVE UNIVERSITY STUDENTS AND THE THREATS AGAINST OTHER AEU MEMBERS HAVE BEEN CONDEMNED BY LEADERS FROM UNIVERSITIES IN MEXICO, HONDURAS, PERU, COLOMBIA, COSTA RICA, EL SALVADOR, NICARAGUA, AND PANAMA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml#2725">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0034.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SEVERAL LABOR UNION ORGANIZATIONS HAVE CONDEMNED THE KIDNAPPING AND ASSASSINATION ON 15 SEPTEMBER OF EDUARDO ANTONIO LOPEZ PALENCIA, A STUDENT WHOSE CORPSE SHOWED SIGNS OF TORTURE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 13 FEB 90 (RADIO CADENA NACIONAL) -- [TEXT] THE STATE'S SECRET SERVICES STILL HAVE NO CLUES REGARDING THE TWO U.S. CITIZENS WHO WERE KIDNAPPED IN THE PAST FEW HOURS BY GUERRILLAS OF THE ELN [ARMY OF NATIONAL LIBERATION] DURING OPERATIONS IN MEDELLIN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml#390">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOTH WERE KIDNAPPED BY THE SO-CALLED NELSON MANDELA CELL OF THE ELN 48 HOURS BEFORE THE PRESIDENTIAL DRUG SUMMIT IN CARTAGENA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml#516">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MADRID EFE IN SPANISH AT 2132 GMT ON 13 DECEMBER REPORTS THAT BOGOTA RADIO CADENA NACIONAL LISTS THE KIDNAP VICTIMS AS "LESLIE KENT, PROFESSOR OF THE COLUMBUS SCHOOL IN MEDELLIN, AND JAMES ARTHUR DONNELLY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0040.xhtml#1573">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0040.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE WOULD LIKE TO ADD THAT WE ARE NOT RESPONSIBLE FOR ALL THE CASES OF KIDNAPPED PEOPLE OF WHICH WE ARE ACCUSED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">CARACAS (VENEZUELA), 15 JUL 89 (DPA) -- [TEXT] VENEZUELAN PRESIDENT CARLOS ANDRES PEREZ' BROTHER-IN-LAW WAS KIDNAPPED IN COLOMBIA, ACCORDING TO FAMILY SOURCES IN CARACAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml#199">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">A REPORT BROADCAST ON A PRIVATE TELEVISION CHANNEL STATED THAT UNIDENTIFIED ASSAILANTS KIDNAPPED NORBERTO RODRIGUEZ -- BROTHER OF VENEZUELA'S FIRST LADY BLANCA RODRIGUEZ DE PEREZ -- IN COLOMBIA'S NORTHERN SANTANDER DEPARTMENT, WHERE HE WAS TENDING TO PERSONAL MATTERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml#605">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">NO REASONS WERE GIVEN AS TO WHY RODRIGUEZ' RELATIVES FEAR THAT HE MIGHT HAVE BEEN KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml#278">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE POLICE RAIDS BEGAN SHORTLY AFTER THE KIDNAPPING OF DELGADO PARKER, A FORMER ADVISER TO PERUVIAN PRESIDENT ALAN GARCIA AND ONE OF THE MOST IMPORTANT TELEVISION IMPRESARIO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml#453">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">DELGADO PARKER WAS KIDNAPPED IN DOWNTOWN LIMA WEDNESDAY [4 OCTOBER] BY A COMMANDO OF THE PRO-CHE GUEVARA GROUP TUPAC AMARU REVOLUTIONARY MOVEMENT (MRTA).</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml#606">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AS A RESULT OF THE TERRORIST ACTION, DELGADO'S DRIVER WAS KILLED, AND DELGADO'S BODYGUARD WAS SERIOUSLY WOUNDED, WHILE DELGADO HIMSELF WAS VIOLENTLY ABDUCTED BY THE MRTA ACTIVISTS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml#1061">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE PERUVIAN NATIONAL POLICE HAVE REPORTED THAT SOME 2,000 AGENTS OF THE ANTITERRORIST DIRECTORATE (DIRCOTE) AND THE KIDNAPPING DIVISION ARE PARTICIPATING IN THE SEARCH OPERATIONS ORDERED BY PRESIDENT GARCIA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml#1386">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0055.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">TELEVISION "CHANNEL 5," OF WHICH THE KIDNAPPED BUSINESSMAN IS PART OWNER, WAS AMONG THE MEDIA MRTA CALLED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0077.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0077.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">LIMA, 1 FEB 89 (EFE) -- [EXCERPT] IN A COMMUNIQUE ADDRESSED TO THE LOCAL MEDIA, THE PERUVIAN GUERRILLA MOVEMENT TUPAC AMARU REVOLUTIONARY MOVEMENT (MRTA) TODAY CLAIMED RESPONSIBILITY FOR THE KIDNAPPING OF 102 PEOPLE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0077.xhtml#244">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0077.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">AMONG THE MANY BUSINESSMEN WHO HAVE BEEN KIDNAPED FROM DIFFERENT INDUSTRIAL AND BUSINESS SECTORS IS CARLOS ENRIQUE FERREYROS, ALIAS "THE KIND OF THE MACHINERY INDUSTRY."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0077.xhtml#414">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0077.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">FERREYROS WAS KIDNAPED ON 2 DECEMBER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0084.xhtml#720">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0084.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THIS U.S. ACT WAS BY NO MEANS LESS THAN THE SOVIET ACT OF INVADING CZECHOSLOVAKIA AND KIDNAPPING ITS LEADERS AT THAT TIME.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SAN JOSE (COSTA RICA), 27 SEP 89 (AFP) -- [TEXT] THE GUATEMALAN ASSOCIATION OF UNIVERSITY STUDENTS (AEU), WHOSE TOP LEADERS WERE KIDNAPPED, MURDERED, OR HAD TO GO INTO HIDING DURING THE LAST FEW WEEKS, TODAY DEMANDED THE INTERNATIONAL COMMUNITY'S SOLIDARITY TO CONTAIN THE WAVE OF VIOLENCE THAT HAS SHAKEN THE COUNTRY OVER THE LAST 2 MONTHS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml#901">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE AEU REPRESENTATIVES SAID THEY HAD EVIDENCE THAT THE RECENT KIDNAPPING OF 12 STUDENT LEADERS, OUT OF WHICH 5 WERE LATER FOUND MURDERED WITH BRUTAL SIGNS OF TORTURE, "WAS DIRECTLY PLANNED AND CARRIED OUT BY THE GUATEMALAN ARMY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml#2595">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SINCE 21 AUGUST, WHEN THE CAMPAIGN OF STUDENT KIDNAPPINGS AND MURDERS BEGAN, OF THE 16 MEMBERS OF THE AEU EXECUTIVE COORDINATING BOARD, THREE WERE MURDERED, SEVEN ARE STILL MISSING, FOUR HAD TO GO INTO HIDING, AND TWO WENT INTO EXILE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml#3019">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">WE THOUGHT WE WERE GOING TO BE POLITICALLY NEUTRALIZED, BUT NEVER THOUGHT THEY WOULD ORDER US KIDNAPPED AND MURDERED," ANOTHER OF THE STUDENTS ADMITTED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml#3377">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">HOWEVER, THEY CONCLUDED, "THE ARMY WILL NEVER BE ABLE TO END THE AEU BECAUSE TO DO SO THE ARMY WOULD HAVE TO KIDNAP, MURDER, OR SEND INTO EXILE THE 60,000 SAN CARLOS UNIVERSITY STUDENTS, THE LARGEST AND OLDEST UNIVERSITY IN CENTRAL AMERICA."</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BRASILIA (BRAZIL), 26 MAY 89 (RADIO NACIONAL DA AMAZONIA NETWORK) -- [TEXT] THE BRAZILIAN EMBASSY IN COLOMBIA HAS CONFIRMED THE RELEASE OF REDE GLOBO JOURNALIST CARLOS MARCELO WHO WAS KIDNAPPED BY COLOMBIAN ARMY OF NATIONAL LIBERATION GUERRILLAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml#274">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MARCELO WAS WRITING AN ARTICLE ON THE KIDNAPPING OF THE THREE BRASPETRO [PETROBRAS INTERNATIONAL, INC.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml#376">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">] ENGINEERS WHEN HE WAS ABDUCTED BY THE GUERRILLAS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0005.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0005.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MEXICO CITY (MEXICO), 12 JAN 90 (DPA) -- [TEXT] SALVADORAN SOCIAL DEMOCRATIC POLITICIAN HECTOR OQUELI COLINDRES WAS KIDNAPPED TODAY IN GUATEMALA CITY, HIS PARTY REPORTED IN MEXICO CITY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0005.xhtml#573">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0005.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE COMMUNIQUE ADDS THAT OQUELI COLINDRES WAS KIDNAPPED BETWEEN 0630 AND 0700 BY HEAVILY ARMED MEN WHILE ON HIS WAY TO THE AIRPORT ALONG WITH GUATEMALAN SOCIAL DEMOCRATIC LEADER GILDA FLORES, WHO WAS ALSO KIDNAPPED.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0006.xhtml#629">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0006.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE MNR REPORTED ON 12 JANUARY THAT HEAVILY ARMED MEN IN CIVILIAN CLOTHES HAD INTERCEPTED A VEHICLE WITH OQUELI AND FLORES ENROUTE FOR LA AURORA AIRPORT AND THAT THE TWO POLITICAL LEADERS HAD BEEN KIDNAPPED AND WERE REPORTED MISSING.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0011.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0011.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 4 MAY 88 (EMISORAS CARACOL NETWORK) -- [TEXT] THE DISSEMINATION OF A DOCUMENT QUESTIONING COLOMBIA'S OIL POLICY, ESPECIALLY THE PARTICIPATION OF FOREIGN COMPANIES, IS REPORTEDLY THE AIM OF THE PUBLICITY STUNT CARRIED OUT BY THE PRO-CASTRO ELN [ARMY OF NATIONAL LIBERATION], WHICH KIDNAPPED SEVERAL HONORARY CONSULS, NEWSMEN, AND POLITICAL LEADERS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0011.xhtml#383">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0011.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ANONYMOUS SOURCES OF THE LEFTIST GROUP HEADED BY SPANISH PRIEST MANUEL PEREZ CLAIMED RESPONSIBILITY FOR THE KIDNAPPINGS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0014.xhtml#729">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0014.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE SAME SOURCES ALSO SAID THAT REPORTER LUIS MORALES, WHO WORKS FOR AN AYACUCHO REGIONAL ORGANIZATION, REPORTED THAT FIVE UNIDENTIFIED INDIVIDUALS ATTEMPTED TO KIDNAP HIM.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0048.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0048.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PANAMA CITY (PANAMA), 3 NOV 89 (ACAN-EFE) -- [TEXT] GUATEMALAN ARCHBISHOP PROSPERO PENADOS DEL BARRIO TODAY REPORTED THE KIDNAPPING OF A NUN, DIANA MACK ORTIZ, 20 YEARS OLD, BORN IN THE STATE OF COLORADO IN THE UNITED STATES OF AMERICA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0048.xhtml#429">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0048.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">PENADOS SAID DIANA MACK ORTIZ WAS KIDNAPPED ON 2 NOVEMBER IN ANTIGUA GUATEMALA, 45 KM SOUTH OF GUATEMALA CITY, WHEN SHE WAS ATTENDING A SEMINAR ALONG WITH OTHER NUNS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0048.xhtml#754">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0048.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE KIDNAPPED NUN, WHO HAD BEEN IN GUATEMALA FOR A YEAR, WAS TEACHING AT THE SAN MIGUEL ACATAN ELEMENTARY SCHOOL IN HUEHUETENANGO DEPARTMENT IN NORTHEAST GUATEMALA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0078.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0078.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SANTIAGO, 19 DEC 89 (DOMESTIC SERVICE) -- [TEXT] FOREIGN MINISTER HERNAN FELIPE ERRAZURIZ HAS REPORTED THAT THE CHILEANS INVOLVED IN THE ABDUCTION OF BRAZILIAN BUSINESSMAN ABILIO DINIZ WILL BE PROSECUTED IN BRAZIL BECAUSE THE KIDNAPPING WAS PLANNED AND PERFORMED OUTSIDE OF CHILE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0086.xhtml#1220">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0086.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE LETTER SAID FURTHER: "BECAUSE, FAR FROM DIMINISHING, CRIMES AGAINST PUBLIC ORDER, SUCH AS ABDUCTIONS, EXTORTION, AND THREATS, NOT ONLY HAVE INCREASED IN THE PAST FEW MONTHS BUT PREVAIL IN VARIOUS AREAS OF COLOMBIA, WE COULD HARDLY ASK THE ARMED FORCES TO STOP THEIR FUNCTIONS OF PROTECTING THE LIVES AND PROPERTIES OF THE PEOPLE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0086.xhtml#1748">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0086.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">SIMILARLY, WE MUST CLARIFY THAT KIDNAPPINGS, EXTORTION, AND THREATS ARE NOT PART OF THE POLICY OF THE FARC STAFF.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 24 FEB 90 (RADIO CADENA NACIONAL) -- [TEXT] CALM APPEARS TO BE RETURNING TO THE COUNTRY FOLLOWING THE DEATH OF ONE NONCOMMISSIONED OFFICER AND SIX SOLDIERS ON 23 FEBRUARY AS A RESULT OF GUERRILLA ATTACKS IN FIVE ANTIOQUIA DEPARTMENT MUNICIPALITIES, THE KIDNAPPING OF A MAYOR, A GOVERNMENT OFFICIAL, AND A CANDIDATE IN CAUCA DEPARTMENT, AND THE DEATH OF A GUERRILLA IN GUAVIARE.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml#667">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">NATIONAL ARMY SPOKESMEN SAID THAT ONE NONCOMMISSIONED OFFICER AND SIX SOLDIERS WERE KILLED, FOUR WERE WOUNDED, AND 15 OTHERS WERE KIDNAPPED DURING THE ATTACKS AGAINST MILITARY BASES AND POLICE INSTALLATIONS IN SEGOVIA BY THE 4TH FRONT OF THE FARC [REVOLUTIONARY ARMED FORCES OF COLOMBIA].</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0094.xhtml#1402">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0094.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">A MILITARY SPOKESMAN ALSO REPORTED THAT A GROUP OF PERSONS WHO IDENTIFIED THEMSELVES AS FMLN-FDR MEMBERS KIDNAPPED A PEASANT, JOSE MANUEL POSADA, NEAR LA COLMENA, IN EL CARMEN DISTRICT, CUSCATLAN DEPARTMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0004.xhtml#363">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0004.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ALSO TODAY, MILITARY PROSECUTOR FERNANDO TORRES SILVA MET WITH SUPREME COURT PRESIDENT LUIS MALDONADO FOR 30 MINUTES TO DISCUSS SEVERAL ISSUES RELATED TO CASES UNDER TORRES' JURISDICTION, SUCH AS THE ATTACK ON GENERAL PINOCHET AND THE KIDNAPPING OF COLONEL CARRENO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0004.xhtml#628">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0004.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IT WAS LEARNED THAT TORRES OFFICIALLY SUBMITTED A REQUEST FOR THE EXTRADITION OF THREE CHILEANS ARRESTED NEAR BUENOS AIRES, WHO ARE REPORTEDLY LINKED TO THE KIDNAPPING OF COL CARRENO.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0023.xhtml#3732">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0023.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">IMPORTANT PEOPLE WHO WERE GOING TO BE KIDNAPPED HAD ALSO BEEN MARKED ON THESE MAPS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0038.xhtml#529">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0038.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ON 21 AUGUST 1988, EPS SOLDIERS KIDNAPPED HONDURAN CITIZENS ROSALIO MEJIA RODRIGUEZ AND HER SON GUILLERMO SAUL MEJIA HERRERA, WHO WERE TAKEN TO NICARAGUAN TERRITORY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0038.xhtml#2179">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0038.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ON 20 SEPTEMBER 1988, THE EPS FREED HECTOR ROSALES MEJIA RODRIGUEZ AND HIS SON GUILLERMO SAUL MEJIA HERRERA, WHO HAD BEEN KIDNAPPED BY EPS TROOPS ON 21 AUGUST 1988.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 17 OCT 88 (DPA) -- [TEXT] THE LEFTIST NATIONAL LIBERATION ARMY (ELN) KIDNAPPED TWO SOLDIERS IN NORTHERN COLOMBIA IN THE PAST FEW HOURS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml#232">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">ACCORDING TO 2D BRIGADE COMMANDER GENERAL JUAN SALCEDO LORA, THE SOLDIERS ARE ARTILLERY BATTALION MEMBERS AND WERE KIDNAPPED WHILE WORKING ON A HIGHWAY IN POPONTE, IN THE NORTHERN CESAR DEPARTMENT.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml#521">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE FARC KIDNAPPED THESE MEN 6 WEEKS AGO WHEN THE REBELS ATTACKED MINCA IN THE SIERRA NEVADA DE SANTA MARTA AREA.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0057.xhtml#443">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0057.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">[BEGIN RECORDING] [VARGAS] OUR VALUES AND THE VALUES OF THE SYSTEM WE DEFEND DO NOT ALLOW US TO EXECUTE, KIDNAP, OR STEAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MEDELLIN, 6 NOV 88 (EFE) -- [TEXT] THE LOCAL POLICE HAVE REPORTED THAT NATIONAL LIBERATION ARMY (ELN) GUERRILLAS TODAY KIDNAPPED THE ANTIOQUIA COLOMBIAN CIVIL DEFENSE (DCC) COMMANDER.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml#445">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE TWO DCC OFFICIALS WERE RETURNING TO MEDELLIN WHEN THEY WERE KIDNAPPED 1 KM FROM DORADAL.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0078.xhtml#813">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0078.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE MILITARY REPORT ADDED THAT DURING THE MONTH OF NOVEMBER, GUERRILLAS KILLED 43 PEASANTS, KIDNAPPED 32, AND CAUSED THE DEATH OF 6 PEOPLE AND CRIPPLED 23 OTHERS AS A RESULT OF MINE EXPLOSIONS.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0087.xhtml#28">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0087.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">BOGOTA, 10 DEC 88 (EL TIEMPO) -- [TEXT] GOVERNMENT SOURCES HAVE REPORTED THAT FOUR UNIDENTIFIED CIVILIANS CARRYING LARGE-CALIBER FIREARMS KIDNAPPED ALBERTO CELIS SANCHEZ, MAYOR OF EL CARMEN DE ATRATO, ON 8 DECEMBER AT EL DOCE ON THE QUIBDO-MEDELLIN HIGHWAY.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0087.xhtml#494">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0087.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">MAYOR CELIS WAS UNESCORTED AT THE TIME HE WAS KIDNAPPED, AND HE HAD FAILED TO NOTIFY THE POLICE THAT HE WAS LEAVING TOWN.</schema:description>
 </rdf:Description>
 <rdf:Description about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0093.xhtml#1039">
-<rdf:type rdf:resource="http://schema.org/event"/>
+<rdf:type rdf:resource="http://schema.org/Action"/>
 <rdfs:member rdf:resource="http://dstl.github.io/muc3/tst4/TST4-MUC4-0093.xhtml"/>
 <schema:name xml:lang="en">Kidnapping</schema:name>
 <schema:description xml:lang="en">THE FARC AND EP WILL AGAIN CONDEMN AND NOT ALLOW KIDNAPPINGS, EXTORTION, AND TERRORISM IN ALL THEIR FORMS.</schema:description>
