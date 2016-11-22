@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfa="http://www.w3.org/ns/rdfa#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#kidnap">
+    <schema:location rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#place"/>
+    <schema:agent rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#kidnappers"/>
+    <schema:startTime>1990-04-03</schema:startTime>
+    <rdf:type rdf:resource="http://schema.org/Action"/>
+    <schema:description>WAS KIDNAPPED</schema:description>
+    <schema:object rdf:resource="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3667905/">
+    <schema:name>SOACHA</schema:name>
+    <schema:description>THE TOWN OF SOACHA, ON THE OUTSKIRTS OF BOGOTA</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ">
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Colombian_Liberal_Party"/>
+    <schema:name>ESTRADA VELEZ</schema:name>
+    <schema:description>FORMER COLOMBIAN AMBASSADOR TO ITALY</schema:description>
+    <schema:name>SENATOR FEDERICO ESTRADA VELEZ</schema:name>
+    <schema:description>POLITICIAN</schema:description>
+    <schema:description>LAWYER</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Carlos_Galán">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Colombian_Liberal_Party"/>
+    <schema:name>LUIS CARLOS GALAN</schema:name>
+    <schema:description>LIBERAL PARTY PRESIDENTIAL HOPEFUL</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#place">
+    <schema:description>NEAR THE ATANASIO GIRARDOT FOOTBALL STADIUM IN MEDELLIN</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml">
+    <rdfa:usesVocabulary rdf:resource="http://schema.org/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3689815/">
+    <schema:name>ANTIOQUIA</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar_Franklin_Quintero">
+    <schema:name>COLONEL WALDEMAR FRANKLIN QUINTERO</schema:name>
+    <schema:description>CHIEF OF POLICE IN ANTIOQUIA,</schema:description>
+    <schema:name>FRANKLIN QUINTERO</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atanasio_Girardot_Sports_Complex">
+    <schema:description>THE ATANASIO GIRARDOT FOOTBALL STADIUM</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombian_Liberal_Party">
+    <schema:description>COLOMBIA'S LIBERAL PARTY</schema:description>
+    <schema:name>LIBERAL PARTY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medellín_Cartel">
+    <schema:name>THE MEDELLIN CARTEL</schema:name>
+    <schema:description>ONE OF THE MAIN COCAINE TRAFFICKING ORGANIZATIONS IN THE WORLD</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medellín">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:description>MEDELLIN</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#kidnappers">
+    <schema:description>AN AS-YET-UNSPECIFIED NUMBER OF UNIDENTIFIED INDIVIDUALS</schema:description>
+    <schema:description>UNIDENTIFIED INDIVIDUALS</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfa="http://www.w3.org/ns/rdfa#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml#kidnap">
+    <schema:location rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml#place"/>
+    <schema:object rdf:resource="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ"/>
+    <schema:description>WAS KIDNAPPED</schema:description>
+    <schema:startTime>1990-03-27</schema:startTime>
+    <rdf:type rdf:resource="http://schema.org/Action"/>
+    <schema:agent rdf:resource="http://dbpedia.org/resource/The_Extraditables"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml#release">
+    <rdf:type rdf:resource="http://schema.org/Action"/>
+    <schema:description>RELEASED</schema:description>
+    <schema:endTime>1990-04-05</schema:endTime>
+    <schema:agent rdf:resource="http://dbpedia.org/resource/The_Extraditables"/>
+    <schema:object rdf:resource="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ"/>
+    <schema:location>MEDELLIN</schema:location>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:description>ONE OF THE MAIN LEADERS OF THE RULING LIBERAL PARTY</schema:description>
+    <schema:description>LIBERAL SENATOR</schema:description>
+    <schema:name>FEDERICO ESTRADA VELEZ</schema:name>
+    <schema:description>54</schema:description>
+    <schema:name>SENATOR ESTRADA VELEZ</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Extraditables">
+    <schema:name>THE EXTRADITABLES</schema:name>
+    <schema:description>THE MEDELLIN CARTEL'S ARMED WING</schema:description>
+    <schema:description>THE DRUG TRAFFICKING ORGANIZATION</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml#place">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:description>NEAR HIS HOME</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml">
+    <rdfa:usesVocabulary rdf:resource="http://schema.org/"/>
+  </rdf:Description>
+</rdf:RDF>

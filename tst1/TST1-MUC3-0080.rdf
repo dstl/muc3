@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfa="http://www.w3.org/ns/rdfa#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ">
+    <schema:description>LIBERAL SENATOR</schema:description>
+    <schema:description>THE ANTIOQUIA DEPARTMENT LIBERAL PARTY LEADER</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>FEDERICO ESTRADA VELEZ</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#place">
+    <schema:description>100 METERS FROM A METROPOLITAN POLICE CAI [IMMEDIATE ATTENTION CENTER]</schema:description>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:description>THE CORNER OF 60TH AND 48TH STREETS</schema:description>
+    <schema:description>IN WESTERN MEDELLIN</schema:description>
+    <schema:description>THE CORNER OF 60TH AND 48TH STREETS IN WESTERN MEDELLIN, ONLY 100 METERS FROM A METROPOLITAN POLICE CAI [IMMEDIATE ATTENTION CENTER]</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Extraditables">
+    <schema:name>THE EXTRADITABLES</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#kidnap">
+    <schema:instrument rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#car"/>
+    <schema:description>WAS KIDNAPPED</schema:description>
+    <schema:startTime>1990-04-03</schema:startTime>
+    <rdf:type rdf:resource="http://schema.org/Action"/>
+    <schema:agent rdf:resource="http://dbpedia.org/resource/The_Extraditables"/>
+    <schema:agent rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#men"/>
+    <schema:location rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#place"/>
+    <schema:object rdf:resource="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#car">
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:description>A BLUE RENAULT</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#men">
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:description>THREE HEAVILY ARMED MEN</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medellín">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>MEDELLIN</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml">
+    <rdfa:usesVocabulary rdf:resource="http://schema.org/"/>
+  </rdf:Description>
+</rdf:RDF>

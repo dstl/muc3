@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfa="http://www.w3.org/ns/rdfa#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ">
+    <schema:description>LIBERAL SENATOR</schema:description>
+    <rdfs:member rdf:resource="http://dbpedia.org/resource/Colombian_Liberal_Party"/>
+    <schema:name>FEDERICO ESTRADA VELEZ</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1218.xhtml#holding">
+    <rdf:type rdf:resource="http://schema.org/Action"/>
+    <schema:agent rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1218.xhtml#traffickers"/>
+    <schema:object rdf:resource="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ"/>
+    <schema:description>ARE HOLDING</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1218.xhtml#traffickers">
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:description>COLOMBIAN DRUG TRAFFICKERS</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1218.xhtml">
+    <rdfa:usesVocabulary rdf:resource="http://schema.org/"/>
+  </rdf:Description>
+</rdf:RDF>
