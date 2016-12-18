@@ -1,0 +1,1151 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:gn="http://www.geonames.org/ontology#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <gn:Feature rdf:about="http://sws.geonames.org/3676746/">
+    <gn:name>La Viga</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM2>
+      <gn:Feature rdf:about="http://sws.geonames.org/3687926/">
+        <gn:population>2119908</gn:population>
+        <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+        <gn:countryCode>CO</gn:countryCode>
+        <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+        <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+        <gn:locationMap rdf:resource="http://www.geonames.org/3687926/cali.html"/>
+        <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cali"/>
+        <gn:name>Cali</gn:name>
+        <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cali"/>
+        <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687926/contains.rdf"/>
+        <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+        <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+        <wgs84_pos:long>-76.55</wgs84_pos:long>
+        <wgs84_pos:lat>3.41667</wgs84_pos:lat>
+      </gn:Feature>
+    </gn:parentADM2>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3676746/la-viga.html"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3676746/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.31446</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.53476</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182377/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182377/ciudadela-mira-valle.html"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182377/nearby.rdf"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.58413</wgs84_pos:long>
+    <wgs84_pos:lat>3.40236</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Ciudadela Mira Valle</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182439/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>3.36801</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182439/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182439/la-candelaria.html"/>
+    <gn:name>La Candelaria</gn:name>
+    <wgs84_pos:long>-76.63359</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3678192/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3678192/la-paz.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.58943</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:name>La Paz</gn:name>
+    <wgs84_pos:lat>3.53674</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3678192/nearby.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764010/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764010/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>3.29982</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.52088</wgs84_pos:long>
+    <gn:name>San Antonio</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764010/san-antonio.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3677275/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3677275/las-nieves.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.4699</wgs84_pos:lat>
+    <gn:name>Las Nieves</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.61844</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3677275/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/7929463/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Las Guacas</gn:name>
+    <wgs84_pos:lat>3.49415</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/7929463/las-guacas.html"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7929463/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.54709</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182437/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182437/nearby.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:long>-76.63706</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>Bellavista</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182437/bellavista.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.36477</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182254/">
+    <wgs84_pos:long>-76.63382</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Urbanización Las Cabañas</gn:name>
+    <wgs84_pos:lat>3.46932</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182254/urbanizacion-las-cabanas.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182254/nearby.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182435/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182435/el-guanabano.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.61395</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182435/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.332</wgs84_pos:lat>
+    <gn:name>El Guanábano</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182433/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182433/la-soledad.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.36841</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>La Soledad</gn:name>
+    <wgs84_pos:long>-76.61534</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182433/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182292/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.46088</wgs84_pos:lat>
+    <gn:name>Balastera</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.56763</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182292/nearby.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182292/balastera.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182454/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>República Santo Domingo</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.63065</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182454/republica-santo-domingo.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.32668</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182454/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3679601/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:name>La Castilla</gn:name>
+    <wgs84_pos:long>-76.58479</wgs84_pos:long>
+    <wgs84_pos:lat>3.49461</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3679601/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3679601/la-castilla.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684857/">
+    <gn:name>El Bosque</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684857/el-bosque.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.59417</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3684857/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.34564</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3680787/">
+    <wgs84_pos:lat>3.31048</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3680787/nearby.rdf"/>
+    <gn:name>Hormiguero</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680787/hormiguero.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.48133</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3672346/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Pichindé</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3672346/pichinde.html"/>
+    <wgs84_pos:lat>3.43383</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3672346/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.61784</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671408/">
+    <wgs84_pos:long>-76.48333</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3671408/nearby.rdf"/>
+    <gn:name>Puerto Mallarino</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671408/puerto-mallarino.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.45</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182847/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182847/nearby.rdf"/>
+    <wgs84_pos:lat>3.3194</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182847/risaralda.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:name>Risaralda</gn:name>
+    <wgs84_pos:long>-76.51503</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182300/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.4998</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182300/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.56214</wgs84_pos:long>
+    <gn:name>Tranquilandia</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182300/tranquilandia.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182824/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Comfama</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>3.30368</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182824/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182824/comfama.html"/>
+    <wgs84_pos:long>-76.53026</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182302/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.49963</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182302/nearby.rdf"/>
+    <gn:name>Carbón La Caldera</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182302/carbon-la-caldera.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.55801</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/7929473/">
+    <gn:name>Peón</gn:name>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7929473/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.57454</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/7929473/peon.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:lat>3.33193</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182388/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182388/nearby.rdf"/>
+    <gn:name>Carbón El Mango</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182388/carbon-el-mango.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:long>-76.57854</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.39486</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/7929471/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/7929471/la-buitrera.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.55847</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7929471/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:lat>3.3635</wgs84_pos:lat>
+    <gn:name>La Buitrera</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182427/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182427/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182427/parcelacion-el-refugio.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Parcélación El Refugio</gn:name>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.33482</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.59419</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182841/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>La Pereza</gn:name>
+    <wgs84_pos:long>-76.51139</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>3.38825</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182841/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182841/la-pereza.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764001/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>3.37837</wgs84_pos:lat>
+    <gn:name>Villa Carmelo</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.61633</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764001/villa-carmelo.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764001/nearby.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182260/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>La Niña</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182260/la-nina.html"/>
+    <wgs84_pos:long>-76.65748</wgs84_pos:long>
+    <wgs84_pos:lat>3.45451</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182260/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182845/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.50698</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182845/el-oasis.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>El Oasis</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182845/nearby.rdf"/>
+    <wgs84_pos:lat>3.3094</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182262/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182262/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Cristóbal Colón</gn:name>
+    <wgs84_pos:lat>3.45988</wgs84_pos:lat>
+    <wgs84_pos:long>-76.65209</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182262/cristobal-colon.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3676353/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3676353/los-andes.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.41738</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.63376</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3676353/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Los Andes</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764007/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764007/nearby.rdf"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.54081</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764007/casablanca.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.31316</wgs84_pos:lat>
+    <gn:name>Casablanca</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764009/">
+    <wgs84_pos:long>-76.53278</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764009/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764009/la-viga.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>La Viga</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.31417</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764003/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764003/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764003/ciudad-jardin.html"/>
+    <wgs84_pos:lat>3.36139</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ciudad_Jard%C3%ADn"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Ciudad Jardín</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ciudad_Jard%C3%ADn"/>
+    <wgs84_pos:long>-76.53429</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682497/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682497/felidia.html"/>
+    <gn:name>Felidia</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3682497/nearby.rdf"/>
+    <wgs84_pos:long>-76.6293</wgs84_pos:long>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.46883</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182259/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.61419</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182259/san-francisco.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182259/nearby.rdf"/>
+    <gn:name>San Francisco</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.47199</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665957/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.50936</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3665957/nearby.rdf"/>
+    <gn:name>Villanueva</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.42969</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665957/villanueva.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182291/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182291/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>El Retén</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182291/el-reten.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.59454</wgs84_pos:long>
+    <wgs84_pos:lat>3.43934</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182378/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.39132</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182378/el-ocaso.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182378/nearby.rdf"/>
+    <wgs84_pos:long>-76.59036</wgs84_pos:long>
+    <gn:name>El Ocaso</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684327/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3684327/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684327/el-diamante.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>3.41667</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.46667</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>El Diamante</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/7929462/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.48581</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/7929462/montebello.html"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7929462/nearby.rdf"/>
+    <gn:name>Montebello</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.54971</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182299/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>Lincon</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182299/lincon.html"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182299/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.4959</wgs84_pos:lat>
+    <wgs84_pos:long>-76.57542</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/7929464/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/7929464/montanitas.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Montañitas</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:long>-76.58519</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7929464/nearby.rdf"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>3.42361</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673999/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3673999/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673999/navarro.html"/>
+    <gn:name>Navarro</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.46487</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.39293</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3677485/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>Las Golondrinas</gn:name>
+    <wgs84_pos:long>-76.54806</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3677485/las-golondrinas.html"/>
+    <wgs84_pos:lat>3.50086</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3677485/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182441/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Corea</gn:name>
+    <wgs84_pos:lat>3.36147</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182441/corea.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182441/nearby.rdf"/>
+    <wgs84_pos:long>-76.64359</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182293/">
+    <wgs84_pos:lat>3.45274</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182293/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182293/gatolandia.html"/>
+    <wgs84_pos:long>-76.57715</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Gatolandia</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182420/">
+    <wgs84_pos:long>-76.57783</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>Monte Redondo</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182420/monte-redondo.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.37263</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182420/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182455/">
+    <wgs84_pos:long>-76.61948</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182455/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.32836</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182455/caserio-la-pena.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Caserio La Peña</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687155/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687155/cascajal.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Cascajal</gn:name>
+    <wgs84_pos:lat>3.31798</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.51121</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3687155/nearby.rdf"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182478/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182478/el-jardin.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182478/nearby.rdf"/>
+    <gn:name>El Jardín</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.58062</wgs84_pos:long>
+    <wgs84_pos:lat>3.32379</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687663/">
+    <wgs84_pos:lat>3.4158</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3687663/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>Cañaveralejo</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687663/canaveralejo.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.55094</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182267/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>La Honoraia</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182267/la-honoraia.html"/>
+    <wgs84_pos:long>-76.63944</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182267/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:lat>3.4429</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684873/">
+    <wgs84_pos:long>-76.51679</wgs84_pos:long>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684873/el-boqueron.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3684873/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>3.36657</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>El Boquerón</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3679260/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3679260/la-elvira.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.51788</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3679260/nearby.rdf"/>
+    <gn:name>La Elvira</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:long>-76.60456</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673030/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Pance</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3673030/nearby.rdf"/>
+    <wgs84_pos:long>-76.63542</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673030/pance.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.32943</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670319/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3670319/nearby.rdf"/>
+    <gn:name>Salomita</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670319/salomita.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.48333</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.48333</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684106/">
+    <wgs84_pos:lat>3.46667</wgs84_pos:lat>
+    <wgs84_pos:long>-76.48333</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>El Guavito</gn:name>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3684106/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684106/el-guavito.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182305/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182305/carbon-el-chocho.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.55695</wgs84_pos:long>
+    <wgs84_pos:lat>3.49522</wgs84_pos:lat>
+    <gn:name>Carbón El Chocho</gn:name>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182305/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182389/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182389/el-pinar.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:long>-76.58106</wgs84_pos:long>
+    <wgs84_pos:lat>3.40182</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>El Pinar</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182389/nearby.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/7929472/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/7929472/la-voragine.html"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7929472/nearby.rdf"/>
+    <wgs84_pos:long>-76.58997</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>La Vorágine</gn:name>
+    <wgs84_pos:lat>3.3463</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3678604/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3678604/la-leonera.html"/>
+    <wgs84_pos:lat>3.45062</wgs84_pos:lat>
+    <gn:name>La Leonera</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3678604/nearby.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.63535</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182829/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182829/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182829/el-asombrito.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.28799</wgs84_pos:lat>
+    <wgs84_pos:long>-76.50577</wgs84_pos:long>
+    <gn:name>El Asombrito</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182808/">
+    <gn:name>Vereda El Morgan</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182808/nearby.rdf"/>
+    <wgs84_pos:lat>3.3487</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+    <wgs84_pos:long>-76.49256</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182808/vereda-el-morgan.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182401/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182401/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.5476</wgs84_pos:long>
+    <gn:name>La Maria</gn:name>
+    <wgs84_pos:lat>3.33902</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182401/la-maria.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182806/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.51708</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.33713</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182806/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182806/maranon.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>Marañon</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182284/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182284/altamira.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Altamira</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182284/nearby.rdf"/>
+    <wgs84_pos:long>-76.59352</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.43019</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182804/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182804/el-retiro.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.3479</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182804/nearby.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.52708</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>El Retiro</gn:name>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687678/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3687678/nearby.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:name>Cañasgordas</gn:name>
+    <wgs84_pos:lat>3.3577</wgs84_pos:lat>
+    <wgs84_pos:long>-76.52899</wgs84_pos:long>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687678/canasgordas.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764008/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764008/brisas-del-pance.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:long>-76.52235</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Brisas del Pance</gn:name>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764008/nearby.rdf"/>
+    <wgs84_pos:lat>3.32028</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670405/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3670405/nearby.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670405/saladito.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.48378</wgs84_pos:lat>
+    <gn:name>Saladito</gn:name>
+    <wgs84_pos:long>-76.61801</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670320/">
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3670320/nearby.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Saloma</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.49984</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670320/saloma.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.46682</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764002/">
+    <wgs84_pos:long>-76.50917</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764002/el-establo.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764002/nearby.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.38111</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:name>El Establo</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3690512/">
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.45104</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:name>Aguablanca</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3690512/aguablanca.html"/>
+    <wgs84_pos:long>-76.51508</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3690512/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3764004/">
+    <wgs84_pos:long>-76.51784</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3764004/villa-fatima.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <wgs84_pos:lat>3.35006</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Villa Fátima</gn:name>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3764004/nearby.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3683898/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3683898/el-limonar.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3683898/nearby.rdf"/>
+    <wgs84_pos:lat>3.39778</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.51139</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:name>El Limonar</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687925/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687925/cali.html"/>
+    <gn:alternateName xml:lang="en">Santiago de Cali</gn:alternateName>
+    <gn:population>2392877</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3687925/nearby.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.43722</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:long>-76.5225</wgs84_pos:long>
+    <gn:name>Santiago de Cali</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182375/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>3.40515</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182375/nearby.rdf"/>
+    <wgs84_pos:long>-76.59539</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182375/gualanday.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Gualanday</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/8182394/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.40472</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/8182394/villa-misueno.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/3687926/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.5762</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8182394/nearby.rdf"/>
+    <gn:name>Villa Misueño</gn:name>
+  </gn:Feature>
+</rdf:RDF>
