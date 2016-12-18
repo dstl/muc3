@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ">
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LIBERAL SENATOR</description>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE ANTIOQUIA DEPARTMENT LIBERAL PARTY LEADER</description>
+	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FEDERICO ESTRADA VELEZ</name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54</description>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ONE OF THE MAIN LEADERS OF THE RULING LIBERAL PARTY</description>
+	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENATOR ESTRADA VELEZ</name>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FORMER COLOMBIAN AMBASSADOR TO ITALY</description>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LAWYER</description>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">POLITICIAN</description>
+	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESTRADA VELEZ</name>
+	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENATOR FEDERICO ESTRADA VELEZ</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="urn:muc3:doc/TST1-MUC3-0080/kidnap">
+	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="urn:muc3:doc/DEV-MUC3-1212/kidnap">
+	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="urn:muc3:doc/DEV-MUC3-1212/release">
+	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Colombian_Liberal_Party">
+	<rdfs:member rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="urn:muc3:doc/DEV-MUC3-1221/kidnap">
+	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+</rdf:Description>
+
+</rdf:RDF>
