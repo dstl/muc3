@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml vocab="http://schema.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.opengis.net/kml/2.2">
+  <Document about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#570" typeof="Action">
+    <name>velez</name>
+    <open>1</open>
+    <description />
+    <LookAt>
+      <longitude>-75.5728149160191</longitude>
+      <latitude>6.24730559719072</latitude>
+      <altitude>0.0</altitude>
+      <heading>0.0</heading>
+      <tilt>0.01</tilt>
+      <range>3462.78880169988</range>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+    <Style id="sn_RedStickpinMarker_25">
+      <IconStyle>
+        <Icon>
+          <href>RedStickpinMarker.png</href>
+        </Icon>
+        <hotSpot x="33" y="1" xunits="pixels" yunits="pixels" />
+      </IconStyle>
+    </Style>
+    <Placemark typeof="Place" property="location">
+      <name>kidnap</name>
+      <visibility>1</visibility>
+      <description>&lt;style&gt;body { font-family:Arial; font-size:x-small; } h1 { font-family:Arial; font-size:x-large; } h2 { font-family:Arial; font-size:large; } h3 { font-family:Arial; font-size:medium; } h4 { font-family:Arial; font-size:small; } h5 { font-family:Arial; font-size:x-small; } p { font-family:Arial; font-size:x-small } code { font-family:Courier New; font-size:x-small } kbd { font-family:Courier New; font-size:x-small } samp { font-family:Courier New; font-size:x-small } tt { font-family:Courier New; font-size:x-small } img { border-bottom-style:none; border-left-style:none; border-right-style:none; border-top-style:none } td{width: auto;vertical-align: top;padding-right: 2em;border: 1px solid #CCCCCC;} table {border-collapse: collapse;border: 1px solid #999999;width: auto;font-family: Arial;font-size: x-small;}.fname{text-align:right;color:#000000;background:#edf8ff;font-weight:bold;}.even{background:#edf8ff;}&lt;/style&gt;&lt;div about="urn:muc3:event:12345"&gt;
+&lt;a href="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml"&gt;THE CORNER OF 60TH AND 48TH STREETS&lt;/a&gt;
+Where &lt;span about="#velez"&gt;Senator Velez&lt;span&gt; was kidnapped?
+&lt;/div&gt;</description>
+      <LookAt property="geo" typeof="GeoCoordinates">
+        <longitude property="longitude">-75.5775926588315</longitude>
+        <latitude property="latitude">6.2507788967311</latitude>
+        <altitude>0.0</altitude>
+        <heading>0.0</heading>
+        <tilt>0.01</tilt>
+        <range>602.76812828891</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#sn_RedStickpinMarker_25</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-75.5773147388813,6.25071705293735,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
