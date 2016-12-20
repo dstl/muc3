@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Extraditables">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <schema:name xml:lang="en">The Extraditables</schema:name>
+    <schema:description xml:lang="en">The Extraditables was an organization created by Colombian drug lords in the early 1980s. Their motto was: "We prefer a grave in Colombia to a prison in the United States."The aim of the group was to intimidate the Colombian government into banning extradition at the constitutional level (Colombia had a treaty of extradition with the United States) and they wanted to manipulate Colombian society into supporting their goal. Initially, the group simply published newspaper adverts in which they defended their position, and influenced political parties to speak in favour of their goals. However, over time their actions escalated into a war between the state and the drug cartel, with violent acts committed against politicians and members of law enforcement.</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medellín_Cartel">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <schema:name xml:lang="en">Medellín Cartel</schema:name>
+    <schema:description xml:lang="en">The Medellín Cartel was an organized network of drug suppliers and smugglers originating in the city of Medellín, Colombia. The drug cartel operated in Bolivia, Colombia, Honduras, Peru, the United States, as well as Canada and Europe throughout the 1970s and 1980s. It was founded and run by Ochoa Vázquez brothers Jorge Luis, Juan David, and Fabio, together with Pablo Escobar and José Gonzalo Rodríguez Gacha. By 1993, the highly effective resistance group, Los Pepes (or PEPES), controlled by the Cali Cartel, and the Colombian government, in collaboration with the Cali Cartel, right-wing paramilitary groups, and the United States government, had successfully dismantled the Medellín Cartel by imprisoning or assassinating its members.</schema:description>
+    <schema:alternateName xml:lang="en">Medellin Cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cartel De Medellin</schema:alternateName>
+    <schema:alternateName xml:lang="en">Medellin cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Medellín drug cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Medellin drug cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Medillín cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Medellín cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Medillín Cartel</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cali_Cartel">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <schema:name xml:lang="en">Cali Cartel</schema:name>
+    <schema:description xml:lang="en">The Cali Cartel was a drug cartel based in southern Colombia, around the city of Cali and the Valle del Cauca Department. Its founders were the Rodríguez Orejuela brothers, Gilberto and Miguel, and José Santacruz Londoño, also known as "Chepe". They broke away from Pablo Escobar and his Medellin associates in the late 1980s when Hélmer Herrera, also known as "Pacho", joined what became a four-man executive board that ran the cartel.</schema:description>
+    <schema:alternateName xml:lang="en">Las Chemas</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cali cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cali drug cartel</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cartel de Cali</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cali mafia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cartel De Cali</schema:alternateName>
+  </rdf:Description>
+</rdf:RDF>
