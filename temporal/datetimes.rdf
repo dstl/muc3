@@ -1,0 +1,730 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:parse="http://example.org/nlp/parse"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:gn="http://www.geonames.org/ontology#">
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0050.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0050.xhtml#1365">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-03T09:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0050.xhtml#464">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-04T08:15:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0050.xhtml#238">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-04T06:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0016.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0016.xhtml#28">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-26T09:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0015.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0015.xhtml#33">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-01-10T10:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0615.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0615.xhtml#46">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-10-30T00:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0051.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0051.xhtml#282">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-01-16T23:50:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0930.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0930.xhtml#296">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-05T02:00:00</rdfs:member>
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-04T21:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0970.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0970.xhtml#1393">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-07T10:20:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0005.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0005.xhtml#302">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1988-08-26T01:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0688.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0688.xhtml#31">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T16:28:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0705.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0705.xhtml#748">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-13T06:00:00</rdfs:member>
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T20:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0088.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0088.xhtml#961">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-28T10:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0088.xhtml#891">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-28T04:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0088.xhtml#330">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-27T21:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0088.xhtml#33">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-29T00:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0094.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0094.xhtml#805">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-04-04T18:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml#516">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-12-13T21:32:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0699.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0699.xhtml#232">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T02:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0088.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0088.xhtml#484">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-28T05:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0088.xhtml#28">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-28T12:45:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0285.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0285.xhtml#44">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-07-05T10:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0054.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0054.xhtml#224">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-11T20:00:00</rdfs:member>
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T01:15:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0095.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0095.xhtml#721">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-22T06:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0095.xhtml#233">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-25T03:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0095.xhtml#33">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-28T00:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0025.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0025.xhtml#28">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-07-21T02:02:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0005.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0005.xhtml#33">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-01-06T16:25:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0944.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0944.xhtml#1033">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-09T09:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0157.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0157.xhtml#681">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-25T05:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0943.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0943.xhtml#144">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-06T22:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0381.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0381.xhtml#357">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-08-24T14:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0029.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0029.xhtml#182">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-08-06T07:45:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0682.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0682.xhtml#31">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T10:30:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0515.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0515.xhtml#892">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-09-14T10:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0683.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0683.xhtml#31">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >11-11T23:40:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0966.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0966.xhtml#650">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-10T23:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0965.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0965.xhtml#1480">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-10T23:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0965.xhtml#773">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-10T22:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0018.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0018.xhtml#409">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T21:40:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0096.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0096.xhtml#33">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-29T17:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0015.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0015.xhtml#28">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1988-09-01T17:30:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1192.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1192.xhtml#230">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-03-19T12:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0694.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0694.xhtml#31">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T20:05:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0047.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0047.xhtml#1687">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-09-14T03:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1287.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1287.xhtml#4513">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-05-17T04:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0026.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0026.xhtml#319">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1988-10-02T23:45:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0036.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0036.xhtml#2601">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-02-05T16:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0003.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0003.xhtml#657">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-09T15:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#3216">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-11T16:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#1350">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-12T04:15:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#1587">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-12T01:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#1658">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-12T15:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#1932">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-14T07:45:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#1032">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-10T19:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#2237">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-14T09:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#3027">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-12T18:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#2546">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-11T15:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#3588">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-12T12:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#799">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-13T13:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#3751">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-13T16:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#2703">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-13T12:15:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#439">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-10T10:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0033.xhtml#643">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >08-12T18:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0093.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0093.xhtml#2063">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1988-08-30T13:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0093.xhtml#865">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1984-05-28T00:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0312.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0312.xhtml#44">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-07-28T17:33:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0030.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0030.xhtml#2128">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-08-17T18:24:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0071.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0071.xhtml#836">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-16T00:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0728.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0728.xhtml#1563">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-11T20:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0161.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0161.xhtml#37">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-29T17:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1257.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1257.xhtml#619">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-05-02T20:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml#383">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-08-27T18:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0010.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0010.xhtml#28">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1988-07-29T22:20:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0073.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0073.xhtml#33">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-02-05T22:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0601.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0601.xhtml#1515">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >10-23T00:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0601.xhtml#717">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >10-19T00:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0601.xhtml#46">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >10-09T12:12:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0579.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0579.xhtml#3216">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-10-17T14:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0440.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0440.xhtml#455">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-09-07T01:30:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1035.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1035.xhtml#32">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-01-01T19:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0582.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0582.xhtml#284">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-10-18T19:50:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0024.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0024.xhtml#1201">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-01-12T23:35:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0024.xhtml#755">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-01-12T22:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0457.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0457.xhtml#237">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-09-10T04:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0946.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0946.xhtml#3616">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-06T22:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0946.xhtml#163">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-12-06T22:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0645.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0645.xhtml#853">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-05T22:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0680.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0680.xhtml#405">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-11-12T01:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0217.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0217.xhtml#32">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-05-27T14:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0042.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0042.xhtml#227">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-01-16T01:00:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1262.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1262.xhtml#35">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >05-03T18:08:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0140.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0140.xhtml#1772">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-18T21:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0140.xhtml#1027">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-18T22:00:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0140.xhtml#37">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-03-19T13:11:00Z</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0286.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0286.xhtml#384">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1989-07-05T10:10:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1215.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1215.xhtml#42">
+        <rdfs:member rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1990-04-06T02:30:00</rdfs:member>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+</rdf:RDF>
