@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0009.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0021.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0055.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0066.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0068.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0098.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Simón_Bolívar_Guerrilla_Coordinating_Board"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0103.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0113.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0115.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0171.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0176.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0177.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0185.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0230.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0255.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0256.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0257.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0263.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0272.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Simón_Bolívar_Guerrilla_Coordinating_Board"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Movimiento_Armado_Quintin_Lame"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0278.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Simón_Bolívar_Guerrilla_Coordinating_Board"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0279.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0283.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0287.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0301.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0306.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0316.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0325.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0441.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0444.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0447.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0478.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0482.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0496.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0521.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0523.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0539.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0556.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0573.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0600.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0616.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0644.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0663.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0668.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0854.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0997.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0999.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1043.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1045.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1068.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1078.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1081.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1088.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1104.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1107.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1109.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1110.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1120.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1122.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1124.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1127.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1130.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1131.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1132.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1138.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1146.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1156.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1170.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1177.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1232.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1233.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1235.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1237.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1241.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1242.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1243.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1244.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1245.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1248.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1249.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1259.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1279.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0033.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0043.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0049.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0061.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0062.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Simón_Bolívar_Guerrilla_Coordinating_Board"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0078.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0003.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Workers_Revolutionary_Party_of_Colombia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0022.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0026.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0039.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0044.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0083.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0086.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0089.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0099.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0100.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0011.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0079.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0082.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0086.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0093.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0096.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0015.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0023.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0026.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0031.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0039.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0042.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0045.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Popular_Liberation_Army"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0072.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/National_Liberation_Army_(Colombia)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0076.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0084.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0093.xhtml">
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/FARC"/>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/19th_of_April_Movement"/>
+</rdf:Description>
+
+</rdf:RDF>
