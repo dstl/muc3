@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:parse="http://example.org/nlp/parse">
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0053.xhtml#33">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0053.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 23 JAN 89 -- [TEXT] PATRIOTIC UNION [UP] PRESIDENT BERNARDO JARAMILLO OSSA TODAY REVEALED THAT THE GOVERNMENT WARNED HIM OF A PLOT TO MURDER HIM AT EL DORADO AIRPORT UPON HIS RETURN FROM CUBA.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0186.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0186.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 25 APR 89 (ACAN-EFE) -- [TEXT] PERSONS BELIEVED TO BE GUERRILLAS TODAY SHOT INFANTRY COLONEL JOSE LINZANDRO GARCIA ARANDI, DEPUTY COMMANDER OF HUEHUETENANGO MILITARY ZONE IN NORTHWESTERN GUATEMALA.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0199.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0199.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">LIMA, 7 MAY 89 (TELEVISION PERUANA) -- [EXCERPT] DEPUTY PABLO LI ORMENO, OF THE APRA [AMERICAN POPULAR REVOLUTIONARY ALLIANCE] PARTY, WAS MURDERED THIS AFTERNOON IN AN ATTACK CARRIED OUT BY THREE INDIVIDUALS WHO SHOT HIM IN FRONT OF HIS OWN DRUGSTORE IN THE VILLA EL SALVADOR DISTRICT.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0238.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0238.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 9 JUN 89 (ACAN-EFE) -- [TEXT] SALVADORAN PRESIDENCY MINISTER ANTONIO RODRIGUEZ PORTH WAS ASSASSINATED TODAY IN SAN SALVADOR DURING AN ATTACK IN WHICH TWO MEMBERS OF HIS ESCORT WERE ALSO KILLED, THE POLICE HAVE REPORTED.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0259.xhtml#44">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0259.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 22 JUN 89 (ACAN-EFE) -- [EXCERPT] MEDICAL SOURCES REPORTED TODAY THAT THE IRISH NUN, SISTER MARY STANISLAUS MACKEY, WHO WAS SHOT IN EL SALVADOR BY SEVERAL UNIDENTIFIED MEN, IS STILL IN SERIOUS CONDITION, BUT OUT OF DANGER.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0266.xhtml#44">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0266.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 27 JUN 89 (ACAN - EFE) -- [TEXT] GUATEMALAN PRESIDENT VINICIO CEREZO TODAY REVEALED THERE HAVE BEEN TWO ATTEMPTS TO MURDER HIM SINCE HE ASSUMED THE PRESIDENTCY ON 14 JANUARY 1986.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0269.xhtml#44">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0269.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">MANAGUA (NICARAGUA), 28 JUN 89 (BARRICADA) -- [TEXT] A PROPAGANDISTIC SCANDAL WAS PROMOTED IN HONDURAS YESTERDAY, WITH THE REPORT THAT AN ALLEGED NICARAGUAN SPY, WHO HAD SURRENDERED TO HONDURAN AUTHORITIES, "HAD THE MISSION OF ASSASSINATING PRESIDENT AZCONA, ARCHBISHOP SANTOS, PRESIDENTIAL CANDIDATES, AND HONDURAN OPPOSITION LEADERS."</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0320.xhtml#44">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0320.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 2 AUG 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] THE SO-CALLED LOS EXTRADITABLES TODAY CLAIMED RESPONSIBILITY FOR THE REPREHENSIBLE ATTACK ON JUDGE MARIA ELENA DIAZ, THIRD JUDGE OF PUBLIC ORDER, WHO WAS MURDERED ON FRIDAY 28 JULY IN MEDELLIN.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0326.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0326.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 4 AUG 89 (ACAN - EFE) -- [TEXT] POLICE REPORTED TODAY THAT RENE LOPEZ, AN IMMIGRATION OFFICIAL AND LEADER OF THE RULING CHRISTIAN DEMOCRATIC PARTY [PDC], WAS SHOT TO DEATH AFTER HE WAS KIDNAPPED BY UNIDENTIFIED MEN.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0346.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0346.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 16 AUG 89 (EFE) -- [TEXT] SUPERIOR CRIMINAL COURT JUDGE CARLOS VALENCIA GARCIA DIED AFTER HE WAS SHOT TODAY NEAR DOWNTOWN BOGOTA BY TWO MEN TRAVELING ON TWO MOTORCYCLES, POLICE SOURCES REPORTED.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 18 AUG 89 (EMISORAS CARACOL NETWORK) -- [TEXT] MEDELLIN -- ANTIOQUIA POLICE DEPARTMENT CHIEF WALDEMAR FRANKLIN QUINTERO WAS MURDERED THIS MORNING ON THIS CITY'S WEST SIDE.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0351.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0351.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 18 AUG 89 (EFE) -- [TEXT] SENATOR LUIS CARLOS GALAN, LIBERAL PARTY PRESIDENTIAL HOPEFUL, WAS SHOT THIS EVENING WHEN HE WAS ABOUT TO GIVE A SPEECH AT MAIN SQUARE OF SOACHA, 15 KM SOUTH OF BOGOTA, IT WAS CONFIRMED BY POLICE AND HEALTH AUTHORITIES.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0352.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0352.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 18 AUG 89 (EFE) -- [TEXT] THE MEDICAL AUTHORITIES HAVE REPORTED THAT LUIS CARLOS CARLOS GALAN, SENATOR AND PRESIDENTIAL HOPEFUL, DIED TONIGHT 2 HOURS AFTER HAVING BEEN SHOT IN AN ATTACK.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0373.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0373.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 24 AUG 89 (DPA) -- [TEXT] WELL-KNOWN BANKER RAMIRO CASTILLO LOVE WAS MURDERED TODAY BY A GROUP OF UNIDENTIFIED PERSONS WHO RIDDLED HIM WITH MACHINEGUN FIRE AS HE WAS LEAVING HIS RESIDENCE IN AN ELEGANT SUBURB IN THE SOUTHERN PART OF THIS CITY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml#41">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0402.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 30 AUG 89 (DPA) -- [TEXT] THE LOCAL PRESS REPORTED TODAY THAT A FORMER LAW STUDENT WHO HAD BEEN KIDNAPPED HAS BEEN FOUND MURDERED IN A DISTRICT IN NORTHERN GUATEMALA CITY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml#41">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 30 AUG 89 (EFE) -- [TEXT] THE POLICE REPORTED THAT CATTLEMAN LIBERTO GUTIERREZ MARQUEZ, THE ALLEGED FRONT MAN OF THE MEDELLIN CARTEL AND BROTHER OF A FORMER COLOMBIAN ATTORNEY GENERAL, WAS FOUND MURDERED TODAY APPROXIMATELY 500 KM NORTHWEST OF BOGOTA.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0462.xhtml#41">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0462.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">MEDELLIN, 11 SEP 89 (EFE) -- [TEXT] FORMER MEDELLIN MAYOR PABLO PELAEZ GONZALEZ, 45, WAS SHOT TO DEATH BY UNIDENTIFIED INDIVIDUALS, WHILE TRAVELING BETWEEN HIS HOME AND OFFICE TODAY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0463.xhtml#41">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0463.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">MEDELLIN, 11 SEP 89 (EFE) -- [TEXT] PABLO PELAEZ GONZALES, 45, A FORMER MAYOR OF MEDELLIN, WAS MURDERED TODAY BY GUNMEN WHO FIRED SEVEN SHOTS AT HIM, SAID MEDICAL SOURCES AT GENERAL HOSPITAL, WHERE THE VICTIM WAS TAKEN AFTER THE ATTACK.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0486.xhtml#34">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0486.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 15 SEP 89 (INRAVISION TELEVISION CADENA 2) -- [TEXT] COLOMBIAN AIR FORCE [FAC] COMMANDOS AND PILOTS TODAY RECEIVED ORDERS TO STAND READY TO TAKE OFF, INTERCEPT, CAPTURE, OR SHOOT DOWN UNIDENTIFIED OR HOSTILE AIRCRAFT FLYING OVER THE NATION'S TERRITORY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml#34">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 3 OCT 89 (AFP) -- [TEXT] THE AUTHORITIES OF THE EASTERN DEPARTMENT OF ARAUCA, IN THE OIL PRODUCING SECTOR OF THE COUNTRY, HAVE ANNOUNCED THAT MSGR JESUS EMILIO JARAMILLO WAS MURDERED AND THAT HIS BODY WAS FOUND TODAY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0582.xhtml#46">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0582.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 17 OCT 89 (EFE) -- [TEXT] THE AUTHORITIES HAVE REPORTED THAT RADIO ANNOUNCER DIEGO VARGAS ESCOBAR WAS ASSASSINATED TODAY IN MEDELLIN, IN NORTHWESTERN COLOMBIA.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0631.xhtml#31">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0631.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 1 OCT 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] MARIELA ESPINOZA VILLEGAS, A HIGHER COURT MAGISTRATE IN ANTIOQUIA, WAS ASSASSINATED THIS EVENING IN MEDELLIN.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0766.xhtml#39">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0766.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 16 NOV 89 (ACAN-EFE) -- [TEXT] WHEN ANSWERING A QUESTION ON THE POSSIBILITY THAT THE SIX JESUITS AND TWO OTHER PERSONS COULD HAVE BEEN MURDERED BY THE MILITARY, SALVADORAN PRESIDENT ALFREDO CRISTIANI SAID TODAY THAT "IF THE ARMED FORCES PEOPLE DID IT, THE WEIGHT OF THE LAW WILL FALL ALSO ON THEM."</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0799.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0799.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 18 NOV 89 (ACAN - EFE) -- [TEXT] AFTER MEETING WITH HIS SPANISH COUNTERPART INOCENCIO ARIAS, SALVADORAN DEPUTY FOREIGN MINISTER RICARDO VALDIVIESO SAID THAT THE SALVADORAN GOVERNMENT TODAY PROMISED TO INVESTIGATE "IN DETAIL" THE MURDER OF SIX JESUIT PRIESTS WHO WERE MURDERED ON 16 NOVEMBER.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-0932.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-0932.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 5 DEC 89 (AFP) -- [TEXT] COLOMBIAN JUDGE BERNARDO JARAMILLO URIBE WAS ASSASSINATED AT NOON TODAY IN MEDELLIN, LOCATED 500 KM NORTHWEST OF BOGOTA, IT WAS REPORTED TODAY BY THE NATIONAL POLICE.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1020.xhtml#32">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1020.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 21 DEC 89 (ACAN-EFE) -- [TEXT] OFFICIAL SOURCES HAVE CONFIRMED THAT JORGE ADOLFO VARGAS, SECOND SECRETARY AT THE NICARAGUAN EMBASSY IN GUATEMALA, WAS SHOT TO DEATH TODAY IN GUATEMALA CITY BY SEVERAL UNIDENTIFIED MEN.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1079.xhtml#35">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1079.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">AYACUCHO, 28 JAN 90 (EFE) -- [TEXT] THE POLICE HAVE REPORTED THAT TOMAS EVANGELISTA, A LEADER OF THE RULING AMERICAN POPULAR REVOLUTIONARY ALLIANCE (APRA) AND DIRECTOR OF THE AYACUCHO DEVELOPMENT CORPORATION, WAS SHOT DEAD BY TERRORISTS HERE TODAY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1175.xhtml#42">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1175.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SANTIAGO, 21 MAR 90 (RADIO CHILENA NETWORK) -- [TEXT] TWO INDIVIDUALS SHOT FORMER GOVERNMENT JUNTA MEMBER GUSTAVO LEIGH GUZMAN AT POINT BLANK RANGE THIS MORNING.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1176.xhtml#42">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1176.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">GUATEMALA CITY, 22 MAR 90 (ACAN-EFE) -- [TEXT] DANIEL SOLORZANO, ASSISTANT SECRETARY OF THE RULING GUATEMALAN CHRISTIAN DEMOCRACY WAS SHOT AND KILLED ON 21 MARCH BY UNIDENTIFIED MEN, THE POLICE REPORTED TODAY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1248.xhtml#35">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1248.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BOGOTA, 29 APR 90 (EFE) -- [TEXT] ANTONIO NAVARRO WOLFF, WHO HAD BEEN THE NUMBER TWO MAN IN THE 19 APRIL MOVEMENT (M-19), WAS NOMINATED TODAY AS THE NEW PRESIDENTIAL CANDIDATE TO REPLACE CARLOS PIZARRO LEONGOMEZ, WHO WAS MURDERED ON 26 APRIL.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1259.xhtml#35">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1259.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">MEXICO CITY (MEXICO), 2 MAY 90 (NOTIMEX) -- [TEXT] THE 19 APRIL MOVEMENT [M - 19] TODAY ACCUSED THE COLOMBIAN INTELLIGENCE SERVICES OF ASSASSINATING M-19 PRESIDENTIAL CANDIDATE CARLOS PIZARRO.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/dev/DEV-MUC3-1277.xhtml#35">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/dev/DEV-MUC3-1277.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 7 MAY 90 (RADIO CADENA YSU) -- [REPORT] [JULIO ERNESTO RODRIGUEZ] [TEXT] DEFENSE MINISTER GENERAL RAFAEL HUMBERTO LARIOS STATED TODAY THAT THE OFFICERS WHO COULD SERVE AS WITNESSES IN THE CASE OF THE SIX JESUIT PRIESTS ASSASSINATED AT THE CENTRAL AMERICAN UNIVERSITY ARE TAKING TRAINING COURSES ABROAD.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0068.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0068.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">MADRID (SPAIN), 19 NOV 89 (DOMESTIC SERVICE) -- [TEXT] THE BODIES OF THE SPANISH JESUITS MURDERED LAST FRIDAY [17 NOVEMBER] BY UNIFORMED INDIVIDUALS WERE BURIED IN SAN SALVADOR TODAY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0071.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst1/TST1-MUC3-0071.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">LA PAZ, 25 MAY 89 (DPA) -- [TEXT] TWO U.S. MORMON MISSIONARIES -- AGED 19 AND 21 -- WERE SHOT TO DEATH LAST NIGHT BY A GROUP OF TERRORISTS FROM THE ZARATE WILKA ARMED FORCES OF LIBERATION [FAL].</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0096.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0096.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">LIMA, 21 MAR 90 (EFE) -- [TEXT] THE PERUVIAN NAVY TODAY FORMALLY DENIED THAT ITS INTELLIGENCE SERVICES HAD UNCOVERED A PLOT TO ASSASSINATE WRITER MARIO VARGAS LLOSA, WHO IS CONSIDERED TO BE THE FAVORITE CANDIDATE TO WIN THE PRESIDENTIAL ELECTION THAT WILL BE HELD ON 8 APRIL.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst2/TST2-MUC4-0098.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN JOSE (COSTA RICA), 27 SEP 89 (AFP) -- [TEXT] THE GUATEMALAN ASSOCIATION OF UNIVERSITY STUDENTS (AEU), WHOSE TOP LEADERS WERE KIDNAPPED, MURDERED, OR HAD TO GO INTO HIDING DURING THE LAST FEW WEEKS, TODAY DEMANDED THE INTERNATIONAL COMMUNITY'S SOLIDARITY TO CONTAIN THE WAVE OF VIOLENCE THAT HAS SHAKEN THE COUNTRY OVER THE LAST 2 MONTHS.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0003.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0003.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">LIMA, 10 JAN 90 (EFE) -- [TEXT] THE NATIONAL POLICE REPORTED TODAY THAT OVER 15,000 PEOPLE HAVE BEEN ARRESTED IN LIMA OVER THE PAST FEW HOURS IN A DRAGNET AIMED AT UNCOVERING THE ASSASSINS OF FORMER DEFENSE MINISTER ENRIQUE LOPEZ ALBUJAR TRINT, WHO WAS MURDERED IN A TERRORIST ATTACK YESTERDAY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0008.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0008.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">BUENOS AIRES, 7 FEB 89 (DYN) -- [TEXT] POLICE SOURCES HAVE REPORTED THAT AT LEAST FOUR UNIDENTIFIED INDIVIDUALS IN A CAR TODAY SHOT AT A SENTRY POST OF THE LA TABLADA 3D INFANTRY REGIMENT AND SWIFTLY FLED.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0015.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0015.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 19 MAR 89 (ACAN-EFE) -- [TEXT] SALVADORAN REPORTER MAURICIO PINEDA, A SOUND TECHNICIAN FOR THE LOCAL CANAL DOCE TELEVISION STATION, WAS SHOT AND KILLED TODAY IN MORAZAN DEPARTMENT IN THE EASTERN PART OF THE COUNTRY.</schema:description>
+</rdf:Description>
+<rdf:Description about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0098.xhtml#28">
+<rdf:type rdf:resource="http://schema.org/Action"/>
+<rdfs:member rdf:resource="http://dstl.github.io/muc3/tst3/TST3-MUC4-0098.xhtml"/>
+<schema:name xml:lang="en">Assassination</schema:name>
+<schema:description xml:lang="en">SAN SALVADOR, 7 MAY 90 (RADIO CADENA YSU) -- [REPORT] [JULIO ERNESTO RODRIGUEZ] [TEXT] SALVADORAN PRESIDENT ALFREDO CRISTIANI STATED TODAY THAT IT WOULD BE NO PROBLEM FOR THE FOURTH PENAL JUDGE, WHO IS IN CHARGE OF THE CASE OF THE JESUITS MURDERED BY A GROUP OF SOLDIERS, TO ORDER THAT CADETS WHO ARE TAKING COURSES ABROAD RETURN TO THE COUNTRY.</schema:description>
+</rdf:Description>
+</rdf:RDF>
