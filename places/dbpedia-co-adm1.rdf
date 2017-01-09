@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:schema="http://schema.org/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Córdoba_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Córdoba Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Córdoba</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cordoba Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Córdoba department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vichada_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Vichada Department</schema:name>
+    <schema:alternateName xml:lang="en">Vichada department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Vichada</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antioquia_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Antioquia Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Antioquia</schema:alternateName>
+    <schema:alternateName xml:lang="en">ISO 3166-2:CO-ANT</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioquia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioquia (Departamento)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioqueña</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioquia, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioquenian</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioquía</schema:alternateName>
+    <schema:alternateName xml:lang="en">Antioquia department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arauca_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Arauca Department</schema:name>
+    <schema:alternateName xml:lang="en">Arauca department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Arauca</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atlántico_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Atlántico Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Atlántico</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Atlantico</schema:alternateName>
+    <schema:alternateName xml:lang="en">Atlantico Department, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Atlantico Deparment</schema:alternateName>
+    <schema:alternateName xml:lang="en">Atlántico (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Atlantico Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Atlántico department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolívar_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Bolívar Department</schema:name>
+    <schema:alternateName xml:lang="en">Bolívar department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolivar Department (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Bolívar</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolivar Deparment</schema:alternateName>
+    <schema:alternateName xml:lang="en">Postage stamps and postal history of Bolivar Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolívar, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolivar, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolívar (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Bolivar</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolívar Department (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolivar department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolívar (department)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Bolivar Department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boyacá_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Boyacá Department</schema:name>
+    <schema:alternateName xml:lang="en">Boyacá department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Boyacá</schema:alternateName>
+    <schema:alternateName xml:lang="en">Boyaca Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Postage stamps and postal history of Boyaca</schema:alternateName>
+    <schema:alternateName xml:lang="en">Provinces of Boyacá</schema:alternateName>
+    <schema:alternateName xml:lang="en">Boyaca Department, Colombia</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caldas_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Caldas Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Caldas</schema:alternateName>
+    <schema:alternateName xml:lang="en">Caldas department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caquetá_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Caquetá Department</schema:name>
+    <schema:alternateName xml:lang="en">Caqueta Department, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Caquetá</schema:alternateName>
+    <schema:alternateName xml:lang="en">Caquetá (department)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Caqueta Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Caquetá department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Caqueta</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casanare_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Casanare Department</schema:name>
+    <schema:alternateName xml:lang="en">Casanare department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Casanare</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cauca_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Cauca Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Cauca</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cauca department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cesar_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Cesar Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Cesar</schema:alternateName>
+    <schema:alternateName xml:lang="en">Sierra Nevada de Santa Maria</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of cesar</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cesar department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cesar colombia</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chocó_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Chocó Department</schema:name>
+    <schema:alternateName xml:lang="en">Chocó</schema:alternateName>
+    <schema:alternateName xml:lang="en">Choco Department, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Chocó</schema:alternateName>
+    <schema:alternateName xml:lang="en">Chocó department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Choco (Columbia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">List of Governors of the Department of Choco</schema:alternateName>
+    <schema:alternateName xml:lang="en">Chocó (Columbia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Choco Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">List of Governors of the Department of Chocó</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guainía_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Guainía Department</schema:name>
+    <schema:alternateName xml:lang="en">Guainía department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Guainía</schema:alternateName>
+    <schema:alternateName xml:lang="en">Guainia Commissariat, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Guainia Department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guaviare_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Guaviare Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Guaviare</schema:alternateName>
+    <schema:alternateName xml:lang="en">Guaviare department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huila_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Huila Department</schema:name>
+    <schema:alternateName xml:lang="en">Huila, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Huila</schema:alternateName>
+    <schema:alternateName xml:lang="en">Huila department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Guajira_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">La Guajira Department</schema:name>
+    <schema:alternateName xml:lang="en">La Guajira Department, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of La Guajira</schema:alternateName>
+    <schema:alternateName xml:lang="en">Guajira, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Guajira Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">La Guajira</schema:alternateName>
+    <schema:alternateName xml:lang="en">La Guajira department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magdalena_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Magdalena Department</schema:name>
+    <schema:alternateName xml:lang="en">Departamento del Magdalena</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Magdalena</schema:alternateName>
+    <schema:alternateName xml:lang="en">Magdalena department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meta_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Meta Department</schema:name>
+    <schema:alternateName xml:lang="en">Meta, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Meta</schema:alternateName>
+    <schema:alternateName xml:lang="en">Meta department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nariño_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Nariño Department</schema:name>
+    <schema:alternateName xml:lang="en">Nariño</schema:alternateName>
+    <schema:alternateName xml:lang="en">Nariño department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Narino Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Nariño</schema:alternateName>
+    <schema:alternateName xml:lang="en">Narino Department, Colombia</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norte_de_Santander_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Norte de Santander Department</schema:name>
+    <schema:alternateName xml:lang="en">Norte de Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">Norte de Santander department</schema:alternateName>
+    <schema:alternateName xml:lang="en">North Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">North Santander Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">North of Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Norte de Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of North Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">North Santander State</schema:alternateName>
+    <schema:alternateName xml:lang="en">Santander del Norte</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department Norte de Santander</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Putumayo_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Putumayo Department</schema:name>
+    <schema:alternateName xml:lang="en">Putumayo department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Putumayo</schema:alternateName>
+    <schema:alternateName xml:lang="en">Putumayo, Colombia</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quindío_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Quindío Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Quindío</schema:alternateName>
+    <schema:alternateName xml:lang="en">Quindio Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Quindio</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Quindio</schema:alternateName>
+    <schema:alternateName xml:lang="en">Quindio Department, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Quindío department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Quindio cuisine</schema:alternateName>
+    <schema:alternateName xml:lang="en">Quindío</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Risaralda_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Risaralda Department</schema:name>
+    <schema:alternateName xml:lang="en">Risaralda department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Risaralda</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santander_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Santander Department</schema:name>
+    <schema:alternateName xml:lang="en">Santandereanas</schema:alternateName>
+    <schema:alternateName xml:lang="en">Santander Cuisine</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cuisine of Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">Santander department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Santander, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">Postage stamps and postal history of Santander Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">South Santander</schema:alternateName>
+    <schema:alternateName xml:lang="en">Santander cuisine</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sucre_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Sucre Department</schema:name>
+    <schema:alternateName xml:lang="en">Sucre (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Sucre, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Sucre</schema:alternateName>
+    <schema:alternateName xml:lang="en">Sucre department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tolima_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Tolima Department</schema:name>
+    <schema:alternateName xml:lang="en">Tolima Deparment</schema:alternateName>
+    <schema:alternateName xml:lang="en">Tolima department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Tolima</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valle_del_Cauca_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Valle del Cauca Department</schema:name>
+    <schema:alternateName xml:lang="en">Valle del Cauca department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Valluna</schema:alternateName>
+    <schema:alternateName xml:lang="en">Valle del Cauca</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Valle del Cauca</schema:alternateName>
+    <schema:alternateName xml:lang="en">La María Valle del Cauca</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaupés_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Vaupés Department</schema:name>
+    <schema:alternateName xml:lang="en">Vaupes Commissariat, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Vaupes Region</schema:alternateName>
+    <schema:alternateName xml:lang="en">Vaupes Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Vaupés department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Vaupés</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amazonas_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Amazonas Department</schema:name>
+    <schema:alternateName xml:lang="en">Amazonas Department (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Amazonas, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Amazonas Department, Colombia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of Amazonas</schema:alternateName>
+    <schema:alternateName xml:lang="en">Department of amazonas</schema:alternateName>
+    <schema:alternateName xml:lang="en">Amazonas (Colombia)</schema:alternateName>
+    <schema:alternateName xml:lang="en">Amazonas department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Archipelago of San Andrés, Providencia and Santa Catalina</schema:name>
+    <schema:alternateName xml:lang="en">San Andrés y Providencia Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés and Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andres and Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés, Providencia y Santa Catalina</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés and Providencia Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés, Providencia y Santa Catalina Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andres y Providencia Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andres department</schema:alternateName>
+    <schema:alternateName xml:lang="en">Archipelago de San Andres y Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andres Y Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Archipelago of Saint Andrew, Providence and Saint Catherine</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés y Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Archipelago of San Andres, Providencia and Santa Catalina</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andres y Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">Republic of Isla de Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés, Providencia and Santa Catalina Department</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés Y Providencia</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andrés, Providencia and Santa Catalina</schema:alternateName>
+    <schema:alternateName xml:lang="en">San Andres and Providencia Department</schema:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cundinamarca_Department">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <schema:name xml:lang="en">Cundinamarca Department</schema:name>
+    <schema:alternateName xml:lang="en">Department of Cundinamarca</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cundinamarca department</schema:alternateName>
+  </rdf:Description>
+</rdf:RDF>

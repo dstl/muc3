@@ -1,0 +1,515 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:gn="http://www.geonames.org/ontology#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <gn:Feature rdf:about="http://sws.geonames.org/3680692/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Huila_Department"/>
+    <wgs84_pos:lat>2.5</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Huila_Department"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680692/departamento-del-huila.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-75.58333</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:population>1011418</gn:population>
+    <gn:name>Departamento del Huila</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3680692/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686880/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-73.5</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cesar_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686880/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686880/departamento-del-cesar.html"/>
+    <gn:population>903279</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cesar_Department"/>
+    <gn:name>Departamento del Cesar</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>9.33333</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689717/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Arauca_Department"/>
+    <wgs84_pos:long>-71</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689717/departamento-de-arauca.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>232118</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689717/contains.rdf"/>
+    <gn:name>Departamento de Arauca</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Arauca_Department"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>6.66667</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666313/">
+    <gn:shortName>Valle del Cauca</gn:shortName>
+    <gn:population>4161425</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666313/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666313/departamento-del-valle-del-cauca.html"/>
+    <wgs84_pos:long>-76.5</wgs84_pos:long>
+    <gn:name>Departamento del Valle del Cauca</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Valle_del_Cauca_Department"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Valle_del_Cauca_Department"/>
+    <wgs84_pos:lat>3.75</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3674021/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:name>Departamento de Nariño</gn:name>
+    <wgs84_pos:long>-78</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3674021/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nari%C3%B1o_Department"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nari%C3%B1o_Department"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3674021/departamento-de-narino.html"/>
+    <gn:population>1541956</gn:population>
+    <wgs84_pos:lat>1.5</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666254/">
+    <wgs84_pos:lat>0.75</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Vaup%C3%A9s_Department"/>
+    <gn:population>39279</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666254/contains.rdf"/>
+    <gn:name>Departamento del Vaupés</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Vaup%C3%A9s_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-70.75</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666254/departamento-del-vaupes.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670205/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670205/providencia-y-santa-catalina-departamento-de-archipielago-de-san-andres.html"/>
+    <wgs84_pos:long>-81.71983</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>70554</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:shortName xml:lang="es">San Andrés y Providencia</gn:shortName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <wgs84_pos:lat>12.52449</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Archipelago_of_San_Andr%C3%A9s%2C_Providencia_and_Santa_Catalina"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670205/contains.rdf"/>
+    <gn:shortName xml:lang="en">San Andres y Providencia</gn:shortName>
+    <gn:name>San Andres y Providencia</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Archipelago_of_San_Andr%C3%A9s%2C_Providencia_and_Santa_Catalina"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681344/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guaviare_Department"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681344/departamento-del-guaviare.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guaviare_Department"/>
+    <gn:population>95551</gn:population>
+    <wgs84_pos:long>-72</wgs84_pos:long>
+    <wgs84_pos:lat>1.91667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Departamento del Guaviare</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681344/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3685413/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:officialName xml:lang="en">Cundinamarca</gn:officialName>
+    <gn:population>2598245</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3685413/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cundinamarca_Department"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3685413/departamento-de-cundinamarca.html"/>
+    <wgs84_pos:lat>5</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cundinamarca_Department"/>
+    <gn:name>Cundinamarca</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.16667</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688685/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:officialName xml:lang="en">Bogota D.C.</gn:officialName>
+    <gn:population>6840116</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bogot%C3%A1#Pre-Colombian"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688685/distrito-capital-de-bogota.html"/>
+    <wgs84_pos:lat>4.25</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.18333</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688685/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Bogota D.C.</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bogot%C3%A1%23Pre-Colombian"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:shortName xml:lang="es">Bogotá D.E.</gn:shortName>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3674810/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3674810/departamento-del-meta.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>783168</gn:population>
+    <gn:name>Departamento del Meta</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Meta_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3674810/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>3.5</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Meta_Department"/>
+    <wgs84_pos:long>-73</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667725/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sucre_Department"/>
+    <wgs84_pos:lat>9</wgs84_pos:lat>
+    <wgs84_pos:long>-75</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667725/contains.rdf"/>
+    <gn:population>772010</gn:population>
+    <gn:name>Departamento de Sucre</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667725/departamento-de-sucre.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sucre_Department"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687173/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>295353</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Casanare_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Departamento de Casanare</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-71.5</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687173/departamento-de-casanare.html"/>
+    <wgs84_pos:lat>5.5</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687173/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Casanare_Department"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689982/">
+    <wgs84_pos:lat>-1.16667</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689982/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Amazonas</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689982/amazonas.html"/>
+    <gn:population>67726</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Amazonas_Department"/>
+    <wgs84_pos:long>-71.5</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Amazonas_Department"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666082/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666082/contains.rdf"/>
+    <wgs84_pos:lat>5</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Vichada_Department"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666082/departamento-del-vichada.html"/>
+    <gn:population>55872</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:name>Departamento del Vichada</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Vichada_Department"/>
+    <wgs84_pos:long>-69.5</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3678847/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Guajira_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Departamento de La Guajira</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3678847/departamento-de-la-guajira.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Guajira_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3678847/contains.rdf"/>
+    <wgs84_pos:lat>11.5</wgs84_pos:lat>
+    <gn:population>681575</gn:population>
+    <wgs84_pos:long>-72.5</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671087/">
+    <wgs84_pos:long>-75.66667</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671087/quindio-department.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Quind%C3%ADo_Department"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Quindío Department</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Quind%C3%ADo_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671087/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <wgs84_pos:lat>4.5</wgs84_pos:lat>
+    <gn:population>534552</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687951/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687951/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:population>968740</gn:population>
+    <wgs84_pos:long>-75.33333</wgs84_pos:long>
+    <wgs84_pos:lat>5.26667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687951/departamento-de-caldas.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Caldas_Department"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Caldas_Department"/>
+    <gn:name>Departamento de Caldas</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687479/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <wgs84_pos:lat>0.75</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687479/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Caquet%C3%A1_Department"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687479/departamento-del-caqueta.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>420337</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Caquet%C3%A1_Department"/>
+    <gn:name>Departamento del Caquetá</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3685889/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3685889/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/C%C3%B3rdoba_Department"/>
+    <gn:name>Departamento de Córdoba</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3685889/departamento-de-cordoba.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:population>1467929</gn:population>
+    <wgs84_pos:lat>8.33333</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/C%C3%B3rdoba_Department"/>
+    <wgs84_pos:long>-75.66667</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689436/">
+    <gn:population>2166156</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689436/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-75</wgs84_pos:long>
+    <gn:officialName xml:lang="en">Atlántico</gn:officialName>
+    <wgs84_pos:lat>10.75</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Atlántico</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Atl%C3%A1ntico_Department"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689436/departamento-del-atlantico.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686431/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>454030</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686431/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Choc%C3%B3_Department"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686431/departamento-del-choco.html"/>
+    <wgs84_pos:lat>6</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-77</wgs84_pos:long>
+    <gn:name>Departamento del Chocó</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Choc%C3%B3_Department"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3675686/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Magdalena_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3675686/contains.rdf"/>
+    <wgs84_pos:long>-74.5</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3675686/departamento-del-magdalena.html"/>
+    <gn:population>1149917</gn:population>
+    <wgs84_pos:lat>10</wgs84_pos:lat>
+    <gn:name>Departamento del Magdalena</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Magdalena_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671178/">
+    <gn:name>Departamento del Putumayo</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Putumayo_Department"/>
+    <wgs84_pos:long>-76</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671178/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Putumayo_Department"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671178/departamento-del-putumayo.html"/>
+    <gn:population>310132</gn:population>
+    <wgs84_pos:lat>0.5</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673798/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Norte_de_Santander_Department"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673798/departamento-de-norte-de-santander.html"/>
+    <gn:name>Departamento de Norte de Santander</gn:name>
+    <wgs84_pos:lat>8</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <wgs84_pos:long>-73</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Norte_de_Santander_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673798/contains.rdf"/>
+    <gn:population>1243975</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689815/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Antioquia_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-75.5</wgs84_pos:long>
+    <gn:officialName xml:lang="en">Antioquia</gn:officialName>
+    <gn:name>Antioquia</gn:name>
+    <gn:population>6299886</gn:population>
+    <wgs84_pos:lat>7</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Antioquia_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689815/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689815/departamento-de-antioquia.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681652/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guain%C3%ADa_Department"/>
+    <wgs84_pos:lat>2.5</wgs84_pos:lat>
+    <wgs84_pos:long>-69</wgs84_pos:long>
+    <gn:population>35230</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681652/departamento-del-guainia.html"/>
+    <gn:name>Departamento del Guainía</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681652/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guain%C3%ADa_Department"/>
+    <gn:shortName>Guainía</gn:shortName>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3668578/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3668578/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Santander_Department"/>
+    <wgs84_pos:long>-73.41667</wgs84_pos:long>
+    <gn:population>1957789</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3668578/departamento-de-santander.html"/>
+    <gn:shortName>Santander</gn:shortName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>6.83333</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Santander_Department"/>
+    <gn:name>Departamento de Santander</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688650/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688650/departamento-de-bolivar.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bol%C3%ADvar_Department"/>
+    <gn:name>Departamento de Bolívar</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688650/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bol%C3%ADvar_Department"/>
+    <gn:population>2049083</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <wgs84_pos:lat>9</wgs84_pos:lat>
+    <wgs84_pos:long>-74.33333</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670698/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Risaralda_Department"/>
+    <wgs84_pos:long>-76</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Risaralda_Department"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670698/contains.rdf"/>
+    <gn:name>Departamento de Risaralda</gn:name>
+    <gn:population>897509</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>5</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670698/departamento-de-risaralda.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687029/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.83333</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687029/departamento-del-cauca.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cauca_Department"/>
+    <wgs84_pos:lat>2.5</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cauca_Department"/>
+    <gn:name>Departamento del Cauca</gn:name>
+    <gn:population>1268937</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687029/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666951/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tolima_Department"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666951/departamento-de-tolima.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666951/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tolima_Department"/>
+    <wgs84_pos:lat>4</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Departamento de Tolima</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>1365342</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-75.25</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688536/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688536/contains.rdf"/>
+    <gn:population>1255311</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:name>Departamento de Boyacá</gn:name>
+    <wgs84_pos:long>-73</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Boyac%C3%A1_Department"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Boyac%C3%A1_Department"/>
+    <wgs84_pos:lat>5.66667</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688536/departamento-de-boyaca.html"/>
+  </gn:Feature>
+</rdf:RDF>
