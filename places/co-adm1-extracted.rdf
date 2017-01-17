@@ -1,0 +1,2022 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:parse="http://example.org/nlp/parse"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:gn="http://www.geonames.org/ontology#">
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml#329">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ANTIOQUIA DEPARTMENT LIBERAL PARTY LEADER HAD LEFT HIS HOUSE WITHOUT ANY BODYGUARDS ONLY MINUTES EARLIER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1088.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1088.xhtml#2466">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">SO, WHY NOT LOOK FOR AVENUES OF COMMUNICATION WITH THE [1-SECOND BREAK IN RECEPTION] AND THE EPL TO ESTABLISH A TRUCE, AT LEAST DURING THIS ELECTORAL PERIOD, SO THAT ALL COLOMBIANS, ESPECIALLY THOSE OF NORTH SANTANDER, CAN FREELY EXERCISE THEIR SOVEREIGN RIGHT TO PARTICIPATE IN AN ELECTION AND EXPRESS THEIR SATISFACTION WITH OR CONDEMNATION OF THE PEOPLE WHO ARE CURRENTLY GOVERNING THE MUNICIPALITIES?</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1088.xhtml#1951">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">[REPOERTER] MR. GOVERNOR, DO YOU BELIEVE THAT, FOR INSTANCE, CIVIC OR POLITICAL LEADERS IN THE AREA OF NORTH SANTANDER CAN PARTICIPATE IN TALKS WITH THE EPL AND THE ELN TO MAKE SERIOUS PROPOSALS TO THE GOVERNMENT ABOUT A POSSIBLE TRUCE, AS YOU SUGGEST?</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1088.xhtml#35">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 4 FEB 90 (RADIO CADENA NACIONAL) -- [INTERVIEW WITH NORTH SANTANDER GOVERNOR EDUARDO ASSAF ELCURE BY UNIDENTIFIED REPORTER] [TEXT] [REPORTER] WE ARE SAYING HELLO AT THIS HOUR TO NORTH SANTANDER GOVERNOR EDUARDO ASSAF ELCURE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0071.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0071.xhtml#1099">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">THEY WERE ASSASSINATED ALONG WITH 12 VENEZUELAN CITIZENS WHEN THE VENEZUELAN ARMY MISTOOK THEM FOR NATIONAL LIBERATION ARMY REBELS IN CANO COLORADA, ARAUCA DEPARTMENT, ALONG THE VENEZUELAN BORDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0372.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0372.xhtml#725">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE POLICE SAID THAT THE COUNTRY HOMES OF LEADER IGNACIO VELEZ ESCOBAR AND FORMER CABINET MINISTER EDGAR GUTIERREZ CASTRO IN SABANETA AND EL RETIRO MUNICIPALITIES, RESPECTIVELY, ANTIOQUIA DEPARTMENT, WERE SIMILARLY ATTACKED BY THE TERRORISTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0372.xhtml#32">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 24 AUG 89 (AFP) -- [TEXT] POLICE IN THIS CAPITAL TODAY REPORTED THAT FOUR BOMBS EXPLODED IN THE CITY OF MEDELLIN EARLY THIS MORNING, KILLING ONE MAN AND CAUSING DAMAGE ESTIMATED IN THE MILLIONS TO TWO POLITICAL PARTY OFFICES AND TO THE COUNTRY HOMES OF TWO POLITICAL LEADERS OF ANTIOQUIA DEPARTMENT, 500 KM NORTHWEST OF BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1105.xhtml#35">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">MEDELLIN, 13 FEB 90 (RADIO CADENA NACIONAL) -- [TEXT] ONE OF THE TWO U.S. CITIZENS WHO WAS KIDNAPPED IN THE PAST FEW HOURS IN THE CAPITAL OF ANTIOQUIA HAS BEEN RELEASED BY THE ELN [ARMY OF NATIONAL LIBERATION] GUERRILLAS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml#880">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">AS THE VEHICLE DROVE THROUGH THE AMERICA NEIGHBORHOOD, SEVEN BLOCKS FROM WHERE ANTIOQUIA GOVERNOR ANTONIO ROLDAN WAS KILLED, THE VEHICLE THAT COL QUINTERO WAS IN -- A WHITE NISSAN PATROL VEHICLE WITH LICENSE PLATES ME-7847 -- DREW TO A STOP IN FRONT OF A RED LIGHT AT THE CARRERA 80 CROSSING.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml#704">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">[BEGIN RECORDING] [VARGAS] THIS MORNING ANTIOQUIA POLICE COMMANDER COL WALDEMAR FRANKLIN QUINTERO LEFT HIS RESIDENCE TO BEGIN HIS DAILY TASKS AT ANTIOQUIA POLICE HEADQUARTERS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml#262">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE CRIMINAL ATTACK ON THE OFFICER OCCURED A SCANT 1 MONTH AFTER THE MURDER OF ANTIOQUIA DEPARTMENT GOVERNOR ANTONIO ROLDAN BETANCUR.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 18 AUG 89 (INRAVISION TELEVISION CADENA 1) -- [EXCERPTS] THE EXTRADITABLES TODAY CLAIMED RESPONSIBILITY FOR THE MURDER OF ANTIOQUIA POLICE COMMANDER COLONEL WALDEMAR FRANKLIN QUINTERO, WHICH OCCURRED THIS MORNING IN MEDELLIN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0052.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0052.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Tolima_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 21 JAN 89 (DPA) -- [TEXT] IT HAS BEEN OFFICIALLY CONFIRMED THAT TWO LEADERS OF THE LEFTIST PATRIOTIC UNION [UP] WERE KILLED BY UNKNOWN PERSONS NEAR RIO BLANCO MUNICIPALITY, TOLIMA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0103.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0103.xhtml#864">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">[BEGIN RECORDING] [RUIZ] TWO GROUPS, ONE FROM THE ELN AND ANOTHER FROM THE EPL, HAVE BEEN OPERATING IN SOUTHWESTERN ANTIOQUIA, SPECIFICALLY IN THE TRIANGLE FORMED BY CARMEN DE ATRATO, SALGAR, AND CIUDAD BOLIVAR MUNICIPALITIES.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0103.xhtml#37">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 9 MAR 89 (INRAVISION TELEVISION CADENA I) -- [REPORT] [MARIA EUGENIA SALAZAR] [TEXT] ARMY GENERAL JAIME RUIZ BARRERA REPORTS THAT OVER THE PAST FEW DAYS THE ARMY HAS CONDUCTED OPERATIONS IN SOUTHWESTERN ANTIOQUIA DEPARTMENT DURING WHICH CLASHES HAVE OCCURRED BETWEEN ARMY TROOPS AND ARMY OF NATIONAL LIBERATION, ELN, AND PEOPLE'S LIBERATION ARMY, EPL, GUERRILLAS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0024.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0024.xhtml#1493">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">[REPORTER] TO CONCLUDE, COMMANDER: IN RECENT HOURS THERE HAVE BEEN ATTACKS IN THE CAPITAL, INCLUDING BOMB ATTACKS ON THE RESIDENCES OF DEMOCRATIC LEADERS SUCH AS RUBEN ZAMORA AND ARONETE DIAZ, AN ATTACK ON THE RESIDENCE OF COLONEL CARRANZA, AND AN ATTACK ON A RELATIVE OF COLONEL LOPEZ HUILA, AMONG OTHERS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml#1147">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">DONELLY AND KENT WERE TURNED OVER BY THE ELN TO A COMMISSION MADE UP OF OFFICIALS OF THE ANTIOQUIA REGIONAL ATTORNEY GENERAL'S OFFICE AND MEMBERS OF THE HUMAN RIGHTS COMMISSION IN A REGION NEAR COCORNA, 80 KM SOUTHEAST OF MEDELLIN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1139.xhtml#35">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">MEDELLIN, 24 FEB 90 (AFP) -- [TEXT] TWO U.S. CITIZENS, WHO HAD BEEN KIDNAPPED BY GUERRILLAS ON 12 FEBRUARY IN ANTIOQUIA DEPARTMENT IN NORTHWESTERN COLOMBIA, WERE RELEASED TODAY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0376.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0376.xhtml#625">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">GARCES, WHO IS ALSO PRESIDENT OF THE ASSOCIATION OF JUDICIAL OFFICIALS IN VALLE DEL CAUCA DEPARTMENT, SAID THAT THE EXTRADITABLES SENT SEVERAL MESSAGES WITH THE THREAT TO VARIOUS JUDICIAL OFFICES IN THAT AREA OF THE COUNTRY, LOCATED 500 KM FROM BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1146.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1146.xhtml#712">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Chocó_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THE UP MADE THE REPORT FOLLOWING THE MURDER ON 26 FEBRUARY OF APARTADO MAYOR DIANA CORDOBA SALDARRIAGA -- APARTADO IS LOCATED 480 KM TO THE NORTHEAST OF BOGOTA -- AND THE MURDER ON THE EVENING OF 27 FEBRUARY OF SIX MORE UP FOLLOWERS IN UNGUIA, A VILLAGE IN CHOCO DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1002.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1002.xhtml#910">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, ALL COMMERCIAL AND PRIVATE AIR OPERATIONS IN SUCRE DEPARTMENT AND THE COLOMBIAN CARIBBEAN COAST HAVE BEEN PLACED UNDER MILITARY CONTROL WITH HEAVY RESTRICTIONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0460.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0460.xhtml#251">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">THE TWO WERE KILLED AS THEY WERE LEAVING A LOCAL CHURCH IN NARINO CORREGIMIENTO, TULUA, IN CENTRAL VALLE DEL CAUCA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0593.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0593.xhtml#879">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/La_Guajira_Department</rdfs:member>
+        <schema:description xml:lang="en">AN EXTRADITABLE WAS CAPTURED BY THE POLICE WHILE HE WAS IN THE CERREJON INSTALLATIONS, IN THE TOWN OF MAICAO, GUAJIRA INTENDANCY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#2667">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">COL JORGE ERNESTO FERRERO ECHEVERRI, SANTANDER DEPARTMENT POLICE COMMANDER, SAID THE SPECIAL SECURITY COUNCIL WILL MEET TODAY (MONDAY) TO ASSESS THE SITUATION.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#2428">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, WE HAVE BEEN UNABLE TO OBTAIN INFORMATION ABOUT THE RESULTS OF THE OPERATIONS CONDUCTED BY 5TH BRIGADE TROOPS COMMANDED BY GENERAL ALFONSO VACA PERILLA IN THE AREAS OF EL CARMEN AND SAN VICENTE DE CHUCURRI, SANTANDER DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#1835">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, AT LEAST 50 FARC REBELS BLEW UP A JEEP NEAR SAN JUAN DE URAMA MUNICIPALITY NEAR ROAD NO 32 IN META DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#1645">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">ITUANGO MUNICIPALITY, 195 KM NORTH OF MEDELLIN, IS NEAR LOWER CAUCA, WHERE THE ARMY DISMANTLED DURING HOLY WEEK A FARC 37TH FRONT PLAN DESIGNED TO COMMIT AND CARRY OUT AMBUSHES AND ASSAULTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#1385">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">THE SOLDIER WAS IDENTIFIED AS EDISON ESTRADA BOLIVAR.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#793">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IN ADDITION, THE FERVOR OF THE SATURDAY PROCESSION AND PRAYERS WERE INTERRUPTED IN SANTA RITA CORREGIMIENTO, ITUANGO MUNICIPALITY, ANTIOQUIA DEPARTMENT, AT 1800 BY 200 GUERRILLAS WHO ENTERED THE TOWN SHOOTING AT ARMY TROOPS--APPROXIMATELY 72 SOLDIERS--WHO WERE RETURNING TO THE TOWN AFTER THEIR PATROL OPERATIONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#345">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">THE DEFENSE MINISTRY REPORTED THE FIRST INCIDENT TOOK PLACE AT LA LINEA, A CORREGIMIENTO LOCATED IN ALGECIRAS MUNICIPALITY, HUILA DEPARTMENT, WHERE A FARC FRONT AMBUSHED AN 11TH BRIGADE ARMY PATROL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0093.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 27 MAR 89 -- [TEXT] ACCORDING TO OFFICIAL SOURCES, THE HOLY WEEK TRUCE WAS APPARENTLY BROKEN OVER THE WEEKEND BY SEVERAL REVOLUTIONARY ARMED FORCES OF COLOMBIA (FARC) FRONTS IN ANTIOQUIA, META, AND HUILA DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0324.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0324.xhtml#419">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THE UP LEADER IN CORDOBA WAS MURDERED AT APPROXIMATELY 1500 (2000 GMT) TODAY, AT THE SAME TIME THAT THE GOVERNMENT DESIGNATED IN BOGOTA GENERAL MIGUEL ALFREDO MAZA MARQUEZ, ADMINISTRATIVE DEPARTMENT OF SECURITY [DAS] DIRECTOR, AS THE GOVERNMENT DELEGATE TO MEET WITH THOSE WHO ARE OCCUPYING THE GOVERNMENT MINISTER'S OFFICE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0324.xhtml#44">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 3 AUG 89 (EFE) -- [TEXT] GUSTAVO GUERRA, COORDINATOR OF THE LEFTIST PATRIOTIC UNITY [UP] IN CORDOBA DEPARTMENT IN THE COUNTRY'S NORTHWEST, WAS GUNNED DOWN TODAY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml#933">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">ON 5 JANUARY, CARLOS JULIO TORRADO, MAYOR OF ABREGO IN THE NORTHEASTERN DEPARTMENT OF SANTANDER, WAS KILLED APPARENTLY BY ANOTHER GUERILLA COLUMN, ALSO BELONGING TO THE ELN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0008.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 9 JAN 90 (EFE) -- [TEXT] RICARDO ALFONSO CASTELLAR, MAYOR OF ACHI, IN THE NORTHERN DEPARTMENT OF BOLIVAR, WHO WAS KIDNAPPED ON 5 JANUARY, APPARENTLY BY ARMY OF NATIONAL LIBERATION (ELN) GUERRILLAS, WAS FOUND DEAD TODAY, ACCORDING TO AUTHORITIES.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0099.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0099.xhtml#273">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">AN ECOPETROL [COLOMBIAN PETROLEUM ENTERPRISE] SPOKESMAN SAID THAT THE EXPLOSION TOOK PLACE AT KM - 102 OF THE PIPE NEAR BENADIA IN ARAUCA INTENDANCY, IN THE EASTERN PART OF THE COUNTRY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0076.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0076.xhtml#245">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">MONTERIA IS THE CAPITAL OF CORDOBA DEPARTMENT AND IT IS LOCATED 490 KM NORTH OF BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0045.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0045.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 25 OCT 88 (INRAVISION TELEVISION CADENA 1) -- [TEXT] IN ANOTHER ACT OF VIOLENCE, 18 PEOPLE WERE KILLED NEAR CANASGORDAS IN ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0015.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0015.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 1 SEP 88 (INRAVISION TELEVISION CADENA 1) -- [EDITORIAL REPORT] [TEXT] BOGOTA INRAVISION TELEVISION CADENA 1 IN SPANISH AT 1730 GMT ON 1 SEPTEMBER BROADCASTS APPROXIMATELY 3 MINUTES OF REPORTS BY NATIONAL POLICE DIRECTOR GENERAL JOSE GUILLERMO MEDINA SANCHEZ, WHO CONFIRMS THAT 15 CIVILIANS WERE KILLED "TUESDAY NIGHT" IN EL TOMATE, CANALETES MUNICIPALITY, CORDOBA DEPARTMENT, BY A GANG "POSSIBLY BELONGING TO THE POPULAR LIBERATION ARMY."</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0291.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0291.xhtml#234">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ATTACK TOOK PLACE IN THE EL PEDREGAL NEIGHBORHOOD, BELLO MUNICIPALITY, IN THE NORTHERN PART OF ANTIOQUIA DEPARTMENT'S CAPITAL CITY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0067.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0067.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 31 JAN 89 -- [SUMMARY] NATIONAL POLICE DIRECTOR MIGUEL ANTONIO GOMEZ PADILLA HAS REPORTED THAT WITHIN THE FRAMEWORK OF "OPERATION SPRING," A NEW OFFENSIVE WAS RECENTLY LAUNCHED AGAINST DRUG TRAFFICKERS IN THE MIDDLE MAGDALENA REGION, ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0556.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0556.xhtml#1105">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">IT ALSO INCLUDES MARCO CHALITA, WHO WILL RUN FOR THE SENATE FOR THE SOUTHERN PROVINCE OF HUILA, AND VERA GREIFF, ROSEMBERG PABON, ANYAIR ARTUNDUAGA, AND HEBER BUSTAMANTE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0556.xhtml#326">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">AT THE END OF THE M-19'S ANNUAL CONFERENCE HELD IN THE SOUTHWESTERN CITY OF POPAYAN, CAUCA PROVINCE, THE MOVEMENT WAS FORMALLY CONSTITUTED AS A POLITICAL ORGANIZATION WITH ITS LEADER, CARLOS PIZARO LEONGOMEZ, PROCLAIMED AS A PRESIDENTIAL HOPEFUL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0284.xhtml#44">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 10 JUL 89 (INRAVISION TELEVISION CADENA 2) -- [TEXT] THE MAYORS OF COCORNA, SAN CARLOS, AND SAN FRANCISCO WERE RELEASED IN THE MUNICIPALITY OF SAN FRANCISCO, ANTIOQUIA, THIS MORNING.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0288.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0288.xhtml#44">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 13 JUL 89 (EMISORAS CARACOL NETWORK) -- [TEXT] A NEW ATTACK AGAINST THE CANO - LIMON - COVENA OIL PIPELINE, WHICH CAUSED A LARGE OIL SPILL, WAS CARRIED OUT THIS MORNING BY TERRORISTS IN ARAUCA INTENDANCY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0097.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0097.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 25 DEC 88 (INRAVISION TELEVISION CADENA 1) -- [TEXT] THIS MORNING, THREE BOMBS DESTROYED A CHECKPOINT THAT WAS BEING BUILT IN SANTA FE, ANTIOQUIA DEPARTMENT, AT A PLACE KNOWN AS PASEO REAL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0409.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0409.xhtml#41">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Amazonas_Department</rdfs:member>
+        <schema:description xml:lang="en">RIO DE JANEIRO (BRAZIL), 31 AUG 89 (O GLOBO) -- [TEXT] TABATINGA (AMAZONAS STATE) -- IN TABATINGA, 1,700 KM FROM MANAUS, POLICE, WITH THE SUPPORT OF THE BRAZILIAN ARMY AND THE SOUTHERN UNIFIED COMMAND (EAST OF COLOMBIA, YESTERDAY BEGAN AN OFFENSIVE AGAINST THE DRUG TRAFFICKERS OF THE MEDELLIN AND CALI CARTELS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0083.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0083.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 20 AUG 89 (AFP) -- [TEXT] A NONCOMMISSIONED OFFICER AND SEVEN POLICEMEN WERE KILLED TODAY IN SOUTHERN COLOMBIA WHEN GUERRILLAS DYNAMITED THE VEHICLE IN WHICH THEY WERE TRAVELLING, HUILA DEPARTMENT AUTHORITIES HAVE REPORTED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0854.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0854.xhtml#327">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">GENERAL PADILLA TOLD REPORTERS AT 1500 GMT TODAY THAT THE SEARCH FOR SOME OF THE MEDELLIN CARTEL LEADERS HAD BEEN INTENSIFIED IN THE PAST 2 DAYS SOMEWHERE IN THE MIDDLE MAGDALENA IN COLOMBIA'S NORTHERN CENTER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0053.xhtml#199">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">A REPORT BROADCAST ON A PRIVATE TELEVISION CHANNEL STATED THAT UNIDENTIFIED ASSAILANTS KIDNAPPED NORBERTO RODRIGUEZ -- BROTHER OF VENEZUELA'S FIRST LADY BLANCA RODRIGUEZ DE PEREZ -- IN COLOMBIA'S NORTHERN SANTANDER DEPARTMENT, WHERE HE WAS TENDING TO PERSONAL MATTERS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0394.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0394.xhtml#1355">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">THE POLICE REPORTED TODAY THAT FOR THE FIRST TIME, COMBINED ARMY AND POLICE FORCES RAIDED SEVERAL PROPERTIES OWNED BY HERNANDO SUAREZ BURGOS, [WORDS INDISTINCT] THE RULING LIBERAL PARTY, IN SOUTHWESTERN NARINO DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0548.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0548.xhtml#1614">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">EXPLOSIONS WERE HEARD IN THE CARMEN ALTO, SAN JUAN BAUTISTA, MAGDALENA, CAPILLAPATA, AND CONCHOPATA NEIGHBORHOODS AND AT THE SAN CRISTOBAL DE HUAMANGA UNIVERSITY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1062.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1062.xhtml#32">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 22 JAN 90 (INRAVISION TELEVISION CADENA 2) -- [TEXT] ATTENTION: THE MEDELLIN POLICE ARE CONFIRMING AT THIS TIME WHETHER IT IS TRUE THAT ALVARO DIEGO MONTOYA ESCOBAR, WHO IS THE SON OF THE SECRETARY GENERAL OF THE PRESIDENCY, HAS BEEN RELEASED NEAR THE CAMPOS DE PAZ CEMETARY OF THE CAPITAL OF ANTIOQUIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0644.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0644.xhtml#31">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Risaralda_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 7 NOV 89 (AFP) -- [TEXT] SIX PEOPLE WERE KILLED AND FIVE WOUNDED TODAY IN A BOMB ATTACK THAT DESTROYED A PEASANT HOME IN THE TOWN OF QUINCHIA, ABOUT 300 KM WEST OF BOGOTA, IN THE COFFEE-GROWING DEPARTMENT OF RISARALDA, QUINCHIA MAYOR SAUL BOTERO HAS REPORTED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0023.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0023.xhtml#1546">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE MINISTER OF JUSTICE, A MEMBER OF THE SUPREME COURT, A DIRECTOR OF THE BIGGEST NEWSPAPER ESPECTADOR, AND, A FEW DAYS AGO, ANTONIO ROLDAN BETANCUR, GOVERNOR OF THE DEPARTMENT OF ANTIOQUIA WERE KILLED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0361.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0361.xhtml#1838">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cundinamarca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ACTIONS ARE BEING CARRIED OUT ESPECIALLY IN THE DEPARTMENTS OF ANTIOQUIA, CUNDINAMARCA, AND VALLE DEL CAUCA, WHERE SO-CALLED ELITE PATROLS HAVE TAKEN OVER EXTENSIVE AND SWANK PROPERTIES OWNED BY PABLO ESCOBAR GAVIRIA AND GONZALO RODRIGUEZ GACHA, THE "DRUG LORDS" OF THE MEDELLIN CARTEL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0361.xhtml#699">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IN FACT, MERCENARIES OF THAT CRIMINAL ORGANIZATION ASSASSINATED IN LESS THAN 48 HOURS, MAGISTRATE CARLOS VALENCIA GARCIA, ANTIOQUIA POLICE COMMANDER COLONEL WALDEMAR FRANKLIN QUINTERO, AND SENATOR AND PRESIDENTIAL HOPEFUL LUIS CARLOS GALAN, WHO ACCORDING TO THE POLLS, WAS THE FAVORITE TO SUCCEED VIRGILIO BARCO VARGAS AS PRESIDENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0361.xhtml#274">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">IT WAS LEARNED THAT THE ARREST OF MARTINEZ ROMERO, THE MOST IMPORTANT ONE SINCE THE ARMY AND POLICE LAUNCHED AN OFFENSIVE AGAINST THE DRUG TRAFFICKING MAFIA LAST SATURDAY, OCCURRED ON A FARM NEAR TOLU MUNICIPALITY IN SUCRE DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0042.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0042.xhtml#1773">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">ANOTHER BRIDGE WAS BLOWN UP IN SANTANDER DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0042.xhtml#1401">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Chocó_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IT ADDED THAT NINE GUERRILLAS OF THE ARMY OF NATIONAL LIBERATION WERE KILLED IN CLASHES WITH TROOPS OF THE 4TH INFANTRY BRIGADE ON THE BORDER OF ANTIOQUIA AND CHOCO DEPARTMENTS AND THAT SIX FARC REBELS WERE KILLED IN CAQUETA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0042.xhtml#1199">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">THE DEFENSE MINISTRY REPORTED THAT FARC GUERRILLAS AMBUSHED A MILITARY CONVOY IN HUILA DEPARTMENT, KILLING THREE SOLDIERS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0399.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0399.xhtml#32">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 30 AUG 89 (INRAVISION TELEVISION CADENA 2) -- [TEXT] THE RESIGNATIONS OF THREE OF THE JUDGES IN CHARGE OF INVESTIGATING THE MURDERS OF THE GOVERNOR OF ANTIOQUIA, ANOTHER JUDGE, AND THE ANTIOQUIA POLICE COMMANDER, WERE ANNOUNCED TODAY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1001.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1001.xhtml#1486">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">[GOMEZ PADILLA] SEVERAL SPECIALIZED UNITS OF THE NATIONAL POLICE PARTICIPATED IN THE OPERATION ALONG WITH THE POLICE IN CORDOBA AND SUCRE DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1001.xhtml#359">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">THE GOVERNOR OF SUCRE TOLD THE GOVERNMENT MINISTER THAT IT IS POSSIBLE THAT PABLO ESCOBAR IS IN THE SAME AREA WHICH HAS BEEN SURROUNDED AND ALL FLIGHTS HAVE BEEN RESTRICTED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1001.xhtml#32">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 15 DEC 89 -- [REPORT] [TEXT] GONZALO RODRIGUEZ GACHA, ALIAS THE MEXICAN, ONE OF THE MOST DANGEROUS COLOMBIAN DRUG TRAFFICKERS WAS KILLED TODAY ALONG WITH HIS SON FREDDY AND A GROUP OF BODYGUARDS AT A FARM PRESUMABLY OWNED BY DRUG TRAFFICKER PABLO ESCOBAR GAVIRIA, LOCATED BETWEEN TOLU VAND COBENAS, IN SUCRE DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0391.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0391.xhtml#2025">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ARREST WARRANT ALSO INCLUDED LUIS RUBIO ROJAS, A FORMER MAYOR OF THE TOWN OF PUERTO BOYACA, AN OPERATIONS CENTER OF RIGHTIST PARAMILITARY ELEMENTS, AND SEVERAL ARMY DETACHMENT ELEMENTS WHO REPORTEDLY PROMOTE TERRORIST SQUADRONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0115.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0115.xhtml#37">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cundinamarca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 3 NOV 89 -- [TEXT] ARMY AND NATIONAL POLICE TROOPS ARE CONDUCTING OPERATIONS IN THE RURAL AREA OF EL PENON MUNICIPALITY, CUNDINAMARCA DEPARTMENT, TO PURSUE THE ARMED GROUP THAT KILLED FIVE PEASANTS IN THE AREA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0423.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0423.xhtml#1351">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THE NEW TERRORIST ACTION OCCURRED 12 HOURS AFTER A MAN WAS INVOLVED IN A SPECTACULAR SHOOT-OUT AT THE JOSE MARIA CORDOBA AIRPORT IN MEDELLIN, WHERE THE GUNMAN AND A YOUNG MAN DIED AND 10 PERSONS WERE WOUNDED, INCLUDING THREE POLICEMEN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1200.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1200.xhtml#915">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE COMMANDER OF THE ELITE CORPS IN ANTIOQUIA, AND COLONEL PELAEZ, CHIEF OF THE BOGOTA DIJIN, ARE RESPONSIBLE FOR THE MURDER OF ALL OUR COMRADES AND FOR THE DISAPPEARANCE OF THE TWO AFOREMENTIONED CITIZENS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1200.xhtml#417">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IN THE PAST FEW MONTHS IN MEDELLIN, IT HAS BEEN THE CUSTOM OF THE ELITE CORPS TO ARREST PEOPLE AND TAKE THEM TO THE CARLOS HOLGUIN POLICE ACADEMY, WHERE THEY ARE TORTURED AND EXECUTED BY MEMBERS OF THE BOGOTA DIJIN [DIRECTORATE OF JUDICIAL POLICE AND INVESTIGATIONS], WHO ARE IN THE CAPITAL OF ANTIOQUIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml#1932">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">MEMBERS OF THE 5TH BRIGADE ARE PATROLLING VARIOUS MUNICIPALITIES OF SANTANDER DEPARTMENT TO GUARANTEE NORMAL ELECTIONS AND ACTIVITIES OF THE NATIONAL CIVIL REGISTRY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml#1527">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO THE DEFENSE MINISTRY'S ADMINISTRATIVE REPORT, THERE WAS A CLASH BETWEEN UNITS OF THE (LUCIANO DE LUGER) BATTALION AND GUERRILLAS OF THE ELN'S CAPTAIN PARMENIO FRONT IN LA TEMPESTUOSA PATH, SAN VICENTE DE CHUCURI MUNICIPALITY, SANTANDER DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1102.xhtml#1263">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, TROOPS OF THE NATIONAL ARMY'S 5TH BRIGADE HAVE INTENSIFIED SEARCH AND CONTROL OPERATIONS IN A RURAL AREA OF SAN VICENTE DE CHUCURI MUNICIPALITY, MIDDLE MAGDALENA, SANTANDER DEPARTMENT, AFTER KILLING SIX ELN SUBVERSIVES AND SEIZING ABUNDANT WAR MATERIEL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0463.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0463.xhtml#937">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">ON THAT VERY DAY, COLONEL WALDEMAR FRANKLIN QUINTERO OF THE POLICE FORCE IN ANTIOQUIA DEPARTMENT, WHOSE CAPITAL IS MEDELLIN, WAS MURDERED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1081.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1081.xhtml#35">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 30 JAN 90 (INRAVISION TELEVISION CADENA 1) -- [TEXT] AT THIS TIME, THERE IS HEAVY FIGHTING AND EVEN ARMY BOMBING OF FARC [REVOLUTIONARY ARMED FORCES OF COLOMBIA] CAMPS NEAR URIBE IN META DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0055.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0055.xhtml#327">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THE POLICEMEN, WHO WILL BE BURIED TODAY, WERE LIEUTENANT JESUS ANTONIO CORDOBA, ANTONIO GUILLEN, RUBIANO WAPAXMAYO, JORGE PEREZ GALLEGOS, AND OSCAR CASTANO TAMAYO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0055.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Risaralda_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 25 JAN 89 -- [TEXT] A SEARCH IS ON FOR AN EPL [POPULAR LIBERATION ARMY] UNIT THAT YESTERDAY INCINERATED FIVE MEMBERS OF A NATIONAL POLICE PATROL IN [WORD INDISTINCT], RISARALDA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0527.xhtml#34">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 26 SEP 89 (AFP) -- [TEXT] IN A FIRST RULING, CRIMINAL JUDGE 62 OF RIONEGRO MUNICIPALITY, NORTHWESTERN ANTIOQUIA DEPARTMENT, HAS ACQUITTED DRUG TRAFFICKERS PABLO ESCOBAR GAVIRIA AND GONZALO RODRIGUEZ GACHA OF CHARGES OF MASTERMINDING THE MURDER OF ATTORNEY GENERAL CARLOS MAURO HOYOS AND THE KIDNAPPING OF BOGOTA CITY MAYOR ANDRES PASTRANA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0278.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0278.xhtml#1299">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Casanare_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, ANOTHER COMMANDO GROUP FROM THE CAMILIST UNION (NAMED IN MEMORY OF COLOMBIAN PRIEST CAMILO RESTREPO, WHO WAS KILLED BY SOLDIERS IN 1966 WHILE STILL A MEMBER OF THE ELN), AMBUSHED A MILITARY PATROL ON THE AGUA AZUL - TERRANOVA HIGHWAY, ALSO IN CASANARE, KILLING TWO SOLDIERS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0278.xhtml#367">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Casanare_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ATTACK WAS CARRIED OUT IN BOQUERON, BETWEEN PAJARITO AND YOPAL, IN CASANARE DEPARTMENT, WHERE THE SUBVERSIVES HAVE UNLEASHED A VIOLENT CAMPAIGN AGAINST COLOMBIA'S OIL INFRASTRUCTURE TO FORCE THEIR DEMANDS FOR THE NATIONALIZATION OF THE OIL INDUSTRY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0278.xhtml#44">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 3 JUL 89 (AFP) -- [TEXT] ARMED FORCES COMMANDER GENERAL OSCAR BOTERO RESTREPO REPORTED TODAY THAT GUERRILLAS OF THE PRO - CASTRO ARMY OF NATIONAL LIBERATION (ELN) SET FIRE TO THREE TANK TRUCKS THAT WERE CARRYING OIL FROM THE CANO LIMON OILFIELD IN ARAUCA DEPARTMENT, WHICH BORDERS VENEZUELA, TO COLOMBIA'S INTERIOR.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1044.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1044.xhtml#1145">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">MAJOR GONZALO GONZALEZ, COMMANDER OF THE ELITE "MACHO DE MONTE" COMPANY THAT FOILED THE 3 OCTOBER COUP AGAINST NORIEGA; HERACLIDES SUCRE, WHO HAS BEEN IDENTIFIED AS ONE OF THE TWO OFFICERS WHO "SHOT" MOISES GIROLDI; AND MARCELA TASON, NORIEGA'S PERSONAL SECRETARY ARE ALSO AT THE EMBASSY WITH LOPEZ GRIMALDO, WHO WAS THE SPOKESMAN FOR THE DISMANTLED FDP.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1180.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1180.xhtml#501">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, A NATIONAL SECURITY COUNCIL MEETING IS TAKING PLACE AT THE NARINO PRESIDENTIAL PALACE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0926.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0926.xhtml#4639">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ONLY EXCEPTION IS SUCRE, WHERE THE CANDIDATE OF THE UNITED LEFT COALITION, RADIO REPORTER OMAR MONTALVO, OBTAINED 57.3 PERCENT OF THE VOTES, WHICH IS SUFFICIENT TO OBTAIN THE MAYORSHIP.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1179.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1179.xhtml#394">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">THE NATIONAL SECURITY COUNCIL WILL BE MEETING AT THE NARINO PALACE IN BOGOTA IN APPROXIMATELY 20 MINUTES.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml#408">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE DEPLOYMENT WAS ORDERED BY THE POLICE AND ARMY HIGH COMMAND AS A RESULT OF THE MURDER OF ANTIOQUIA POLICE CHIEF COLONEL WALDEMAR FRANKLIN QUINTERO TODAY IN MEDELLIN, COLOMBIA'S SECOND LARGEST CITY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0066.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0066.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 2 FEB 89 -- [TEXT] SEVEN SOLDIERS WERE KILLED AND SEVERAL WERE WOUNDED BY A BOMB WHEN A GROUP OF NATIONAL LIBERATION ARMY [ELN] REBELS AMBUSHED A MILITARY CONVOY IN SARAVENA, ARAUCA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0218.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0218.xhtml#692">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THE INCIDENT OCCURRED NEAR A SUPERMARKET LOCATED AT THE INTERSECTION OF CORDOBA AND PERU STREETS, WHERE OFFICER OSCAR MARTINEZ AND CORPORAL LUIS GAUDANI WERE GUARDING THE SUPERMARKET.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0538.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0538.xhtml#2430">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Tolima_Department</rdfs:member>
+        <schema:description xml:lang="en">DESPITE THE REGRETTABLE END THAT THIS AID MET IN SO MANY WAREHOUSES, NOBODY OPPOSED INTERNATIONAL SOLIDARITY WITH THAT CORNER OF TOLIMA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml#789">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">GUTIERREZ' FARM, LOCATED IN PUERTO TRIUNFO, A ZONE IN MAGDALENA MEDIO, ANTIOQUIA DEPARTMENT, HAD A LANDING STRIP IN WHICH A "TURBOCOMMANDER 2000" -- STOLEN BY DRUG TRAFFICKERS FROM A COLOMBIAN AIR FORCE BASE (FAC) IN BOGOTA -- HAD LANDED ON 2 MARCH 1988.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0403.xhtml#478">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">GUTIERREZ' CORPSE WAS FOUND TODAY IN AYAPEL MUNICIPALITY, CORDOBA DEPARTMENT, APPROXIMATELY 500 KM NORTHWEST OF BOGOTA, BUT THE DATE OF HIS DEATH IS NOT KNOWN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0255.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0255.xhtml#1821">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">EVEN THOUGH THE ELN HAS REPEATEDLY THREATENED THE OIL PIPELINES, WORK HAS CONTINUED ON THE CONSTRUCTION OF A NEW MULTIPLE PIPELINE IN HUILA, WHICH WILL PUMP 138,000 BARRELS OF OIL PER DAY BETWEEN NEIVA AND COVENAS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0255.xhtml#721">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">THE TERRORIST ATTACK IN HUILA DEPARTMENT TOOK PLACE IN LA MOTOSA, NEAR AIPE MUNICIPALITY, WHERE THE PIPELINE THAT PUMPS CRUDE OIL BETWEEN NEIVA AND LA DORADA WAS DYNAMITED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0255.xhtml#534">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">POLICE AND MILITARY FORCES HAVE STEPPED UP SURVEILLANCE AROUND THE CANO LIMON - COVENAS PIPELINE AFTER TWO NEW ATTACKS, ALSO BY THE ELN, OCCURRED IN HUILA AND NORTH SANTANDER DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0047.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0047.xhtml#1858">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE GOVERNMENT OF VIRGILIO BARCO VARGAS DECIDED TO CARRY OUT ADMINISTRATIVE EXTRADITIONS ON 18 AUGUST, FOLLOWING THE ASSASSINATIONS OF COLONEL WALDEMAR FRANKLIN QUINTERO, COMMANDER OF THE ANTIOQUIA POLICE, AND LUIS CARLOS GALAN, A SENATOR AND PRESIDENTIAL HOPEFUL FOR THE LIBERAL PARTY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml#1716">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">THE PRESIDENT EXPRESSED HIS SATISFACTION AT THE RELEASE OF SANTANDER DEPARTMENT SENATOR JORGE SERRANO GONZALEZ, WHOM HE DESCRIBED AS ONE OF THE MOST IMPORTANT PEOPLE THAT COLOMBIAN DEMOCRACY HAS AT THIS MOMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml#1156">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE HIGHEST-RANKING OFFICER, WHO EXPRESSED REGRET OVER THE DEATHS OF THE SOLDIERS IN SEGOVIA, ANTIOQUIA DEPARTMENT, SAID THAT THIS TYPE OF INCIDENT IS NORMAL WITHIN THE FRAMEWORK OF THE WAR THAT THE GOVERNMENT IS WAGING AGAINST ARMED SUBVERSION.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml#413">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE GUERRILLA ACTIONS BEGAN ON THE EVENING OF 22 FEBRUARY WHEN A LARGE COLUMN OF THE POPULAR LIBERATION ARMY [ELN] ENTERED TURBO MUNICIPALITY, NORTHEAST OF ANTIOQUIA DEPARTMENT, AND SABOTAGED THE POWER SYSTEM LEAVING THE ENTIRE AREA WITHOUT ELECTRICITY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0088.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Guaviare_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 24 FEB 90 (RADIO CADENA NACIONAL) -- [TEXT] CALM APPEARS TO BE RETURNING TO THE COUNTRY FOLLOWING THE DEATH OF ONE NONCOMMISSIONED OFFICER AND SIX SOLDIERS ON 23 FEBRUARY AS A RESULT OF GUERRILLA ATTACKS IN FIVE ANTIOQUIA DEPARTMENT MUNICIPALITIES, THE KIDNAPPING OF A MAYOR, A GOVERNMENT OFFICIAL, AND A CANDIDATE IN CAUCA DEPARTMENT, AND THE DEATH OF A GUERRILLA IN GUAVIARE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0062.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0062.xhtml#2187">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">THE MEETING HELD AT THE NARINO PALACE (SEAT OF THE GOVERNMENT) WAS CALLED SO THAT BARCO VARGAS COULD REPORT TO THE PSC ON THE DEVELOPMENT OF THE MOST RECENT EVENTS CONCERNING THE NEW PEACE PROCESS THAT BEGAN WITH THE M-19.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0062.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 1 FEB 89 (DPA) -- [TEXT] THE ARMY OF NATIONAL LIBERATION (ELN) HAS ANNOUNCED IN A COMMUNIQUE SENT TO ANTONIO ROLDAN BETANCUR, GOVERNOR OF THE NORTHWESTERN ANTIOQUIA DEPARTMENT, THAT IT REJECTS THE PEACE PLAN PROPOSED BY THE GOVERNMENT AND THAT IT WILL CONTINUE ARMED ATTACKS, IT WAS LEARNED A FEW HOURS AGO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1290.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1290.xhtml#579">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">FORMER PANAMA DEFENSE FORCES OFFICERS GONZALO GONZALEZ AND HERACLIDES SUCRE, CLOSE COLLABORATORS OF OVERTHROWN GENERAL MANUEL NORIEGA, ARE REFUGEES AT THE PERUVIAN EMBASSY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0038.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0038.xhtml#1814">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">[CORRALES] AS IS KNOWN, JUDGE GONZALEZ HAD TO LEAVE COLOMBIA BECAUSE HER LIFE WAS THREATENED, AND HER FATHER, FORMER BOYACA GOVERNOR ALVARO GONZALEZ SANTANA, WAS SUBSEQUENTLY MURDERED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0038.xhtml#1619">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">I THINK THAT WHEN SHE AND THE DAS PERSONNEL WERE PREPARING TO GO TO PUERTO BOYACA IT WAS ALREADY KNOWN THAT THESE PEOPLE WOULD BE PRESENT THERE FOR THESE PROCEEDINGS AND THIS WAS QUITE WORRISOME.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0038.xhtml#1102">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">THE DOCUMENT, WHICH IS CONTAINED IN THE DOSSIER ON THE MASSACRE IN LA HONDURA AND LA NEGRA, URABA REGION, SAYS THAT SHE WAS LEFT 2 DAYS INSIDE A PLANE AT THE AIRPORT OF THE TEXAS PETROLEUM COMPANY IN PUERTO BOYACA AND THAT THE POLICE AUTHORITIES ACCOMPANYING HER FAILED TO EXPLAIN TO HER WHY THEY HAD NOT TAKEN ANY ACTION.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0038.xhtml#468">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">[BEGIN RECORDING] [CORRALES] IF THE AUTHORITIES IN CHARGE OF AN OPERATION NEAR PUERTO BOYACA ON 18 JULY LAST YEAR HAD NOT SABOTAGED IT, THE FOREIGN INSTRUCTORS AT THE SERVICE OF THE MEDELLIN CARTEL WOULD NOW BE JAIL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0631.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0631.xhtml#31">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 1 OCT 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] MARIELA ESPINOZA VILLEGAS, A HIGHER COURT MAGISTRATE IN ANTIOQUIA, WAS ASSASSINATED THIS EVENING IN MEDELLIN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1065.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1065.xhtml#1860">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">FOURTH, HE NOTED THAT HIS STRUGGLE IS AGAINST THE CALI CARTEL NOT THE VALLE DEL CAUCA PEOPLE AND ADDED: I FEEL GREAT ADMIRATION AND PROFOUND RESPECT FOR VALLE PEOPLE BECAUSE MY WIFE, VICTORIA, WAS BORN IN THAT BEAUTIFUL LAND, HER ANCESTORS ALL LIVED THERE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1065.xhtml#1566">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">HE ALSO ACCUSED CALI CARTEL MEMBERS OF DENOUNCING JORGE LUIS OCHOA IN PALMIRA AND OF BEING RESPONSIBLE FOR THE DISAPPEARANCE AND MURDER OF ANTIOQUIA PEOPLE WHO VISITED VALLE DEL CAUCA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1065.xhtml#734">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IN A NEW EXCHANGE OF COMMUNIQUES, A PRACTICE THAT HAS BECOME COMMON NOWADAYS, ESCOBAR DECIDED TO WRITE A LETTER TO SANTOS TO CLARIFY CERTAIN DOUBTS: FIRST, TO SAY THAT HIS FRIENDS AND COLLABORATORS HAVE NOT WITHDRAWN THEIR SUPPORT AS A RESULT OF A CAMPAIGN CARRIED OUT BY THE 4TH BRIDAGE IN ANTIOQUIA, AS REPORTED IN EL TIEMPO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0398.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0398.xhtml#1654">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">ONE OF THE EXTRADITABLES IS EDUARDO MARTINEZ ROMERO, CAPTURED WHILE HE WAS VACATIONING ON HIS FARM IN TOLU, A VILLAGE IN THE NORTHWESTERN PROVINCE OF SUCRE ON THE CARIBBEAN COAST, APPROXIMATELY 750 KM FROM BOGOTA, AND HIS TRANSFER TO THE UNITED STATES COULD COME AT ANY MOMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0256.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0256.xhtml#1647">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ATTACKS HAVE NOW EXTENDED TO HUILA DEPARTMENT FOR THE FIRST TIME, DAMAGING FUEL INSTALLATIONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0256.xhtml#1466">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">A DYNAMITE CHARGE WAS ALSO PLACED ON THE PIPELINE AT KM-28 IN CANO LIMON-COVENAS, IN THE AREA OF CARMEN, NEAR THE TONCHALA RIVER, IN NORTHERN SANTANDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0046.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0046.xhtml#1539">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cundinamarca_Department</rdfs:member>
+        <schema:description xml:lang="en">THE CASQUITO [WORD INDISTINCT] IS THROUGH THE ROAD THAT GOES FROM BOSA, CUNDINAMARCA DEPARTMENT, TO THE SCHOOL [NOT FURTHER IDENTIFIED].</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0046.xhtml#314">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">WE ARE OBSERVING A TERRIBLE SCENE OF DESOLATION AND DEATH BECAUSE ALL THE PASSANGERS GOING TO CALI, VALLE DEL CAUCA DEPARTMENT, DIED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0419.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0419.xhtml#840">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">IN A LAST MINUTE REPORT, WE HAVE LEARNED THAT AN EXPLOSIVE DEVICE WAS ALSO DEFUSED IN THE JOSE MARIA CORDOBA AIPORT IN RIONEGRO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0419.xhtml#41">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 4 SEP 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] TWO PEOPLE WERE KILLED AND 12 WERE WOUNDED TODAY, INCLUDING 3 MEMBERS OF THE ANTIOQUIA POLICE, IN AN ATTACK AT THE JOSE MARIA CORDOBA AIRPORT IN RIONEGRO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml#184">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IN THE PAST FEW HOURS ANTIOQUIA AUTHORITIES DETAINED NICOLAS GONZALEZ CARDONA, WHO IS LINKED TO THE MEDELLIN CARTEL AS A PILOT FOR PABLO ESCOBAR GAVIRIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0068.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">MEDELLIN, 6 NOV 88 (EFE) -- [TEXT] THE LOCAL POLICE HAVE REPORTED THAT NATIONAL LIBERATION ARMY (ELN) GUERRILLAS TODAY KIDNAPPED THE ANTIOQUIA COLOMBIAN CIVIL DEFENSE (DCC) COMMANDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#2258">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Tolima_Department</rdfs:member>
+        <schema:description xml:lang="en">LAST WEDNESDAY HE ACCOMPANIED GOVERNOR MONTOYA TO TOLIMA FOR A SECURITY MEETING TO DISCUSS THE SITUATION IN THE REGIONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#2129">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">ON SEVERAL OCCASIONS HE PARTICIPATED IN REGIONAL SECURITY COUNCIL MEETINGS WHERE WAYS TO FIGHT CRIME IN ANTIOQUIA WERE DISCUSSED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#1961">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">FROM THE MOMENT HE BECAME ANTIOQUIA POLICE COMMANDER, QUINTERO BECAME KNOWN FOR HIS EXERCISE OF AUTHORITY AND FOR DESIGNING STRATEGIES DESIGNED TO PROVIDE PUBLIC ORDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#1878">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">COMMANDER QUINTERO FOUGHT DRUG-TRAFFICKING AND SUBVERSION IN ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#1428">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">ANTIOQUIA GOVERNOR ELENA MONTOYA HAS STATED HER CONCERN OVER THIS NEW EPISODE OF SELECTIVE VIOLENCE AND POINTED OUT THE EFFORTS THAT THE POLICE COMMANDER HAD BEEN MAKING TO PROVIDE SECURITY TO THE CITIZENS OF THIS REGION.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#211">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE GUNMEN FIRED ON THE POLICE COMMANDER WHEN HIS VEHICLE STOPPED FOR A RED LIGHT AT ROAD 80 AND 48TH STREET, NEAR MARTIN RODRIGUEZ VELODROME, A FEW BLOCKS AWAY FROM WHERE THE GOVERNOR OF ANTIOQUIA WAS MURDERED ON 4 JULY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml#32">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 18 AUG 89 (EMISORAS CARACOL NETWORK) -- [TEXT] MEDELLIN -- ANTIOQUIA POLICE DEPARTMENT CHIEF WALDEMAR FRANKLIN QUINTERO WAS MURDERED THIS MORNING ON THIS CITY'S WEST SIDE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1005.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1005.xhtml#1245">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <schema:description xml:lang="en">LATER ON THEY ALSO DISMANTLED AN ASSASSIN TRAINING SCHOOL AT META, DESTROYED CLANDESTINE AIRPORTS, AND ABORTED A TERRORIST PLAN IN CARTAGENA THAT INCLUDED DYNAMITING ITS NAVAL BASE, MAIN INDUSTRIES, AND CAIS [IMMEDIATE ATTENTION CENTERS].</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1005.xhtml#847">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">LATER ON, THESE MEN WERE SENT TO DIFFERENT AREAS WITHIN THE COUNTRY, ESPECIALLY IN ANTIOQUIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0855.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0855.xhtml#1330">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">THE OPERATIONS ARE BEING CONDUCTED IN THE COCORNA MUNICIPALITY, IN THE MIDDLE MAGDALENA IN ANTIOQUIA, BETWEEN MEDELLIN AND BOGOTA, 180 KM NORTHWEST FROM BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0078.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0078.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 15 NOV 89 (RADIO CADENA NACIONAL) -- [TEXT] MONTERIA -- BLOODY CLASHES HAVE BEEN TAKING PLACE IN THE RURAL AREA OF PUERTO LIBERTADOR MUNICIPALITY, SOUTH OF CORDOBA, SINCE 11 NOVEMBER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0452.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0452.xhtml#886">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">IN ADDITION, GALEANO BERRIO IS ALSO SAID TO BE THE MASTERMIND OF THE MURDER OF A COUNCILMAN IN CORDOBA DEPARTMENT AND OF BEING INVOLVED IN A FRUSTRATED PLAN TO KILL AN INDIVIDUAL LINKED TO THE CALI DRUG CARTEL, WHICH COMPETES AGAINST THE MEDELLIN CARTEL FOR THE U.S. DRUG MARKET.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0452.xhtml#312">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">GALEANO BERRIO WAS ARRESTED ON 25 AUGUST IN ANTIOQUIA DEPARTMENT DURING THE OFFENSIVE THE MILITARY FORCES HAVE LAUNCHED AGAINST THE DRUG TRAFFICKING "BARONS."</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0604.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0604.xhtml#3201">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, THE BODYGUARD OF EL ESPECTADOR'S CHIEF OF DISTRIBUTION IN MEDELLIN, PEDRO LUIS OSORIO, WAS ASSASSINATED THIS AFTERNOON IN A DOWNTOWN AREA OF ANTIOQUIA'S CAPITAL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0441.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0441.xhtml#41">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 7 SEP 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] THIRTY MEN WITH HOODS OVER THEIR FACES ARE AT SANTANDER SQUARE AT THE NATIONAL UNIVERSITY PROTESTING THE MEASURES ADOPTED BY U.S. PRESIDENT GEORGE BUSH.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0051.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0051.xhtml#415">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">MINISTER SALAZAR WILL RETURN HOME THIS WEEK TO FIND A DEFINITIVE SOLUTION TO THE STRIKE DECLARED BY JUSTICE BRANCH EMPLOYEES AS A RESULT OF THE MURDER OF A MEDELLIN JUDGE AND OF TWO JUSTICE MINISTRY EMPLOYEES IN VALLE DEL CAUCA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0932.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0932.xhtml#1062">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">JUDGE JARAMILLO URIBE WAS INVESTIGATING THE MASSACRE OF 43 PERSONS IN THE TOWN OF SEGOVIA (LOCATED IN THE WEST) BY A PARAMILITARY GROUP; AND THE MURDER OF COLONEL WALDEMAR FRANKLIN QUINTERO, COMMANDER OF THE ANTIOQUIA POLICE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0932.xhtml#708">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">A POLICE REPORT INDICATES THAT JARAMILLO URIBE WAS SHOT AT FROM TWO AUTOMOBILES IN THE WESTERN SECTOR OF ANTIOQUIA PROVINCE'S CAPITAL, WHEN HE WAS LEAVING HIS OFFICE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0049.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0049.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">POPAYAN, 23 MAR 90 (BOGOTA RADIO CADENA NACIONAL) -- [TEXT] MEMBERS OF THE 8TH FRONT OF THE SELF-STYLED REVOLUTIONARY ARMED FORCES OF COLOMBIA [FARC] HAVE CARRIED OUT TERRORIST ATTACKS IN SOUTHERN CAUCA DEPARTMENT TO PROTEST PATRIOTIC UNION [UP] PRESIDENTIAL CANDIDATE BERNARDO JARAMILLO OSSA'S MURDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0092.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0092.xhtml#953">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, HERACLIDES SUCRE AND GONZALO GONZALEZ, FORMER MAJORS IN THE NOW DEFUNCT DEFENSE FORCES, HAVE SOUGHT ASYLUM AT THE PERUVIAN EMBASSY IN PANAMA CITY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0054.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0054.xhtml#1413">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">RELATIVES OF THE MURDER VICTIMS WENT TO THE JUDICIAL POLICE OFFICE IN BARRANCABERMEJA TO DEMAND THE VICTIMS' CLOTHING, IDENTIFICATION CARDS, AND EVEN A TYPEWRITER THEY WERE PLANNING TO USE TO REPORT ON THE INVESTIGATIONS OF THE 56 KILLINGS THAT HAVE TAKEN PLACE IN THIS PART OF THE MIDDLE MAGDALENA AREA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0054.xhtml#33">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 21 JAN 89 -- [TEXT] FOUR OFFICIALS WHO HAD STARTED TO INVESTIGATE THE KILLING OF 12 JUDICIAL OFFICIALS NEAR LA ROCHELA, IN SANTANDER DEPARTMENT HAVE RESIGNED BECAUSE OF THREATS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0008.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0008.xhtml#1191">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO HIS STATEMENTS GIVEN TO DAS LAST MARCH, NOT ONLY DID ISRAELI MERCENARIES TRAIN ASSASSINS IN MIDDLE MAGDALENA, THERE WAS ALSO A GROUP OF 11 BRITISH MERCENARIES, WHO GAVE LESSONS TO 50 STUDENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0004.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0004.xhtml#910">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ANTIOQUIA LIQUEUR PLANT HAS RECEIVED THREATS IN THE PAST AND MAXIMUM SECURITY HAS ALWAYS BEEN PRACTICED IN THE AREA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0004.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 30 AUG 89 (INRAVISION TELEVISION CADENA 2) -- [TEXT] LAST NIGHT'S TERRORIST TARGET WAS THE ANTIOQUIA LIQUEUR PLANT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0183.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0183.xhtml#182">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">] HAVE BEEN KIDNAPPED BY A GROUP OF GUERRILLAS FROM THE MEDIO MAGDALENA PETROLEUM BASIN, IN COLOMBIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0032.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0032.xhtml#212">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THE BOMB, MADE WITH BLACK GUNPOWDER, WAS PLANTED AT 0330 ON THE WINDOWSILL OF THE BUILDING LOCATED ON 2157 TUCUMAN STREET IN BARRIO ALTA, CORDOBA, WHERE THE BOMB INTERRUPTED UNION FUNCTIONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0032.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">CORDOBA, 9 OCT 88 (DYN) -- [EXCERPT] A SMALL HOME-MADE BOMB EXPLODED AT DAWN TODAY AT THE HEADQUARTERS OF THE SHOE INDUSTRY WORKERS UNION, IN THIS CITY, CAUSING SMALL MATERIAL DAMAGES.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1008.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1008.xhtml#962">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <schema:description xml:lang="en">ONLY IN THIS WAY WILL THE "ELITE FORCE" BE PREVENTED FROM CONTINUING TO CARRY OUT GANGSTER-STYLE ASSAULTS AND BE MADE TO GEAR ITS ACTIONS TOWARD THE GROUPS WHICH ARE REALLY DESTABILIZING THE DEMOCRATIC PROCESSES THROUGH CRIME AND BRIBERY; THAT IS, THE PARAMILITARY GROUPS THAT ARE OPERATING IN THE MIDDLE MAGDALENA REGION, META, CAQUETA, CORDOBA, THE URABA AREA IN ANTIOQUIA, AND IN OTHER PLACES, AS GEN MAZA HAS REPORTED WITH SUBSTANTIAL EVIDENCE."</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1148.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1148.xhtml#3134">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">[CHANGES THOUGHT] HERACLIDES SUCRE FIRED AT MY HUSBAND, HAVE YOU HEARD ABOUT IT, HE MACHINEGUNNED MY HUSBAND IN COLD BLOOD.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1148.xhtml#835">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">CAPTAINS HERACLIDES SUCRE, AND GONZALO GONZALEZ, INVOLVED IN THE KILLING OF MAJOR MOISES GIROLDI ARE ALSO AT THE PERUVIAN EMBASSY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0079.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0079.xhtml#3929">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">BY THE DECISION OF THEIR PEOPLE AND PROMOTED BY THEIR RULERS IN THIS SIMPLE ROOM WHERE THE LIBERATOR DIED, WE ARE TODAY CONSOLIDATING THESE BASES THAT WILL NOT BE DESTROYED AND WILL PREVENT IN THE FUTURE ANY FURTHER FRUSTRATIONS OF THE DREAMS OF THE LIBERATOR, BOLIVAR.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0066.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0066.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 5 NOV 88 (INRAVISION TELEVISION CADENA 1) -- [TEXT] LUZ LEON, PATRIOTIC UNION (UP) COUNCILWOMAN FOR META DEPARTMENT, WAS SERIOUSLY WOUNDED TODAY DURING AN ATTACK IN VILLAVICENCIO IN WHICH HER HUSBAND, PARMENIDES CUENCA, WAS KILLED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0980.xhtml#289">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">JONES, 45, WHO WAS REPORTED MISSING IN ARAUCA DEPARTMENT IN COLOMBIA'S NORTHEAST EARLY ON 11 DECEMBER, IS THE OWNER OF ALTA TENSION DE COLOMBIA, A POWER COMPANY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0397.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0397.xhtml#813">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cundinamarca_Department</rdfs:member>
+        <schema:description xml:lang="en">ASONAL SECRETARY GENERAL ORLANDO MORALES TOLD EFE THAT THE JOINT RESIGNATION INVOLVES 550 JUDGES IN BOGOTA AND CUNDINAMARCA, THE DEPARTMENT IN WHICH THE COUNTRY'S CAPITAL IS LOCATED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0418.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0418.xhtml#353">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE INJURED WERE 19-YEAR-OLD ROBINSON RAMIREZ, 30-YEAR-OLD ROBERTO ARCESIO PABON, AND 40-YEAR-OLD HUGO MORALES, AND TWO OTHER UNIDENTIFIED INDIVIDUALS WHO WERE TREATED AT ITAGUI'S SAN RAFAEL HOSPITAL AND OTHER HOSPITALS IN ANTIOQUIA DEPARTMENT'S CAPITAL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1170.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1170.xhtml#357">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">IN THE OPERATIONS THAT TOOK PLACE ON 15 MARCH IN THE JAGUAL AREA IN CORINTO MUNICIPALITY, IN NORTHERN CAUCA, 3RD BRIGADE TROOPS KILLED ALONSO CORTES, CONSIDERED THE FARC'S MOST IMPORTANT LEADER IN THE SOUTHWESTERN PART OF THE COUNTRY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1170.xhtml#42">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 16 MAR 90 (INRAVISION TELEVISION CADENA 1) -- [REPORT] [SORAYA CAICEDO] [TEXT] PICHINCHA BATTALION TROOPS HAVE SEIZED LETTERS, WHICH WERE GOING TO BE USED FOR EXTORTION, AND LARGE AMOUNTS OF WAR MATERIEL IN CLASHES WITH THE 6TH FARC FRONT IN THE BORDER AREA OF THE DEPARTMENTS OF VALLE DEL CAUCA AND CAUCA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0921.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0921.xhtml#305">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THERE IS EVEN MORE: LET US NOT FORGET ANTIOQUIA GOVERNOR ANTONIO ROLDAN BETANCUR, MAGISTRATE CARLOS VALENCIA, COLONEL FRANKLYN QUINTERO, AND SENATOR LUIS CARLOS GALAN WHO WERE MURDERED WHEN EXTRADITION WAS NOT IN EFFECT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1206.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1206.xhtml#42">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 3 APR 90 (INRAVISION TELEVISION CADENA 1) -- [TEXT] DURING THE SEARCHES TODAY IN MEDELLIN, THE CAPITAL OF ANTIOQUIA DEPARTMENT, THE AUTHORITIES DISCOVERED WHAT THEY HAVE TERMED AS A VERY IMPORTANT COMMUNICATIONS CENTER OF THE MEDELLIN CARTEL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0007.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0007.xhtml#2459">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">UNOFFICIAL SOURCES SAID THAT ESCOBAR GAVIRIA "IS SOMEWHERE IN WESTERN ANTIOQUIA DEPARTMENT" -- OF WHICH MEDELLIN IS THE CAPITAL -- WHERE THE SEARCH OPERATIONS ARE CONCENTRATED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0036.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0036.xhtml#1206">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ANTIOQUIA POLICE HAVE REPORTED THAT THIS WAS AN ATTACK ON THE AIRPORT INSTALLATIONS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0036.xhtml#582">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">RIGHT NOW, TOP OFFICIALS AND ANTIOQUIA POLICE CHIEFS ARE ON THEIR WAY TO THE AIRPORT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0036.xhtml#518">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">I REPEAT: THIS IS A PRELIMINARY REPORT BY THE ANTIOQUIA POLICE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0036.xhtml#383">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO PRELIMINARY REPORTS FROM THE ANTIOQUIA POLICE, THIS WAS AN ATTACK ON THE INSTALLATIONS OF THE JOSE MARIA CORDOBA AIRPORT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0036.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 4 SEP 89 (RADIO CADENA NACIONAL) -- [TEXT] THIS STATION HAS LEARNED THAT THREE PERSONS HAVE BEEN KILLED AT THE JOSE MARIA CORDOBA INTERNATIONAL AIRPORT, IN THE TOWN OF RIO NEGRO, ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0089.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0089.xhtml#1278">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">ON 26 MARCH, 9TH BRIGADE TROOPS CLASHED WITH THE "AMANDA RINCON" GROUP, LED BY CHALITA, IN A RURAL AREA OF PITALITO MUNICIPALITY, HUILA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0089.xhtml#816">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, AT THE PEACE VILLAGE IN THE MOUNTAINS OF CAUCA DEPARTMENT, 350 KM SOUTHWEST OF BOGOTA, M-19 COMMANDER CARLOS PIZARRO LEONGOMEZ RELEASED A COMMUNIQUE IN WHICH HE ACCUSED THE COLOMBIAN ARMY OF ATTACKING AN M-19 GROUP ON 26 MARCH.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0089.xhtml#678">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">THE M-19 DELEGATES ARRIVED AT THE NARINO PALACE, LOCATED IN DOWNTOWN BOGOTA, UNDER STRICT SECURITY MEASURES AT 1800 LOCAL TIME (2300 GMT).</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0089.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 30 MAR 89 (EFE) -- [TEXT] COLOMBIAN PRESIDENT VIRGILIO BARCO TODAY MET WITH 8 OF THE 13 MEMBERS OF THE 19 APRIL MOVEMENT (M-19) "TEAM OF SPOKESMEN" AT THE NARINO PALACE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0263.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0263.xhtml#877">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">THIS IS THE FIFTH DYNAMITE ATTACK ON THE PACIFIC PIPELINE BY THE ELN IN VALLE DEL CAUCA DEPARTMENT IN THE PAST 6 MONTHS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0077.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0077.xhtml#1336">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE PEOPLE OF ANTIOQUIA HAVE BEEN BROUGHT CLOSER TO THEIR POLICE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0077.xhtml#193">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE POLICE OPERATION TOOK PLACE ON THE OUTSKIRTS OF ANTIOQUIA DEPARTMENT'S CAPITAL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1299.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1299.xhtml#768">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE COUNTRY AND ANTIOQUIA DEPARTMENT HAVE BEEN DEALT A STRONG BLOW TODAY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml#2401">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE CARTEL'S SURRENDER IS NOT SEEN AS A SURPRISE: THE 4TH ARMY BRIGADE WAS CONDUCTING AN EXHAUSTIVE SEARCH OF THE ANTIOQUIA DEPARTMENT IN AN EFFORT TO BRING THE KINGPINS TO JUSTICE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1162.xhtml#1510">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE REPORT FURTHER INDICATES THAT ESCOBAR, PRESSURED BY MILITARY OPERATIONS IN ANTIOQUIA, "WAS FORCED TO ORDER THE KIDNAPPINGS OF ALVARO DIEGO MONTOYA, (SON OF THE SECRETARY GENERAL OF THE PRESIDENCY) AND PATRICIA ECHEVARRIA (SISTER OF PRESIDENT BARCO'S SON-IN-LAW) AND HER DAUGHTER."</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0627.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0627.xhtml#31">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 31 OCT 89 (AFP) -- [TEXT] LIBERAL PARTY MEMBER FABIO ROA, CANDIDATE FOR MAYOR OF PUERTO LOPEZ, META DEPARTMENT, IN THE COUNTRY'S SOUTHEAST, AND HIS BROTHER - IN - LAW NORBERTO SAAVEDRA WERE SHOT TO DEATH IN A BUSY STREET OF THIS TOWN IN BROAD DAYLIGHT, IT HAS BEEN REPORTED IN BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml#2086">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">[PIZARRO] THAT MEANS THAT IF SANTANDER, A LAWMAKER, WAS PARDONED AFTER HIS ATTEMPT ON BOLIVAR'S LIFE, AND WE ARE LIVING IN A NATION BUILT LARGELY ON WHAT SANTANDER DID, THE LIFE OF MEN IS MADE OF LIGHT AND SHADES.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1075.xhtml#1937">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">[PIZARRO] I HAVE ALWAYS WONDERED HOW COLOMBIA DEALT WITH THE FACT THAT SANTANDER WAS THE FIRST MAN PARDONED IN COLOMBIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml#2842">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">[REPORTER] SOME OF THE COUNTRY'S POLITICAL LEADERS -- NOT ONLY IN NORTHERN SANTANDER, BUT IN SEVERAL AREAS OF THE COUNTRY -- ARE VERY CONCERNED ABOUT THE CONSTANT RAIDS BY SUBVERSIVE GROUPS, AND THEIR MURDERED MAYORS, OFFICIALS, AND POLITICAL LEADERS AND THE KIDNAPPING OF NATIONAL CIVIL REGISTRY OFFICE PERSONNEL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml#931">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">WE MUST AT LEAST MAKE ATTEMPTS TO HOLD DIALOGUE WITH THIS GUERRILLA GROUP, WHICH HAS SHOWN IT CAN EASILY MOVE AROUND AND DISRUPT STABILITY AND PUBLIC ORDER IN THE DEPARTMENT OF NORTH SANTANDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 4 FEB 90 (RADIO CADENA NACIONAL) -- [INTERVIEW WITH NORTH SANTANDER GOVERNOR EDUARDO ASSAF ELCURE BY UNIDENTIFIED REPORTER] [TEXT] [CONTINUED] [ASSAF] I BELIEVE THAT HERE IN THE DEPARTMENT, THE EXPERIENCE WITH MAYORS ELECTED BY THE PEOPLE, HAS BEEN SATISFACTORY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0470.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0470.xhtml#41">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">SUCRE, 3 SEP 89 (PRESENCIA) -- [EXCERPT] EARLY SUNDAY MORNING TERRORISTS ATTACKED THE STUDIOS OF THE CHANNEL 6 TELEVISION STATION, WHICH IS PART OF THE ATB [EXPANSION UNKONWN] NATIONAL SYSTEM.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1132.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1132.xhtml#977">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">IT HAS MURDERED THREE PEASANTS IN GUACHICONO, SOUTHERN CAUCA DEPARTMENT, TWO IN ANTIOQUIA, AND THREE IN CORDOBA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0033.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0033.xhtml#424">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">[BEGIN RECORDING] [GONZALEZ] THE PEACE PROCESS BETWEEN M-19 AND THE NATIONAL GOVERNMENT WAS SERIOUSLY JEOPARDIZED THIS WEEK DUE TO THE MURDER OF TWO MEMBERS OF THAT GUERRILLA ORGANIZATION, WHICH OCCURRED AT THE BORDER BETWEEN CAUCA AND VALLE DEL CAUCA DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0033.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 9 SEP 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] THE PEACE PROCESS WITH M-19 [19 APRIL MOVEMENT] THAT WAS INTERRUPTED DUE TO THE MURDER OF TWO MEMBERS OF THAT SUBVERSIVE ORGANIZATION -- NOW OBSERVING A TRUCE -- WAS RESTORED FOLLOWING A VISIT BY PRESIDENTIAL ADVISER RAFAEL PARDO TO THE M-19 CAMP IN SANTO DOMINGO, CAUCA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0061.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0061.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">SAN SALVADOR, 2 NOV 88 (CANAL DOCE TELEVISION) -- [REPORT] [MAGDALENA JIMENEZ] [EXCERPTS] AT LEAST TWO PEOPLE WERE KILLED AND FOUR WERE WOUNDED EARLY THIS MORNING DURING AN FMLN ATTACK ON THE EL ANGEL SUGAR MILL LOCATED NEAR APOPA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0031.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0031.xhtml#2359">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">THE AREAS MOST AFFECTED BY THESE ATTACKS ARE IN SUCRE, ARAUCA, NORTE DE SANTANDER, AND SANTANDER DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0600.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0600.xhtml#683">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, THE ARMY'S FOURTH BRIGADE, WITH HEADQUARTERS IN MEDELLIN, HAS DECLARED THAT TWO ALLEGED MEMBERS OF THE ARMY OF NATIONAL LIBERATION (ELN, PRO-CUBAN) WERE KILLED IN A CLASH WITH REGULAR TROOPS WHO SEIZED WEAPONS AND WAR MATERIEL NEAR SALGAR, ANTIOQUIA DEPARTMENT, 550 KM NORTHWEST OF BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0600.xhtml#214">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">IN A PUBLIC ESTABLISHMENT IN A VILLAGE NEAR BUGALAGRANDE, CAUCA DEPARTMENT, 500 KM WEST OF BOGOTA, SEVEN MEN, WHO HAD RESISTED A ROUTINE SEARCH, ATTACKED A POLICE DETACHMENT AND KILLED TWO POLICEMEN WHO HAD KILLED ONE OF THE GROUP.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0611.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0611.xhtml#333">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE BODY OF DEPUTY GABRIEL JAIME SANTAMARIA MONTOYA CONTINUES LYING IN STATE AT THE ANTIOQUIA DEPARTMENTAL ASSEMBLY WHERE THE PATRIOTIC UNION LEADER WAS ASSASSINATED ON 27 OCTOBER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0019.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0019.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 28 MAY 89 (INRAVISION TELEVISION CADENA 1) -- [TEXT] OIL WILL NOT BE PUMPED THROUGH THE CANO LIMON-COVENAS PIPELINE AGAIN UNTIL 30 MAY, BECAUSE IT WAS AGAIN BLOWN UP TODAY NEAR URUM MUNICIPALITY, NORTE DE SANTANDER DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0072.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0072.xhtml#288">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">THE BODIES OF THE FIVE PEOPLE KILLED TODAY IN AN AMBUSH NEAR TAME AIRPORT, ARAUCA INTENDANCE, WERE BROUGHT TO BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0072.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 21 NOV 88 (INRAVISION TELEVISION CADENA 1) -- [REPORT] [CARLOS ALBERTO CHICA] [EXCERPTS] FOUR COLOMBIAN POLICEMEN AND ONE ARMY NONCOMMISSIONED OFFICER WERE KILLED TODAY IN AN AMBUSH BY NATIONAL LIBERATION ARMY [ELN] REBELS NEAR TAME, ARAUCA INTENDANCE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0656.xhtml#31">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 9 NOV 89 (NOTIMEX) -- [TEXT] THE POLICE HAS REPORTED THAT ALLEGED MEMBERS OF THE ARMY OF NATIONAL LIBERATION (ELN) KIDNAPPED TODAY TWO MEXICANS IN THE ARAUCA OIL ZONE, NEAR THE COLOMBIAN-VENEZUELAN BORDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0422.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0422.xhtml#798">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">THIS SITUATION, WHICH HAS BEEN BLAMED ON THE "NERVOUSNESS" THE COUNTRY IS EXPERIENCING, TOOK PLACE ONLY A FEW HOURS AFTER A MAN DRESSED IN A CAMOUFLAGE MILITARY UNIFORM KILLED 1 PERSON AND WOUNDED 13 OTHERS WITH A MACHINEGUN AT MEDELLIN'S JOSE MARIA CORDOBA INTERNATIONAL AIRPORT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1051.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1051.xhtml#1140">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">ONE OF THEM, HERACLIDES SUCRE, HAS BEEN LINKED BY PANAMA'S ATTORNEY GENERAL ROGELIO CRUZ TO THE MURDER OF MAJOR MOISES GIROLDI, AN OFFICER WHO WAS KILLED AFTER LEADING A THWARTED COUP ATTEMPT AGAINST NORIEGA ON 3 OCTOBER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1042.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1042.xhtml#1044">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">SUCRE WAS CHARGED TODAY BY PANAMANIAN ATTORNEY GENERAL ROGELIO CRUZ WITH BEING INVOLVED IN THE ASSASSINATION OF MAJOR MOISES GIROLDI, WHO PROMOTED A FOILED COUP AGAINST NORIEGA ON 3 OCTOBER 1989.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1042.xhtml#697">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">THE PANAMANIANS WHO SOUGHT SHELTER AT THE PERUVIAN EMBASSY ARE MAJOR EDGARDO LOPEZ GRIMALDO, SPOKESMEN OF THE FORMER DEFENSE FORCES; MAJOR GONZALO GONZALEZ, CHIEF OF THE ELITE "MACHO DE MONTE" COMPANY; NORIEGA'S FORMER SECRETARY, MARCELA TASON; CAPTAIN NARCISA CASTILLERO; MAJOR HERACLIDES SUCRE; AND SEVEN RELATIVES OF THE ABOVE-MENTIONED PEOPLE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0433.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0433.xhtml#2043">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ATTACK AGAINST THE UNIVISION JOURNALISTS OCCURRED SIMULTANEOUSLY WITH AN ANNOUNCEMENT BY THE POLICE IN ANTIOQUIA DEPARTMENT -- THE CAPITAL OF WHICH IS MEDELLIN -- OF THE ARREST OF FOUR DRUG TRAFFICKERS WHOSE EXTRADITION MAY HAVE BEEN REQUESTED BY THE UNITED STATES.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0306.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0306.xhtml#1282">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Tolima_Department</rdfs:member>
+        <schema:description xml:lang="en">THE DINA-SALGAR PIPELINE CARRIES CRUDE OIL FROM THE OIL FIELDS IN TOLIMA TO THE REFINERY IN BARRANCABERMEJA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0094.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst2/TST2-MUC4-0094.xhtml#1446">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">TO DATE, WE HAVE DISBANDED 23 GANGS OF HIRED ASSASSINS OPERATING IN ENVIGADO IN ANTIOQUIA DEPARTMENT, HUICAN IN BOYACA DEPARTMENT, PUERTO LOPEZ AND SAN MARTIN IN META DEPARTMENT, LA ROCHELA IN SANTANDER DEPARTMENT, AND LLANOS DEL YARI IN CAQUETA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0368.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0368.xhtml#3528">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Atlántico_Department</rdfs:member>
+        <schema:description xml:lang="en">THE AUTHORITIES CONTINUE TO DEAL BLOWS TO THE DRUG TRAFFICKERS IN ATLANTICO DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0368.xhtml#447">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE OFFENSIVE LAUNCHED BY THE MILITARY AUTHORITIES AGAINST DRUG TRAFFICKERS THROUGHOUT THE COUNTRY HAS BEEN PARTICULARLY EFFECTIVE IN ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1156.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1156.xhtml#962">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">THE IS COMMISSION, A PRESIDENTIAL REPRESENTATIVE, 600 M-19 MEMBERS, AND OVER 200 LOCAL AND FOREIGN NEWSMEN WITNESSED THE WEAPON DELIVERY CEREMONY AT PEACE VILLAGE IN SANTO DOMINGO, CAUCA DEPARTMENT, 400 KM SOUTHWEST OF BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0379.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0379.xhtml#987">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">ARSON SEEMS TO BE THE NEW CRIMINAL STYLE USED IN ANTIOQUIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0379.xhtml#337">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IT HAS ALSO BEEN REPORTED THAT 10TH ARMY BRIGADE MEMBERS FOUND AND CONFISCATED 2 METRIC TONS OF HIGH-GRADE COCAINE AT LA MONEDA FARM IN LECHI, CAUCASIA, AT THE BORDER BETWEEN ANTIOQUIA AND CORDOBA DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0095.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0095.xhtml#1036">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Putumayo_Department</rdfs:member>
+        <schema:description xml:lang="en">THE BOAT'S DESTINATION WAS APPARENTLY PUTUMAYO, COLOMBIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0095.xhtml#228">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">THE COLOMBIAN POLICE TODAY CONFISCATED A 162 KG SHIPMENT OF PURE COCAINE FROM THE CARIBBEAN PORT OF SANTA MARTA, MAGDALENA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0026.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0026.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 2 OCT 88 (AFP) -- [TEXT] FIFTEEN SOLDIERS WERE KILLED TODAY IN COLOMBIA DURING AN AMBUSH BY FARC COMMUNIST GUERRILLAS IN CAQUETA'S SOUTHERN JUNGLES, MILITARY SOURCES REPORTED FROM FLORENCIA, THE CAPITAL IN THAT AREA OF THE COUNTRY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0461.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0461.xhtml#583">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THEY WERE SEEN SPREADING GASOLINE ON AND SETTING FIRE TO AN ANTIOQUIA DEPARTMENT DUMPTRUCK, WITH LICENSE PLATES OL-1400, AND TO A NATIONAL GOVERNMENT ISUZU DUMPTRUCK WITH LICENSE PLATES OP-4184.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0613.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0613.xhtml#284">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THROUGH ANONYMOUS PHONE CALLS TO VARIOUS MEDIA IN THE NORTHEAST OF MEDELLIN, ANTIOQUIA PROVINCE, THE EXTRADITABLES CLAIMED RESPONSIBILITY FOR PLACING A BOMB INSIDE ONE OF THE SMALL AIRPORT'S BATHROOMS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0076.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0076.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Risaralda_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 6 SEP 89 (AFP) -- [TEXT] THE POLICE INSTITUTION REPORTED TODAY THAT THE RISARALDA PROVINCE 3D DISTRICT POLICE COMMANDER'S WIFE, STELA TORRADO DE OTALORA, WAS KILLED ON MONDAY, 4 AUGUST.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0030.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0030.xhtml#637">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Tolima_Department</rdfs:member>
+        <schema:description xml:lang="en">CARDENAS GUERRA WAS TRANSFERRED FROM PURIFICACION TO THE SECRET POLICE OFFICES IN IBAGUE, CAPITAL OF TOLIMA DEPARTMENT, 130 KM SOUTHWEST OF BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0313.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0313.xhtml#5652">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">A PERSON WAS ASSAULTED IN CORDOBA THE OTHER DAY AND $250,000 WAS FOUND IN HIS MATTRESS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0487.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0487.xhtml#246">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">TWO DYNAMITE CHARGES WERE DETONATED NEAR THE DAS [ADMINISTRATIVE DEPARTMENT OF SECURITY] OFFICES IN THE PALO QUEMAO NEIGHBORHOOD, DESTROYING THE BRANCH OFFICES OF THE BANCO POPULAR AND THE BANCO SANTANDER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0482.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0482.xhtml#303">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">THE NEW TERRORIST ACTION WAS STAGED IN PUERTO BOYACA WHERE THE OIL PIPELINE WAS DESTROYED AND MUCH ELN PROPAGANDA WAS STREWN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0030.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0030.xhtml#1225">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">TWO DAYS LATER, ON 16 AUGUST, DUE TO DEATH THREATS THE EIGHTH PUBLIC ORDER JUDGE IN MEDELLIN, WHO WAS INVESTIGATING THE GOVERNOR OF ANTIOQUIA'S MURDER, RESIGNED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1068.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1068.xhtml#770">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO REPORTS, MEMBERS OF THAT INSURGENT ORGANIZATION COMPLETELY BLEW UP A STRETCH OF THE CANO LIMON-COVENAS OIL PIPELINE, IN AN AREA CLOSE TO TEORAMA IN NORTE DE SANTANDER DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0503.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0503.xhtml#564">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cundinamarca_Department</rdfs:member>
+        <schema:description xml:lang="en">GENERAL RAMON EDUARDO NIEBLES UZCATEGUI, COMMANDER OF THE 13TH INFANTRY BRIGADE HAS SAID THAT AT LEAST TWO OF THOSE ARRESTED HAVE FULLY CONFESSED TO HAVING TAKEN PART IN THE MURDER OF LUIS CARLOS GALAN SARMIENTO IN SOACHA, CUNDINAMARCA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0488.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0488.xhtml#517">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">THEY ARE THE BANCO DE SANTANDER IN NORTHEASTERN CALI AND THE LA VIVIENDA CORPORATION NEAR CAICEDO SQUARE, IN THE BANKING AND COMMERCIAL SECTOR OF CALI.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0488.xhtml#259">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Valle_del_Cauca_Department</rdfs:member>
+        <schema:description xml:lang="en">SEVERAL CHARGES OF DYNAMITE WERE DETONATED IN SEVERAL BANKS LOCATED IN DOWNTOWN CALI, CAPITAL OF VALLE DEL CAUCA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#1834">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">FINALLY, ELN GUERRILLAS BLEW UP A PRIVATE PLANE CAUSING PROPERTY DAMAGE IN THE MILLIONS IN NUEVA FLORIDA, MIRAFLORES MUNICIPALITY, BOLIVAR DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#1654">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, TWO OTHER PEASANTS, WHO WERE ACCUSED OF HELPING THE POLICE, HAVE BEEN SHOT TO DEATH BY ALLEGED ELN MEMBERS IN BARBACOAS, YONDO MUNICIPALITY, ANTIOQUIAN MIDDLE MAGDALENA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#1516">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">SIMILARLY, THREE PEASANTS HAVE BEEN SHOT TO DEATH BY ALLEGED EPL MEMBERS IN A RURAL AREA OF TIERRA ALTA MUNICIPALITY, CORDOBA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#1256">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">IN ADDITION, TWO EPL REBELS HAVE BEEN KILLED IN A RURAL AREA IN CORDOBA DEPARTMENT IN CLASHES WITH A CARTAGENA BATTALION MILITARY PATROL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#1056">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">TWO REBELS HAVE BEEN KILLED AND FOUR OTHERS HAVE BEEN ARRESTED AFTER VARIOUS CLASHES BETWEEN COLOMBIAN ARMY TROOPS AND ELN AND FARC REBELS IN THE DEPARTMENTS OF SANTANDER, META, AND ARAUCA INTENDANCY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#967">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">THE TWO ATTACKS OCCURRED IN THE DEPARTMENTS OF NORTHERN SANTANDER AND META, RESPECTIVELY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1128.xhtml#381">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">THE REBEL ACTIONS TOOK PLACE IN THE DEPARTMENTS OF BOLIVAR, META, SANTANDER, NORTHERN SANTANDER, CORDOBA, ANTIOQUIA, AND IN THE ARAUCA INTENDANCY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0026.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0026.xhtml#3018">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO THE DAS REPORT REVEALED TODAY, "THE PEREZES," ARE IMPORTANT MEMBERS OF THE ASSOCIATION OF MIDDLE MAGDALENA CATTLEMEN (ACDEGAM), THE SELF-DEFENSE GROUPS, AND MORENA; AND THE AUTHORITIES CHARGE THEM WITH THE MASS MURDERS OF PEASANTS IN URABA, LOCATED IN THE COUNTRY'S NORTHWESTERN AREA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0026.xhtml#2504">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <schema:description xml:lang="en">THE FIRST PERSONS TO NOTIFY THE PROSECUTOR GENERAL OF THE NATION, THE HIGHEST AUTHORITY, ABOUT THE PRESENCE OF FOREIGN MERCENARIES AMONG THE DRUG-TRAFFICKERS FAR RIGHT-WING ARMED GROUPS WERE DESERTERS FROM THE MIDDLE MAGDALENA SELF-DEFENSE GROUPS -- IDENTIFIED AS JESUS ALBERTO MOLINA URREA, RICAURTE DUQUE ARBOLEDA, AND VICTOR ARBOLEDA DUQUE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0026.xhtml#1269">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Meta_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Putumayo_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">THE DAS ADDS THAT DEAN SHELLEY, PETER MCALEESE, ALEX LENOX, AND ANDRES GIBSON ENTERED THE COUNTRY IN PREVIOUSLY AND SETTLED IN THE DRUG TRAFFICKERS EXTREME RIGHT-WING GROUPS' MILITARY TRAINING CAMPS IN PUERTO BOYACA, MIDDLE MAGDALENA REGION (CENTRAL PART OF THE COUNTRY), LA AZULITA (SOUTHERN PUTUMAYO), PUERTO LOPEZ (META DEPARTMENT), AND EL RECREO (CAQUETA DEPARTMENT) ON THE NORTHEASTERN FLATLANDS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0054.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0054.xhtml#207">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, IN CIUDAD BOLIVAR, ANTIOQUIA DEPARTMENT, INSURGENTS APPARENTLY BELONGING TO THE NATIONAL LIBERATION ARMY PLACED A BOMB IN THE CITY'S ADMINISTRATIVE OFFICES AND ALSO DESTROYED FOUR FARMS, CAUSING APPROXIMATELY 100 MILLION PESOS IN DAMAGE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0054.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 27 NOV 88 (INRAVISION TELEVISION CADENA 1) -- [TEXT] SIX GUERRILLAS OF A STILL UNIDENTIFIED GROUP DIED TODAY IN A SKIRMISH WITH ARMY TROOPS IN MORELIA, CAQUETA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0389.xhtml#383">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Boyacá_Department</rdfs:member>
+        <schema:description xml:lang="en">FOUR POLICE AGENTS FROM THE [WORDS INDISTINCT] BOYACA COMMAND KIDNAPPED BY THE SO-CALLED ARMY OF NATIONAL LIBERATION [ELN] WERE RELEASED ON 27 AUGUST AT 1800 IN GRENADA, EASTERN ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml#668">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">GEN PADILLA PRAISED MSGR JARAMILLO'S WORK OVER THE PAST FEW YEARS IN FAVOR OF THE POOR IN ARAUCA DEPARTMENT, BUT DID NOT EXPLAIN WHAT REASONS THE GUERRILLAS COULD HAVE HAD FOR MURDERING THE PRELATE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml#355">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">YESTERDAY SEVERAL ARMED MEN KIDNAPPED JARAMILLO, THE BISHOP OF ARAUCA, AND HIS ASSISTANT, ELMER MUNOZ, BUT LATER RELEASED THE LATTER.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0542.xhtml#34">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 3 OCT 89 (AFP) -- [TEXT] THE AUTHORITIES OF THE EASTERN DEPARTMENT OF ARAUCA, IN THE OIL PRODUCING SECTOR OF THE COUNTRY, HAVE ANNOUNCED THAT MSGR JESUS EMILIO JARAMILLO WAS MURDERED AND THAT HIS BODY WAS FOUND TODAY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0068.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0068.xhtml#504">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THIS ANTIDRUG OPERATION IS BEING CONDUCTED ALONG THE BORDER BETWEEN ANTIOQUIA AND CORDOBA DEPARTMENTS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0021.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0021.xhtml#668">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Caquetá_Department</rdfs:member>
+        <schema:description xml:lang="en">SIMILARLY, IT WAS LEARNED THAT A BOMB EXPLODED TODAY AT THE COMMUNIST PARTY HEADQUARTERS IN THE CAPITAL OF CAQUETA, CAUSING CONSIDERABLE PROPERTY DAMAGE.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0021.xhtml#284">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Atlántico_Department</rdfs:member>
+        <schema:description xml:lang="en">THE POLICE CONFIRMED THAT UNIDENTIFIED INDIVIDUALS ARMED WITH MACHINEGUNS ATTACKED THE COLOMBIAN AIR FORCE INSTALLATIONS IN THE CAPITAL OF ATLANTICO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1199.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1199.xhtml#42">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Nariño_Department</rdfs:member>
+        <schema:description xml:lang="en">NO CITY, NO DATE (FBIS) -- [TEXT] BOGOTA DOMESTIC SERVICE IN SPANISH AT 0230 GMT BEGINS TO BROADCAST LIVE OR RECORDED A SPEECH BY PRESIDENT VIRGILIO BARCO VARGAS FROM THE NARINO PALACE IN BOGOTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#554">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE POLITICIAN, LAWYER, AND FORMER COLOMBIAN AMBASSADOR TO ITALY WAS KIDNAPPED IN THE SAME PLACE WHERE COLONEL WALDEMAR FRANKLIN QUINTERO, CHIEF OF POLICE IN ANTIOQUIA, WAS ASSASSINATED LAST YEAR.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml#42">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 3 APR 90 (EFE) -- [TEXT] THE POLICE IN MEDELLIN, ANTIOQUIA DEPARTMENT, IN THE NORTHWESTERN PART OF COLOMBIA, HAVE OFFICIALLY ANNOUNCED THAT SENATOR FEDERICO ESTRADA VELEZ, ONE OF THE MOST IMPORTANT LEADERS OF COLOMBIA'S LIBERAL PARTY, WAS KIDNAPPED BY UNIDENTIFIED INDIVIDUALS IN MEDELLIN TODAY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0586.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0586.xhtml#552">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">HOWEVER, BOLIVAR SQUARE WAS POORLY PATROLLED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0586.xhtml#290">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">THESE MEASURES WERE IMPLEMENTED AFTER A PAID ASSASSIN WAS KILLED RIGHT IN BOLIVAR SQUARE BY A GRENADE HE WAS TRYING TO THROW AT THE CONGRESS BUILDING.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0024.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0024.xhtml#1459">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">THAT ATTACK RESULTED IN A SPILL OF 13,000 BARRELS OF OIL, WHICH SEVERELY CONTAMINATED FARMING AREAS AND THE ARAUCA RIVER, TO THE POINT THAT THE POTABLE WATER SERVICE WAS TEMPORARILY SUSPENDED IN ARAUCA'S CAPITAL CITY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0024.xhtml#906">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">MEANWHILE, OPERATORS FROM THE STATE-RUN OIL COMPANY YESTERDAY BEGAN REPAIRING THE CANO LIMON-COVENAS OIL PIPELINE DYNAMITED ON THE NIGHT OF 12 JULY IN ARAUQUITA JURISDICTION, WHICH FORCED THE SUSPENSION OF OIL PUMPING FROM ARAUCA INTENDANCY'S OIL FIELDS TO THE GULF OF MORROSQUILLO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0024.xhtml#448">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">AUTHORITIES CONFIRMED THAT THERE WAS A POWERFUL DYNAMITE EXPLOSION AT THE VINA-PUERTO SALGAR OIL PIPELINE, LOCATED APPROXIMATELY 30 KM FROM NATAGAIMA, IN NORTHERN HUILA DEPARTMENT, CAUSING AN UNDETERMINED AMOUNT OF CRUDE OIL TO SPILL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0024.xhtml#28">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Huila_Department</rdfs:member>
+        <schema:description xml:lang="en">BOGOTA, 14 JUL 89 (EMISORAS CARACOL NETWORK) -- [TEXT] FOR THE SECOND TIME, UNIDENTIFIED TERRORISTS DYNAMITED THE OIL PIPELINE BETWEEN HUILA DEPARTMENT AND BARRANCABERMEJA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0087.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst4/TST4-MUC4-0087.xhtml#704">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Chocó_Department</rdfs:member>
+        <schema:description xml:lang="en">THE CHOCO AUTHORITIES MET TO CONSIDER THE SITUATION AND REPORT TO GOVERNMENT MINISTER CESAR GAVIRIA TRUJILLO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1183.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1183.xhtml#1651">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Sucre_Department</rdfs:member>
+        <schema:description xml:lang="en">THE FORMER FDP MAYORS HERACLIDIS SUCRE MEDINA AND GONZALO GONZALEZ CONTINUE TO STAY AT THE PERUVIAN EMBASSY IN PANAMA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0079.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0079.xhtml#2422">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Bolívar_Department</rdfs:member>
+        <schema:description xml:lang="en">CONCLUDING, THE COMMUNIQUE STATES: "IF LATIN AMERICANS HAVE TO GO WITH BOLIVAR'S SWORD TO SAN SALVADOR AND CENTRAL AMERICA, WE WILL DO SO."</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#3065">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE AUTHORITIES ALSO ANNOUNCED THAT POLICEMAN EDISON AGUDELO AGUDELO WAS KIDNAPPED BY MEMBERS OF THE CAMILIST UNION AS HE WAS ON HIS WAY TO FRAGUAS CORREGIMIENTO IN REMEDIOS, ANTIOQUIA, TO CASH A CHECK.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2129">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Magdalena_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">ALONG THE ROAD FROM SAN VICENTE TO EL CARMEN, ALSO IN SANTANDER, GONZALO VASQUEZ ARDILA, MANAGER OF THE LOCAL AGRARIAN FUND, AND OLINDO MANTILLA ARDILA, A DIRECTOR OF THE (COTRAS MAGDALENA) COMPANY, WERE ALSO KIDNAPPED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2059">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">DUARTE IS A DEPUTY FOR THE RENOVATION OF FREE SANTANDER LIBERAL PARTY.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1494">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">AT NOON YESTERDAY, NEAR SAVANA DE TORRES, SANTANDER, ALVARO TORRES, AN EMPLOYEE OF THE AGRARIAN FUND; OSCAR CELIO TORRES GUTIERREZ, A SPOKESMAN FOR INCORA [COLOMBIAN INSTITUTE OF AGRARIAN REFORM]; MIGUEL CACEL, AN IMAT [EXPANSION UNKNOWN] OFFICIAL; AND A WORKER FROM PEDIAROZ WERE KIDNAPPED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1250">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">IN TIBU, NORTE DE SANTANDER, MAYOR EDUARDO ROLON DIAZ AND MAYORAL CANDIDATE ALVARO SARMIENTO HERRERA WERE ALSO KIDNAPPED BY THE SO-CALLED ELN CAMILIST UNION.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2537">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Norte_de_Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">HERNANDO TORRES JAIMES, MAYOR OF HACARI, NORTE DE SANTANDER, IS ALSO IN THE HANDS OF THE ELN.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2631">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">IN CORDOBA, CATTLEMAN GERMAN SIERRA MEDINA WAS KIDNAPPED ALONG THE EL TORO ROAD OF PIEDRA ALTA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1131">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">IN ADDITION, CELINA OSSA DE GOMEZ, CONSERVATIVE PARTY LEADER AND DEPUTY, WAS KIDNAPPED IN DOWNTOWN GRANADA, ANTIOQUIA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2961">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">IN EL CENTENARIO, EL CARMEN, SANTANDER, MEMBERS OF THE CAMILIST UNION KIDNAPPED LANDOWNER SAMUEL PLAZAS.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#2727">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">IN CANALETE, ALSO IN CORDOBA, CATTLEMAN PEDRO PABLO MEJIA WAS KIDNAPPED.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1150.xhtml#1786">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <schema:description xml:lang="en">THE ELN IS ALSO HOLDING NOEL FRANCISCO ACEVEDO AND JAVIER IGNACIO PENA, THE MAYORS OF EL CARMEN AND CALIFORNIA, SANTANDER, RESPECTIVELY; AND LIBERAL PARTY DEPUTY JUAN CARLOS DUARTE, WHO WAS ABDUCTED BY THE ELN ON TENERIFE ROAD, IN THE MUNICIPAL JURISDICTION OF CONCEPCION.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0046.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0046.xhtml#734">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">"THE EXTRADITABLES," THE VOICE SAID, "DO NOT WANT THAT NEWSPAPER CIRCULATING IN ANTIOQUIA ANYMORE."</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0046.xhtml#284">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">MIGUEL SOLER RODRIGUEZ, EL ESPECTATOR'S CIRCULATION MANAGER AND MARTHA LUZ LOPEZ, THE CORRESPONDENT'S OFFICE ADMINISTRATOR, WERE KILLED TODAY IN SEPARATE ATTACKS CARRIED OUT BY GUNMEN IN MEDELLIN, COLOMBIA'S SECOND LARGEST CITY AND CAPITAL OF THE ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1161.xhtml#448">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Arauca_Department</rdfs:member>
+        <schema:description xml:lang="en">ONE OF THE GUERILLAS, ROBERTO ALBARRACIN RODRIGUEZ, WAS CAPTURED IN THE VENEZUELAN TOWN OF RUASDUALITO BY MEMBERS OF THE VENEZUELAN JUDICIAL TECHNICAL POLICE (PTJ), WHILE COLOMBIAN AUTHORITIES CAPTURED 11 OTHERS IN THE EASTERN ARAUCA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0068.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0068.xhtml#1082">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Chocó_Department</rdfs:member>
+        <schema:description xml:lang="en">EL CHOCO SAID: "WE CAN RESIST FOR AS LONG AS WE HAVE TO.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst3/TST3-MUC4-0068.xhtml#301">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Chocó_Department</rdfs:member>
+        <schema:description xml:lang="en">NEWSMEN WHO ENTERED THE HOTEL THIS AFTERNOON DURING THE EVACUATION OF BAENA BY DIPLOMATS WERE ABLE TO CONFIRM THAT COMMANDER AMILCAR, KNOWN AS "EL CHOCO," WHO DIRECTED THE COMBAT OPERATIONS IN THE ZACAMIL NEIGHBORHOOD, WAS SEEN TODAY ON THE THIRD FLOOR OF THE SHERATON HOTEL.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0081.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0081.xhtml#563">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">THE EXTRADITABLES' POSITION IS STATED IN A COMMUNIQUE SENT TO PRESIDENT VIRGILIO BARCO'S GOVERNMENT BY PATRICIA AND DINA ECHAVARRIA, TWO WOMEN WHO HAVE BEEN HELD BY THE EXTRADITABLES SINCE 16 DECEMBER IN MEDELLIN, THE CAPITAL CITY OF NORTHWESTERN ANTIOQUIA DEPARTMENT.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml">
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#2443">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO THE DAS, ONE OF THE CAUSES OF THIS SITUATION IS SOCIAL DISRUPTION AND THE PRECARIOUS ECONOMIC SITUATION OF THE COMMUNITIES LOCATED IN MUNICIPALITIES AND LOCALITIES THAT LACK THE MOST BASIC SERVICES, A REALITY THAT IS MOST GLARING IN CORDOBA.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#1792">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO THE DAS REPORT, THE SITUATION HAS BECOME SO UNTENABLE THAT ITS SEEMS IMPOSSIBLE TO RESTORE SOCIAL BALANCE IN CORDOBA ON A MID-TERM BASIS BECAUSE THE POPULATION HAS ACCUSTOMED ITSELF TO COEXISTING WITH THESE IRREGULARITIES OR REPULSING THEM WITH MECHANISMS OTHER THAN THOSE STIPULATED BY LAW.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#1678">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Cauca_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Santander_Department</rdfs:member>
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Antioquia_Department</rdfs:member>
+        <schema:description xml:lang="en">OTHER HARD HIT DEPARTMENTS ARE ANTIOQUIA IN THE NORTHWEST, SANTANDER IN THE NORTHEAST, AND CAUCA IN THE SOUTHWEST.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+    <rdfs:member>
+      <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1204.xhtml#1564">
+        <rdfs:member rdf:datatype="schema:Place">http://dbpedia.org/resource/Córdoba_Department</rdfs:member>
+        <schema:description xml:lang="en">ACCORDING TO THE DAS, CORDOBA, IN THE COUNTRY'S NORTHEAST, IS THE DEPARTMENT MOST AFFECTED BY THIS KIND OF CRIME.</schema:description>
+      </rdf:Description>
+    </rdfs:member>
+  </rdf:Description>
+</rdf:RDF>
