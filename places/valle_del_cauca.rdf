@@ -1,0 +1,646 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:gn="http://www.geonames.org/ontology#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <gn:Feature rdf:about="http://sws.geonames.org/3682394/">
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Florida%2C_Valle_del_Cauca"/>
+    <wgs84_pos:long>-76.16667</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Florida</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682394/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Florida%2C_Valle_del_Cauca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>56008</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682394/florida.html"/>
+    <wgs84_pos:lat>3.33333</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666504/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666504/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-75.77781</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.70745</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ulloa%2C_Colombia"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666504/ulloa.html"/>
+    <gn:population>5745</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ulloa%2C_Colombia"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Ulloa</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671773/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Pradera"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Pradera"/>
+    <gn:name>Pradera</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.16667</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671773/pradera.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:population>48843</gn:population>
+    <wgs84_pos:lat>3.41667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671773/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3685293/">
+    <gn:name>Dagua</gn:name>
+    <wgs84_pos:lat>3.58333</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3685293/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>35270</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3685293/dagua.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.66667</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3676937/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3676937/la-union.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3676937/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-76.08333</wgs84_pos:long>
+    <wgs84_pos:lat>4.55</wgs84_pos:lat>
+    <gn:population>31798</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>La Unión</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682040/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ginebra%2C_Valle_del_Cauca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ginebra%2C_Valle_del_Cauca"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682040/ginebra.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682040/contains.rdf"/>
+    <gn:population>19268</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>3.75</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Ginebra</gn:name>
+    <wgs84_pos:long>-76.16667</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689907/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689907/andalucia.html"/>
+    <wgs84_pos:lat>4.08333</wgs84_pos:lat>
+    <gn:name>Andalucía</gn:name>
+    <wgs84_pos:long>-76.08333</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Andaluc%C3%ADa%2C_Valle_del_Cauca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>18136</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Andaluc%C3%ADa%2C_Valle_del_Cauca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689907/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666103/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Versalles"/>
+    <gn:population>8270</gn:population>
+    <wgs84_pos:lat>4.66335</wgs84_pos:lat>
+    <gn:name>Versalles</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Versalles"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666103/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.24649</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666103/versalles.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665560/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665560/zarzal.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665560/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Zarzal</gn:name>
+    <wgs84_pos:long>-76.08333</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.33333</wgs84_pos:lat>
+    <gn:population>40983</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688255/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688255/bugalagrande.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Bugalagrande</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.16667</wgs84_pos:lat>
+    <wgs84_pos:long>-76.08333</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688255/contains.rdf"/>
+    <gn:population>21601</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666882/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Toro%2C_Valle_del_Cauca"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666882/toro.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Toro%2C_Valle_del_Cauca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666882/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.07964</wgs84_pos:long>
+    <gn:population>15913</gn:population>
+    <gn:name>Toro</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.62707</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688668/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.33333</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688668/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Bolívar</gn:name>
+    <wgs84_pos:lat>4.33333</wgs84_pos:lat>
+    <gn:population>15360</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688668/bolivar.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3669169/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/San_Pedro%2C_Valle_del_Cauca"/>
+    <gn:name>San Pedro</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>3.99936</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/San_Pedro%2C_Valle_del_Cauca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.26123</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3669169/san-pedro.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>15784</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3669169/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3680388/">
+    <wgs84_pos:lat>3.26083</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680388/jamundi.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>96993</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3680388/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Jamundí</gn:name>
+    <wgs84_pos:long>-76.53694</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687647/">
+    <wgs84_pos:lat>3.38367</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Candelaria</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687647/candelaria.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.42466</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Candelaria%2C_Valle_del_Cauca"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Candelaria%2C_Valle_del_Cauca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687647/contains.rdf"/>
+    <gn:population>70296</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3685028/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3685028/el-aguila.html"/>
+    <wgs84_pos:long>-76.08333</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>4.91667</wgs84_pos:lat>
+    <gn:name>El Águila</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3685028/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Aguila%2C_Valle_del_Cauca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>10689</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Aguila%2C_Valle_del_Cauca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673165/">
+    <gn:name>Palmira</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.58333</wgs84_pos:lat>
+    <wgs84_pos:long>-76.25</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673165/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673165/palmira.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Palmira%2C_Valle_del_Cauca"/>
+    <gn:population>284470</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Palmira%2C_Valle_del_Cauca"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686294/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Caicedonia</gn:name>
+    <wgs84_pos:lat>4.33366</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>30947</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686294/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-75.83425</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686294/caicedonia.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689618/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>6693</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Argelia</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689618/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.11637</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Argelia,_Valle_del_Cauca"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689618/argelia.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Argelia%2C_Valle_del_Cauca"/>
+    <wgs84_pos:lat>4.72904</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670645/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>34698</gn:population>
+    <wgs84_pos:long>-76.16667</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670645/roldanillo.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Roldanillo</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670645/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.41667</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172370/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-77.03545</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172370/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>3.86425</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Buenaventura%2C_Valle_del_Cauca"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172370/buenaventura.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Buenaventura,_Valle_del_Cauca"/>
+    <gn:name>Buenaventura</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>328794</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172372/">
+    <gn:population>14134</gn:population>
+    <wgs84_pos:long>-75.98118</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172372/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>4.47621</wgs84_pos:lat>
+    <gn:name>La Victoria</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172372/la-victoria.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Victoria%2C_Valle_del_Cauca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Victoria%2C_Valle_del_Cauca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684267/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3684267/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>El Dovio</gn:name>
+    <gn:population>9548</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684267/el-dovio.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>4.5</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.25</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666026/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>3.73283</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666026/vijes.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666026/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Vijes</gn:name>
+    <wgs84_pos:long>-76.49363</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>9787</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172377/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172377/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172377/yumbo.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>92192</gn:population>
+    <gn:name>Yumbo</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>3.56989</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.54378</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670755/">
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Riofr%C3%ADo%2C_Valle_del_Cauca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.41593</wgs84_pos:long>
+    <gn:name>Riofrío</gn:name>
+    <gn:population>17376</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670755/riofrio.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Riofr%C3%ADo%2C_Valle_del_Cauca"/>
+    <wgs84_pos:lat>4.10279</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670755/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3690238/">
+    <wgs84_pos:lat>4.66667</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Alcal%C3%A1%2C_Valle_del_Cauca"/>
+    <gn:name>Alcalá</gn:name>
+    <wgs84_pos:long>-75.75</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Alcal%C3%A1%2C_Valle_del_Cauca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>17568</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3690238/alcala.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3690238/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687232/">
+    <wgs84_pos:lat>4.7</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687232/cartago.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cartago%2C_Valle_del_Cauca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687232/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-75.91667</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cartago%2C_Valle_del_Cauca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Cartago</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>124831</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3668134/">
+    <wgs84_pos:lat>4.19345</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3668134/sevilla.html"/>
+    <gn:name>Sevilla</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3668134/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:population>47872</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-75.88829</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666682/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:population>18667</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Trujillo</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Trujillo%2C_Valle_del_Cauca"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Trujillo%2C_Valle_del_Cauca"/>
+    <wgs84_pos:long>-76.33333</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666682/trujillo.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666682/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.25</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3679319/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3679319/la-cumbre.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:population>11122</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Cumbre%2C_Valle_del_Cauca"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Cumbre%2C_Valle_del_Cauca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3679319/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.66667</wgs84_pos:lat>
+    <wgs84_pos:long>-76.58333</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>La Cumbre</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681798/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681798/contains.rdf"/>
+    <wgs84_pos:lat>3.77501</wgs84_pos:lat>
+    <wgs84_pos:long>-76.30813</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681798/guacari.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:name>Guacarí</gn:name>
+    <gn:population>31802</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687908/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.66667</wgs84_pos:long>
+    <gn:population>15497</gn:population>
+    <gn:name>Calima</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Calima%2C_Valle_del_Cauca"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687908/calima.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>3.91667</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Calima%2C_Valle_del_Cauca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687908/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673678/">
+    <wgs84_pos:long>-75.91667</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673678/obando.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Obando</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Obando%2C_Valle_del_Cauca"/>
+    <gn:population>14380</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Obando%2C_Valle_del_Cauca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673678/contains.rdf"/>
+    <wgs84_pos:lat>4.58333</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687926/">
+    <gn:population>2119908</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687926/cali.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cali"/>
+    <gn:name>Cali</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cali"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687926/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.55</wgs84_pos:long>
+    <wgs84_pos:lat>3.41667</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666646/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:lat>4.08333</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>187275</gn:population>
+    <wgs84_pos:long>-76</wgs84_pos:long>
+    <gn:name>Tuluá</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666646/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666646/tulua.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684616/">
+    <gn:population>54598</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>El Cerrito</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Cerrito%2C_Valle_del_Cauca"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>3.66667</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3684616/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684616/el-cerrito.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.16667</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Cerrito%2C_Valle_del_Cauca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684790/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>El Cairo</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Cairo"/>
+    <wgs84_pos:long>-76.24443</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.74889</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Cairo"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684790/el-cairo.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3684790/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>9356</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665679/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:population>15563</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.42494</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665679/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Yotoco</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665679/yotoco.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>3.93169</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689832/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689832/contains.rdf"/>
+    <gn:name>Ansermanuevo</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-76.08333</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689832/ansermanuevo.html"/>
+    <wgs84_pos:lat>4.75</wgs84_pos:lat>
+    <gn:population>20692</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9609538/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9609538/guadalajara-de-buga.html"/>
+    <wgs84_pos:lat>3.85594</wgs84_pos:lat>
+    <gn:population>116893</gn:population>
+    <wgs84_pos:long>-76.10131</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Guadalajara de Buga</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9609538/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670860/">
+    <gn:name>Restrepo</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670860/contains.rdf"/>
+    <wgs84_pos:lat>3.79593</wgs84_pos:lat>
+    <gn:population>15805</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670860/restrepo.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3666313/"/>
+    <wgs84_pos:long>-76.56736</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3666313/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+</rdf:RDF>
