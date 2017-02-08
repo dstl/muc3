@@ -1,0 +1,448 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:gn="http://www.geonames.org/ontology#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <gn:Feature rdf:about="http://sws.geonames.org/3670720/">
+    <gn:name>Riosucio</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670720/riosucio.html"/>
+    <wgs84_pos:lat>7.41667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Riosucio%2C_Choc%C3%B3"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>14323</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670720/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Riosucio,_Choc%C3%B3"/>
+    <wgs84_pos:long>-77.16667</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667869/">
+    <gn:name>Bahía Solano</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bah%C3%ADa_Solano"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bah%C3%ADa_Solano"/>
+    <wgs84_pos:long>-77.39147</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>6.2252</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667869/bahia-solano.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:shortName>Solano</gn:shortName>
+    <gn:population>9094</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667869/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172032/">
+    <wgs84_pos:lat>8.11118</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>14544</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172032/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Unguía</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <wgs84_pos:long>-77.10916</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172032/unguia.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9609520/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>12244</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9609520/el-litoral-del-san-juan.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9609520/contains.rdf"/>
+    <wgs84_pos:long>-76.96926</wgs84_pos:long>
+    <gn:name>El Litoral del San Juan</gn:name>
+    <wgs84_pos:lat>4.2507</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686003/">
+    <gn:name>Condoto</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686003/condoto.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>5.10603</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <wgs84_pos:long>-76.45161</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>13098</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686003/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3680091/">
+    <gn:name>Juradó</gn:name>
+    <wgs84_pos:long>-77.65141</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jurad%C3%B3"/>
+    <wgs84_pos:lat>7.00425</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Jurad%C3%B3"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3680091/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>3609</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680091/jurado.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673784/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.91667</wgs84_pos:lat>
+    <wgs84_pos:long>-76.58333</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673784/contains.rdf"/>
+    <gn:population>7867</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Nóvita</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673784/novita.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179547/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179547/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>21037</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>5.995</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179547/medio-atrato.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Medio Atrato</gn:name>
+    <wgs84_pos:long>-76.7825</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179548/">
+    <wgs84_pos:lat>5.51667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/R%C3%ADo_Quito"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Río Quito</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179548/rio-quito.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179548/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/R%C3%ADo_Quito"/>
+    <wgs84_pos:long>-76.75</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>7888</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179543/">
+    <gn:population>8161</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179543/union-panamericana.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Uni%C3%B3n_Panamericana"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179543/contains.rdf"/>
+    <wgs84_pos:lat>5.28139</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Uni%C3%B3n_Panamericana"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Unión Panamericana</gn:name>
+    <wgs84_pos:long>-76.63</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179541/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Atrato"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179541/atrato.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Atrato"/>
+    <wgs84_pos:long>-76.64063</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179541/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Atrato</gn:name>
+    <gn:population>7561</gn:population>
+    <wgs84_pos:lat>5.57362</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3676478/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Lloró</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>10248</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-76.41667</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.58333</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3676478/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3676478/lloro.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667580/">
+    <wgs84_pos:lat>5.33333</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Tadó</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667580/contains.rdf"/>
+    <gn:population>18041</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <wgs84_pos:long>-76.41667</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667580/tado.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673691/">
+    <gn:name>Nuquí</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-77.28753</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673691/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673691/nuqui.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <wgs84_pos:lat>5.67014</wgs84_pos:lat>
+    <gn:population>7625</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671117/">
+    <wgs84_pos:long>-76.66667</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671117/quibdo.html"/>
+    <wgs84_pos:lat>5.83333</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>112886</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Quibdó</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671117/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3690070/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3690070/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3690070/alto-baudo.html"/>
+    <gn:name>Alto Baudo</gn:name>
+    <wgs84_pos:lat>5.60464</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>28961</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-77.06975</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684712/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <wgs84_pos:lat>5.83333</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>11849</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3684712/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684712/el-carmen-de-atrato.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>El Carmen de Atrato</gn:name>
+    <wgs84_pos:long>-76.25</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179528/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179528/contains.rdf"/>
+    <gn:population>13027</gn:population>
+    <gn:name>Mediosanjuan</gn:name>
+    <gn:alternateName xml:lang="en">Mediosanjuan</gn:alternateName>
+    <wgs84_pos:long>-76.69528</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179528/medio-san-juan.html"/>
+    <wgs84_pos:lat>5.09278</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667960/">
+    <gn:population>3481</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667960/sipi.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Sipí</gn:name>
+    <wgs84_pos:long>-76.5</wgs84_pos:long>
+    <wgs84_pos:lat>4.58333</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667960/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3680454/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>23639</gn:population>
+    <wgs84_pos:lat>4.98772</wgs84_pos:lat>
+    <wgs84_pos:long>-76.80528</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680454/istmina.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3680454/contains.rdf"/>
+    <gn:name>Istmina</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179529/">
+    <wgs84_pos:lat>7.03639</wgs84_pos:lat>
+    <wgs84_pos:long>-76.95222</wgs84_pos:long>
+    <gn:population>5111</gn:population>
+    <gn:name>Carmen del Darien</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179529/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179529/carmen-del-darien.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9609519/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>6213</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9609519/el-canton-del-san-pablo.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9609519/contains.rdf"/>
+    <gn:name>El Cantón del San Pablo</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-76.7728</wgs84_pos:long>
+    <wgs84_pos:lat>5.35989</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689337/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>8454</gn:population>
+    <wgs84_pos:lat>5.5</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689337/contains.rdf"/>
+    <gn:name>Bagadó</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689337/bagado.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-76.25</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689318/">
+    <wgs84_pos:lat>4.90181</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bajo_Baud%C3%B3"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689318/contains.rdf"/>
+    <wgs84_pos:long>-77.22771</wgs84_pos:long>
+    <gn:population>16375</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bajo_Baud%C3%B3"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689318/bajo-baudo.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Bajo Baudó</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179554/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Río Iro</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179554/rio-iro.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>8084</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-76.4833</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179554/contains.rdf"/>
+    <wgs84_pos:lat>5.18333</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688672/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:population>9941</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Bojaya</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-77.1</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688672/contains.rdf"/>
+    <wgs84_pos:lat>6.5</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688672/bojaya.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179552/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>9524</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179552/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-76.6</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:name>Cértegui</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>5.4</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179552/certegui.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179553/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Medio_Baud%C3%B3"/>
+    <gn:population>11715</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <wgs84_pos:lat>5.05</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Medio_Baud%C3%B3"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179553/contains.rdf"/>
+    <wgs84_pos:long>-77.05</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179553/medio-baudo.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Medio Baudó</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3669550/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:name>San José del Palmar</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-76.25</wgs84_pos:long>
+    <wgs84_pos:lat>4.91667</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3669550/san-jose-del-palmar.html"/>
+    <gn:population>5068</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3669550/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3690573/">
+    <wgs84_pos:long>-77.2928</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>10455</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3690573/acandi.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3690573/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3686431/"/>
+    <gn:name>Acandí</gn:name>
+    <wgs84_pos:lat>8.42468</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+</rdf:RDF>

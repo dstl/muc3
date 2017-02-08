@@ -1,0 +1,1748 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:gn="http://www.geonames.org/ontology#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <gn:Feature rdf:about="http://sws.geonames.org/3671331/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.5</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671331/puerto-salgar.html"/>
+    <gn:name>Puerto Salgar</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>15519</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.58333</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Puerto_Salgar"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671331/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Puerto_Salgar"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688812/">
+    <wgs84_pos:long>-74.55203</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688812/bituima.html"/>
+    <wgs84_pos:lat>4.82896</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Bituima</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>2657</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688812/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682186/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682186/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682186/gama.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>3873</gn:population>
+    <wgs84_pos:lat>4.70984</wgs84_pos:lat>
+    <wgs84_pos:long>-73.62002</wgs84_pos:long>
+    <gn:name>Gama</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667761/">
+    <wgs84_pos:lat>5</wgs84_pos:lat>
+    <gn:name>Subachoque</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667761/contains.rdf"/>
+    <gn:population>13041</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Subachoque"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667761/subachoque.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Subachoque"/>
+    <wgs84_pos:long>-74.16667</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682359/">
+    <gn:name>Fosca</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682359/fosca.html"/>
+    <gn:population>6654</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682359/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-73.97404</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.3018</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689710/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.41464</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689710/arbelaez.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689710/contains.rdf"/>
+    <gn:name>Arbeláez</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Arbel%C3%A1ez"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Arbel%C3%A1ez"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.21251</wgs84_pos:lat>
+    <gn:population>11806</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671120/">
+    <gn:name>Quetame</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>6570</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671120/contains.rdf"/>
+    <wgs84_pos:lat>4.33333</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671120/quetame.html"/>
+    <wgs84_pos:long>-73.83333</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3685734/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.14335</wgs84_pos:long>
+    <gn:name>Cota</gn:name>
+    <gn:population>19909</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3685734/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3685734/cota.html"/>
+    <wgs84_pos:lat>4.77601</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665814/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665814/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.66667</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665814/yacopi.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.41667</wgs84_pos:long>
+    <gn:population>16411</gn:population>
+    <gn:name>Yacopí</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666904/">
+    <wgs84_pos:lat>5.33885</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Topaipí</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666904/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666904/topaipi.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>4817</gn:population>
+    <wgs84_pos:long>-74.31328</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665543/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665543/contains.rdf"/>
+    <wgs84_pos:long>-74.04206</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Zipaquirá</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.02632</wgs84_pos:lat>
+    <gn:population>101551</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665543/zipaquira.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673850/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.33333</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>14174</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nilo%2C_Cundinamarca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673850/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nilo,_Cundinamarca"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Nilo</gn:name>
+    <wgs84_pos:long>-74.58333</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673850/nilo.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3672998/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Pandi</gn:name>
+    <gn:population>5468</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3672998/pandi.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3672998/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.47099</wgs84_pos:long>
+    <wgs84_pos:lat>4.18032</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689842/">
+    <gn:population>13310</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.77621</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689842/anolaima.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689842/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.48412</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Anolaima</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686135/">
+    <wgs84_pos:lat>5.08474</wgs84_pos:lat>
+    <gn:population>18276</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-73.9949</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686135/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686135/cogua.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Cogua</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9073272/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9073272/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>4.41691</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>7416</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9073272/paratebueno.html"/>
+    <wgs84_pos:long>-73.18559</wgs84_pos:long>
+    <gn:name>Paratebueno</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666088/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.91667</wgs84_pos:lat>
+    <wgs84_pos:long>-74.55</wgs84_pos:long>
+    <gn:population>4115</gn:population>
+    <gn:name>Vianí</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Viani"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666088/viani.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Viani"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666088/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179884/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Rosal%2C_Cundinamarca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179884/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>13502</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Rosal%2C_Cundinamarca"/>
+    <wgs84_pos:long>-74.2667</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179884/el-rosal.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.85</wgs84_pos:lat>
+    <gn:name>El Rosal</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688674/">
+    <gn:population>8879</gn:population>
+    <wgs84_pos:lat>4.68719</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688674/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688674/bojaca.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.33706</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Bojacá</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3674933/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Medina</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3674933/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-73.33333</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3674933/medina.html"/>
+    <gn:population>9845</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.5</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667223/">
+    <gn:name>Tibacuy</gn:name>
+    <wgs84_pos:lat>4.30606</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.51639</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667223/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tibacuy"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667223/tibacuy.html"/>
+    <gn:population>4843</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tibacuy"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3680310/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3680310/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Jerusal%C3%A9n%2C_Cundinamarca"/>
+    <gn:name>Jerusalén</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jerusal%C3%A9n%2C_Cundinamarca"/>
+    <wgs84_pos:lat>4.55678</wgs84_pos:lat>
+    <wgs84_pos:long>-74.70941</wgs84_pos:long>
+    <gn:population>2723</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680310/jerusalen.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667004/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667004/tocaima.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tocaima"/>
+    <wgs84_pos:long>-74.66667</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tocaima"/>
+    <gn:population>17196</gn:population>
+    <gn:name>Tocaima</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667004/contains.rdf"/>
+    <wgs84_pos:lat>4.5</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682517/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682517/contains.rdf"/>
+    <gn:population>107452</gn:population>
+    <gn:name>Facatativá</gn:name>
+    <wgs84_pos:long>-74.35893</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682517/facatativa.html"/>
+    <wgs84_pos:lat>4.81962</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673425/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>25414</gn:population>
+    <gn:name>Pacho</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.18067</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673425/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673425/pacho.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>5.14994</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179702/">
+    <wgs84_pos:lat>4.51861</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Granada%2C_Cundinamarca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>6876</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Granada</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179702/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Granada%2C_Cundinamarca"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179702/granada.html"/>
+    <wgs84_pos:long>-74.35139</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3674033/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3674033/narino.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nari%C3%B1o%2C_Cundinamarca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.39913</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.82239</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3674033/contains.rdf"/>
+    <gn:population>2092</gn:population>
+    <gn:name>Nariño</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nari%C3%B1o%2C_Cundinamarca"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682381/">
+    <gn:name>Fomeque</gn:name>
+    <gn:population>12157</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.52806</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682381/fomeque.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-73.78879</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682381/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9609539/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Villa de San Diego de Ubate</gn:name>
+    <wgs84_pos:lat>5.31544</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9609539/villa-de-san-diego-de-ubate.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>36433</gn:population>
+    <wgs84_pos:long>-73.82045</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9609539/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179893/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179893/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>12374</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.35</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179893/san-antonio-del-tequendama.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>San Antonio del Tequendama</gn:name>
+    <wgs84_pos:lat>4.61667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3668018/">
+    <gn:population>11017</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.50415</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Simijac%C3%A1"/>
+    <wgs84_pos:long>-73.86944</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3668018/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Simijac%C3%A1"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3668018/simijaca.html"/>
+    <gn:name>Simijaca</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3679663/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>23768</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3679663/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>La Calera</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Calera%2C_Colombia"/>
+    <wgs84_pos:long>-73.9359</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3679663/la-calera.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Calera%2C_Colombia"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.68678</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3668229/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Sasaima</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>10205</gn:population>
+    <wgs84_pos:long>-74.42797</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3668229/sasaima.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3668229/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sasaima"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sasaima"/>
+    <wgs84_pos:lat>4.92891</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172260/">
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ricaurte%2C_Cundinamarca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172260/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.29127</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.75432</wgs84_pos:long>
+    <gn:name>Ricaurte</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ricaurte%2C_Cundinamarca"/>
+    <gn:population>8145</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172260/ricaurte.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688007/">
+    <gn:name>Cajicá</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688007/cajica.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688007/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.91284</wgs84_pos:lat>
+    <gn:population>45391</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.05261</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671021/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671021/contains.rdf"/>
+    <gn:population>7822</gn:population>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671021/apulo.html"/>
+    <wgs84_pos:long>-74.59774</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.50902</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>Apulo</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3685541/">
+    <wgs84_pos:lat>5.21626</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3685541/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Cucunubá</gn:name>
+    <wgs84_pos:long>-73.80756</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3685541/cucunuba.html"/>
+    <gn:population>7013</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667311/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Tena</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667311/tena.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tena%2C_Cundinamarca"/>
+    <wgs84_pos:lat>4.64863</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>7569</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tena,_Cundinamarca"/>
+    <wgs84_pos:long>-74.39924</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667311/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3678411/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.5</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Mesa%2C_Colombia"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Mesa%2C_Colombia"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3678411/contains.rdf"/>
+    <gn:name>La Mesa</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3678411/la-mesa.html"/>
+    <wgs84_pos:lat>4.66667</wgs84_pos:lat>
+    <gn:population>27165</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3668029/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Silvania"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Silvania</gn:name>
+    <wgs84_pos:lat>4.42513</wgs84_pos:lat>
+    <wgs84_pos:long>-74.38425</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3668029/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Silvania"/>
+    <gn:population>21392</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3668029/silvania.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682280/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>5214</gn:population>
+    <gn:name>Fúquene</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/F%C3%BAquene"/>
+    <wgs84_pos:long>-73.76997</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682280/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/F%C3%BAquene"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682280/fuquene.html"/>
+    <wgs84_pos:lat>5.41988</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665925/">
+    <gn:name>Villapinzón</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665925/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.20883</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665925/villapinzon.html"/>
+    <wgs84_pos:long>-73.60536</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>16573</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3669885/">
+    <wgs84_pos:long>-74.28333</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:name>San Francisco</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/San_Francisco%2C_Cundinamarca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3669885/san-francisco.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3669885/contains.rdf"/>
+    <gn:population>8304</gn:population>
+    <wgs84_pos:lat>5</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/San_Francisco%2C_Cundinamarca"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3678287/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>5.31732</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3678287/contains.rdf"/>
+    <gn:population>9918</gn:population>
+    <gn:name>La Palma</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-74.43003</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Palma%2C_Cundinamarca"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Palma%2C_Cundinamarca"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3678287/la-palma.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681177/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681177/gutierrez.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guti%C3%A9rrez%2C_Cundinamarca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681177/contains.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guti%C3%A9rrez%2C_Cundinamarca"/>
+    <gn:name>Gutiérrez</gn:name>
+    <gn:population>3489</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74</wgs84_pos:long>
+    <wgs84_pos:lat>4.25</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3668139/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3668139/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3668139/sesquile.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sesquil%C3%A9"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.98827</wgs84_pos:lat>
+    <wgs84_pos:long>-73.80045</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sesquil%C3%A9"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>9817</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Sesquilé</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686852/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686852/chaguani.html"/>
+    <gn:name>Chaguaní</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686852/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>4.94554</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>4101</gn:population>
+    <wgs84_pos:long>-74.65954</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3690267/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Alb%C3%A1n%2C_Cundinamarca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>5952</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3690267/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Albán</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3690267/alban.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.44388</wgs84_pos:long>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Alb%C3%A1n%2C_Cundinamarca"/>
+    <wgs84_pos:lat>4.89432</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3688919/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3688919/beltran.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>1947</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Beltrán</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Beltr%C3%A1n%2C_Cundinamarca"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3688919/contains.rdf"/>
+    <wgs84_pos:long>-74.7566</wgs84_pos:long>
+    <wgs84_pos:lat>4.71947</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Beltr%C3%A1n%2C_Cundinamarca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3670036/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3670036/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.12956</wgs84_pos:lat>
+    <gn:name>San Bernardo</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>10334</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.35903</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3670036/san-bernardo.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686442/">
+    <wgs84_pos:lat>4.58333</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>11165</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686442/choachi.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Choachí</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686442/contains.rdf"/>
+    <wgs84_pos:long>-73.91667</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686423/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>19512</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.16667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-73.66667</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686423/choconta.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Chocontá</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686423/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3674295/">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Mosquera%2C_Cundinamarca"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3674295/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3674295/mosquera.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.23599</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Mosquera</gn:name>
+    <wgs84_pos:lat>4.68935</wgs84_pos:lat>
+    <gn:population>63226</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Mosquera,_Cundinamarca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3676870/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3676870/la-vega.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Vega%2C_Cundinamarca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3676870/contains.rdf"/>
+    <gn:population>13265</gn:population>
+    <gn:name>La Vega</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>5</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Vega%2C_Cundinamarca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.35</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671164/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Quebradanegra"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671164/contains.rdf"/>
+    <gn:name>Quebradanegra</gn:name>
+    <gn:population>4691</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Quebradanegra"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.08262</wgs84_pos:lat>
+    <wgs84_pos:long>-74.52117</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671164/quebradanegra.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3669465/">
+    <gn:name>San Juan de Río Seco</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3669465/san-juan-de-rio-seco.html"/>
+    <gn:population>9792</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.68248</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3669465/contains.rdf"/>
+    <wgs84_pos:lat>4.83077</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681768/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681768/guacheta.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681768/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-73.7</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>11517</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Guachetá</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.41667</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3689942/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3689942/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3689942/anapoima.html"/>
+    <wgs84_pos:long>-74.54686</wgs84_pos:long>
+    <wgs84_pos:lat>4.54363</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>11503</gn:population>
+    <gn:name>Anapoima</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3690430/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>11822</gn:population>
+    <wgs84_pos:long>-74.69002</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.35842</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3690430/agua-de-dios.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3690430/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Agua de Dios</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681365/">
+    <gn:population>2489</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681365/guataqui.html"/>
+    <gn:name>Guataquí</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.8</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681365/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.58333</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681703/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Guaduas"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.59854</wgs84_pos:long>
+    <wgs84_pos:lat>5.0743</wgs84_pos:lat>
+    <gn:population>31831</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681703/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Guaduas</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Guaduas"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681703/guaduas.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667808/">
+    <wgs84_pos:lat>4.87157</wgs84_pos:lat>
+    <gn:name>Sopó</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667808/sopo.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sop%C3%B3"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667808/contains.rdf"/>
+    <gn:population>21223</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sop%C3%B3"/>
+    <wgs84_pos:long>-73.98616</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681361/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.91121</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-73.83988</wgs84_pos:long>
+    <gn:name>Guatavita</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681361/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681361/guatavita.html"/>
+    <gn:population>6685</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3680116/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jun%C3%ADn%2C_Cundinamarca"/>
+    <gn:name>Junín</gn:name>
+    <wgs84_pos:lat>4.75</wgs84_pos:lat>
+    <wgs84_pos:long>-73.66667</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>8448</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3680116/junin.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3680116/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Jun%C3%ADn%2C_Cundinamarca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667702/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667702/supata.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.25</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Supat%C3%A1"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Supat%C3%A1"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>4952</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667702/contains.rdf"/>
+    <gn:name>Supatá</gn:name>
+    <wgs84_pos:lat>5.08333</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665545/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665545/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.75453</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.38765</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665545/zipacon.html"/>
+    <gn:name>Zipacón</gn:name>
+    <gn:population>5016</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667650/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>5.22898</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667650/sutatausa.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sutatausa"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sutatausa"/>
+    <gn:name>Sutatausa</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667650/contains.rdf"/>
+    <wgs84_pos:long>-73.87912</wgs84_pos:long>
+    <gn:population>4742</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682029/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Girardot</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682029/girardot.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Girardot%2C_Cundinamarca"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.31802</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682029/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Girardot%2C_Cundinamarca"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.83504</wgs84_pos:long>
+    <gn:population>97834</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682259/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682259/contains.rdf"/>
+    <gn:name>Gachetá</gn:name>
+    <wgs84_pos:long>-73.66667</wgs84_pos:long>
+    <wgs84_pos:lat>4.91667</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682259/gacheta.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Gachet%C3%A1"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Gachet%C3%A1"/>
+    <gn:population>10409</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172353/">
+    <wgs84_pos:long>-73.88117</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>4780</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Guayabetal</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172353/guayabetal.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172353/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.17508</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3675708/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3675708/madrid.html"/>
+    <wgs84_pos:lat>4.75564</wgs84_pos:lat>
+    <gn:name>Madrid</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Madrid%2C_Cundinamarca"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Madrid%2C_Cundinamarca"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3675708/contains.rdf"/>
+    <gn:population>62425</gn:population>
+    <wgs84_pos:long>-74.27708</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172376/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172376/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172376/villagomez.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-74.191</wgs84_pos:long>
+    <gn:name>Villagómez</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>5.27104</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>2183</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665896/">
+    <wgs84_pos:long>-74.50498</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665896/villeta.html"/>
+    <gn:name>Villeta</gn:name>
+    <wgs84_pos:lat>5.00008</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665896/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>24340</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Villeta%2C_Cundinamarca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Villeta%2C_Cundinamarca"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671073/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Quipile</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.58333</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>8217</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671073/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671073/quipile.html"/>
+    <wgs84_pos:lat>4.75</wgs84_pos:lat>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667352/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667352/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-73.9694</wgs84_pos:long>
+    <gn:population>7715</gn:population>
+    <wgs84_pos:lat>5.17637</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tausa"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tausa"/>
+    <gn:name>Tausa</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667352/tausa.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9179699/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.4775</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Venecia</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Venecia%2C_Cundinamarca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.08861</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>3934</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Venecia%2C_Cundinamarca"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9179699/venecia.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9179699/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3675433/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-73.58583</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3675433/manta.html"/>
+    <gn:name>Manta</gn:name>
+    <gn:population>4627</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Manta%2C_Cundinamarca"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3675433/contains.rdf"/>
+    <wgs84_pos:lat>4.9572</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Manta%2C_Cundinamarca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667292/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.8232</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Tenjo</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.16568</wgs84_pos:long>
+    <gn:population>18466</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667292/tenjo.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667292/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3684506/">
+    <wgs84_pos:lat>4.58333</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Colegio"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3684506/el-colegio.html"/>
+    <gn:population>20430</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Colegio"/>
+    <wgs84_pos:long>-74.45</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3684506/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>El Colegio</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667206/">
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-73.51369</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>3018</gn:population>
+    <wgs84_pos:lat>5.08516</wgs84_pos:lat>
+    <gn:name>Tibirita</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tibirit%C3%A1"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tibirit%C3%A1"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667206/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667206/tibirita.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667666/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667666/susa.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Susa</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667666/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Susa%2C_Cundinamarca"/>
+    <wgs84_pos:long>-73.84786</wgs84_pos:long>
+    <wgs84_pos:lat>5.427</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Susa%2C_Cundinamarca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>9782</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687506/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.58333</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>16483</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.41667</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687506/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687506/caparrapi.html"/>
+    <gn:name>Caparrapí</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9178694/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>3.87443</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9178694/contains.rdf"/>
+    <gn:name>Cabrera</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-74.4719</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9178694/cabrera.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>4684</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666112/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666112/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-74.33333</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.16667</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666112/vergara.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Vergara%2C_Cundinamarca"/>
+    <gn:name>Vergara</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Vergara%2C_Cundinamarca"/>
+    <gn:population>7730</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666364/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666364/utica.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>4941</gn:population>
+    <wgs84_pos:lat>5.16977</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Útica</gn:name>
+    <wgs84_pos:long>-74.50134</wgs84_pos:long>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666364/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666998/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>24154</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.9481</wgs84_pos:lat>
+    <wgs84_pos:long>-73.94826</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666998/contains.rdf"/>
+    <gn:name>Tocancipá</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666998/tocancipa.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667906/">
+    <gn:population>402007</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>4.58333</wgs84_pos:lat>
+    <wgs84_pos:long>-74.25</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Soacha"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667906/soacha.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Soacha"/>
+    <gn:name>Soacha</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667906/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3678169/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.25</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_Pe%C3%B1a%2C_Cundinamarca"/>
+    <wgs84_pos:long>-74.41667</wgs84_pos:long>
+    <gn:population>6989</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3678169/contains.rdf"/>
+    <gn:name>La Peña</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3678169/la-pena.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_Pe%C3%B1a%2C_Cundinamarca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666527/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Ubalá</gn:name>
+    <gn:population>11892</gn:population>
+    <wgs84_pos:lat>4.83333</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-73.5</wgs84_pos:long>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666527/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666527/ubala.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666482/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666482/contains.rdf"/>
+    <wgs84_pos:long>-74.08333</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666482/une.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:lat>4.33333</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Une"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Une"/>
+    <gn:name>Une</gn:name>
+    <gn:population>8014</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172349/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172349/cachipay.html"/>
+    <wgs84_pos:long>-74.48706</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172349/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Cachipay</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>4.70422</wgs84_pos:lat>
+    <gn:population>9995</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681307/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:name>Guayabal de Siquima</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681307/contains.rdf"/>
+    <wgs84_pos:long>-74.48306</wgs84_pos:long>
+    <gn:population>3652</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>4.87881</wgs84_pos:lat>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681307/guayabal-de-siquima.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686677/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.05848</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686677/chia.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ch%C3%ADa%2C_Cundinamarca"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.84452</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ch%C3%ADa%2C_Cundinamarca"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>97896</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686677/contains.rdf"/>
+    <gn:name>Chía</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3666523/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-73.99661</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3666523/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3666523/ubaque.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>6879</gn:population>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>4.48436</wgs84_pos:lat>
+    <gn:name>Ubaque</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687322/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>8491</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>5.33333</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687322/contains.rdf"/>
+    <wgs84_pos:long>-73.91667</wgs84_pos:long>
+    <gn:name>Carmen de Carupa</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687322/carmen-de-carupa.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673373/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673373/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-74.16667</wgs84_pos:long>
+    <gn:name>Paime</gn:name>
+    <wgs84_pos:lat>5.41667</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673373/paime.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:population>5473</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3686533/">
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:population>8395</gn:population>
+    <wgs84_pos:long>-74.07541</wgs84_pos:long>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Chipaque"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Chipaque"/>
+    <wgs84_pos:lat>4.41481</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3686533/contains.rdf"/>
+    <gn:name>Chipaque</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3686533/chipaque.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682275/">
+    <gn:population>108938</gn:population>
+    <wgs84_pos:lat>4.2924</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.38332</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682275/fusagasuga.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682275/contains.rdf"/>
+    <gn:name>Fusagasugá</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667630/">
+    <gn:population>20850</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667630/contains.rdf"/>
+    <wgs84_pos:lat>4.93513</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-74.10211</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tabio"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667630/tabio.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tabio"/>
+    <gn:name>Tabio</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3687477/">
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3687477/caqueza.html"/>
+    <wgs84_pos:long>-73.95722</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3687477/contains.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Caqueza</gn:name>
+    <gn:population>16442</gn:population>
+    <wgs84_pos:lat>4.38708</wgs84_pos:lat>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3669986/">
+    <gn:name>San Cayetano</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>5276</gn:population>
+    <wgs84_pos:lat>5.33333</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/San_Cayetano%2C_Cundinamarca"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.08333</wgs84_pos:long>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3669986/san-cayetano.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3669986/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/San_Cayetano%2C_Cundinamarca"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3676645/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-73.7102</wgs84_pos:long>
+    <wgs84_pos:lat>5.28533</wgs84_pos:lat>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lenguazaque"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Lenguazaque"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:name>Lenguazaque</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>9769</gn:population>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3676645/contains.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3676645/lenguazaque.html"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/9172375/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.28287</wgs84_pos:long>
+    <gn:name>Sibaté</gn:name>
+    <gn:population>31675</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>4.4491</wgs84_pos:lat>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/9172375/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/9172375/sibate.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3671280/">
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3671280/puli.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3671280/contains.rdf"/>
+    <gn:population>2945</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Pulí</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:lat>4.67855</wgs84_pos:lat>
+    <wgs84_pos:long>-74.69526</wgs84_pos:long>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682282/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682282/funza.html"/>
+    <wgs84_pos:lat>4.73058</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:long>-74.21787</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Funza</gn:name>
+    <gn:population>61380</gn:population>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682282/contains.rdf"/>
+    <gn:countryCode>CO</gn:countryCode>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3672814/">
+    <wgs84_pos:lat>4.33333</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3672814/pasca.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3672814/contains.rdf"/>
+    <gn:name>Pasca</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>11122</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.28333</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673888/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673888/nemocon.html"/>
+    <wgs84_pos:lat>5.06966</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nemoc%C3%B3n"/>
+    <gn:population>11303</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nemoc%C3%B3n"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <wgs84_pos:long>-73.90606</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Nemocón</gn:name>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673888/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682267/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:name>Gachala</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682267/contains.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682267/gachala.html"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.66667</wgs84_pos:lat>
+    <wgs84_pos:long>-73.5</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>5916</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3681405/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3681405/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:name>Guasca</gn:name>
+    <wgs84_pos:long>-73.83333</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>4.83333</wgs84_pos:lat>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3681405/guasca.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>12442</gn:population>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3682263/">
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3682263/contains.rdf"/>
+    <gn:name>Gachancipá</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:long>-73.87796</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.01024</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3682263/gachancipa.html"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>10886</gn:population>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673827/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673827/nocaima.html"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nocaima"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.40465</wgs84_pos:long>
+    <wgs84_pos:lat>5.04767</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>7734</gn:population>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673827/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nocaima"/>
+    <gn:name>Nocaima</gn:name>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3675758/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/3675758/macheta.html"/>
+    <wgs84_pos:long>-73.61667</wgs84_pos:long>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:population>6847</gn:population>
+    <gn:name>Macheta</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3675758/contains.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <wgs84_pos:lat>5.08333</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3683506/">
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/El_Pe%C3%B1%C3%B3n%2C_Cundinamarca"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3683506/contains.rdf"/>
+    <gn:name>El Peñón</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3683506/el-penon.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:population>4977</gn:population>
+    <wgs84_pos:lat>5.26</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:long>-74.33333</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/El_Pe%C3%B1%C3%B3n%2C_Cundinamarca"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3665882/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:population>13567</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3665882/viota.html"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3665882/contains.rdf"/>
+    <wgs84_pos:long>-74.50811</wgs84_pos:long>
+    <wgs84_pos:lat>4.42054</wgs84_pos:lat>
+    <gn:name>Viotá</gn:name>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3673846/">
+    <gn:population>5523</gn:population>
+    <gn:countryCode>CO</gn:countryCode>
+    <wgs84_pos:long>-74.4034</wgs84_pos:long>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nimaima"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3673846/nimaima.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <wgs84_pos:lat>5.11741</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Nimaima"/>
+    <gn:name>Nimaima</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3673846/contains.rdf"/>
+  </gn:Feature>
+  <gn:Feature rdf:about="http://sws.geonames.org/3667718/">
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3686110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>CO</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3667718/suesca.html"/>
+    <gn:name>Suesca</gn:name>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3667718/contains.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <wgs84_pos:lat>5.12612</wgs84_pos:lat>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Suesca"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3685413/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3685413/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Suesca"/>
+    <gn:population>14242</gn:population>
+    <wgs84_pos:long>-73.8036</wgs84_pos:long>
+  </gn:Feature>
+</rdf:RDF>
