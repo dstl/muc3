@@ -4,12 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <title>MUC-3 stories</title>
+<link rel="stylesheet" href="css/story.css"/>
 </head>
 <body>
 <h1>MUC-3 stories</h1>
 <p>Selected storylines from the corpus...</p>
-<article>
-<h3>The kidnapping of Senator Federico Estrada Velez</h3>
+
+<article vocab="http://www.w3.org/2004/02/skos/core#" about="#velezkidnap" typeof="Concept">
+<header><h3 property="prefLabel">The kidnapping of Senator Federico Estrada Velez</h3></header>
 <p>
 documents: 
 <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml">DEV-MUC3-1221</a>, 
@@ -17,9 +19,16 @@ documents:
 <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml">DEV-MUC3-1212</a>, 
 <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-1218.xhtml">DEV-MUC3-1218</a>.
 </p>
+<footer rel="skos:broader" resource="http://dbpedia.org/resource/Narrative"></footer>
 </article>
-<article about="dbp:Avianca_Flight_203">
-<h3>The bombing of Avianca Flight 203</h3>
+
+<article vocab="http://www.w3.org/2004/02/skos/core#" about="dbp:Avianca_Flight_203" typeof="Concept">
+<header><h3 property="prefLabel">The bombing of Avianca Flight 203</h3></header>
+<blockquote>
+Avianca Airlines Flight 203 was a Colombian domestic passenger flight from El Dorado International Airport in Bogotá to Alfonso Bonilla Aragón International Airport in Cali. It was destroyed by a bomb over the municipality of Soacha on November 27, 1989.
+<cite><a href="https://en.wikipedia.org/wiki/Avianca_Flight_203">Wikipedia.</a></cite>
+</blockquote>
+<!--
 <p>
 documents: 
 <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-0881.xhtml">DEV-MUC3-0881</a>, 
@@ -29,14 +38,24 @@ documents:
 <a href="http://dstl.github.io/muc3/tst1/TST1-MUC3-0040.xhtml">TST1-MUC3-0040</a>, 
 <a href="http://dstl.github.io/muc3/tst2/TST2-MUC4-0020.xhtml">TST2-MUC3-0040</a>.
 </p>
+-->
+
+<footer rel="skos:broader" resource="http://dbpedia.org/resource/Narrative">
 <p>
 see also: <a href="https://en.wikipedia.org/wiki/Avianca_Flight_203">Wikipedia article</a>, 
 Aviation Safetey Network (ASN) <a href="https://aviation-safety.net/database/record.php?id=19891127-0">criminal occurrence description</a>, 
 Global Terrorism Database (GTD) <a href="https://www.start.umd.edu/gtd/search/IncidentSummary.aspx?gtdid=198911270006">incident summary</a>.
 </p>
+</footer>
 </article>
+
 <article vocab="http://www.w3.org/2004/02/skos/core#" about="http://dbpedia.org/resource/Luis_Carlos_Galán#Assassination" typeof="Concept">
 <header><h3 property="prefLabel">The assassination of Luis Carlos Galán</h3></header>
+<blockquote>
+After receiving several death threats, on August 18, 1989, Galán was shot to death by hitmen hired by the drug cartels during a public demonstration in the town of Soacha, Cundinamarca. At the time, he was comfortably leading in the polls for the forthcoming 1990 presidential election.
+<cite><a href="https://books.google.co.uk/books?isbn=3734734320&pg=PT321">Duthel, Heinz. Illegal drug trade - The War on Drugs.</a></cite>
+</blockquote> 
+<!--
 <p>
 documents: 
 <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-0351.xhtml">DEV-MUC3-0351</a>, 
@@ -44,13 +63,15 @@ documents:
 <a href="http://dstl.github.io/muc3/dev/DEV-MUC3-0503.xhtml">DEV-MUC3-0503</a>, 
 ...
 </p>
+-->
+<footer rel="skos:broader" resource="http://dbpedia.org/resource/Narrative">
 <p>
 see also: <a href="https://en.wikipedia.org/wiki/Luis_Carlos_Gal%C3%A1n">Wikipedia article</a>, 
 New York Times <a href="http://www.nytimes.com/1989/08/19/world/colombian-presidential-candidate-is-slain-at-rally.html">report</a>,
 BBC News <a href="http://www.bbc.co.uk/news/world-latin-america-32957840">report</a>,
 ...
 </p>
-<footer rel="skos:broader" resource="http://dbpedia.org/resource/Narrative"></footer>
+</footer>
 </article>
 
 </body>
