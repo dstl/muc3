@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dbo="http://dbpedia.org/ontology/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sesame="http://www.openrdf.org/schema/sesame#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Buenos_Aires">
+	<rdfs:label xml:lang="en">BUENOS AIRES</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-34.6033</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-58.3817</geo:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Brasília">
+	<rdfs:label xml:lang="en">BRASILIA (BRAZIL)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Brazil"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-15.7939</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-47.88281</geo:long>
+	<rdfs:label xml:lang="en">Brasilia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Maputo">
+	<rdfs:label xml:lang="en">MAPUTO (MOZAMBIQUE)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Mozambique"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-25.966703</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">32.583305</geo:long>
+	<rdfs:label xml:lang="en">Maputo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Corrientes">
+	<rdfs:label xml:lang="en">CORRIENTES</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Argentina"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-27.461102</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-58.792107</geo:long>
+	<rdfs:label xml:lang="en">Corrientes</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Temuco">
+	<rdfs:label xml:lang="en">TEMUCO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Chile"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-38.74165</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-72.6667</geo:long>
+	<rdfs:label xml:lang="en">Temuco</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo">
+	<rdfs:label xml:lang="en">TOKYO (JAPAN)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Japan"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.683296</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.683</geo:long>
+	<rdfs:label xml:lang="en">Tokyo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mexico_City">
+	<rdfs:label xml:lang="en">MEXICO CITY (MEXICO)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.4333</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-99.1333</geo:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Managua">
+	<rdfs:label xml:lang="en">MANAGUA</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Nicaragua"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">12.136399</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-86.25143</geo:long>
+	<rdfs:label xml:lang="en">MANAGUA (NICARAGUA)</rdfs:label>
+	<rdfs:label xml:lang="en">Managua</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Hamburg">
+	<rdfs:label xml:lang="en">HAMBURG (FRG)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Germany"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.5653</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">10.001402</geo:long>
+	<rdfs:label xml:lang="en">HAMBURG (WEST GERMANY)</rdfs:label>
+	<rdfs:label xml:lang="en">Hamburg</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Rome">
+	<rdfs:label xml:lang="en">ROME (ITALY)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Italy"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">41.899998</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">12.5</geo:long>
+	<rdfs:label xml:lang="en">Rome</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Huancayo">
+	<rdfs:label xml:lang="en">HUANCAYO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Peru"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-12.066699</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-75.21669</geo:long>
+	<rdfs:label xml:lang="en">Huancayo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Madrid">
+	<rdfs:label xml:lang="en">MADRID (SPAIN)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Spain"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.3833</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7166708</geo:long>
+	<rdfs:label xml:lang="en">Madrid</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Quito">
+	<rdfs:label xml:lang="en">QUITO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Ecuador"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.233333</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-78.5167</geo:long>
+	<rdfs:label xml:lang="en">Quito</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Caracas">
+	<rdfs:label xml:lang="en">CARACAS (VENEZUELA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Venezuela"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">10.5</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-66.916695</geo:long>
+	<rdfs:label xml:lang="en">Caracas</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Metapán">
+	<rdfs:label xml:lang="en">METAPAN</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/El_Salvador"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.331401</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-89.4428</geo:long>
+	<rdfs:label xml:lang="en">Metapan</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/East_Berlin">
+	<rdfs:label xml:lang="en">EAST BERLIN (EAST GERMANY)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.5186</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">13.4044</geo:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/São_Paulo">
+	<rdfs:label xml:lang="en">SAO PAULO (BRAZIL)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-23.55</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-46.6333</geo:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bridgetown">
+	<rdfs:label xml:lang="en">BRIDGETOWN (BARBADOS)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Barbados"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">13.1059</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-59.622543</geo:long>
+	<rdfs:label xml:lang="en">Bridgetown</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Rosario,_Santa_Fe">
+	<rdfs:label xml:lang="en">ROSARIO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Argentina"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-32.9503</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-60.685448</geo:long>
+	<rdfs:label xml:lang="en">Rosario</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Jerusalem">
+	<rdfs:label xml:lang="en">JERUSALEM (ISRAEL)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.783297</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.2167</geo:long>
+	<rdfs:label xml:lang="en">Jerusalem</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lhasa">
+	<rdfs:label xml:lang="en">LHASA (TIBET)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/China"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.649996</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">91.1167</geo:long>
+	<rdfs:label xml:lang="en">Lhasa</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Montevideo">
+	<rdfs:label xml:lang="en">MONTEVIDEO (URUGUAY)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Uruguay"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-34.883602</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-56.18189</geo:long>
+	<rdfs:label xml:lang="en">Montevideo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Berlin">
+	<rdfs:label xml:lang="en">BERLIN (FRG)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Germany"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.516705</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">13.3833</geo:long>
+	<rdfs:label xml:lang="en">Berlin</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Seoul">
+	<rdfs:label xml:lang="en">SEOUL (ROK)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/South_Korea"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.5667</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">126.967</geo:long>
+	<rdfs:label xml:lang="en">Seoul</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Panama_City">
+	<rdfs:label xml:lang="en">PANAMA CITY (PANAMA)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">8.98333</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-79.5167</geo:long>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guayaquil">
+	<rdfs:label xml:lang="en">GUAYAQUIL</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Ecuador"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.1833303</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-79.8833</geo:long>
+	<rdfs:label xml:lang="en">Guayaquil</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bogotá">
+	<rdfs:label xml:lang="en">BOGOTA</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Colombia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.59806</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-74.0758</geo:long>
+	<rdfs:label xml:lang="en">Bogota</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sofia">
+	<rdfs:label xml:lang="en">SOFIA (BULGARIA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Bulgaria"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.7</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.33</geo:long>
+	<rdfs:label xml:lang="en">Sofia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Asunción">
+	<rdfs:label xml:lang="en">ASUNCION (PARAGUAY)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Paraguay"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-25.266699</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-57.6333</geo:long>
+	<rdfs:label xml:lang="en">Asuncion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Moscow">
+	<rdfs:label xml:lang="en">MOSCOW (USSR)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Russia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.751705</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.6178</geo:long>
+	<rdfs:label xml:lang="en">Moscow</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Washington,_D.C.">
+	<rdfs:label xml:lang="en">WASHINGTON DC (UNITED STATES)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.9047</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-77.0164</geo:long>
+	<rdfs:label xml:lang="en">WASHINGTON DC (USA)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Taipei">
+	<rdfs:label xml:lang="en">TAIPEI (ROC)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.033297</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">121.63303</geo:long>
+	<rdfs:label xml:lang="en">TAIPEI (TAIWAN)</rdfs:label>
+	<rdfs:label xml:lang="en">Taipei</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Burgos">
+	<rdfs:label xml:lang="en">BURGOS (SPAIN)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Spain"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.350002</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7066698</geo:long>
+	<rdfs:label xml:lang="en">Burgos</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lima">
+	<rdfs:label xml:lang="en">LIMA</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Peru"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-12.0433</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-77.028305</geo:long>
+	<rdfs:label xml:lang="en">Lima</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Popayán">
+	<rdfs:label xml:lang="en">POPAYAN</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Colombia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.45417</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-76.6092</geo:long>
+	<rdfs:label xml:lang="en">Popayan</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tegucigalpa">
+	<rdfs:label xml:lang="en">TEGUCIGALPA</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Honduras"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.100001</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-87.21668</geo:long>
+	<rdfs:label xml:lang="en">Tegucigalpa</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Port-au-Prince">
+	<rdfs:label xml:lang="en">PORT-AU-PRINCE (HAITI)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Haiti"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">18.5333</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-72.3333</geo:long>
+	<rdfs:label xml:lang="en">Port-au-prince</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Copiapó">
+	<rdfs:label xml:lang="en">COPIAPO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Chile"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-27.366396</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-70.33311</geo:long>
+	<rdfs:label xml:lang="en">Copiapo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Paris">
+	<rdfs:label xml:lang="en">PARIS (FRANCE)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/France"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8567</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3508</geo:long>
+	<rdfs:label xml:lang="en">Paris</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Vienna">
+	<rdfs:label xml:lang="en">VIENNA (AUSTRIA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Austria"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.20001</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">16.3667</geo:long>
+	<rdfs:label xml:lang="en">Vienna</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala">
+	<rdfs:label xml:lang="en">GUATEMALA</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.06665</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.375</geo:long>
+	<rdfs:label xml:lang="en">Guatemala</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Manila">
+	<rdfs:label xml:lang="en">MANILA (PHILIPPINES)</rdfs:label>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.583299</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">121.0</geo:long>
+	<rdfs:label xml:lang="en">Manila</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Beijing">
+	<rdfs:label xml:lang="en">BEIJING (PRC)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/China"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.91155</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">116.3815</geo:long>
+	<rdfs:label xml:lang="en">Beijing</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Pyongyang">
+	<rdfs:label xml:lang="en">PYONGYANG (NORTH KOREA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/North_Korea"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.0194</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">125.738</geo:long>
+	<rdfs:label xml:lang="en">Pyongyang</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Melbourne">
+	<rdfs:label xml:lang="en">MELBOURNE (AUSTRALIA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Australia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.8136</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">144.963</geo:long>
+	<rdfs:label xml:lang="en">Melbourne</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Perth">
+	<rdfs:label xml:lang="en">PERTH (AUSTRALIA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Australia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.9522</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">115.859</geo:long>
+	<rdfs:label xml:lang="en">Perth</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cali">
+	<rdfs:label xml:lang="en">CALI</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Colombia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.4205592</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-76.52221</geo:long>
+	<rdfs:label xml:lang="en">Cali</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Santiago">
+	<rdfs:label xml:lang="en">SANTIAGO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Chile"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-33.45</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-70.6667</geo:long>
+	<rdfs:label xml:lang="en">Santiago</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/London">
+	<rdfs:label xml:lang="en">LONDON (UK)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.5072</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.12750001</geo:long>
+	<rdfs:label xml:lang="en">London</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Prague">
+	<rdfs:label xml:lang="en">PRAGUE (CZECHOSLOVAKIA)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0833</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.4167</geo:long>
+	<rdfs:label xml:lang="en">Prague</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Havana">
+	<rdfs:label xml:lang="en">HAVANA</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Cuba"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.1333</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-82.3833</geo:long>
+	<rdfs:label xml:lang="en">HAVANA (CUBA)</rdfs:label>
+	<rdfs:label xml:lang="en">Havana</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bonn">
+	<rdfs:label xml:lang="en">BONN (WEST GERMANY)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Germany"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.734005</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.09981</geo:long>
+	<rdfs:label xml:lang="en">Bonn</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Dhaka">
+	<rdfs:label xml:lang="en">DHAKA (BANGLADESH)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Bangladesh"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.699999</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">90.3667</geo:long>
+	<rdfs:label xml:lang="en">Dhaka</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cúcuta">
+	<rdfs:label xml:lang="en">CUCUTA</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Colombia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.8941703</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-72.5039</geo:long>
+	<rdfs:label xml:lang="en">Cucuta</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belmopan">
+	<rdfs:label xml:lang="en">BELMOPAN (BELIZE)</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Belize"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">17.251402</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-88.7669</geo:long>
+	<rdfs:label xml:lang="en">Belmopan</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Medellín">
+	<rdfs:label xml:lang="en">MEDELLIN</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Colombia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.2308307</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-75.59059</geo:long>
+	<rdfs:label xml:lang="en">Medellin</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ayacucho">
+	<rdfs:label xml:lang="en">AYACUCHO</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Peru"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-13.1631</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-74.22441</geo:long>
+	<rdfs:label xml:lang="en">Ayacucho</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sucre">
+	<rdfs:label xml:lang="en">SUCRE</rdfs:label>
+	<rdfs:member rdf:resource="http://dbpedia.org/resource/Bolivia"/>
+	<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-19.050001</geo:lat>
+	<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-65.25</geo:long>
+	<rdfs:label xml:lang="en">Sucre</rdfs:label>
+</rdf:Description>
+
+</rdf:RDF>
