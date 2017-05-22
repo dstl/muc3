@@ -6,7 +6,7 @@ The authoritative source of this data is the [NIST Information Extraction](http:
 ## Why?
 The purpose of this project is twofold. Firstly, it provides a (well known) reference dataset for anyone wishing to experiment with text analytics, and splitting up the messages into HTML files is a better approximation of how similar news items might appear "in the wild" than the original text. Secondly, we wish to encourage discussion and experimentation about knowledge representation of facts extracted from text. In particular, the use of HTML here opens up the possibility of capturing the results of information extraction as semantic mark-up in the original HTML.
 
-See [the project Wiki] (https://github.com/dstl/muc3/wiki) for more.
+See [the project Wiki](https://github.com/dstl/muc3/wiki) for more.
 
 ## HTML
 Each message is formatted as XHTML with Dublin Core metadata elements for the "identifier", "date" and "coverage" header fields. Some effort has been made to use blank lines in messages to split the body of each message into HTML paragraphs, but the text is otherwise unchanged.
