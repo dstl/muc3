@@ -1,0 +1,422 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfa="http://www.w3.org/ns/rdfa#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <skos:Concept rdf:about="http://dbpedia.org/resource/René_Emilio_Ponce">
+    <skos:prefLabel xml:lang="en">René Emilio Ponce</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/René_Emilio_Ponce"/>
+    <skos:altLabel xml:lang="en">Rene Emilio Ponce</skos:altLabel>
+    <skos:altLabel xml:lang="en">René Ponce</skos:altLabel>
+    <skos:altLabel xml:lang="en">Rene ponce</skos:altLabel>
+    <skos:description xml:lang="en">René Emilio Ponce (1947 – May 2, 2011) was a senior military officer in the Salvadoran Army during the nation's civil war, and minister of defense from 1990 to 1993. As head of the army’s joint chiefs of staff he was linked to the killing of six Jesuit priests in 1989, known as the murdered scholars of UCA. Ponce died on May 2, 2011 at a military hospital in San Salvador.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Carlos_Andrés_Pérez">
+    <skos:prefLabel xml:lang="en">Carlos Andrés Pérez</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carlos_Andrés_Pérez"/>
+    <skos:altLabel xml:lang="en">Andrés pérez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Andres Pérez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Andres Perez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Andrés Pérez Rodríguez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Andres Perez Rodriguez</skos:altLabel>
+    <skos:description xml:lang="en">(This name uses Spanish naming customs: the first or paternal family name is Pérez and the second or maternal family name is Rodríguez.) Carlos Andrés Pérez Rodríguez (27 October 1922 – 25 December 2010), also known as CAP and often referred to as El Gocho (due to his Andean origins), was a Venezuelan politician, President of Venezuela from 1974 to 1979 and again from 1989 to 1993. His first presidency was known as the Saudi Venezuela due to its economic and social prosperity thanks to enormous income from petroleum exportation. However, his second period saw a continuation of the economic crisis of the 1980s, and saw a series of social crises, a popular revolt (denominated Caracazo) and two coup attempts in 1992. In May 1993 he became the first Venezuelan president to be forced out of the office by the Supreme Court, for the embezzlement of 250 million bolívars belonging to a presidential discretionary fund.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Julio_César_Turbay_Ayala">
+    <skos:prefLabel xml:lang="en">Julio César Turbay Ayala</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Julio_César_Turbay_Ayala"/>
+    <skos:description xml:lang="en">Julio César Turbay Ayala (18 June 1916 – 13 September 2005) was the 25th President of Colombia from 1978 to 1982.</skos:description>
+    <skos:altLabel xml:lang="en">Julio Turbay Ayala</skos:altLabel>
+    <skos:altLabel xml:lang="en">Julio Cesar Turbay</skos:altLabel>
+    <skos:altLabel xml:lang="en">Julio César Turbay</skos:altLabel>
+    <skos:altLabel xml:lang="en">Julio Cesar Turbay Ayala</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/José_Gonzalo_Rodríguez_Gacha">
+    <skos:altLabel xml:lang="en">José Gonzalo Rodriguez Gacha</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gonzalo Rodríguez Gacha</skos:altLabel>
+    <skos:altLabel xml:lang="en">Jose Gonzalo Rodreguez Gacha</skos:altLabel>
+    <skos:altLabel xml:lang="en">Jose Gonzalo Rodriguez Gacha</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gonzalo Rodriguez Gacha</skos:altLabel>
+    <skos:description xml:lang="en">José Gonzalo Rodríguez Gacha (May 14, 1947 – December 15, 1989), also known by the nickname El Mexicano, was a Colombian drug lord who was one of the leaders of the notorious Medellín Cartel along with the Ochoa Brothers and Pablo Escobar. At the height of his criminal career Rodríguez was acknowledged as one of the world's most successful drug dealers. In 1988, Forbes magazine included him in their annual list of the world's billionaires.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/José_Gonzalo_Rodríguez_Gacha"/>
+    <skos:prefLabel xml:lang="en">José Gonzalo Rodríguez Gacha</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Kim_Il-sung">
+    <skos:altLabel xml:lang="en">Kim Song Ju</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Il sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Il-song</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gim Il-seong</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Irsen</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Il-Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Sung Chu</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Il-Song</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Sŏng-ju</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Song-ju</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim il Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gim Ilseong</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim il-sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">김일성</skos:altLabel>
+    <skos:altLabel xml:lang="en">金日成</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim ii song</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kim_Il-sung"/>
+    <skos:altLabel xml:lang="en">Il Song Kim</skos:altLabel>
+    <skos:description xml:lang="en">Kim Il-sung (Chosŏn'gŭl: 김일성; English pronunciation: /ˈkɪm ˈɪlˈsʊŋ, ˈsʌŋ/; Korean pronunciation: [kim ils͈ʌŋ]; born Kim Sŏng-ju (김성주); 15 April 1912 – 8 July 1994) was the supreme leader of the Democratic People's Republic of Korea (DPRK), commonly referred to as North Korea, for 46 years, from its establishment in 1948 until his death in 1994. He held the posts of Prime Minister from 1948 to 1972 and President from 1972 to 1994. He was also the leader of the Workers' Party of Korea from 1949 to 1994 (titled as chairman from 1949 to 1966 and as general secretary after 1966). Coming to power after the overthrow of Japanese rule in 1945, he authorized the invasion of South Korea in 1950, triggering a defense of South Korea by the United Nations led by the United States. A cease-fire in the Korean War was signed on 27 July 1953. Under his leadership, North Korea became a socialist state and had close political and economic relations with the Soviet Union, which gave the country many similarities in those respects. By the 1960s and 1970s, North Korea enjoyed a relatively high standard of living, outperforming the South, which was riddled with political instability and economic crises. Differences between North Korea and the Soviet Union made the country non-aligned in world politics, central among these differences being Kim Il-sung's philosophy of Juche, which focused on Korean patriotism and self-reliance. Juche eventually replaced Marxism-Leninism and communism altogether. A cult of personality around Kim Il-sung came to dominate domestic politics and loyalty to the supreme leader was a de facto condition for public office. At the 6th Workers' Party Congress in 1980, his son Kim Jong-il, who had consolidated control over the party through the cult of personality, was selected as his heir to supreme leadership. In 1991, following the dissolution of the Soviet Union, North Korea's economy collapsed, leading to widespread poverty and famine. After transitioning his military authority to Kim Jong-il in 1993, Kim Il-sung died in the summer of 1994. His legacy is complicated by genuine admiration from older generations and the successive regime's attempts to exploit it for legitimacy. The North Korean government refers to Kim Il-sung as "The Great Leader" (위대한 수령, widaehan suryŏng) and he is designated in the North Korean constitution as the country's "Eternal President". His birthday is a public holiday in North Korea and is called the "Day of the Sun".</skos:description>
+    <skos:altLabel xml:lang="en">Kim II-sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Il Sung Kim</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Ilsung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim II-Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim iI-sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Ir Sen</skos:altLabel>
+    <skos:altLabel xml:lang="en">Il-sung Kim</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Kim Il-sung</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Kim Il Song</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim il-Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim iI-Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim il sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Il Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim II Sung</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Il-sŏng</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kim Ir-sen</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/César_Gaviria">
+    <skos:altLabel xml:lang="en">Cesar Gaviria Trujillo</skos:altLabel>
+    <skos:altLabel xml:lang="en">César Augusto Gaviria Trujillo</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/César_Gaviria"/>
+    <skos:altLabel xml:lang="en">César Gaviria Trujillo</skos:altLabel>
+    <skos:description xml:lang="en">(This name uses Spanish naming customs: the first or paternal family name is Gaviria and the second or maternal family name is Trujillo.) César Augusto Gaviria Trujillo (Spanish pronunciation: [ˈsesaɾ auˈɣusto ɣaˈβiɾja tɾuˈxiʝo]; born 31 March 1947) is an economist and Colombian politician. He was president of Colombia from 1990 to 1994, Secretary General of the Organization of American States from 1994 to 2004 and National Director of the Colombian Liberal Party from 2005 to 2009. During his tenure as president, he summoned the Constituent Assembly of Colombia that enacted the Constitution of 1991.</skos:description>
+    <skos:altLabel xml:lang="en">Cesar Gaviria</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gaviria, Cesar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Cesar Augusto Gaviria Trujillo</skos:altLabel>
+    <skos:prefLabel xml:lang="en">César Gaviria</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Carlos_Menem">
+    <skos:prefLabel xml:lang="en">Carlos Menem</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carlos_Menem"/>
+    <skos:altLabel xml:lang="en">Saul Menem</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Saúl Menem</skos:altLabel>
+    <skos:altLabel xml:lang="en">Menem</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Saul Menem</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pizza con champagne</skos:altLabel>
+    <skos:description xml:lang="en">("Menem" redirects here. For the surname, see Menem (surname).) Carlos Saúl Menem (born July 2, 1930) is an Argentine politician who was President of Argentina from 1989 to 1999. He has been a Senator for La Rioja Province since 2005. Born in Anillaco, he became a Peronist during a visit to Buenos Aires. He led the party in his home province of La Rioja, and was elected governor in 1973. He was deposed and detained during the 1976 Argentine coup d'état, and was elected governor again in 1983. He defeated the Buenos Aires governor Antonio Cafiero in the primary elections for the 1989 presidential elections, which he won. Hyperinflation forced outgoing president Raúl Alfonsín to resign early, shortening the presidential transition. Menem supported the Washington Consensus, and tackled inflation with the Convertibility plan in 1991. The plan was complemented by a series of privatizations, and was a success. Argentina re-established diplomatic relations with the United Kingdom, suspended since the 1982 Falklands War, and developed special relations with the United States. The country suffered two terrorist attacks. The Peronist victory in the 1993 midterm elections allowed him to force Alfonsín to sign the Pact of Olivos for the 1994 amendment of the Argentine Constitution. This amendment allowed Menem to run for re-election in 1995, which he won. A new economic crisis began, and the opposing parties formed a political coalition that won the 1997 midterm elections and the 1999 presidential election. Menem ran for the presidency again in 2003, but unsure of winning against Néstor Kirchner, he resigned. He was elected senator for La Rioja in 2005.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Waldemar_Franklin_Quintero">
+    <skos:prefLabel xml:lang="en">Waldemar Franklin Quintero</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Waldemar_Franklin_Quintero"/>
+    <skos:description xml:lang="en">Colonel Valdemar Franklin Quintero (January 26, 1941 – August 18, 1989) was the commander of the Colombian National Police in Antioquia Province. Franklin had led several major raids which resulted in the seizure of multiple tons of cocaine. He was murdered by the Medellín cartel in Medellín because of these drug seizures and his refusal to talk with the cartel. He successfully thwarted an attempt to kill Luis Carlos Galán, a Colombian journalist and presidential candidate, when an RPG was launched at Galán. The cartel formally took responsibility for the slaying of the police commander by calling a series of local radio stations. The caller, who identified himself as a person from the "The Extraditables", said "We, the Extraditables, claim responsibility for the murder of Col. Valdemar Franklin in response to the repression committed and the government's refusal to have a dialogue with us". Pablo Escobar, a major Colombian drug lord, had allegedly ordered the murder of Franklin on the day of the death of Luis Carlos Galán. On 18 August 1989 (the same day in which the Colombian politician Luis Carlos Galán was murdered), at the age of 46, Franklin left his residence in a chauffeur-driven car. When the vehicle was 450 feet from the compound, its route was blocked by another car and several gunmen emerged, according to officials. Various witnesses said that Franklin's car was destroyed by gunfire and the interior was covered in blood. One eye-witness stated to a local radio station, "They fired without mercy for several minutes at the colonel, who was hit more than a hundred times". That witness also said that the chauffeur was injured in the ambush. He is portrayed by the actor Mauricio Figueroa as the character Osvaldo Quintana in the colombian TV Series Escobar, el patrón del mal.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Alan_García">
+    <skos:prefLabel xml:lang="en">Alan García</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alan_García"/>
+    <skos:description xml:lang="en">Alan Gabriel Ludwig García Pérez (Spanish pronunciation: [ˈalaŋ ɡaβˈɾjel luðˈwiɣ ɡarˈsi.a ]; born 23 May 1949) is a Peruvian politician who was President of Peru from 1985 to 1990 and again from 2006 to 2011. He is the leader of the Peruvian Aprista Party and the only party member ever to have served as President. His first term was marked by a severe economic crisis, social unrest and violence. He ran unsuccessfully for the Presidency in 2001, losing in a run-off to Alejandro Toledo. He ran again in 2006 and was elected to a second term, even though his first term in the 1980s was considered by many to have been disastrous. During García's second term, Peru averaged seven percent GDP growth a year, held inflation below three percent annually and collated Peru's foreign exchange reserves at US$47 billion; however, his tenure also resulted in increased environmental damage, according to critics, and increased social conflict, according to the national human rights ombudsman's office. He is known as an immensely talented and charismatic orator.</skos:description>
+    <skos:altLabel xml:lang="en">García Perez, Alan</skos:altLabel>
+    <skos:altLabel xml:lang="en">Alan Garcia Perez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Alan Garcia</skos:altLabel>
+    <skos:altLabel xml:lang="en">Alan García Pérez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Garcia Perez, Alan</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Mónica_de_Greiff">
+    <skos:prefLabel xml:lang="en">Mónica de Greiff</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mónica_de_Greiff"/>
+    <skos:description xml:lang="en">Mónica de Greiff Lindo (born 1956) is a Colombian lawyer.</skos:description>
+    <skos:altLabel xml:lang="en">Mónica de Greiff Lindo</skos:altLabel>
+    <skos:altLabel xml:lang="en">Monica de Greiff</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Fabio_Ochoa_Vásquez">
+    <skos:altLabel xml:lang="en">Fabio Ochoa Vazquez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Fabio Ochoa Vasquez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Fabio Ochoa Vázquez</skos:altLabel>
+    <skos:description xml:lang="en">Fabio Ochoa Vásquez (born May 2, 1957) was a leading member of the Medellín cocaine trafficking cartel, along with his older brothers Juan David and Jorge Luis. His role briefly made him a billionaire. After serving a brief prison term in Colombia, he was arrested and extradited to the US in 1999 and is serving a 30 year term in US federal prison.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fabio_Ochoa_Vásquez"/>
+    <skos:prefLabel xml:lang="en">Fabio Ochoa Vásquez</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Carlos_Pizarro_Leongómez">
+    <skos:prefLabel xml:lang="en">Carlos Pizarro Leongómez</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carlos_Pizarro_Leongómez"/>
+    <skos:description xml:lang="en">Carlos Pizarro Leongómez (6 June 1951 – 26 April 1990) was the fourth commander of the Colombian guerrilla group 19th of April Movement (Movimiento 19 de Abril) (M-19). Pizarro later ran for president of Colombia after the demobilization of M-19 that transformed the group into the political party, M-19 Democratic Alliance (Alianza Democrática M-19) (AD/M-19). Pizarro was assassinated on 26 April 1990.</skos:description>
+    <skos:altLabel xml:lang="en">Carlos Pizarro</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Pizarro Leongomez</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/José_Napoleón_Duarte">
+    <skos:prefLabel xml:lang="en">José Napoleón Duarte</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/José_Napoleón_Duarte"/>
+    <skos:description xml:lang="en">José Napoleón Duarte Fuentes (November 23, 1925 – February 23, 1990). more commonly known as José Napoleón Duarte. was a Salvadoran political figure who served as President of El Salvador from 1984 to 1989. He was mayor of San Salvador before running for president in 1972. He lost, but the election is widely viewed as fraudulent. Following a counter-coup in 1979, Duarte led the subsequent civil-military Junta from 1980 to 1982. He was then elected president in 1984, defeating ARENA party leader Roberto D'Aubuisson. Supported by the Reagan Administration and the Central Intelligence Agency, his time in office occurred during the worst years of the Salvadoran Civil War which saw numerous abuses and massacres of the civilian population by the Salvadoran security forces and the Death Squads linked to them.</skos:description>
+    <skos:altLabel xml:lang="en">Jose Napoleón Duarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">José Napoleon Duarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">José Napoleón Duarte Fuentes</skos:altLabel>
+    <skos:altLabel xml:lang="en">Jose Napoleon Duarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">Jose Napoleon Duarte Fuentes</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Roberto_D&apos;Aubuisson">
+    <skos:prefLabel xml:lang="en">Roberto D'Aubuisson</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roberto_D&apos;Aubuisson"/>
+    <skos:description xml:lang="en">Roberto D'Aubuisson Arrieta (August 23, 1943 – February 20, 1992) was a Salvadoran solider, extreme right-wing politician and death-squad leader. In 1981, he co-founded and became the first leader of the Nationalist Republican Alliance (ARENA) and served as President of El Salvador's Constituent Assembly from 1982 to 1983. He was a candidate for President in 1984, losing in the second round to José Napoleón Duarte. After ARENA's loss in the 1985 legislative elections, he stepped down in favor of Alfredo Cristiani and was awarded the honorary post of party president for life. He was named by the UN-created Truth Commission for El Salvador as having ordered the assassination of Archbishop Romero.</skos:description>
+    <skos:altLabel xml:lang="en">Roberto D’Aubuisson</skos:altLabel>
+    <skos:altLabel xml:lang="en">Roberto d'Aubuisson</skos:altLabel>
+    <skos:altLabel xml:lang="en">Roberto D'Aubuisson Arrieta</skos:altLabel>
+    <skos:altLabel xml:lang="en">D'Aubuisson</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Rubén_Zamora">
+    <skos:altLabel xml:lang="en">Rubén Zamora Rivas</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ruben Zamora</skos:altLabel>
+    <skos:description xml:lang="en">Rubén Ignacio Zamora Rivas is a social democratic politician in El Salvador.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rubén_Zamora"/>
+    <skos:prefLabel xml:lang="en">Rubén Zamora</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Jorge_Luis_Ochoa_Vásquez">
+    <skos:altLabel xml:lang="en">Jorge Luis Ochoa Vazquez</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jorge_Luis_Ochoa_Vásquez"/>
+    <skos:altLabel xml:lang="en">Jorge Luis Ochoa</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Jorge Luis Ochoa Vásquez</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Jorge Luis Ochoa Vasquez</skos:altLabel>
+    <skos:description xml:lang="en">Jorge Luis Ochoa Vásquez (born September 30, 1950) is a former Colombian drug trafficker who was one of the key members that founded the notorious Medellín Cartel in the late 1970s. The cartel's key members were Pablo Escobar, Carlos Lehder, José Gonzalo Rodríguez Gacha, Jorge Ochoa and his brothers Juan David and Fabio.</skos:description>
+    <skos:altLabel xml:lang="en">Jorge Luis Ochoa Vázquez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Jorge Ochoa Vasquez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ochoa brothers</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Guillermo_Cano_Isaza">
+    <skos:prefLabel xml:lang="en">Guillermo Cano Isaza</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Guillermo_Cano_Isaza"/>
+    <skos:altLabel xml:lang="en">Guillermo Cano</skos:altLabel>
+    <skos:description xml:lang="en">Guillermo Cano Isaza (12 August 1925 – 17 December 1986) was a Colombian journalist.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Óscar_Romero">
+    <skos:description xml:lang="en">Óscar Arnulfo Romero y Galdámez (15 August 1917 – 24 March 1980) was a prelate of the Catholic Church in El Salvador, who served as the fourth Archbishop of San Salvador. He spoke out against poverty, social injustice, assassinations and torture. In 1980, Romero was assassinated while offering Mass in the chapel of the Hospital of Divine Providence. Pope Francis stated during Romero's beatification that "His ministry was distinguished by a particular attention to the most poor and marginalized." Hailed as a hero by supporters of liberation theology inspired by his work, Romero, according to his biographer, "was not interested in liberation theology", but faithfully adhered to Catholic teachings on liberation, desiring a social revolution based on supernatural interior reform. His spiritual life drew much from the spirituality of Opus Dei. In 2010, the United Nations General Assembly proclaimed 24 March as the "International Day for the Right to the Truth Concerning Gross Human Rights Violations and for the Dignity of Victims" in recognition of the role of Archbishop Romero in defence of human rights. Romero actively denounced violations of the human rights of the most vulnerable people and defended the principles of protecting lives, promoting human dignity and opposition to all forms of violence. In 1997, Pope John Paul II bestowed upon Romero the title of Servant of God, and a cause for beatification and canonization was opened for him. The cause stalled, but was reopened by Pope Benedict XVI in 2012. He was declared a martyr by Pope Francis on 3 February 2015, paving the way for his beatification, which took place on 23 May 2015. Latin American church groups often proclaim Romero an unofficial patron saint of the Americas and/or El Salvador; Catholics in El Salvador often refer to him as "San Romero". Even outside of Catholicism, Romero is honored by other Christian denominations, including Church of England and Anglican Communion through the Calendar in Common Worship, as well as in at least one Lutheran liturgical calendar. Archbishop Romero is also one of the ten 20th-century martyrs depicted in statues above the Great West Door of Westminster Abbey in London. In 2008, Europe-based magazine A Different View included Romero among its 15 Champions of World Democracy.</skos:description>
+    <skos:altLabel xml:lang="en">Óscar Arnulfo Romero y Galdámez</skos:altLabel>
+    <skos:altLabel xml:lang="en">Óscar Arnulfo Romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Oscar Arnulfo Romero y Galdamez</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Óscar_Romero"/>
+    <skos:altLabel xml:lang="en">Cult of romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Archbishop Óscar Romero</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Óscar Romero</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Archbishop Romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Monsenor Romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Monseñor Romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Oscar Romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Oscar Arnulfo Romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Bishop romero</skos:altLabel>
+    <skos:altLabel xml:lang="en">Archbishop Oscar Romero</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Manuel_Noriega">
+    <skos:description xml:lang="en">Manuel Antonio Noriega Moreno (Spanish pronunciation: [maˈnwel noˈɾjeɣa]; born February 11, 1934) is a former Panamanian politician and military officer. He was military dictator of Panama from 1983 to 1989, when he was removed from power by the United States during the invasion of Panama. From the 1950s until shortly before the U.S. invasion, Noriega worked closely with the U.S. Central Intelligence Agency. Noriega was one of the CIA's most valued intelligence sources, as well as one of the primary conduits for illicit weapons, military equipment and cash destined for US-backed counter-insurgency forces throughout Central and South America. Noriega was also a major cocaine trafficker, something which his U.S. intelligence handlers were aware of for years, but allowed because of his usefulness for their covert military operations in Latin America. In 1988, Noriega was indicted by the United States on drug trafficking charges in Miami, Florida. During the 1989 U.S. invasion of Panama, he was removed from power, captured, detained as a prisoner of war, and flown to the United States. Noriega was tried on eight counts of drug trafficking, racketeering, and money laundering in April 1992. On September 16, 1992, he was sentenced to 40 years in prison (which was later reduced to 30 years). Noriega's U.S. prison sentence ended in September 2007; pending the outcome of extradition requests by both Panama and France, for convictions in absentia for murder in 1995 and money laundering in 1999. France was granted its extradition request in April 2010. He arrived in Paris on April 27, 2010, and after the re-trial that is a rule in France after any in absentia sentence, he was found guilty and sentenced to seven years in jail in July 2010. A conditional release was granted on September 23, 2011, for Noriega to be extradited to serve 20 years in Panama. He returned to Panama on December 11, 2011.</skos:description>
+    <skos:altLabel xml:lang="en">Manuel Antonio Noriega</skos:altLabel>
+    <skos:altLabel xml:lang="en">General Noriega</skos:altLabel>
+    <skos:altLabel xml:lang="en">Noriega Moreno, Manuel Antonio</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manuel Noriega Morena</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manuel Noriega Moreno</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manuel Antonio Noriega Morena</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manuel Noreiga</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manny Noriega</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manuel Noregia</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Manuel_Noriega"/>
+    <skos:altLabel xml:lang="en">Manuel Antonio Noriega Moreno</skos:altLabel>
+    <skos:altLabel xml:lang="en">Manuel noriega</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Manuel Noriega</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Ignacio_Ellacuría">
+    <skos:altLabel xml:lang="en">Ellacuria</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ellacuría</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ignacio Ellacuria</skos:altLabel>
+    <skos:description xml:lang="en">Ignacio Ellacuría, S.J. (Portugalete, Biscay, Spain, November 9, 1930 – San Salvador, November 16, 1989) was a Jesuit priest, philosopher, and theologian who did important work as a professor and rector at the Universidad Centroamericana "José Simeón Cañas" (UCA), a Jesuit university in El Salvador founded in 1965. Ignacio Ellacuría was a close friend and colleague of the scholars Ignacio Martín-Baró and Segundo Montes, all of whom were assassinated with Ellacuría by the Salvadoran army, along with three colleagues and two employees (see The murdered scholars of UCA). His work was defining for the shape UCA took in its first years of existence and the years to come. Ellacuría was also responsible for the development of formation programs for priests in the Jesuit Central American province. Ellacuría's academic work was an important contribution to "Liberation Philosophy". This school of philosophy stems from the work of Augusto Salazar Bondy (1925–1974) and Leopoldo Zea (1912–2004). It focuses on liberating the oppressed in order "to reach the fullness of humanity". Ellacuría was also a strong supporter and contributor to Liberation Theology. The political implications of Ellacuría's commitment to his ideas met strong opposition from the conservative religious and political forces in El Salvador. This opposition led to Ellacuría's murder by the Salvadoran army in 1989 at his residence in UCA along with five other fellow Jesuit priests and two employees. Their murder marked a turning point in the Salvadoran civil war (see History of El Salvador). On the one hand, it increased international pressures on the Salvadoran government to sign peace agreements with the guerrilla organisation FMLN. On the other, it helped make Ellacuría's ideas (until then known only in Latin America and Spain) become known worldwide. According to Cerutti (2006) there are different types of Latin American liberation philosophy. Ellacuría's thought represents one of the currents within this philosophical tradition. Ellacuría joined the Jesuits in 1947 and was commissioned to the Central American republic of El Salvador in 1948. He lived and worked there for much of his life until his bloody assassination in 1989. In 1958, Ellacuría studied theology with Vatican II theologian, Karl Rahner, S.J.in Innsbruck, Austria. He also lived in Ecuador and Spain.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ignacio_Ellacuría"/>
+    <skos:prefLabel xml:lang="en">Ignacio Ellacuría</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Patricio_Aylwin">
+    <skos:altLabel xml:lang="en">Aylwin</skos:altLabel>
+    <skos:altLabel xml:lang="en">Aylwin Azocar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Patricio Aylwin Azócar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Patricio Ailwyn</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Patricio Aylwin</skos:prefLabel>
+    <skos:description xml:lang="en">Patricio Aylwin Azócar (Spanish pronunciation: [paˈtɾisjo ˈelwin aˈsokar] ; November 26, 1918 – April 19, 2016) was a Chilean Christian Democrat politician, lawyer, author, professor and former senator. He was the first president of Chile after Pinochet, and his election marked the Chilean transition to democracy in 1990. Despite resistance from elements of the Chilean military and government after his election, Patricio Aylwin was staunch in his support for the Chilean Truth and Reconciliation Commission which exposed the Chilean government’s brutalities.</skos:description>
+    <skos:altLabel xml:lang="en">Aylwin government</skos:altLabel>
+    <skos:altLabel xml:lang="en">Patricio Aylwin Azocar</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Patricio_Aylwin"/>
+    <skos:altLabel xml:lang="en">Aylwin administration</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Arturo_Rivera_y_Damas">
+    <skos:prefLabel xml:lang="en">Arturo Rivera y Damas</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arturo_Rivera_y_Damas"/>
+    <skos:description xml:lang="en">Arturo Rivera y Damas (September 30, 1923 – November 26, 1994) was the ninth Bishop and fifth Archbishop of San Salvador, El Salvador. Msgr. Rivera's term as archbishop (1983–1994) coincided with the Salvadoran Civil War. He was the immediate successor of Archbishop Óscar Romero. During Romero's archbishopric (1977–1980), Rivera was Romero's key ally. He had been the auxiliary of Romero's long-reigning predecessor, Luis Chávez y González (1938–1977).</skos:description>
+    <skos:altLabel xml:lang="en">Arturo Rivera Damas</skos:altLabel>
+    <skos:altLabel xml:lang="en">Arturo rivera y damas</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Segundo_Montes">
+    <skos:description xml:lang="en">Segundo Montes, S.J. (Valladolid, Spain, May 15, 1933 – San Salvador, El Salvador, November 16, 1989) was a scholar, philosopher, educator, sociologist and Jesuit priest. Segundo Montes was a close friend and colleague of the scholars Ignacio Martín-Baró and Ignacio Ellacuría, all of whom were murdered with Montes by the Salvadoran army, along with three other colleagues and two other employees (see The murdered scholars of UCA).</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Segundo_Montes"/>
+    <skos:prefLabel xml:lang="en">Segundo Montes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Javier_Pérez_de_Cuéllar">
+    <skos:altLabel xml:lang="en">Perez De Cuellar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Javier Pérez de Cuéllar de la Guerra</skos:altLabel>
+    <skos:altLabel xml:lang="en">Javier Perez de Cuellar de la Guerra</skos:altLabel>
+    <skos:altLabel xml:lang="en">Javier perez de cuellar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Javier Perez de Cuellar</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Javier_Pérez_de_Cuéllar"/>
+    <skos:altLabel xml:lang="en">Javiar Perez de Cuellar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Javier Perez De Cuellar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Xavier Pérez de Cuéllar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Perez de Cuellar</skos:altLabel>
+    <skos:description xml:lang="en">(This name uses Spanish naming customs: the first or paternal family name is Pérez de Cuéllar  and the second or maternal family name is  de la Guerra.) Javier Felipe Ricardo Pérez de Cuéllar y de la Guerra KCMG ([xaˈβjeɾ ˈperez ðe ˈkweʝaɾ]; born January 19, 1920) is a Peruvian diplomat who served as the fifth Secretary-General of the United Nations from January 1, 1982 to December 31, 1991. In 1995, he ran unsuccessfully against Alberto Fujimori for President of Peru. He was President of the Council of Ministers, as well as Minister of Foreign Affairs from November 2000 until July 2001, during the turbulent period following Fujimori's resignation over corruption charges. In September 2004, he stepped down from his position as Peru's Ambassador to France, where he formerly resided. With the death of Kurt Waldheim in June 2007, he became the oldest former Secretary General of the United Nations. He is also a member of the Club de Madrid, a group of more than 100 former Presidents and Prime Ministers of democratic countries, which works to strengthen democracy worldwide.</skos:description>
+    <skos:altLabel xml:lang="en">Javier Pérez de Cuellar</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Javier Pérez de Cuéllar</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Pérez de Cuéllar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Xavier Perez de Cuellar</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Juan_David_Ochoa_Vásquez">
+    <skos:altLabel xml:lang="en">Juan Vasquez (drug lord)</skos:altLabel>
+    <skos:altLabel xml:lang="en">Juan David Ochoa</skos:altLabel>
+    <skos:altLabel xml:lang="en">Juan David Ochoa Vasquez</skos:altLabel>
+    <skos:description xml:lang="en">Juan David Ochoa Vásquez (c. 1949 – 25 July 2013) was a Colombian drug trafficker and one of the founders of the Medellín Cartel, a major drug trafficking cartel based in the city of Medellín. Juan David was the elder brother of Jorge Luis and Fabio Ochoa Vásquez, powerful figures inside the Medellín Cartel. In 1991, Juan David Ochoa Vásquez, together with his brother Jorge Luis, turned themselves in to the Colombian government in order to receive the benefits of collaborating with the judicial system. Juan David Ochoa negotiated a surrender and was imprisoned in a medium security prison outside Medellín. In January 1996, as the result of a sentence plea bargain with the state, Juan David Ochoa Vásquez was released from prison after serving five years.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Juan_David_Ochoa_Vásquez"/>
+    <skos:prefLabel xml:lang="en">Juan David Ochoa Vásquez</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Julio_María_Sanguinetti">
+    <skos:prefLabel xml:lang="en">Julio María Sanguinetti</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Julio_María_Sanguinetti"/>
+    <skos:altLabel xml:lang="en">Julio Sanguinetti</skos:altLabel>
+    <skos:altLabel xml:lang="en">Julio María Sanguinetti Coirolo</skos:altLabel>
+    <skos:altLabel xml:lang="en">Julio Maria Sanguinetti Coirolo</skos:altLabel>
+    <skos:altLabel xml:lang="en">Julio Maria Sanguinetti</skos:altLabel>
+    <skos:description xml:lang="en">Julio María Sanguinetti Coirolo (born 6 January 1936 in Montevideo, Uruguay) is a Uruguayan politician, lawyer and journalist, who served as President of Uruguay (from March 1985 until March 1990, and, again, from March 1995 until March 2000) for the Partido Colorado. A lawyer and journalist by profession, he was born into a middle-class family of Italian origin from Genoa. He studied Law and Social Sciences at the University of Montevideo. He received his law degree in 1961, and later combined his legal practice with work as a journalist. He had already been writing for the press, first in the weekly Canelones and later, since 1955, as a columnist for Acción, a newspaper established by the then-President, Luis Batlle, for which he covered events such as the Cuban Revolution (1959) and carried on until the 1970s. Both media outlets were connected to the Colorado Political Party (Partido Colorado - PC), the historical liberal grouping where progressive and conservative sensitivities shared ground (a mixture of doctrines and styles that was frequently an obstacle to classifying it according to ideology) and which had as its rival the experienced National Party (PN) or Blancos ("Whites"), creating a 2-party system that dominated Uruguayan politics during its history, although on most occasions the governing force was the PC.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Jaime_Paz_Zamora">
+    <skos:prefLabel xml:lang="en">Jaime Paz Zamora</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jaime_Paz_Zamora"/>
+    <skos:description xml:lang="en">Jaime Paz Zamora (born April 15, 1939) was President of Bolivia from August 6, 1989 to August 6, 1993. He also served as Vice-President between 1982 and 1984.</skos:description>
+    <skos:altLabel xml:lang="en">Jaime Paz</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Carlos_Salinas_de_Gortari">
+    <skos:altLabel xml:lang="en">Carlos Salinas de Gotari</skos:altLabel>
+    <skos:altLabel xml:lang="en">Salinas de Gortari, Carlos</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos Salinas</skos:altLabel>
+    <skos:altLabel xml:lang="en">Carlos salinas de gortari</skos:altLabel>
+    <skos:description xml:lang="en">(This name uses Spanish naming customs: the first or paternal family name is Salinas and the second or maternal family name is de Gortari.) Carlos Salinas de Gortari (Spanish pronunciation: [ˈkarlos saˈlinaz ðe ɣorˈtaɾi]) (born 3 April 1948) is a Mexican economist and politician affiliated with the Institutional Revolutionary Party (PRI) who served as President of Mexico from 1988 to 1994. Earlier in his career he worked in the Budget Secretariat eventually becoming Secretary. He was the PRI presidential candidate in 1988, and was declared elected on 6 July 1988.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carlos_Salinas_de_Gortari"/>
+    <skos:prefLabel xml:lang="en">Carlos Salinas de Gortari</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Luis_Carlos_Galán">
+    <skos:prefLabel xml:lang="en">Luis Carlos Galán</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Luis_Carlos_Galán"/>
+    <skos:description xml:lang="en">(This name uses Spanish naming customs: the first or paternal family name is Galán and the second or maternal family name is Sarmiento.) Luis Carlos Galán Sarmiento (29 September 1943 – 18 August 1989) was a Colombian journalist and liberal politician who ran for the presidency of Colombia on two occasions, the first for the Liberal Party in 1982, which he lost to Belisario Betancur. His poor results encouraged him to focus his aspirations on the political movement New Liberalism he had founded in 1979. The movement was initially the offspring of the mainstream Colombian Liberal Party but, with the mediation of former president Julio César Turbay, Galán returned to the party in 1987 and sought the nomination for the presidential election. Galán declared himself an enemy of the dangerous and influential Colombian drug cartels, mainly the Medellín Cartel led by Pablo Escobar (who had been part of his New Liberalism Movement) and Gonzalo Rodríguez aka "El Mexicano," that were corrupting Colombian society at all levels. Galán supported an extradition treaty with the U.S. After receiving several death threats, on August 18, 1989, Galán was shot to death by hitmen hired by the drug cartels during a public demonstration in the town of Soacha, Cundinamarca. At the time, he was comfortably leading in the polls for the forthcoming 1990 presidential election. The investigation into his assassination remains partially unsolved.</skos:description>
+    <skos:altLabel xml:lang="en">Luis Carlos Galan</skos:altLabel>
+    <skos:altLabel xml:lang="en">Luis Carlos Galán Sarmiento</skos:altLabel>
+    <skos:altLabel xml:lang="en">Luis Carlos Galan Sarmiento</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Virgilio_Barco_Vargas">
+    <skos:prefLabel xml:lang="en">Virgilio Barco Vargas</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Virgilio_Barco_Vargas"/>
+    <skos:description xml:lang="en">Virgilio Barco Vargas (17 September 1921 – 20 May 1997) was the 27th President of Colombia serving from 1986 to 1990.</skos:description>
+    <skos:altLabel xml:lang="en">Virgilio Barco</skos:altLabel>
+    <skos:altLabel xml:lang="en">Virgilo Barco Vargas</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Alfredo_Cristiani">
+    <skos:prefLabel xml:lang="en">Alfredo Cristiani</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alfredo_Cristiani"/>
+    <skos:description xml:lang="en">Alfredo Félix Cristiani Burkard, popularly known as Alfredo Cristiani (born 22 November 1947) was President of El Salvador from 1989 to 1994.</skos:description>
+    <skos:altLabel xml:lang="en">Alfredo Cristiani Burkard</skos:altLabel>
+    <skos:altLabel xml:lang="en">Alfredo Christiani</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Raúl_Alfonsín">
+    <skos:altLabel xml:lang="en">Raúl Ricardo Alfonsín</skos:altLabel>
+    <skos:altLabel xml:lang="en">Alfonsin</skos:altLabel>
+    <skos:altLabel xml:lang="en">Raul Ricardo Alfonsin Foulkes</skos:altLabel>
+    <skos:altLabel xml:lang="en">Raul Alfonsín</skos:altLabel>
+    <skos:altLabel xml:lang="en">Raul Ricardo Alfonsin</skos:altLabel>
+    <skos:altLabel xml:lang="en">Raul Alfonsin</skos:altLabel>
+    <skos:altLabel xml:lang="en">Alfonsín</skos:altLabel>
+    <skos:description xml:lang="en">Raúl Ricardo Alfonsín Foulkes (12 March 1927 – 31 March 2009) was an Argentine lawyer, politician and statesman who served as the President of Argentina from 10 December 1983 to 8 July 1989. Born in Chascomús, Buenos Aires Province, he began his studies of law at the National University of La Plata and was a graduate of the University of Buenos Aires. He was affiliated with the Radical Civic Union (UCR), joining the faction of Ricardo Balbín after the party split. He was elected a deputy in the legislature of the Buenos Aires province in 1958, during the presidency of Arturo Frondizi, and a national deputy during the presidency of Arturo Umberto Illia. He opposed both sides of the Dirty War, and several times filed a writ of Habeas corpus, requesting the freedom of victims of forced disappearances, during the National Reorganization Process. He denounced the crimes of the military dictatorship of other countries, and opposed the actions of both sides in the Falklands War as well. He became the leader of the UCR after Balbín's death, and was the Radical candidate for the presidency in the 1983 elections, which he won. When he became president, he sent a bill to the Congress to revoke the self-amnesty law established by the military. He established the National Commission on the Disappearance of Persons to investigate the crimes committed by the military, which led to the Trial of the Juntas and resulted in the sentencing of the heads of the former regime. Discontent within the military led to the mutinies of the Carapintadas, leading Alfonsín to appease them with the full stop law and the law of Due Obedience. He also had conflicts with the unions, which were controlled by the opposing Justicialist Party. He resolved the Beagle conflict, increased trade with Brazil, and proposed the creation of the Contadora support group to mediate between the United States and the Nicaraguan Contras. He passed the first divorce law of Argentina. He initiated the Austral plan to improve the national economy, but that plan, as well as the Spring plan, failed. The resulting hyperinflation and riots led to his party's defeat in the 1989 presidential elections, which was won by Peronist Carlos Menem. He continued as the leader of the UCR, and opposed the presidency of Carlos Menem. He initiated the Pact of Olivos with Menem in order to negotiate the terms for the 1994 amendment of the Argentine Constitution. Fernando de la Rúa led a faction of the UCR that opposed the pact, and eventually became president in 1999. De la Rúa resigned during the December 2001 riots, and Alfonsín's faction provided the support needed for the Peronist Eduardo Duhalde to be appointed president by the Congress. Alfonsín died of lung cancer on 31 March 2009, at the age of 82, and was given a large state funeral.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Raúl_Alfonsín"/>
+    <skos:altLabel xml:lang="en">Raúl Ricardo Alfonsín Foulkes</skos:altLabel>
+    <skos:altLabel xml:lang="en">Raúl Alfonsin</skos:altLabel>
+    <skos:altLabel xml:lang="en">La casa está en orden</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Raúl Alfonsín</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Daniel_Ortega">
+    <skos:altLabel xml:lang="en">Daniel ortega</skos:altLabel>
+    <skos:altLabel xml:lang="en">Daniel José Ortega Saavedra</skos:altLabel>
+    <skos:altLabel xml:lang="en">Daniel Jose Ortega Saavedra</skos:altLabel>
+    <skos:altLabel xml:lang="en">José Daniel Ortega Saavedra</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Daniel Ortega</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Daniel_Ortega"/>
+    <skos:altLabel xml:lang="en">Daniel Ortega Saavedra</skos:altLabel>
+    <skos:altLabel xml:lang="en">Jose Daniel Ortega Saavedra</skos:altLabel>
+    <skos:description xml:lang="en">José Daniel Ortega Saavedra (Spanish pronunciation: [daˈnjel oɾˈteɣa]; born November 11, 1945) is a Nicaraguan politician who has been President of Nicaragua since 2007; previously he was leader of Nicaragua from 1979 to 1990, first as Coordinator of the Junta of National Reconstruction (1979–1985) and then as President (1985–1990). A leader in the socialist Sandinista National Liberation Front (Frente Sandinista de Liberación Nacional, FSLN), his policies in government have seen the implementation of leftist reforms across Nicaragua. Born into a working-class family, from an early age Ortega opposed ruling President Anastasio Somoza Debayle, widely recognized as a dictator, and became involved in the underground movement against his regime. Joining the Sandinistas, he also travelled to Cuba to receive training in guerilla warfare from Fidel Castro's Marxist-Leninist government. After the Nicaraguan Revolution resulted in the overthrow and exile of Somoza's government, Ortega became leader of the ruling multipartisan Junta of National Reconstruction. A Marxist-Leninist, his first period in office was characterized by a controversial program of nationalization, land reform, wealth redistribution and literacy programs. Ortega's relationship with the United States was never very cordial, due to U.S. support for Somoza prior to the revolution. Although the U.S. supplied post-revolution Nicaragua with tens of millions of dollars in economic aid, relations broke down when the Sandinistas supplied weapons to leftist El Salvadoran rebels (something which Ortega later admitted occurred). His government was opposed by the Contras in a vicious civil war; the Contras were funded by the Reagan administration of the United States. A joint peace proposal by the Democratic Speaker of the House Jim Wright and Ronald Reagan helped precipitate a peace agreement at a meeting of five Central American chiefs of state in July 1987, which won Costa Rican President Oscar Arias the Nobel Peace Prize. This led to free elections in which Ortega was defeated by Violeta Chamorro in the 1990 presidential election, but he remained an important figure in Nicaraguan opposition politics, gradually moderating in his political position from Marxism–Leninism to democratic socialism. Ortega was an unsuccessful candidate for president in 1996 and 2001, before winning the 2006 presidential election. In office, he made alliances with fellow Latin American socialists, such as Venezuelan President Hugo Chávez, and under his leadership, Nicaragua joined the Bolivarian Alliance for the Americas.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Fabio_Ochoa_Restrepo">
+    <skos:altLabel xml:lang="en">Don Fabio Ochoa</skos:altLabel>
+    <skos:altLabel xml:lang="en">Fabio Restrepo</skos:altLabel>
+    <skos:description xml:lang="en">Fabio Ochoa Restrepo ("Don Fabio" 1923–2002) was a Paso Fino enthusiast, rancher, businessman, and patriarch of a notorious Colombian crime family associated with the Medellín drug cartel of Pablo Escobar. Insiders have called him the true godfather of the Medellín Cartel.</skos:description>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fabio_Ochoa_Restrepo"/>
+    <skos:prefLabel xml:lang="en">Fabio Ochoa Restrepo</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Pablo_Escobar">
+    <skos:altLabel xml:lang="en">Pablo Escobar/Archive1</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pablo escobar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pablo Escebar</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pablo Escabar</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pablo_Escobar"/>
+    <skos:altLabel xml:lang="en">Pablo Emilio Escobar Gaviria</skos:altLabel>
+    <skos:description xml:lang="en">(This article is about the Colombian drug lord. For other uses, see Pablo Escobar (disambiguation).)(This name uses Spanish naming customs: the first or paternal family name is Escobar and the second or maternal family name is Gaviria.)
+Pablo Emilio Escobar Gaviria (December 1, 1949 – December 2, 1993) was a Colombian drug lord and drug trafficker. His cartel, at the height of his career, supplied an estimated 80% of the cocaine smuggled into the United States, turning over US $21.9 billion a year in personal income. Often called "The King of Cocaine", he was the wealthiest criminal in history, with an estimated known net worth of US $30 billion by the early 1990s (equivalent to about $54 billion today), making him one of the richest men in the world at his prime. Escobar was born in Rionegro, Colombia, and grew up in nearby Medellín. After briefly studying at Universidad Autónoma Latinoamericana of Medellín, he left without a degree and began to engage in criminal activity that involved selling contraband cigarettes, along with fake lottery tickets, and participated in motor vehicle theft. In the 1970s he began to work for various contraband smugglers, often kidnapping and holding people for ransom before beginning to distribute powder cocaine himself, as well as establishing the first smuggling routes into the United States, in 1975. His infiltration to the drug market of the U.S. expanded exponentially due to the rising demand for cocaine and, by the 1980s, it was estimated that 70 to 80 tons of cocaine were being shipped from Colombia to the U.S. on a monthly basis. His drug network was commonly known as the Medellín Cartel, which often competed with rival cartels domestically and abroad, resulting in high-rate massacres and the deaths of police officers, judges, locals and prominent politicians. In 1982, Escobar was elected as an alternate member of the Chamber of Representatives of Colombia as part of the Colombian Liberal Party. Through this, he was responsible for the construction of many hospitals, schools, and churches in western Colombia, which gained him popularity inside the local Roman Catholic Church, as well as with the locals of the towns he frequented. However, Escobar was vilified by the Colombian and American governments, due to the exploits of his political power, which resulted in Colombia becoming the murder capital of the world. Escobar was shot and killed by Colombian National Police, in his hometown, 24 hours after his 44th birthday.</skos:description>
+    <skos:altLabel xml:lang="en">Escobar (2009 film)</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pablo Escobar Gaviria</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Pablo Escobar</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Bernardo_Jaramillo_Ossa">
+    <skos:prefLabel xml:lang="en">Bernardo Jaramillo Ossa</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bernardo_Jaramillo_Ossa"/>
+    <skos:description xml:lang="en">Bernardo Jaramillo Ossa (born in 1956 in Manizales, Caldas, died in Bogotá, Cundinamarca on March 22, 1990) was a Colombian politician and member of the Colombian Communist Party. Jaramillo started working primarily in the Urabá Antioquia region until 1987 when he assumed the presidency of the Patriotic Union Party (UP) after the assassination of Jaime Pardo.</skos:description>
+    <skos:altLabel xml:lang="en">Bernardo Jaramillo</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Ignacio_Martín-Baró">
+    <skos:altLabel xml:lang="en">Ignacio Martin Baro</skos:altLabel>
+    <skos:altLabel xml:lang="en">Martin-baro</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ignacio Martin-Baró</skos:altLabel>
+    <skos:altLabel xml:lang="en">Martin baro</skos:altLabel>
+    <skos:altLabel xml:lang="en">Martín-baró</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ignacio Martin-Baro</skos:altLabel>
+    <skos:altLabel xml:lang="en">Martín baró</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ignacio_Martín-Baró"/>
+    <skos:description xml:lang="en">Ignacio Martín-Baró, S.J. (November 7, 1942 in Valladolid, Castilla y Leon, Spain – November 16, 1989 in San Salvador, El Salvador) was a scholar, social psychologist, philosopher and Jesuit priest. Martín-Baró was a close friend and colleague of the scholars Ignacio Ellacuría and Segundo Montes, all of whom were murdered by the Salvadoran Army, along with three other colleagues and two employees (see The murdered scholars of UCA).</skos:description>
+    <skos:prefLabel xml:lang="en">Ignacio Martín-Baró</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Martin-Baro</skos:altLabel>
+    <skos:altLabel xml:lang="en">Martin Baro</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Gregorio_Rosa_Chávez">
+    <skos:prefLabel xml:lang="en">Gregorio Rosa Chávez</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gregorio_Rosa_Chávez"/>
+    <skos:altLabel xml:lang="en">Gregorio Rosa Chavez</skos:altLabel>
+    <skos:description xml:lang="en">Msgr. Gregorio Rosa Chávez (September 2, 1942) is the auxiliary bishop of San Salvador, El Salvador.</skos:description>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Augusto_Pinochet">
+    <skos:description xml:lang="en">Augusto José Ramón Pinochet Ugarte (Spanish pronunciation: [auˈɣusto pinoˈ(t)ʃe] or [-ˈ(t)ʃet]; 25 November 1915 – 10 December 2006) was President of Chile between 1973 and 1990 and Commander-in-Chief of the Chilean Army from 1973 to 1998. He was also president of the Government Junta of Chile between 1973 and 1981. His rule of Chile was a dictatorship. Pinochet assumed power in Chile following a United States-backed coup d'état on 11 September 1973 that overthrew the democratically elected socialist Unidad Popular government of President Salvador Allende and ended civilian rule. Several academics have stated that the support of the United States was crucial to the coup and the consolidation of power afterward. Pinochet had been promoted to Commander-in-Chief of the Army by Allende on 23 August 1973, having been its General Chief of Staff since early 1972. In December 1974, the ruling military junta appointed Pinochet Supreme Head of the nation by joint decree, although without the support of one of the coup's instigators, Air Force General Gustavo Leigh. From the start of the new military government harsh measures were implemented. During the period of Pinochet's rule, various investigations have identified the murder of 1,200 to 3,200 people with up to 80,000 people forcibly interned and as many as 30,000 tortured. According to the Chilean government, the official number of deaths and forced disappearances stands at 3,095. Under the influence of the free market-oriented neoliberal "Chicago Boys", the military government implemented economic liberalization, including currency stabilization, removed tariff protections for local industry, banned trade unions and privatized social security and hundreds of state-owned enterprises. These policies produced what has been referred to as the "Miracle of Chile," but critics state that economic inequality dramatically increased and attribute the devastating effects of the 1982 monetary crisis on the Chilean economy to these policies. Chile was, for most of the 1990s, the best-performing economy in Latin America, though the legacy of Pinochet's reforms continues to be in dispute. Pinochet's 17-year rule was given a legal framework through a controversial 1980 plebiscite, which approved a new Constitution drafted by a government-appointed commission. In a 1988 plebiscite 56% voted against Pinochet's continuing as president, which led to democratic elections for the Presidency and Congress. After stepping down in 1990, Pinochet continued to serve as Commander-in-Chief of the Chilean Army until 10 March 1998, when he retired and became a senator-for-life in accordance with his 1980 Constitution. However, Pinochet was arrested under an international arrest warrant on a visit to London on 10 October 1998 in connection with numerous human rights violations. Following a legal battle he was released on grounds of ill-health, and returned to Chile on 3 March 2000. In 2004, Chilean Judge Juan Guzmán Tapia ruled that Pinochet was medically fit to stand trial and placed him under house arrest. By the time of his death on 10 December 2006, about 300 criminal charges were still pending against him in Chile for numerous human rights violations during his 17-year rule, and tax evasion and embezzlement during and after his rule; he was accused of having corruptly amassed at least $28 million USD.</skos:description>
+    <skos:altLabel xml:lang="en">Augusto José Ramón Pinochet Ugarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">Augusto Pinchot</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gen Augusto Pinochet</skos:altLabel>
+    <skos:altLabel xml:lang="en">Augustus Pinochet</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Augusto_Pinochet"/>
+    <skos:altLabel xml:lang="en">Augusto Pinoche</skos:altLabel>
+    <skos:altLabel xml:lang="en">Augusto Jose Ramon Pinochet Ugarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">Augusto pinochet</skos:altLabel>
+    <skos:altLabel xml:lang="en">General Augusto Pinochet</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pinochet</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Augusto Pinochet</skos:prefLabel>
+    <skos:altLabel xml:lang="en">General Pinochet</skos:altLabel>
+    <skos:altLabel xml:lang="en">Augusto Pinochet Ugarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">Pinochet Ugarte</skos:altLabel>
+    <skos:altLabel xml:lang="en">GEneral aUGUsto PInocHet</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Víctor_Polay">
+    <skos:prefLabel xml:lang="en">Víctor Polay</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Víctor_Polay"/>
+    <skos:description xml:lang="en">Víctor Alfredo Polay Campos (born April 6, 1951) is one of the founders of the Túpac Amaru Revolutionary Movement, a Peruvian terrorist organization that fought in the internal conflict in Peru. He is currently imprisoned in Callao Naval Base with Abimael Guzmán and Vladimiro Montesinos. He was arrested in 1992. In 1997, the UN Human Rights Committee has found that the circumstances of his trial and detention violated articles 7, 10 and 14 of the ICCPR. On March 22, 2006 he was found guilty by a Peruvian court on nearly 30 crimes committed during the late 1980s and early 1990 and was sentenced to 32 years in prison.</skos:description>
+    <skos:altLabel xml:lang="en">Victor Polay</skos:altLabel>
+    <skos:altLabel xml:lang="en">Victor Polay Campos</skos:altLabel>
+    <skos:altLabel xml:lang="en">Víctor Polay Campos</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Antonio_Navarro_Wolff">
+    <skos:prefLabel xml:lang="en">Antonio Navarro Wolff</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Antonio_Navarro_Wolff"/>
+    <skos:description xml:lang="en">Antonio José Navarro Wolff (born 9 July 1948) is a Colombian politician. He used to be a former Commandant and leader of the 19th of April Movement (M-19), a former guerrilla movement that operated in Colombia in the 1970s and 1980s. After the demobilization through a peace agreement of the M-19, Navarro and others formed the M-19 Democratic Alliance, a political party of which Navarro became a leader of entering mainstream politics in Colombia. In 1990 he ran as a M-19 political candidate during the Colombian presidential elections finishing third and receiving 12.48% of the votes; he ran again unsuccessfully in the 1994 presidential election, and attempted to run for the 2006 presidential elections but lost the candidacy of his party during the primaries. In 1991 he was elected to the National Constituent Assembly, of which became Co-President along with Álvaro Gómez Hurtado and Horacio Serpa Uribe; it was this Assembly that drafted the Colombian Constitution of 1991 which remains the supreme law of the country. He has also served in Congress, being elected to serve both in the Chamber from 1998 to 2002, and the Senate from 2002 to 2006; and elected Mayor of Pasto serving from 1995 to 1998, and Governor of Nariño from 2008 to 2012.</skos:description>
+    <skos:altLabel xml:lang="en">Antonio Navarro Wolf</skos:altLabel>
+  </skos:Concept>
+</rdf:RDF>
