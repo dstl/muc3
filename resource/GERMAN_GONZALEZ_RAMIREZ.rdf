@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="urn:muc3:entity/GERMAN_GONZALEZ_RAMIREZ">
+<!-- https://www.nytimes.com/1989/09/06/world/2d-officer-s-wife-is-slain-in-colombia.html -->
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a former police lieutenant</description>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a suspect in the killing on Aug. 18 of Col. Valdemar Franklin Quintero</description>
+	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GERMAN GONZALEZ RAMIREZ</name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="urn:muc3:entity/NICOLAS_GONZALEZ_CARDONA">
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LINKED TO THE MEDELLIN CARTEL AS A PILOT FOR PABLO ESCOBAR GAVIRIA</description>
+	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SUSPECTED OF HAVING PARTICIPATED IN THE MURDER OF COLONEL VALDEMAR FRANKLIN QUINTERO ON 18 AUGUST</description>
+	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NICOLAS GONZALEZ CARDONA</name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+</rdf:Description>
+
+</rdf:RDF>

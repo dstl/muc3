@@ -14,12 +14,12 @@
 	<rdf:type rdf:resource="http://schema.org/Person"/>
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54</description>
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ONE OF THE MAIN LEADERS OF THE RULING LIBERAL PARTY</description>
-	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENATOR ESTRADA VELEZ</name>
+	<alternateName xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENATOR ESTRADA VELEZ</alternateName>
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FORMER COLOMBIAN AMBASSADOR TO ITALY</description>
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LAWYER</description>
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">POLITICIAN</description>
-	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESTRADA VELEZ</name>
-	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENATOR FEDERICO ESTRADA VELEZ</name>
+	<alternateName xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESTRADA VELEZ</alternateName>
+	<alternateName xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENATOR FEDERICO ESTRADA VELEZ</alternateName>
 </rdf:Description>
 
 <rdf:Description rdf:about="urn:muc3:doc/TST1-MUC3-0080/kidnap">
