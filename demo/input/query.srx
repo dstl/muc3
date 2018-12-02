@@ -18,7 +18,7 @@
 				<literal xml:lang='en'>BOGOTA</literal>
 			</binding>
 			<binding name='eventPage'>
-				<uri>http://event-quitero.html</uri>
+				<uri>http://dstl.github.io/muc3/demo/event_quintero.html</uri>
 			</binding>
 			<binding name='name'>
 				<literal xml:lang='en'>Assassination</literal>
@@ -44,7 +44,7 @@
 				<literal xml:lang='en'>BOGOTA</literal>
 			</binding>
 			<binding name='eventPage'>
-				<uri>http://event-quitero.html</uri>
+				<uri>http://dstl.github.io/muc3/demo/event_quintero.html</uri>
 			</binding>
 			<binding name='doc'>
 				<uri>http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml</uri>
@@ -124,7 +124,7 @@
 				<literal xml:lang='en'>BOGOTA</literal>
 			</binding>
 			<binding name='eventPage'>
-				<uri>http://event-quitero.html</uri>
+				<uri>http://dstl.github.io/muc3/demo/event_quintero.html</uri>
 			</binding>
 			<binding name='doc'>
 				<uri>http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml</uri>

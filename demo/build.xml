@@ -13,7 +13,7 @@
 	</target>
 
 	<target name="event" description="make HTML from SPARQL descibe of Quitero assassination event">
-		<xslt in="input/describe2.rdf" out="event_quitero.html" style="xsl/describe-html.xsl" force="yes"/>
+		<xslt in="input/describe2.rdf" out="event_quintero.html" style="xsl/describe-html.xsl" force="yes"/>
 	</target>
 
 </project>

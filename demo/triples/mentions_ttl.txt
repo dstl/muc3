@@ -6,4 +6,4 @@
 <http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml> <http://schema.org/mentions> <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination> .
 <http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml> <http://schema.org/mentions> <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination> .
 <http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml> <http://schema.org/mentions> <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination> .
-<http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <./event_quitero.html> .
+<http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://dstl.github.io/muc3/demo/event_quintero.html> .
