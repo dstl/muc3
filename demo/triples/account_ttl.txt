@@ -1,0 +1,2 @@
+<http://dstl.github.io/muc3/resource/GERMAN_GONZALEZ_RAMIREZ.rdf> <http://xmlns.com/foaf/0.1/accountName> "@twitter1"@en .
+<http://dstl.github.io/muc3/resource/NICOLAS_GONZALEZ_CARDONA.rdf> <http://xmlns.com/foaf/0.1/accountName> "@twitter2"@en .
