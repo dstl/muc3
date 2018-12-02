@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='/rdf4j-workbench/transformations/tuple.xsl'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#' xmlns:q='http://www.openrdf.org/schema/qname#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:ns4='http://dbpedia.org/ontology/Weapon/' xmlns:j.0='http://www.wikidata.org/entity/' xmlns:geo='http://www.w3.org/2003/01/geo/wgs84_pos#' xmlns:dbo='http://dbpedia.org/ontology/' xmlns:j.1='http://dbpedia.org/class/yago/' xmlns:schema='http://schema.org/' xmlns:sesame='http://www.openrdf.org/schema/sesame#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:j.2='http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#' xmlns:gn='http://www.geonames.org/ontology#' xmlns:dbp='http://dbpedia.org/property/' xmlns:dct='http://purl.org/dc/terms/' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:prov='http://www.w3.org/ns/prov#' xmlns:parse='http://example.org/nlp/parse' xmlns:skos='http://www.w3.org/2004/02/skos/core#' xmlns:j.3='http://umbel.org/umbel/rc/' xmlns:fn='http://www.w3.org/2005/xpath-functions#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+	<head>
+		<variable name='doc'/>
+		<variable name='coverage'/>
+		<variable name='title'/>
+		<variable name='publisher'/>
+		<variable name='name'/>
+		<variable name='description'/>
+		<variable name='event'/>
+		<variable name='eventPage'/>
+		<link href='info'/>
+	</head>
+	<results>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>BOGOTA</literal>
+			</binding>
+			<binding name='eventPage'>
+				<uri>http://event-quitero.html</uri>
+			</binding>
+			<binding name='name'>
+				<literal xml:lang='en'>Assassination</literal>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>EMISORAS CARACOL NETWORK</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>MEDELLIN -- ANTIOQUIA POLICE DEPARTMENT CHIEF WALDEMAR FRANKLIN QUINTERO WAS MURDERED THIS MORNING ON THIS CITY'S WEST SIDE.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>DEV-MUC3-0348</literal>
+			</binding>
+			<binding name='event'>
+				<uri>http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>BOGOTA</literal>
+			</binding>
+			<binding name='eventPage'>
+				<uri>http://event-quitero.html</uri>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>EFE</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>IT WAS OFFICIALLY REPORTED TODAY THAT 800 COLOMBIAN ARMY AND POLICE MEMBERS WERE TAKEN FROM BOGOTA ON BOARD FOUR PLANES TODAY AND DEPLOYED IN THE CITY OF MEDELLIN TO REINFORCE THE MEDELLIN AUTHORITIES.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>DEV-MUC3-0349</literal>
+			</binding>
+			<binding name='event'>
+				<uri>http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>BOGOTA</literal>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/dev/DEV-MUC3-0350.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>INRAVISION TELEVISION CADENA 1</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>FELLOW COUNTRYMEN: I AM ADDRESSING YOU TO EXPLAIN THE MEASURES UNDER THE PROVISIONS OF THE STATE OF SIEGE [MEDIDAS DE ESTADO DE SITIO] WHICH HAVE BEEN ADOPTED AT A TIME WHEN THE NATION HAS JUSTIFIED REASONS TO FEEL ANGRY AND MOVED BY THE SERIOUS ACTIONS OF VIOLENCE THAT HAVE TAKEN PLACE IN RECENT DAYS.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>DEV-MUC3-0350</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>BOGOTA</literal>
+			</binding>
+			<binding name='name'>
+				<literal xml:lang='en'>Assassination</literal>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/dev/DEV-MUC3-0351.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>EFE</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>SENATOR LUIS CARLOS GALAN, LIBERAL PARTY PRESIDENTIAL HOPEFUL, WAS SHOT THIS EVENING WHEN HE WAS ABOUT TO GIVE A SPEECH AT MAIN SQUARE OF SOACHA, 15 KM SOUTH OF BOGOTA, IT WAS CONFIRMED BY POLICE AND HEALTH AUTHORITIES.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>DEV-MUC3-0351</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>BOGOTA</literal>
+			</binding>
+			<binding name='name'>
+				<literal xml:lang='en'>Assassination</literal>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/dev/DEV-MUC3-0352.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>EFE</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>THE MEDICAL AUTHORITIES HAVE REPORTED THAT LUIS CARLOS CARLOS GALAN, SENATOR AND PRESIDENTIAL HOPEFUL, DIED TONIGHT 2 HOURS AFTER HAVING BEEN SHOT IN AN ATTACK.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>DEV-MUC3-0352</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>BOGOTA</literal>
+			</binding>
+			<binding name='eventPage'>
+				<uri>http://event-quitero.html</uri>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>INRAVISION TELEVISION CADENA 1</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>THE EXTRADITABLES TODAY CLAIMED RESPONSIBILITY FOR THE MURDER OF ANTIOQUIA POLICE COMMANDER COLONEL WALDEMAR FRANKLIN QUINTERO, WHICH OCCURRED THIS MORNING IN MEDELLIN.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>TST1-MUC3-0006</literal>
+			</binding>
+			<binding name='event'>
+				<uri>http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='coverage'>
+				<literal xml:lang='en'>SANTIAGO</literal>
+			</binding>
+			<binding name='doc'>
+				<uri>http://dstl.github.io/muc3/tst1/TST1-MUC3-0051.xhtml</uri>
+			</binding>
+			<binding name='publisher'>
+				<literal>LA TERCERA DE LA HORA</literal>
+			</binding>
+			<binding name='description'>
+				<literal xml:lang='en'>TWO BOLIVIANS CARRYING 2.5 KG PURE COCAINE IN A HANDBAG HAVE BEEN ARRESTED BY CARABINEROS OS-7 DEPARTMENT PERSONNEL.</literal>
+			</binding>
+			<binding name='title'>
+				<literal>TST1-MUC3-0051</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination">
+	<isPrimaryTopicOf xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://event-quitero.html"/>
+	<agent xmlns="http://schema.org/" xml:lang="en">THE GUNMEN</agent>
+	<description xmlns="http://schema.org/" xml:lang="en">ANTIOQUIA POLICE DEPARTMENT CHIEF WALDEMAR FRANKLIN QUINTERO WAS MURDERED THIS MORNING ON THIS CITY'S WEST SIDE.</description>
+	<instrument xmlns="http://schema.org/" xml:lang="en">GRAY MAZDA, LICENSE PLATES MI-1630</instrument>
+	<location xmlns="http://schema.org/" xml:lang="en">ROAD 80 AND 48TH STREET, NEAR MARTIN RODRIGUEZ VELODROME</location>
+	<object xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero"/>
+	<startTime xmlns="http://schema.org/" xml:lang="en">1989-08-18</startTime>
+	<rdf:type rdf:resource="http://schema.org/Action"/>
+	<description xmlns="http://schema.org/" xml:lang="en">THE MURDER OF ANTIOQUIA POLICE CHIEF COLONEL WALDEMAR FRANKLIN QUINTERO</description>
+	<object xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero"/>
+	<startTime xmlns="http://schema.org/" xml:lang="en">1989-08-18T11:00:00Z</startTime>
+	<rdf:type rdf:resource="http://schema.org/Action"/>
+	<agent xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/The_Extraditables"/>
+	<description xmlns="http://schema.org/" xml:lang="en">THE MURDER OF ANTIOQUIA POLICE COMMANDER COLONEL WALDEMAR FRANKLIN QUINTERO, WHICH OCCURRED THIS MORNING IN MEDELLIN.</description>
+	<instrument xmlns="http://schema.org/" xml:lang="en">A GRAY MAZDA 626 VEHICLE, WITH LICENSE PLATES MI-1630</instrument>
+	<location xmlns="http://schema.org/" xml:lang="en">AT THE CARRERA 80 CROSSING</location>
+	<location xmlns="http://schema.org/" xml:lang="en">MEDELLIN</location>
+	<location xmlns="http://schema.org/" xml:lang="en">THE AMERICA NEIGHBORHOOD, SEVEN BLOCKS FROM WHERE ANTIOQUIA GOVERNOR ANTONIO ROLDAN WAS KILLED</location>
+	<object xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero"/>
+	<startTime xmlns="http://schema.org/" xml:lang="en">1989-08-18</startTime>
+	<rdf:type rdf:resource="http://schema.org/Action"/>
+	<agent xmlns="http://schema.org/" rdf:resource="http://dstl.github.io/muc3/resource/GERMAN_GONZALEZ_RAMIREZ.rdf"/>
+	<agent xmlns="http://schema.org/" rdf:resource="http://dstl.github.io/muc3/resource/NICOLAS_GONZALEZ_CARDONA.rdf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml">
+	<mentions xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml">
+	<mentions xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml">
+	<mentions xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml">
+	<mentions xmlns="http://schema.org/" rdf:resource="http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination"/>
+</rdf:Description>
+
+</rdf:RDF>

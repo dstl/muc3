@@ -866,6 +866,9 @@
 <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml">
 <dc:description xml:lang="en">MEDELLIN -- ANTIOQUIA POLICE DEPARTMENT CHIEF WALDEMAR FRANKLIN QUINTERO WAS MURDERED THIS MORNING ON THIS CITY'S WEST SIDE.</dc:description>
 </rdf:Description>
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml">
+<dc:description xml:lang="en">IT WAS OFFICIALLY REPORTED TODAY THAT 800 COLOMBIAN ARMY AND POLICE MEMBERS WERE TAKEN FROM BOGOTA ON BOARD FOUR PLANES TODAY AND DEPLOYED IN THE CITY OF MEDELLIN TO REINFORCE THE MEDELLIN AUTHORITIES.</dc:description>
+</rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0350.xhtml">
 <dc:description xml:lang="en">FELLOW COUNTRYMEN: I AM ADDRESSING YOU TO EXPLAIN THE MEASURES UNDER THE PROVISIONS OF THE STATE OF SIEGE [MEDIDAS DE ESTADO DE SITIO] WHICH HAVE BEEN ADOPTED AT A TIME WHEN THE NATION HAS JUSTIFIED REASONS TO FEEL ANGRY AND MOVED BY THE SERIOUS ACTIONS OF VIOLENCE THAT HAVE TAKEN PLACE IN RECENT DAYS.</dc:description>
 </rdf:Description>
@@ -3305,6 +3308,9 @@
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0004.xhtml">
 <dc:description xml:lang="en">LAST NIGHT'S TERRORIST TARGET WAS THE ANTIOQUIA LIQUEUR PLANT.</dc:description>
 </rdf:Description>
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml">
+<dc:description xml:lang="en">THE EXTRADITABLES TODAY CLAIMED RESPONSIBILITY FOR THE MURDER OF ANTIOQUIA POLICE COMMANDER COLONEL WALDEMAR FRANKLIN QUINTERO, WHICH OCCURRED THIS MORNING IN MEDELLIN.</dc:description>
+</rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0008.xhtml">
 <dc:description xml:lang="en">DIEGO BIAFARA, ADMINISTRATIVE DEPARTMENT OF SECURITY [DAS] AND DRUG ENFORCEMENT AGENCY INFORMANT, WHO APPEARED BEFORE A U.S. SENATE COMMITTEE ON 13 SEPTEMBER, REVEALED UNKNOWN LINKS BETWEEN THE ISRAELI AND BRITISH MERCENARIES, WHO HAVE TRAINED PARAMILITARY GROUPS IN OUR COUNTRY.</dc:description>
 </rdf:Description>
@@ -3412,6 +3418,9 @@
 </rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0050.xhtml">
 <dc:description xml:lang="en">PANAMA'S ARCHBISHOP MARCOS MCGRATH, PANAMA'S EPISCOPAL CONFERENCE PRESIDENT JOSE LUIS LACUNZA, AND PANAMANIAN ABDIEL ADAMES, PRESIDENT OF THE CENTRAL AMERICAN HIGHER UNIVERSITY COUNCIL (CSUCA), HAVE CONDEMNED THE ASSASSINATION OF SIX JESUITS IN EL SALVADOR AT DAWN TODAY.</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0051.xhtml">
+<dc:description xml:lang="en">TWO BOLIVIANS CARRYING 2.5 KG PURE COCAINE IN A HANDBAG HAVE BEEN ARRESTED BY CARABINEROS OS-7 DEPARTMENT PERSONNEL.</dc:description>
 </rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0054.xhtml">
 <dc:description xml:lang="en">GOOD EVENING.</dc:description>

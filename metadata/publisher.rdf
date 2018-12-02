@@ -756,6 +756,9 @@
 <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0348.xhtml">
 <dc:publisher>EMISORAS CARACOL NETWORK</dc:publisher>
 </rdf:Description>
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0349.xhtml">
+<dc:publisher>EFE</dc:publisher>
+</rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-0350.xhtml">
 <dc:publisher>INRAVISION TELEVISION CADENA 1</dc:publisher>
 </rdf:Description>
@@ -3354,6 +3357,9 @@
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0005.xhtml">
 <dc:publisher>RADIO SANDINO</dc:publisher>
 </rdf:Description>
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0006.xhtml">
+<dc:publisher>INRAVISION TELEVISION CADENA 1</dc:publisher>
+</rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0008.xhtml">
 <dc:publisher>INRAVISION TELEVISION CADENA 2</dc:publisher>
 </rdf:Description>
@@ -3461,6 +3467,9 @@
 </rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0050.xhtml">
 <dc:publisher>ACAN-EFE</dc:publisher>
+</rdf:Description>
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0051.xhtml">
+<dc:publisher>LA TERCERA DE LA HORA</dc:publisher>
 </rdf:Description>
 <rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0052.xhtml">
 <dc:publisher>RADIO CADENA NACIONAL</dc:publisher>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<project name="Linked Text" basedir=".">
+
+	<description>
+		A simple demonstration of fact extraction where knowledge is captured as RDFa for linking to a knowledge base and wider applications. This 
+		is a "strawman" that can be used to test and develop the approach. Currently scope-limited to reports from 18th August 1989, and the 
+		assassination of Colonel Waldemar Quintero.
+	</description>
+
+	<target name="daily" description="make HTML from SPARQL query for daily reporting">
+		<xslt in="input/query.srx" out="daily.html" style="xsl/query-html.xsl" force="yes"/>
+	</target>
+
+	<target name="event" description="make HTML from SPARQL descibe of Quitero assassination event">
+		<xslt in="input/describe2.rdf" out="event_quitero.html" style="xsl/describe-html.xsl" force="yes"/>
+	</target>
+
+</project>
