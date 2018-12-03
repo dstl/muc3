@@ -59,14 +59,16 @@ Note the "pushpin" in the last column of the HTML table. This represents a link 
 
 * Firstly, to get a map of which event is mentioned in which report (like [this](triples/mentions_ttl.txt)) - both the facts in each report, and  We can then generate triplestore is a link between reports and events. These are the triples that cause the "pushpin" to appear in the [daily register](http://dstl.github.io/muc3/demo/daily.html).
 
-* Secondly, to capture the facts in each report as RDF triples. In this case, we have the same event descibed (on the day) in 3 different reports. Each of these creates a separate set of triples, but - because the event has the same URI in each report - these sets merge together when loaded into a triplestore. In this particular worked example, the extracted facts about the event are complementary (one report has a description of the vehicle involved but no precise time, and another pinpoints the time but doesn't describe the vehicle) and merge to generate a complete description of the event not found in any single report. 
+* Secondly, to capture the facts in each report as RDF triples. In this case, we have the same event described (on the day) in 3 different reports. Each of these creates a separate set of triples, but - because the event has the same URI in each report - these sets merge together when loaded into a triplestore. In this particular worked example, the extracted facts about the event are complementary (one report has a description of the vehicle involved but no precise time, and another pinpoints the time but doesn't describe the vehicle) and merge to generate a complete description of the event not found in any single report. 
 
   Once we have an event described in the triplestore, its a simple matter to get all the triples for the event with a SPARQL DESCRIBE query...
   
  ```
 DESCRIBE <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination>
  ```
-which gives [this result](input/describe1.rdf).
+which gives [this result](input/describe1.rdf), which can be transformed to HTML (with [this XSL stylesheet](xsl/describe-html.xsl)) to give **[this result](http://dstl.github.io/muc3/demo/event_quintero.html)**.
+
+...not finished...
 
 ```java
 import java.io.FileInputStream;
