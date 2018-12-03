@@ -12,7 +12,7 @@ Consider these sources of linked data:
 
 Load these into the same triple store makes it's possible to create a register for reports on a single day that give this basic information. For example this query...
 
-'''
+```
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -40,12 +40,12 @@ where {
     ?event foaf:isPrimaryTopicOf ?eventPage.
   }
 }
-'''
+```
 
 ...generates **[this result]()**. (which is [this SPARQL XML results file]() transformed to HTML with [this XSL stylesheet]())
 
 
-'''java
+```java
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -71,4 +71,4 @@ public class MergeAccountInfo {
 
        }
 }
-'''
+```
