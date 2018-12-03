@@ -1,6 +1,6 @@
 # Fact extraction
 
-This scenario explores extraction of information from reports for integrating with some other data or process. Here, we pick reports from one day - 18 August 1989; and (for the time being) focus on one particular event - the assassination of Colonel Waldemar Franklin Quintero.
+This scenario explores extraction of information from reports for integrating with some other data or process. Here, we pick reports from one day - 18 August 1989, and (for the time being) focus on one particular event - the assassination of Colonel Waldemar Franklin Quintero.
 
 The approach is based on linked data. Various processes can operate on documents in the corpus and generate RDF triples. These processes may orchestrated for some directed purpose, or may be independent but share a vocabulary. Sets of triples may be merged in various combinations, manipulated, filtered, edited and enriched in varied and interesting ways. This sort of thing is easier to explain with a worked example...
 
@@ -35,14 +35,25 @@ where {
     ?doc dc:description ?description.
     ?doc dc:publisher ?publisher.
   }
-    OPTIONAL {
+  OPTIONAL {
     ?doc schema:mentions ?event.
     ?event foaf:isPrimaryTopicOf ?eventPage.
   }
 }
 ```
 
-...generates **[this result](http://dstl.github.io/muc3/demo/daily.html)**. (which is [this SPARQL XML results file](input/query.srx) transformed to HTML with [this XSL stylesheet](xsl/query-html.xsl))
+...generates **[this result](http://dstl.github.io/muc3/demo/daily.html)**. (which is [this SPARQL XML results file](input/query.srx) transformed to HTML with [this XSL stylesheet](xsl/query-html.xsl)).
+
+Note the "pushpin" in the last column of the HTML table. This represents a link to extracted facts for some specific event mentioned in the report. It's picked out by one of the optional clauses in the query above:
+
+```
+ OPTIONAL {
+    ?doc schema:mentions ?event.
+    ?event foaf:isPrimaryTopicOf ?eventPage.
+  }
+```
+
+We're slightly ahead of ourselves in that we dont's have the relevant triples in our triplestore just yet.
 
 
 ```java
