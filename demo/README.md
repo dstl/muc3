@@ -10,7 +10,7 @@ Consider these sources of linked data:
 
 2. [Extracted Information](https://github.com/dstl/muc3/wiki/Extracted-Information) - as might be created text analysis agents, human or machine, and where multiple agents might collaborate to produce a result. The scenaro here concerns an assassination event - so the [assassinations](http://dstl.github.io/muc3/events/assassination.rdf) RDF is of primary interest, but [kidnappings](http://dstl.github.io/muc3/events/kidnap.rdf) and [bombings/explosions(http://dstl.github.io/muc3/events/explosion.rdf) can be added to the mix too. 
 
-Load these into the same triple store makes it's possible to create a register for reports on a single day that give this basic information. For example this query...
+Load these into the same triplestore makes it's possible to create a register for reports on a single day that give this basic information. For example this query...
 
 ```
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
@@ -44,7 +44,7 @@ where {
 
 ...generates **[this result](http://dstl.github.io/muc3/demo/daily.html)**. (which is [this SPARQL XML results file](input/query.srx) transformed to HTML with [this XSL stylesheet](xsl/query-html.xsl)).
 
-Note the "pushpin" in the last column of the HTML table. This represents a link to extracted facts for some specific event mentioned in the report. It's picked out by one of the optional clauses in the query above:
+Note the "pushpin" in the last column of the HTML table. This represents a link to extracted facts for some specific event mentioned (i.e. the Quintero assassination) in the report. It's picked out by one of the optional clauses in the query above:
 
 ```
  OPTIONAL {
@@ -53,7 +53,10 @@ Note the "pushpin" in the last column of the HTML table. This represents a link 
   }
 ```
 
-We're slightly ahead of ourselves in that we dont's have the relevant triples in our triplestore just yet.
+  We're slightly ahead of ourselves in that we don't have the relevant triples in our triplestore just yet. To get them, we imagine some analysis process that identifies an event of interest, finds any reports that describe it, and marks up the facts in these reports with [RDfa](https://github.com/dstl/muc3/wiki/Rdfa). Here, this has been done manually. However a human-agent collaboration is easily imagined where a machine agent does named entity recognition and disambiguation, and a human agent refines the result (giving the human the final say, for the time being at least).
+
+  Each specific event (marked-up as a schema.org [Action](https://schema.org/Action)) has the same URI in each document that mentions it. We can extract RDF triples from the RDFa marked-up reports. Firstly, to get a map of which event is mentioned in which report (like [this](triples/mentions_ttl.txt)) - both the facts in each report, and  We can then generate triplestore is a link between reports and events. 
+
 
 
 ```java
