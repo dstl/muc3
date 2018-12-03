@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xsl:stylesheet  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" exclude-result-prefixes="sparql" version="1.0">
+<xsl:stylesheet  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" exclude-result-prefixes="sparql" version="1.0">
 
 <xsl:output method="html" encoding="UTF-8"/>
 
@@ -9,7 +9,7 @@
 <title>Assassination</title>
 <style type="text/css">
 li.agent {
-    font-weight: bold;
+   # font-weight: bold;
 }
 a.memo:link {
     text-decoration: none;
@@ -18,13 +18,13 @@ a.memo:link {
 </head>
 <body>
 	<h2>Assassination event</h2>
-	<xsl:apply-templates select="//rdf:Description[@rdf:about = 'http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination']"/>
+	<xsl:apply-templates select="//*[@rdf:about = 'http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination']"/>
 </body>
 </html>
 </xsl:template>
 
 
-<xsl:template match="rdf:Description">
+<xsl:template match="rdf:Description|schema:Action">
 <h3>Object</h3>
 <ul>
 	<xsl:apply-templates select="./schema:object"/>
@@ -70,6 +70,10 @@ a.memo:link {
 
 <xsl:template match="schema:agent[@rdf:resource]">
 	<li class="agent"><a href="{@rdf:resource}"><xsl:value-of select="@rdf:resource"/></a></li>
+</xsl:template>
+
+<xsl:template match="schema:agent[.//foaf:accountName]">
+       <li class="agent"><span property="accountName" content="{.//foaf:accountName}">🔶 </span><span><a href="{rdf:Description/@rdf:about}"><xsl:value-of select="rdf:Description/@rdf:about"/></a></span></li>
 </xsl:template>
 
 <xsl:template match="schema:agent">
