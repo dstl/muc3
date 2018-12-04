@@ -72,6 +72,12 @@ which gives [this RDF](input/describe1.rdf), which can be transformed to HTML (w
 
 A few weeks later, another report ([DEV-MUC3-0446](http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml)) mentions arrests in connection with the murder of Quintero. Processing this report in the same way adds two new "agent" properties to the event, like **[THIS](http://dstl.github.io/muc3/demo/event_quintero1.html)**.
 
+## Linking to other sources 
+
+Let's try and justify this linked data approach by linking our assassination event to other facts outside this corpus. We can imagine some [FOAF](https://en.wikipedia.org/wiki/FOAF_(ontology)) linked data that includes social media accounts - [this](triples/account_ttl.txt), for example. If these FOAF triples use the same URI for a specific individual as the one used in the RDFa mark-up (or equivalence between URI's is asserted with an owl:sameAs), then merging the FOAF triples with the event triples will add the account information for that individual to the event.
+
+You can merge the triples just by loading the two relevant files ([event](input/describe2.rdf) and [foaf](triples/account_ttl.txt)) into the triplestore of your choice, or you can do it in code - here's a snippet using [Apache Jena](https://jena.apache.org/):
+
 ```java
 import java.io.FileInputStream;
 import java.io.FileWriter;
@@ -94,7 +100,7 @@ public class MergeAccountInfo {
         
         System.out.println( String.format( "The model contains %d triples", m.size() ) );
         
-        m.write(new FileWriter("merged.xml"));
+        m.write(new FileWriter("triples/merged.rdf"));
 
        }
 }
