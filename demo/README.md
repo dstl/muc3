@@ -12,7 +12,7 @@ Consider these sources of linked data:
 
 2. [Extracted Information](https://github.com/dstl/muc3/wiki/Extracted-Information) - as might be created text analysis agents, human or machine, and where multiple agents might collaborate to produce a result. The scenaro here concerns an assassination event - so the [assassinations](http://dstl.github.io/muc3/events/assassination.rdf) RDF is of primary interest, but [kidnappings](http://dstl.github.io/muc3/events/kidnap.rdf) and [bombings/explosions](http://dstl.github.io/muc3/events/explosion.rdf) can be added to the mix too. 
 
-Load these into the same triplestore makes it's possible to create a register for reports on a single day that give this basic information. For example this query...
+Loading these into the same triplestore makes it's possible to create a register for reports on a single day that give this basic information. For example this query...
 
 ```
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
@@ -70,7 +70,7 @@ DESCRIBE <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination>
  ```
 which gives [this RDF](input/describe1.rdf), which can be transformed to HTML (with [this XSL stylesheet](xsl/describe-html.xsl)) to give **[THIS RESULT](http://dstl.github.io/muc3/demo/event_quintero1.html)**.
 
-A few weeks later, another report ([DEV-MUC3-0446](http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml)) mentions arrests in connection with the murder of Quintero. Processing this report in the same way adds two new "agent" properties to the event, like **[THIS](http://dstl.github.io/muc3/demo/event_quintero2.html)**.
+A few weeks later, a fourth report ([DEV-MUC3-0446](http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml)) mentions arrests in connection with the murder of Quintero. Processing this report in the same way adds two new "agent" properties to the event, like **[THIS](http://dstl.github.io/muc3/demo/event_quintero2.html)**.
 
 ## Linking to other sources 
 
@@ -95,8 +95,8 @@ public class MergeAccountInfo {
 
         Model m = ModelFactory.createDefaultModel();
 
-        FileManager.get().readModel( m, "demo/input/describe2.rdf" );
-              RDFDataMgr.read(m, new FileInputStream("demo/triples/account_ttl.txt"), Lang.TTL);
+        FileManager.get().readModel( m, "input/describe2.rdf" );
+              RDFDataMgr.read(m, new FileInputStream("triples/account_ttl.txt"), Lang.TTL);
         
         System.out.println( String.format( "The model contains %d triples", m.size() ) );
         
