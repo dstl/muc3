@@ -70,7 +70,7 @@ DESCRIBE <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination>
  ```
 which gives [this RDF](input/describe1.rdf), which can be transformed to HTML (with [this XSL stylesheet](xsl/describe-html.xsl)) to give **[THIS RESULT](http://dstl.github.io/muc3/demo/event_quintero1.html)**.
 
-A few weeks later, another report ([DEV-MUC3-0446](http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml)) mentions arrests in connection with the murder of Quintero. Processing this report in the same way adds two new "agent" properties to the event, like **[THIS](http://dstl.github.io/muc3/demo/event_quintero1.html)**.
+A few weeks later, another report ([DEV-MUC3-0446](http://dstl.github.io/muc3/dev/DEV-MUC3-0446.xhtml)) mentions arrests in connection with the murder of Quintero. Processing this report in the same way adds two new "agent" properties to the event, like **[THIS](http://dstl.github.io/muc3/demo/event_quintero2.html)**.
 
 ## Linking to other sources 
 
