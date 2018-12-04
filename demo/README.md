@@ -105,3 +105,4 @@ public class MergeAccountInfo {
        }
 }
 ```
+The [merged RDF](triples/merged.rdf) can then be rendered as HTML, exactly as above, to give [THIS RESULT](http://dstl.github.io/muc3/demo/event_quintero3.html)
