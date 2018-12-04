@@ -66,7 +66,7 @@ Once we have an event described in the triplestore, its a simple matter to get a
  ```
 DESCRIBE <http://dbpedia.org/resource/Waldemar_Franklin_Quintero#Assassination>
  ```
-which gives [this result](input/describe1.rdf), which can be transformed to HTML (with [this XSL stylesheet](xsl/describe-html.xsl)) to give **[this RESULT](http://dstl.github.io/muc3/demo/event_quintero.html)**.
+which gives [this result](input/describe1.rdf), which can be transformed to HTML (with [this XSL stylesheet](xsl/describe-html.xsl)) to give **[this RESULT](http://dstl.github.io/muc3/demo/event_quintero1.html)**.
 
 ...not finished...
 
