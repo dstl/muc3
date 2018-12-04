@@ -73,7 +73,7 @@ a.memo:link {
 </xsl:template>
 
 <xsl:template match="schema:agent[.//foaf:accountName]">
-       <li class="agent"><span property="accountName" content="{.//foaf:accountName}">🔶 </span><span><a href="{rdf:Description/@rdf:about}"><xsl:value-of select="rdf:Description/@rdf:about"/></a></span></li>
+	<li class="agent"><span property="accountName"><xsl:value-of select=".//foaf:accountName"/></span></li>
 </xsl:template>
 
 <xsl:template match="schema:agent">
