@@ -13,6 +13,7 @@
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a suspect in the killing on Aug. 18 of Col. Valdemar Franklin Quintero</description>
 	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GERMAN GONZALEZ RAMIREZ</name>
 	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/GERMAN_GONZALEZ_RAMIREZ.rdf"/>
 </rdf:Description>
 
 </rdf:RDF>
