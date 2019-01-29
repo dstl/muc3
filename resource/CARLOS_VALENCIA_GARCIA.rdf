@@ -11,6 +11,7 @@
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MAGISTRATE</description>
 	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARLOS VALENCIA GARCIA</name>
 	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/CARLOS_VALENCIA_GARCIA.rdf"/>
 </rdf:Description>
 
 </rdf:RDF>
