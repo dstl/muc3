@@ -12,6 +12,7 @@
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SUSPECTED OF HAVING PARTICIPATED IN THE MURDER OF COLONEL VALDEMAR FRANKLIN QUINTERO ON 18 AUGUST</description>
 	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NICOLAS GONZALEZ CARDONA</name>
 	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/NICOLAS_GONZALEZ_CARDONA.rdf"/>
 </rdf:Description>
 
 </rdf:RDF>
