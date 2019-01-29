@@ -23,24 +23,8 @@
 	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/FEDERICO_ESTRADA_VELEZ.rdf"/>
 	</rdf:Description>
 
-<rdf:Description rdf:about="urn:muc3:doc/TST1-MUC3-0080/kidnap">
-	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="urn:muc3:doc/DEV-MUC3-1212/kidnap">
-	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="urn:muc3:doc/DEV-MUC3-1212/release">
-	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
-</rdf:Description>
-
 <rdf:Description rdf:about="http://dbpedia.org/resource/Colombian_Liberal_Party">
-	<rdfs:member rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="urn:muc3:doc/DEV-MUC3-1221/kidnap">
-	<object xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+	<member xmlns="http://schema.org/" rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
 </rdf:Description>
 
 </rdf:RDF>
