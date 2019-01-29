@@ -11,6 +11,7 @@
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ANTIOQUIA GOVERNOR</description>
 	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ELENA MONTOYA</name>
 	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/ELENA_MONTOYA.rdf"/>
 </rdf:Description>
 
 </rdf:RDF>
