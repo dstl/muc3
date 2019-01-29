@@ -11,6 +11,7 @@
 	<description xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE ALLEGED "COMPTROLLER" OF THE MEDELLIN CARTEL</description>
 	<name xmlns="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EDUARDO MARTINEZ ROMERO</name>
 	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/EDUARDO_MARTINEZ_ROMERO.rdf"/>
 </rdf:Description>
 
 </rdf:RDF>
