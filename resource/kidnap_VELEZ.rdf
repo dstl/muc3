@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:schema="http://schema.org/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<rdf:Description rdf:about="urn:muc3:event/kidnap_VELEZ">
+	<rdf:type rdf:resource="http://schema.org/Action"/>
+	<schema:description rdf:datatype="xsd:string">The kidnapping of Senator Frederico Estrada Velez.</schema:description>
+	<schema:object rdf:resource="urn:muc3:entity/FEDERICO_ESTRADA_VELEZ"/>
+	<schema:agent rdf:resource="http://dbpedia.org/resource/The_Extraditables"/>
+	<schema:startTime rdf:datatype="xsd:dateTime">1990-04-03</schema:startTime>
+	<schema:endTime rdf:datatype="xsd:dateTime">1990-04-05</schema:endTime>
+	<schema:location>
+		<schema:Place>
+			<schema:description>THE CORNER OF 60TH AND 48TH STREETS IN WESTERN MEDELLIN, ONLY 100 METERS FROM A METROPOLITAN POLICE CAI [IMMEDIATE ATTENTION CENTER]</schema:description>
+			<schema:description>NEAR THE ATANASIO GIRARDOT FOOTBALL STADIUM IN MEDELLIN</schema:description>
+			<schema:description>THE SAME PLACE WHERE COLONEL WALDEMAR FRANKLIN QUINTERO, CHIEF OF POLICE IN ANTIOQUIA, WAS ASSASSINATED LAST YEAR</schema:description>
+		</schema:Place>
+	</schema:location>
+	<owl:sameAs rdf:resource="http://dstl.github.io/muc3/resource/kidnap_VELEZ.rdf"/>
+	</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/tst1/TST1-MUC3-0080.xhtml">
+	<rdf:type rdf:resource="http://schema.org/Article"/>
+	<schema:mentions rdf:resource="urn:muc3:event/kidnap_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1212.xhtml">
+	<rdf:type rdf:resource="http://schema.org/Article"/>
+	<schema:mentions rdf:resource="urn:muc3:event/kidnap_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1218.xhtml">
+	<rdf:type rdf:resource="http://schema.org/Article"/>
+	<schema:mentions rdf:resource="urn:muc3:event/kidnap_VELEZ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dstl.github.io/muc3/dev/DEV-MUC3-1221.xhtml">
+	<rdf:type rdf:resource="http://schema.org/Article"/>
+	<schema:mentions rdf:resource="urn:muc3:event/kidnap_VELEZ"/>
+</rdf:Description>
+
+</rdf:RDF>
