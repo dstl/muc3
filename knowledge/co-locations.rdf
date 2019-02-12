@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:schema="http://schema.org/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns4="http://dbpedia.org/ontology/Weapon/"
+	xmlns:j.1="http://dbpedia.org/class/yago/"
+	xmlns:j.0="http://www.wikidata.org/entity/"
+	xmlns:j.3="http://umbel.org/umbel/rc/"
+	xmlns:j.2="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:parse="http://example.org/nlp/parse"
+	xmlns:cc="http://creativecommons.org/ns#">
+
+<rdf:Description rdf:about="http://sws.geonames.org/3374084/">
+	<gn:alternateName xml:lang="en">Barbados</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BB</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbados</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3378535/">
+	<gn:alternateName xml:lang="en">Guyana</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guyana</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3381670/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GF</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French Guiana</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3382998/">
+	<gn:alternateName xml:lang="en">Republic of Suriname</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suriname</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Suriname</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3424932/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Pierre and Miquelon</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3425505/">
+	<gn:alternateName xml:lang="en">Greenland</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GL</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greenland</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3437598/">
+	<gn:alternateName xml:lang="en">Republic of Paraguay</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paraguay</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Paraguay</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3439705/">
+	<gn:alternateName xml:lang="en">Oriental Republic of Uruguay</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uruguay</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Uruguay</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3469034/">
+	<gn:alternateName xml:lang="en">Federative Republic of Brazil</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brazil</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3474414/">
+	<gn:alternateName xml:lang="en">Colony of the Falkland Islands</gn:alternateName>
+	<gn:alternateName xml:lang="en">Falkland Islands (Malvinas)</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FK</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Falkland Islands</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Falkland Islands</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3489940/">
+	<gn:alternateName xml:lang="en">Jamaica</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jamaica</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3508796/">
+	<gn:alternateName xml:lang="en">Spanish Haiti</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dominican Republic</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3562981/">
+	<gn:alternateName xml:lang="en">Republic of Cuba</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CU</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuba</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Cuba</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3570311/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MQ</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martinique</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3572887/">
+	<gn:alternateName xml:lang="en">The Bahamas</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BS</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bahamas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Bahamas</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573345/">
+	<gn:alternateName xml:lang="en">Bermuda</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bermuda</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573511/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AI</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anguilla</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3573591/">
+	<gn:alternateName xml:lang="en">Trinidad and Tobago</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TT</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trinidad and Tobago</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575174/">
+	<gn:alternateName xml:lang="en">Saint Kitts and Nevis</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KN</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Kitts and Nevis</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3575830/">
+	<gn:alternateName xml:lang="en">Commonwealth of Dominica</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DM</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dominica</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576396/">
+	<gn:alternateName xml:lang="en">Antigua and Barbuda</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AG</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antigua and Barbuda</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576468/">
+	<gn:alternateName xml:lang="en">Saint Lucia</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Lucia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3576916/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turks and Caicos Islands</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577279/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AW</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aruba</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577718/">
+	<gn:alternateName xml:lang="en">Virgin Islands (British)</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VG</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">British Virgin Islands</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3577815/">
+	<gn:alternateName xml:lang="en">Saint Vincent and the Grenadines</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Vincent and the Grenadines</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578097/">
+	<gn:alternateName xml:lang="en">Montserrat</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MS</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montserrat</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578421/">
+	<gn:alternateName xml:lang="en">Saint Martin (French Part)</gn:alternateName>
+	<gn:alternateName xml:lang="en">Saint-Martin Collectivity</gn:alternateName>
+	<gn:alternateName xml:lang="en">St Martin</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MF</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Martin</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3578476/">
+	<gn:alternateName xml:lang="en">Saint-Barthélemy</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BL</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint Barthélemy</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3579143/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GP</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guadeloupe</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580239/">
+	<gn:alternateName xml:lang="en">Grenada</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GD</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grenada</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3580718/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KY</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cayman Islands</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3582678/">
+	<gn:alternateName xml:lang="en">Belize</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BZ</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belize</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3585968/">
+	<gn:alternateName xml:lang="en">Republic of El Salvador</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SV</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Salvador</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">El Salvador</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3595528/">
+	<gn:alternateName xml:lang="en">Republic of Guatemala</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GT</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guatemala</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Guatemala</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3608932/">
+	<gn:alternateName xml:lang="en">Republic of Honduras</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HN</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Honduras</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Honduras</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3617476/">
+	<gn:alternateName xml:lang="en">Republic of Nicaragua</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NI</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nicaragua</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Nicaragua</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3624060/">
+	<gn:alternateName xml:lang="en">Republic of Costa Rica</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costa Rica</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Costa Rica</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3625428/">
+	<gn:alternateName xml:lang="en">Bolivarian Republic of Venezuela</gn:alternateName>
+	<gn:alternateName xml:lang="en">Republic of Venezuela</gn:alternateName>
+	<gn:alternateName xml:lang="en">United States of Venezuela</gn:alternateName>
+	<gn:alternateName xml:lang="en">Venezuela, Bolivarian Republic Of</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VE</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venezuela</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3658394/">
+	<gn:alternateName xml:lang="en">Republic of Ecuador</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EC</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ecuador</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Ecuador</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686110/">
+	<gn:alternateName xml:lang="en">Republic of Colombia</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colombia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Colombia</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3703430/">
+	<gn:alternateName xml:lang="en">Republic of Panama</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panama</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Panama</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3723988/">
+	<gn:alternateName xml:lang="en">Republic of Haiti</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HT</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haiti</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Haiti</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3865483/">
+	<gn:alternateName xml:lang="en">Argentine Republic</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Argentina</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Argentina</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3895114/">
+	<gn:alternateName xml:lang="en">Republic of Chile</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chile</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Chile</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3923057/">
+	<gn:alternateName xml:lang="en">Bolivia, Plurinational State Of</gn:alternateName>
+	<gn:alternateName xml:lang="en">Plurinational State of Bolivia</gn:alternateName>
+	<gn:alternateName xml:lang="en">Republic of Bolivia</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bolivia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Bolivia</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3932488/">
+	<gn:alternateName xml:lang="en">Republic of Peru</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PE</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peru</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255150/"/>
+	<gn:shortName xml:lang="en">Peru</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3996063/">
+	<gn:alternateName xml:lang="en">Mexican Republic</gn:alternateName>
+	<gn:alternateName xml:lang="en">United Mexican States</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MX</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mexico</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4566966/">
+	<gn:alternateName xml:lang="en">Commonwealth of Puerto Rico</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puerto Rico</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/4796775/">
+	<gn:alternateName xml:lang="en">Virgin Islands (US)</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VI</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLD"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U.S. Virgin Islands</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6251999/">
+	<gn:alternateName xml:lang="en">Canada</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CA</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canada</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+	<gn:alternateName xml:lang="en">America</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">US</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">United States</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7609695/">
+	<gn:alternateName xml:lang="en">Country of Sint Maarten</gn:alternateName>
+	<gn:alternateName xml:lang="en">Sint Maarten (Dutch Part)</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SX</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sint Maarten</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626836/">
+	<gn:alternateName xml:lang="en">Country of Curaçao</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CW</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curaçao</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/7626844/">
+	<gn:alternateName xml:lang="en">BES Islands</gn:alternateName>
+	<gn:alternateName xml:lang="en">Bonaire, Saint Eustatius and Saba</gn:alternateName>
+	<gn:alternateName xml:lang="en">Bonaire, Sint Eustatius and Saba</gn:alternateName>
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BQ</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLIX"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonaire, Sint Eustatius, and Saba</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/6255149/"/>
+	<gn:shortName xml:lang="en">Bonaire, Sint Eustatius, and Saba</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3666082/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Vichada</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3666254/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Vaupés</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3666313/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Valle del Cauca</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valle del Cauca</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3666951/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Tolima</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3667725/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Sucre</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3668578/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Santander</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santander</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3670205/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Andres y Providencia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:shortName xml:lang="en">San Andres y Providencia</gn:shortName>
+	<gn:shortName xml:lang="es">San Andrés y Providencia</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3670698/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Risaralda</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3671087/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quindío Department</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3671178/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Putumayo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3673798/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Norte de Santander</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3674021/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Nariño</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3674810/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Meta</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3675686/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Magdalena</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3678847/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de La Guajira</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3680692/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Huila</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3681344/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Guaviare</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3681652/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Guainía</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guainía</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3685413/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cundinamarca</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3685889/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Córdoba</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686431/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Chocó</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3686880/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Cesar</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3687029/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Cauca</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3687173/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Casanare</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3687479/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento del Caquetá</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3687951/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Caldas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3688536/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Boyacá</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3688650/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Bolívar</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3688685/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bogota D.C.</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<gn:shortName xml:lang="es">Bogotá D.E.</gn:shortName>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3689436/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atlántico</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3689717/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Departamento de Arauca</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3689815/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antioquia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3689982/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amazonas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3686110/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3668793/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Helena</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3669958/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Cristóbal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3670061/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Antonio del Prado</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3673146/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palmitas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3674954/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medellín</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3689815/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3674977/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3689002/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belén</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/3689970/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La América</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8017690/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Rosal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8017692/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Brecha</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8017696/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Sucia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019108/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Cabuyera</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019140/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tambo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019151/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Vallados</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019152/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Molinos</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019165/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alto Loma Hermtosa</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019167/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morro Contento</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019168/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puente Colgante</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019187/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barrio Castilla</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019197/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ciudad Uníversitaria</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019198/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Molina</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019199/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Virgen</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019200/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cerro Piedra Galana</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019203/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aguas Frias</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019558/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Gusanera</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8019559/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cordillero del Prisal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261719/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Hoyo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261726/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Botella</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261727/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Rosal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261733/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Curia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261734/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Miranda</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261735/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rincón Santo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261736/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Mayoría</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261741/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda La Palma</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261743/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda El Patio</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261744/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yarumalito</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261747/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arbolito</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261748/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda La Culebra</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261749/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sector La Arenera</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261750/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sector El Uvito</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261752/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda Sector Playas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261754/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sector Travesia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261756/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Chumbumbun</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261761/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ponión</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261762/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Posada</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261763/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda La Ilusión</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261764/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Yarumo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261765/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Castalia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261766/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monte Carlo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261770/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lazagauca</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261771/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tiro</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261772/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Río de Janeiro</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261773/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Colina</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261775/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Piedras</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261776/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olga LucÍa</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261777/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bella Amparo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261778/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pedregal Alto</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261785/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pedregal Bajo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261786/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Miguel</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261787/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Ines</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261793/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sector Bella Vista</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261943/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Caroda</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261953/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Ceiba</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261954/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Salado</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261955/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Primavera</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261966/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tambor</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261967/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miraflores</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8261971/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aldevara</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8263568/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda El Picacho</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8263725/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sector La Cuchilla</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8263764/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda Yolombo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8264274/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda El Picacho</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8264275/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Balcón de La Sierra</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8264276/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Rosario</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265558/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Chuscal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265560/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Manita</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265561/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ventiadero</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265565/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Culebra</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265566/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Culebra</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265567/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Flores</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265568/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laguna</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265569/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tierrero</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265570/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Teresita</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265571/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Guamal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265693/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Popayán</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265917/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samaria</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265926/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Piñal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265927/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miserengo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265928/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda Miserengo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265929/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luis Mezavilla</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8265931/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Máquina</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8308751/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabanas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8310612/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Casita</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8312763/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Volcana</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8312764/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guayabal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8312775/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Frisola</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8312787/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Primavera</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336202/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda El Corazón</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336204/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Aguada</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336209/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Florecita</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336216/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monte Flor</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336297/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda Las Palmas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336419/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sector El Guacharaco</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336421/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda Aguas Frias</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336431/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Cerezo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336434/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Jorge</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336436/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Yarumas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336437/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mi Casita</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336438/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Rosario</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336439/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Carmela</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336441/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Cascada</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336448/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paisandu</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336449/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Diamente</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336450/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Nomos</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336455/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bucarica</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336636/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horizontes</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336637/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Selva</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336638/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guanteros</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336647/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Pabón</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336648/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Nieves</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336649/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vado</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336654/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Isidro</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336656/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa Teja</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336657/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Playa</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336658/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Raicito</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336661/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Cañón</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336663/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Diamente</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8336666/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Pio</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337235/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vereda Los Mangos</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337269/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Villa Luz</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337270/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Francisco</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337277/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patío Bonito</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337278/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Arrayanes</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337279/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Licano Landia</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337575/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Rufina</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337576/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rancho Turro</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337579/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Establo</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337580/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llano Grande</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8337584/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Minas</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8338086/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piedra Verde</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8338093/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Rosal</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8358791/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Hato</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8365070/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plan Santa Elena</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8365479/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Clara</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/8367403/">
+	<gn:countryCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</gn:countryCode>
+	<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+	<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+	<gn:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Salado</gn:name>
+	<gn:parentFeature rdf:resource="http://sws.geonames.org/3674954/"/>
+	<rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+</rdf:Description>
+
+</rdf:RDF>
