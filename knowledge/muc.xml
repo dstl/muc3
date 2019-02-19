@@ -1006,21 +1006,6 @@ Pablo Emilio Escobar Gaviria (December 1, 1949 – December 2, 1993) was a Colom
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Luis_Carlos_Galán"/>
     <skos:prefLabel xml:lang="en">Luis Carlos Galán</skos:prefLabel>
   </skos:Concept>
-  <skos:Concept rdf:about="http://dbpedia.org/resource/Right-wing_paramilitarism_in_Colombia">
-    <skos:altLabel xml:lang="en">Law 48</skos:altLabel>
-    <skos:altLabel xml:lang="en">Paramilitarism in Colombia</skos:altLabel>
-    <skos:altLabel xml:lang="en">Anti-Guerrilla Paramilitarism in Colombia</skos:altLabel>
-    <skos:altLabel xml:lang="en">Colombian paramilitary group</skos:altLabel>
-    <skos:definition xml:lang="en">Right-wing paramilitary groups in Colombia are paramilitary groups acting in opposition to revolutionary Marxist-Leninist guerrilla forces and their allies among the civilian population. These paramilitary groups control the large majority of the illegal drug trade of cocaine and other substances and are the parties responsible for most of the human rights violations in the latter half of the ongoing Colombian Armed Conflict. According to several international human rights and governmental organizations, right-wing paramilitary groups have been responsible for at least 70 to 80% of political murders in Colombia per year, with the remainder committed by leftist guerrillas and government forces. The first paramilitary groups were organized by the Colombian military following recommendations made by U.S. military counterinsurgency advisers who were sent to Colombia during the Cold War to combat leftist political activists and armed guerrilla groups. The development of later paramilitary groups has also involved elite landowners, drug traffickers, members of the security forces, politicians and multinational corporations. Paramilitary violence today is principally targeted towards peasants, unionists, indigenous people, human rights workers, teachers and left-wing political activists or their supporters.</skos:definition>
-    <skos:altLabel xml:lang="en">Law 48 of 1968</skos:altLabel>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Right-wing_paramilitarism_in_Colombia"/>
-    <skos:prefLabel xml:lang="en">Right-wing paramilitarism in Colombia</skos:prefLabel>
-    <skos:altLabel xml:lang="en">Colombian paramilitary groups</skos:altLabel>
-    <skos:altLabel xml:lang="en">Paramilitary Forces of Colombia</skos:altLabel>
-    <skos:altLabel xml:lang="en">Anti-guerrilla paramilitarism in Colombia</skos:altLabel>
-    <skos:altLabel xml:lang="en">Paramilitarism in colombia</skos:altLabel>
-    <skos:altLabel xml:lang="en">Colombian paramilitaries</skos:altLabel>
-  </skos:Concept>
   <skos:Concept rdf:about="http://dbpedia.org/resource/Mario_Germán_Iguarán_Arana">
     <skos:definition xml:lang="en">Mario Germán Iguarán Arana (born 8 June 1960) is a Colombian lawyer and diplomat. He served as Ambassador of Colombia to Egypt between 2010 and 2012. A lawyer, Iguarán has also served as the 3rd Deputy Minister of Justice of Colombia, the 5th Attorney General of Colombia, and as Assistant Magistrate of the Constitutional Court of Colombia.</skos:definition>
     <skos:altLabel xml:lang="en">Mario Iguaran</skos:altLabel>
