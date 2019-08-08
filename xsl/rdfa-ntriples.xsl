@@ -9,15 +9,15 @@
 
 
 <xsl:template match="/">
-	<xsl:apply-templates select="//xhtml:*[@typeof]" mode="type"/>
-	<xsl:apply-templates select="//xhtml:*[@property]" mode="property"/>
-	<xsl:apply-templates select="//xhtml:*[@rev]" mode="rev"/>
+	<xsl:apply-templates select="//*[@typeof]" mode="type"/>
+	<xsl:apply-templates select="//*[@property]" mode="property"/>
+	<xsl:apply-templates select="//*[@rev]" mode="rev"/>
 </xsl:template>
 
 
-<xsl:template match="xhtml:*[@property]" mode="property">
+<xsl:template match="*[@property]" mode="property">
 	<xsl:call-template name="expandIRI">
-		<xsl:with-param name="name" select="ancestor-or-self::xhtml:*[@about][1]/@about"/>
+		<xsl:with-param name="name" select="ancestor-or-self::*[@about][1]/@about"/>
 	</xsl:call-template>
 	<xsl:text> </xsl:text>
 	<xsl:call-template name="getProperty"/>
@@ -27,9 +27,9 @@
 </xsl:template>
 
 
-<xsl:template match="xhtml:*[@typeof]" mode="type">
+<xsl:template match="*[@typeof]" mode="type">
 	<xsl:call-template name="expandIRI">
-		<xsl:with-param name="name" select="ancestor-or-self::xhtml:*[@about][1]/@about"/>
+		<xsl:with-param name="name" select="ancestor-or-self::*[@about][1]/@about"/>
 	</xsl:call-template>
 	<xsl:text> </xsl:text>
 	<xsl:text>&lt;</xsl:text><xsl:value-of select="concat($NS-RDF, 'type')"/><xsl:text>&gt;</xsl:text>
@@ -39,7 +39,7 @@
 </xsl:template>
 
 
-<xsl:template match="xhtml:*[@rev]" mode="rev">
+<xsl:template match="*[@rev]" mode="rev">
 	<xsl:call-template name="expandIRI">
 		<xsl:with-param name="name" select="@resource"/>
 	</xsl:call-template>
@@ -47,14 +47,14 @@
 	<xsl:call-template name="getPropertyRev"/>
 	<xsl:text> </xsl:text>
 	<xsl:call-template name="expandIRI">
-		<xsl:with-param name="name" select="ancestor-or-self::xhtml:*[@about][1]/@about"/>
+		<xsl:with-param name="name" select="ancestor-or-self::*[@about][1]/@about"/>
 	</xsl:call-template>
 	<xsl:text> .&#13;</xsl:text>
 </xsl:template>
 
 
 <xsl:template name="getSubject">
-	<xsl:variable name="about" select="ancestor-or-self::xhtml:*[@about][1]/@about"/>
+	<xsl:variable name="about" select="ancestor-or-self::*[@about][1]/@about"/>
 	<xsl:choose>
 		<xsl:when test="not($about)">
 			<!-- blank node: generate an ID -->
@@ -136,14 +136,14 @@
 </xsl:template>
 
 <xsl:template name="getProperty">
-	<xsl:variable name="vocab" select="ancestor-or-self::xhtml:*[@vocab]/@vocab"/>
+	<xsl:variable name="vocab" select="ancestor-or-self::*[@vocab]/@vocab"/>
 	<xsl:text>&lt;</xsl:text>
 	<xsl:value-of select="concat($vocab, @property)"/>
 	<xsl:text>&gt;</xsl:text>
 </xsl:template>
 
 <xsl:template name="getPropertyRev">
-	<xsl:variable name="vocab" select="ancestor-or-self::xhtml:*[@vocab]/@vocab"/>
+	<xsl:variable name="vocab" select="ancestor-or-self::*[@vocab]/@vocab"/>
 	<xsl:text>&lt;</xsl:text>
 	<xsl:value-of select="concat($vocab, @rev)"/>
 	<xsl:text>&gt;</xsl:text>
@@ -157,6 +157,11 @@
 			<xsl:text>&quot;</xsl:text>
 			<xsl:value-of select="$LANGUAGE"/>
 		</xsl:when>
+		<xsl:when test="@resource">
+			<xsl:call-template name="expandIRI">
+				<xsl:with-param name="name" select="@resource"/>
+			</xsl:call-template>
+		</xsl:when>
 		<xsl:otherwise>
 			<xsl:text>&quot;</xsl:text>
 			<xsl:call-template name="escapeQuotes">
@@ -169,7 +174,7 @@
 </xsl:template>
 
 <xsl:template name="getType">
-	<xsl:variable name="vocab" select="ancestor-or-self::xhtml:*[@vocab]/@vocab"/>
+	<xsl:variable name="vocab" select="ancestor-or-self::*[@vocab]/@vocab"/>
 	<xsl:text>&lt;</xsl:text>
 	<xsl:value-of select="concat($vocab, @typeof)"/>
 	<xsl:text>&gt;</xsl:text>
