@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:aif="http://www.arg.dundee.ac.uk/aif#"
+	xmlns:lode="http://linkedevents.org/ontology/" xmlns:schema="https://schema.org/"
+	xmlns:this="http://dstl.github.io/muc3/demo/jesuits-rephrase.xhtml#">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+		<meta name="DC.identifier" content="TO DO" />
+		<meta name="DC.date" content="2020-10-28" />
+		<meta name="DC.coverage" content="Jesuits Massacre" />
+		<link href="css/story.css" rel="stylesheet" />
+		<title>The Jesuits Massacre</title>
+	</head>
+	<body>
+		<article
+			about="http://dbpedia.org/resource/1989_murders_of_Jesuits_in_El_Salvador"
+			typeof="lode:Event" rev="aif:describes">
+			<p>Rephrasing the claims made in reports:</p>
+			<p class="claim" about="this:1" typeof="aif:L-node">
+				<span property="aif:claimText">
+					<span class="locutor" about="#salavadoran" typeof="schema:Organization">Salvadoran Armed Forces</span>:
+					<span about="this:fmlndidit" class="fact" typeof="aif:I-node"
+						property="aif:claimText">
+						The
+						<span
+							about="http://dbpedia.org/resource/Farabundo_Mart%C3%AD_National_Liberation_Front"
+							typeof="schema:Organization">FMLN</span>
+						are responsible.
+					</span>
+				</span>
+				<sup class="reference">
+					<a href="#ref1">[1]</a>
+				</sup>
+			</p>
+			<p class="claim" about="this:2" typeof="aif:L-node">
+				<span property="aif:claimText">
+					<span class="locutor"
+						about="http://dbpedia.org/resource/Farabundo_Mart%C3%AD_National_Liberation_Front"
+						typeof="schema:Organization">FMLN</span>:
+					<span class="fact" about="this:armedforcesdidit" typeof="aif:I-node"
+						property="aif:claimText">
+						The
+						<span>Salvadoran Armed Forces</span>
+						are responsible.
+					</span>
+				</span>
+				<sup class="reference">
+					<a href="#ref2">[2]</a>
+				</sup>
+			</p>
+			<h3>References</h3>
+			<ol>
+				<li id="ref1">
+					<cite about="this:le1" typeof="aif:LocutionEvent" rel="aif:describes"
+						resource="http://dstl.github.io/muc3/demo/jesuits-excepts.xhtml#1">
+						<a href="http://dstl.github.io/muc3/dev/DEV-MUC3-0757.xhtml">DEV-MUC3-0757</a>
+						(<time datetime="1989-11-16">16 Nov 1989</time>, <span>Domestic Service</span>)
+					</cite>
+				</li>
+				<li id="ref2">
+					<cite about="this:le3" typeof="aif:LocutionEvent" rel="aif:describes"
+						resource="http://dstl.github.io/muc3/demo/jesuits-excepts.xhtml#3">
+						<a propert="source" href="http://dstl.github.io/muc3/dev/DEV-MUC3-0760.xhtml">DEV-MUC3-0760</a>
+						(<time property="date" datetime="1989-11-16">16 Nov 1989</time>, <span>EFE</span>)
+					</cite>
+				</li>
+			</ol>
+		</article>
+	</body>
+</html>

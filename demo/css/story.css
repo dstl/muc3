@@ -36,26 +36,26 @@ dt:after {
                content: ":";
 }
 
-dt.locutor {
+span.locutor {
                font-style: italic;
 }
 
-dd.claim {
+p.claim {
                #font-weight: bold;
 }
 
-dd.claim:before {
+p.claim:before {
 	color: black;
 	padding-right:5px;
 	content: "\275A";
 }
 
 
-dd.rephrase {
+p.rephrase {
                #font-weight: normal;
 }
 
-dd.rephrase:before {
+p.rephrase:before {
 	color: grey;
 	padding-right:5px;
     content: "\275A";
