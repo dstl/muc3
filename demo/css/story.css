@@ -1,0 +1,62 @@
+blockquote {
+               font-family: Gerogia, serif;
+               font-size: 14px;
+               font-style: italic;
+               width: 800px;
+               margin: 0.25em 0;
+               padding: 0.25em 40px;
+               line-height: 1.45;
+               position: relative;
+               color: #383838;
+}
+
+blockquote:before {
+               display: block;
+               content: "\201C";
+               font-size: 60px;
+               position: absolute;
+               left: -5px;
+               top: -10px;
+               color: #7a7a7a;
+}
+
+blockquote cite {
+               color: #999999;
+               font-size: 10px;
+               display: block;
+               margin-top: 5px;
+               #margin-bottom: 10px;
+}
+
+blockquote cite:before {
+               content: "\2014 \2009";
+}
+
+dt:after {
+               content: ":";
+}
+
+dt.locutor {
+               font-style: italic;
+}
+
+dd.claim {
+               #font-weight: bold;
+}
+
+dd.claim:before {
+	color: black;
+	padding-right:5px;
+	content: "\275A";
+}
+
+
+dd.rephrase {
+               #font-weight: normal;
+}
+
+dd.rephrase:before {
+	color: grey;
+	padding-right:5px;
+    content: "\275A";
+}
