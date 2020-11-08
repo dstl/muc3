@@ -46,7 +46,7 @@ p.claim {
 
 p.claim:before {
 	color: black;
-	padding-right:5px;
+	margin-left:1em;
 	content: "\275A";
 }
 
