@@ -1,20 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:aif="http://www.arg.dundee.ac.uk/aif#" xmlns:lode="http://linkedevents.org/ontology/" xmlns:this="http://dstl.github.io/muc3/demo/jesuits-information.xhtml#">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
-<meta name="DC.identifier" content="TO DO"/>
-<meta name="DC.date" content="2020-10-28"/>
-<meta name="DC.coverage" content="Jesuits Massacre"/>
-<link href="css/story.css" rel="stylesheet"/>
-<title>The Jesuits Massacre - Information</title>
-</head>
-<body>
-<article about="http://dbpedia.org/resource/1989_murders_of_Jesuits_in_El_Salvador" typeof="lode:Event" rev="aif:describes">
-<p>Information List:</p>
-<dl>
-<dt></dt>
-<dd></dd>
-</dl>
-</article>
-</body>
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:aif="http://www.arg.dundee.ac.uk/aif#"
+	xmlns:lode="http://linkedevents.org/ontology/" xmlns:this="http://dstl.github.io/muc3/demo/jesuits-rephrase.xhtml#">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+		<meta name="DC.identifier" content="TO DO" />
+		<meta name="DC.date" content="2020-10-28" />
+		<meta name="DC.coverage" content="Jesuits Massacre" />
+		<link href="css/story.css" rel="stylesheet" />
+		<title>The Jesuits Massacre - Information</title>
+	</head>
+	<body>
+		<article
+			about="http://dbpedia.org/resource/1989_murders_of_Jesuits_in_El_Salvador"
+			typeof="lode:Event" rev="aif:describes">
+			<p>Information List:</p>
+			<dl>
+				<dt about="thisflmndidit" property="rdfs:label">FMLN</dt>
+				<dd>
+					<span about="this:fmlndidit" class="fact" typeof="aif:I-node"
+						property="aif:claimText">
+						The
+						<span
+							about="http://dbpedia.org/resource/Farabundo_Mart%C3%AD_National_Liberation_Front"
+							typeof="schema:Organization">FMLN</span>
+						are responsible.
+					</span>
+				</dd>
+				<dt about="this:armydidit" property="rdfs:label">ARMY</dt>
+				<dd>
+					<span class="fact" about="this:armydidit" typeof="aif:I-node"
+						property="aif:claimText">
+						The
+						<span about="http://dbpedia.org/resource/Salvadoran_Army"
+							typeof="schema:Organization">Salvadoran Army</span>
+						are responsible.
+					</span>
+				</dd>
+
+				<dt>LEFTISTS</dt>
+				<dd>
+					<span class="fact" about="this:leftdidit" typeof="aif:I-node"
+						property="aif:claimText">
+						"<span>Ultra-leftist groups</span>" were responsible.
+					</span>
+				</dd>
+
+				<dt>CURFEW</dt>
+				<dd>
+					<span class="fact" about="this:curfew" typeof="aif:I-node"
+						property="aif:claimText">The murders took place during curfew.</span>
+				</dd>
+
+				<dt about="this:uniformsdidit" property="rdfs:label">UNIFORMS</dt>
+				<dd>
+					<span class="fact" about="this:uniformsdidit" typeof="aif:I-node"
+						property="aif:claimText">
+						The murderers were
+						"<span>between 30 and 40 unidentified men wearing military uniforms</span>".
+					</span>
+				</dd>
+
+
+				<dt>XCURFEW</dt>
+				<dd>
+					<span about="this:movement" class="fact" typeof="aif:I-node"
+						property="aif:claimText">Both Armed forces and Guerilla groups move during curfew.
+					</span>
+				</dd>
+
+				<dt>XUNIFORMS</dt>
+				<dd>
+					<span about="this:uniform" class="fact" typeof="aif:I-node"
+						property="aif:claimText">Both Armed forces and Guerilla groups wear uniforms.
+					</span>
+				</dd>
+
+				<dt>DISAVOWAL</dt>
+				<dd>
+					<span about="this:disavowal" class="fact" typeof="aif:I-node"
+						property="aif:claimText">
+						<span about="this:x1" typeof="aif:CA-node" property="aif:Premise"
+							resource="this:disavowal">Disavowal</span>
+						of
+						<span about="this:fmlndidit" rev="aif:Conclusion" resource="this:x1">claim
+						</span>
+						made by Salvadoran Army.
+					</span>
+				</dd>
+
+			</dl>
+		</article>
+	</body>
 </html>
