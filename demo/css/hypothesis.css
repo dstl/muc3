@@ -1,0 +1,88 @@
+
+dt {
+	font-style: italic;
+}
+
+dt.label {
+	display: none;
+}
+
+span.axiom, span.hypothesis {
+	font-weight: bold;
+	font-style: italic;
+}
+
+dd > p {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+dl.hypothesis > dt, span.hypothesis {
+	color: black;
+}
+
+dl.evidence > dt {
+	color: black;
+}
+
+
+# ACH Matrix
+
+th[scope=row], th[scope=col] {
+   font-size: large;
+   padding:10px;  
+}
+
+th[scope=row] {
+   font-weight: normal;
+   font-style: italic;
+   text-align: right;
+   padding: 5px;
+}
+
+th[scope=col] {
+   font-weight: normal;
+   font-style: italic;
+   text-align: center;
+   padding: 10px;
+}
+
+
+td {
+   text-align: center;
+   font-weight: normal;
+   text-align: center;
+   vertical-align: center;
+   background: lightgrey;
+   padding: 5px;
+}
+
+.plus {
+   font-size: 2.5em;
+   color: green;
+   background: palegreen;
+}
+
+td.minus {
+   font-size: 2.5em;
+   color: red;
+   background: pink;
+}
+
+th.p2k:after {
+	font-style: normal;
+	color:blue;
+	content: "\00A0 \03A8";
+}
+
+th.e2h:after {
+	font-style: normal;
+	color:blue;
+	content: "\00A0 \03A6";
+}
+
+th.expert:after {
+	font-style: normal;
+	color:blue;
+	content: "\00A0 \039E";
+}
