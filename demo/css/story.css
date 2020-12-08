@@ -33,8 +33,18 @@ blockquote cite:before {
 }
 
 dt:after {
-               content: ":";
+	content: ":";
 }
+
+dt {
+	font-style: italic;
+}
+
+dd {
+#	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
 
 span.locutor {
                font-style: italic;

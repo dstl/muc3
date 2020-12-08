@@ -71,18 +71,18 @@ td.minus {
 
 th.p2k:after {
 	font-style: normal;
-	color:blue;
+	color:grey;
 	content: "\00A0 \03A8";
 }
 
 th.e2h:after {
 	font-style: normal;
-	color:blue;
+	color:grey;
 	content: "\00A0 \03A6";
 }
 
 th.expert:after {
 	font-style: normal;
-	color:blue;
+	color:grey;
 	content: "\00A0 \039E";
 }
